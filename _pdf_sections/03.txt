@@ -1,0 +1,286 @@
+Title Basic Algebra – Simple Inequalities
+Author AprilDolphin – Lim Wang Sheng
+Date 5/2/2026
+Symbols Meaning of Symbols in English
+> Strictly Greater Than
+< Strictly Less Than
+≥ Greater Than or Equals To
+≤ Less Than or Equals To
+Example of Usage as Follows
+Example Meaning in English
+𝑥 < 8 𝑥 is less than 8
+𝑛 > 3 𝑛 is greater than 3
+𝑔 ≥ 12 𝑔 is greater than or equals to 12
+𝑡 ≤ 7 𝑡 is less than or equals to 7
+If you want to remember how the inequalities signs are being used and interpreted
+correctly, there are several methods on how to do so, I will show you how I remember
+them during lessons.
+Structure of Strict Inequality Symbols Significance and Reasoning
+> As you can see, the left side of the
+inequality has two sides converging to a
+single point, since two sides is greater
+than one point, this is definitely a greater
+than symbol.
+< As you can see, the left side of the
+inequality has a single point that diverge
+to two sides, since a single point is less
+than two sides, this is definitely a less
+than symbol.
+As for symbols that denotes non-strict-inequalities, you just have to remember to add
+another line below the strict inequalities symbol to make It a “greater than or equals to”
+or “less than or equals to” symbol.
+Structure of Non-Strict Inequality
+Symbols
+Significance and Reasoning
+≥ Greater than symbol with a line below
+which signifies “greater than or equals to”
+
+-- 18 of 145 --
+
+≤ Less than symbols with a line below which
+signifies “less than or equals to”
+Alternatively, inequalities signs can also be interpreted by their complements as shown
+below:
+Example Left to Right
+Interpretation
+Right to Left
+Interpretation
+𝑥 > 4 𝑥 is greater than 4 4 is less than 𝑥
+𝑔 < 7 𝑔 is less than 7 7 is greater than 𝑔
+𝑦 ≥ 14 𝑦 is greater than or
+equals to 14
+14 is less than or equals
+to 𝑦
+𝑚 ≤ 6 𝑚 is less than or
+equals to 6
+6 is larger than or equals
+to 𝑚
+As a result, we can also have inequalities that looks like the following as well.
+Example Interpretation
+100 < 𝑥 < 250 𝑥 is strictly greater than 100 and 𝑥 is strictly less than 250
+(𝑥 has to be strictly between 100 and 250)
+7 ≤ 𝑛 < 29 𝑛 is greater than or equals to 7 and 𝑛 is strictly less than 29
+(𝑛 has to be between 7 and 29, with 7 inclusive)
+4 ≤ 𝑔 ≤ 16 𝑔 is greater than or equals to 4 and 𝑔 is less than or equal to 16,
+(𝑔 has to be between 4 and 16, with both 4 and 16 inclusive)
+8 < 𝑞 ≤ 27 𝑞 is greater than 8 and 𝑞 is greater than or equals to 27
+(𝑞 has to be between 8 and 27, with 27 inclusive.)
+10 > 𝑥 > 6 𝑥 is less than 10 and 𝑥 is strictly more than 6
+(𝑥 has to be strictly between 6 and 10)
+
+-- 19 of 145 --
+
+After showing examples of inequalities, I would like to share the rules to be followed
+when solving any inequality as part of any Mathematics questions.
+Rule Number 1:
+If you add, subtract, multiply or divide
+any values on one side of the inequality,
+the same operation will have to be
+applied to the other side of the inequality
+sign as well.
+Rule Number 2: The act of adding and
+subtracting any types of values on both
+sides of the inequality will not change the
+inequality sign
+Rule Number 3: The act of multiplication
+and division of positive values on both
+sides of the inequality will not change the
+inequality sign
+Example 1
+𝑚 + 5 > 10
+𝑚 + 5 − 5 > 10 − 5
+Example 2
+𝑛 − 6 < 12
+𝑛 − 6 + 6 < 12 + 6
+Example 3
+2𝑥 ≥ 15
+2𝑥
+2 ≥ 15
+2
+Example 4
+1
+2 𝑥 > 8
+1
+2 𝑥(2) > 8(2)
+Rule Number 4: The act of multiplication
+and division of negative values on both
+sides of the inequality will change by
+flipping* the inequality sign.
+(*By “flipping”, we meant the inequality
+sign will change according to the
+following rules.)
+Rules of flipping when multiplication and
+division of negative values are concerned:
+" < " gets flipped to " > "
+" > " gets flipped to " < "
+"≥" gets flipped to “≤”
+"≤" gets flipped to "≥"
+Example 5
+−2𝑞 < 10
+After dividing both sides by −2 we get
+𝑞 > 5
+Example 6.
+− 1
+4 𝑥 ≥ 12
+After multiplying both sides by −4 we get
+𝑥 ≤ −48
+
+-- 20 of 145 --
+
+Proof of concept of inequalities applied
+to numbers.
+Notes
+Addition of Positive Values
+6 > 4
+6 + 4 > 4 + 4
+10 > 8
+10 is still greater than 8
+Subtraction of Positive Values
+7 < 15
+7 − 6 < 15 − 6
+1 < 9
+1 is still less than 9
+Multiplication by Positive Values
+16 ≥ 2
+16 × 1
+4 ≥ 2 × 1
+4
+4 ≥ 1
+2
+4 is still greater than or equal to 1
+2
+Division by Positive Values
+15 > 3
+15
+3 > 3
+3
+5 > 1
+5 is still greater than 1
+Addition of Negative Values
+25 > 5
+25 + (−5) > 5 + (−5)
+20 > 0
+20 is still greater than 0
+Subtraction by Negative Values
+4 ≤ 7
+4 − (− 1
+2) ≤ 7 − (− 1
+2)
+4 1
+2 ≤ 7 1
+2
+4 1
+2 is still smaller than or equal to 71
+2
+Multiplication of Negative Values
+7 < 18
+7 × (−1) > 18 × (−1)
+−7 > −18
+As you can see, after the multiplication of
+(−1) to both sides of the inequality, the
+value −7 is now greater than −18
+Division by Negative Values
+9 ≥ −12
+9
+−3 ≤ −12
+−3
+−3 ≤ 4
+As you can see, after division of (−3) to
+both sides of the inequality, the value −3
+is now less than or equal to 4.
+
+-- 21 of 145 --
+
+Interpretation of Simple Number Line Diagrams of Inequalities in Mathematics
+Diagram 1
+Interpretation
+The above diagram represents 𝑥 > 5.
+Explanation
+As you can see, diagram 1 has a hallow circle right above the number 5 on the line
+which imply exclusion of the value of 5 from the diagram and the arrow is pointing
+from left to right which meant there is no upper limit.
+Diagram 2
+Interpretation
+The above diagram represents 𝑥 ≥ 6.
+Explanation
+As you can see, diagram 2 has a filled circle right above the number 6 on the line
+which imply inclusion of the value 6 into the diagram and the arrow is pointing from
+left to right which meant there is no upper limit.
+Diagram 3
+Interpretation
+The above diagram represents 𝑥 < 4.
+Explanation
+As you can see, diagram 3 has a hallow circle right above the number 4 on the line
+which imply exclusion of the value 4 from the diagram and the arrow is pointing from
+right to left which mean there is no lower limit.
+Diagram 4
+Interpretation
+The above diagram represents 𝑥 ≤ 12.
+As you can see, diagram 4 has a filled circle right above the number 12 on the line
+which imply inclusion of the value 12 into the diagram and the arrow is pointing from
+right to left which meant there is no lower limit.
+
+-- 22 of 145 --
+
+From the previous page, we can learn the following convention that a hallow circle
+above a number in a number line means exclusion of value and a filled circle above a
+number in a number line means inclusion of the value.
+Interpretation of Number Line Diagrams that Represents Interval
+Diagram 5
+Interpretation
+The above diagram represents 10 < 𝑥 ≤ 20
+Explanation
+No arrow exists, which implies the number line is specified for a set of values. The
+hallow circle above the number 10 excludes “10” from the inequality and the filled
+circle above the number 20 includes “20” into the inequality.
+Question 1
+(a) Solve the inequality 2𝑥+1
+2 ≥ 5−4𝑥
+3
+(b) Solve the inequality 2𝑥+5
+2 > 1 − 4𝑥
+1(a)
+In order the solve the inequality, we need to ensure the denominator of the left-hand-
+side and right-hand-side are the same, we can do this by ensuring the denominator is
+the lowest common multiple of both denominators.
+2𝑥 + 1
+2 ≥ 5 − 4𝑥
+3
+3(2𝑥 + 1)
+2(3) ≥ 2(5 − 4𝑥)
+3(2)
+6𝑥 + 3
+6 ≥ 10 − 8𝑥
+6
+Multiplying both sides by 6, we get
+6𝑥 + 3 ≥ 10 − 8𝑥
+6𝑥 + 3 − 10 ≥ −8𝑥
+6𝑥 − 7 ≥ −8𝑥
+14𝑥 − 7 ≥ 0
+14𝑥 ≥ 7
+𝑥 ≥ 1
+2
+
+-- 23 of 145 --
+
+1(b)
+2𝑥 + 5
+2 > 1 − 4𝑥
+Multiply right-hand-side of the inequality by 2 to both the numerator and denominator
+and fractions on both sides of the inequality would share the same denominator.
+2𝑥 + 5
+2 > 2(1 − 4𝑥)
+2
+2𝑥 + 5
+2 > 2 − 8𝑥
+2
+Multiplying both sides by 2 would remove the denominator effectively
+2𝑥 + 5 > 2 − 8𝑥
+2𝑥 > 2 − 5 − 8𝑥
+2𝑥 > −3 − 8𝑥
+2𝑥 + 8𝑥 > −3
+10𝑥 > −3
+𝑥 > − 3
+10
+
+-- 24 of 145 --

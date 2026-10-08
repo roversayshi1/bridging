@@ -1,0 +1,34 @@
+20
+23  Thediagram below shows the cumulative frequency curve for the lengths of 500 fishes
+inapond A.
+Cumulative frequency
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+Length (cm
+0 5 10 15 20 25 30 35 40 45 50 55 60 gtriem)
+(a) Usethegraph to find the
+(i) the percentage of fishes that are more than 45 cm long,
+500-400 41309 = 20% [B1]
+500
+Answer LL... %0 [1]
+(ii) the median length of the fishes,
+36 [B1]
+(iii) the interquartile range of the lengths of the fishes.
+1.Q. range=43-30=13 [B1]
+Answer .........ccooeiiiiiiiiieeeee om [1]
+(b) In another pond B, the interquartile range of the lengths of the fishes thereis 5 cm.
+Explain what this tells us about the fishes in pond B compared to those in pond A.
+Answer..| The lengths of the fishes in Pond B are more consistent than the lengths of the
+fishes in Pond A as the Inter-Quartile range for B < Inter-Quartile range for A
+Te [B1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

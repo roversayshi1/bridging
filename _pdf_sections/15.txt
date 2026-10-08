@@ -1,0 +1,262 @@
+Title Statistics – Mean and Standard Deviation of Grouped Data
+Author Lim Wang Sheng, School of Information Technology, Nanyang
+Polytechnic
+[CCA: NYP Mentoring Club]
+Date 25/12/2018
+In the previous article, I demonstrated how to deal with ungrouped data, this article
+extends the idea towards dealing with finding grouped data.
+Firstly, I need to explain and illustrate the differences between grouped and ungrouped
+data.
+• Ungrouped Data – Refers to data that has not been processed or divided into
+different groups.
+• Grouped Data – Refers to data that has been processed and divided into groups.
+The group typically refers to intervals of values corresponding to a specific
+number of subjects (also called the frequency).
+An illustration will be provided below demonstrating the differences and how one can
+convert an ungrouped data into grouped.
+Example (Ungrouped Data)
+Height of Students in Class 721 of XYZ Tuition Center (in Centimeters)
+91.4, 131.0, 102.0, 132.0, 140.0, 97.2, 142.7, 100.0, 143.0, 129.0, 155.0, 137.0, 98.4,
+If presented in a grouped data form, it looks like this
+Height Class Intervals Frequency
+90 < 𝑥 ≤ 100 4
+100 < 𝑥 ≤ 110 1
+120 < 𝑥 ≤ 130 1
+130 < 𝑥 ≤ 140 3
+140 < 𝑥 ≤ 150 3
+150 < 𝑥 ≤ 160 1
+
+-- 81 of 145 --
+
+When you are being asked to convert ungrouped data to grouped data, be extremely
+careful with the inequality sign as misreading the inequality sign can result in inaccurate
+or incorrect answers as well as misinterpretation of the table.
+(Note the difference between >, < and ≥, ≤ )
+The formula for mean of grouped data as follows
+𝑋̅ = Σ𝑓(𝑥)
+Σ𝑓
+𝑋 ̅ The mean value Σ𝑓(𝑥)
+Σ𝑓
+Σ𝑓(𝑥) Literally implies the following:
+You literally multiply the mid-point of the
+class interval by its corresponding
+frequency value. Repeat the process for
+every row and add the results obtained
+from performing the operation on every
+row to get Σ𝑓(𝑥)
+Σ𝑓 Literally implies the following
+You obtain the frequency value from
+every row and sum them up to get Σ𝑓.
+The formula for standard deviation of grouped data as follows:
+Standard Deviation = √Σ𝑓(𝑥2)
+Σ𝑓 − (Σ𝑓𝑥
+Σ𝑓 )2
+**Write Standard Deviation in Full. Do not use symbols like 𝜎, 𝑠 𝑎𝑛𝑑 𝑒𝑡𝑐.
+
+-- 82 of 145 --
+
+Σ𝑓(𝑥2)
+Σ𝑓
+Literally means, you square the mid-point
+of the class interval and multiply the
+result with the frequency, repeat the
+process for every row and add those up
+together to get Σ𝑓(𝑥2)
+Then you divide Σ𝑓(𝑥2) by the sum of
+frequency from all rows to get
+Σ𝑓(𝑥2)
+Σ𝑓
+(Σ𝑓𝑥
+Σ𝑓 )
+2 I have already introduced you all how to
+find the mean value, this literally means,
+you square the mean value to get
+(Σ𝑓𝑥
+Σ𝑓 )
+2
+Sometimes you may hear.
+“Mean of Squares – Square of Mean”, then square root the result to get the standard
+deviation. This is a good way to remember.
+Example 1.
+Find the mean and standard deviation of the following data, the following data is part of
+a research on how well students in a tuition class score in their test.
+Marks Number of Students
+50 < 𝑥 ≤ 60 15
+60 < 𝑥 ≤ 70 28
+70 < 𝑥 ≤ 80 18
+80 < 𝑥 ≤ 90 13
+90 < 𝑥 ≤ 100 8
+For me, I prefer writing the mid-point value of each class interval beside the table. But if
+you want to completely guarantee you won’t get confused, you can either use a pen
+different color from the question paper or simply draw out the table.
+
+-- 83 of 145 --
+
+Marks (Mid-Point Value in Parentheses) Number of Students
+50 < 𝑥 ≤ 60 (55) 15
+60 < 𝑥 ≤ 70 (65) 28
+70 < 𝑥 ≤ 80 (75) 18
+80 < 𝑥 ≤ 90(85) 13
+90 < 𝑥 ≤ 100(95) 8
+𝑀𝑒𝑎𝑛 = Σ𝑓(𝑥)
+Σ𝑓 = 15(55) + 28(65) + 18(75) + 13(85) + 8(95)
+15 + 28 + 18 + 13 + 8 = 71 19
+41
+𝑆𝑞𝑢𝑎𝑟𝑒 𝑜𝑓 𝑀𝑒𝑎𝑛 = (Σ𝑓𝑥
+Σ𝑓 )
+2
+= (71 19
+41)
+2
+= 5107 33
+1681
+𝑀𝑒𝑎𝑛 𝑜𝑓 𝑆𝑞𝑢𝑎𝑟𝑒 = Σ𝑓(𝑥2)
+Σ𝑓 = 15(55)2 + 28(65)2 + 18(75)2 + 13(85)2 + 8(95)2
+15 + 28 + 18 + 13 + 8
+= 5256 29
+41
+Standard Deviation = √Σ𝑓(𝑥2)
+Σ𝑓 − (Σ𝑓𝑥
+Σ𝑓 )2
+= √5256 29
+41 − 5107 33
+1681 = 12.2 (3𝑠𝑓)
+
+-- 84 of 145 --
+
+Using FX-97 SGX Calculator to find mean and standard deviation of grouped data-set
+(Before using this functionality, reset your calculator fully to prevent confusion. The
+reset command can be accessed by pressing [SHIFT], [9], [3] and [=] on Casio FX-97 SGX.)
+Step 1.
+After resetting the calculator, press [SHIFT], [MENU] and press the down arrow key once
+on your calculator, the following should appear on the screen.
+Step 2.
+Press [2] to access statistics option and you will be prompted if you want to turn on
+frequency for statistics. Press [1] to turn it on.
+Step 3.
+Press [Menu], [3] and [1] to get the calculator into statistical calculation function and
+the following should appear on the screen.
+
+-- 85 of 145 --
+
+Step 4.
+Using the following grouped data as an example, we key in the entries of the grouped
+data as seen just below.
+Height of Teachers in ABC
+Secondary School as
+Grouped (In centi-metres)
+Frequency Mid-Point of Height
+190 > 𝑋 ≥ 180 22 185
+180 > 𝑋 ≥ 170 54 175
+170 > 𝑋 ≥ 160 87 165
+160 > 𝑋 ≥ 150 35 155
+Key in every midpoint of height first by complying to the following instructions.
+At this point you should see the following on the screen
+Populate the column labelled as “x” by keying in midpoint of height 185 and press enter,
+Once the cursor jumps to the 2nd row, key in midpoint of height 175 and press enter and
+repeat the process for the remaining entries and the following should appear.
+
+-- 86 of 145 --
+
+Step 5.
+Press the right arrow key once and up arrow key repeatedly until the cursor is at row 1
+and frequency column, the following should appear.
+Step 6.
+Populate the frequency column by keying in the frequency, in the example case
+mentioned, we have to key in “22” and press [=] key. Once the cursor jumps to the next
+row of the frequency column, we key in “54” and keep repeating the process until the
+following appears on screen.
+Step 7.
+Press [AC] Key, press [OPTN] key and then press [2] and the following should appear.
+The mean in this case is listed as 𝑋̅ =168.1818182.
+The standard deviation in this case is listed as 𝜎𝑋 = 8.903368601.
+
+-- 87 of 145 --
+
+Interpretation of Standard Deviation Values
+If you are being asked to compare two sets of data, for which both data have a different
+mean or standard deviation, here is a list of helpful words for students to use. However,
+the table below is non-exhaustive, and you should always consider the context of the
+question and make use of common sense, before trying to answer the question.
+Higher
+Mean
+Lower
+Mean
+Higher
+Standard
+Deviation
+Lower
+Standard
+Deviation
+Generic Situation The
+dataset
+generally
+contains
+higher
+value.
+The
+dataset
+generally
+contains
+lower
+value.
+The dataset
+values are
+generally
+more
+spread out.
+The dataset
+values are
+generally
+less spread
+out.
+Pricing More
+Expensive
+in General
+Less
+Expensive
+in General
+Value of
+Prices more
+spread out
+Value of
+Prices less
+spread out
+Performance/Scores Perform
+Better in
+General
+Perform
+Worse in
+General
+Scores are
+less
+Consistent
+Scores are
+more
+Consistent
+Timing (To
+Complete a Task)
+Slower Faster Less
+Consistent
+More
+Consistent
+Resource Usage (To
+Complete a Task)
+Less
+Efficient
+More
+Efficient
+Less
+Consistent
+More
+Consistent
+Accuracy Matters More
+Accurate
+Less
+Accurate
+Less
+Consistent
+More
+Consistent
+
+-- 88 of 145 --

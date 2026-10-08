@@ -1,0 +1,21 @@
+10
+12 A maphasascaeof 1:50 000.
+(a) Thedistance from Jurong and Changi is 26 km.
+Calculate the distance, in centimetres, between Jurong and Changi on the map.
+1cm : 50000 cm
+1cm : 0.5km [M1 — converting cm to km correctly]
+Since 0.5 km is represented by 1 cm,
+. 26 kmis represented by x 26
+=52cm [A1]
+ANSWEr oie cm [2]
+(b) The East Coast Park is the largest park in Singapore with an area of 1.85 km?.
+Calculate the area, in square centimetres, of East Coast Park on the map.
+05km : 1cm
+©. 025km? : 1cm? [M1 — converting km? to cm? correctly]
+1
+-. 1.85km? ted by ——x1.85
+m* is represented by Toh
+=74 cm [A1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

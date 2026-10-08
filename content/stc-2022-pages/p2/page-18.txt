@@ -1,0 +1,18 @@
+18
+8 A class of 40 Secondary Four students were asked how much time they have spent on social
+media in the last week.
+The results are shown in the table.
+Time spent | <10 | 10<x<20 | 20<x<30 | 30<x<40 | 40<x<50
+(x hours)
+[Frequency [pp | mo | 10 [ 4 [ 3 |
+The upper quartile of the time spent on social media was 30 hours.
+(a) Show that p = 9 and hence state the value of ¢.
+Answer
+Answer g=..................... [3]
+(b) Estimate the mean number of hours spent by the students.
+Answer... [2]
+(c) Estimate the standard deviation.
+Answer... [1]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

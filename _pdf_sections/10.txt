@@ -1,0 +1,134 @@
+Title Expansion and Factorisation of Algebraic Expressions
+Author AprilDolphin – Lim Wang Sheng
+Date 22/12/2025
+In this topic, we shall be covering the following concepts
+• Expansion of Algebraic Expressions by Simple Multiplication, Algebraic Identity
+and “Rainbow” Method of Expansion
+• Factoring of Algebraic Expressions involving Simple Factoring, Algebraic
+Identities, Grouping and Cross Method
+Expansion is the act of multiplying terms in brackets with other terms in order to
+remove the brackets completely.
+Example 1. [Simple Multiplication]
+Expand and simplify the following:
+−3(𝑥 − 4)
+The above expression can first be expanded as follows by simple multiplication by
+ensuring the term outside is multiplied by every term in the bracket. (Be extremely
+careful when negative signs are involved.)
+−3(𝑥 − 4) = −3(𝑥) − 3(−4) = −3𝑥 + 12
+Example 2. [Algebraic Identities]
+In this example here, we have to take note of whether the algebraic expression we have
+to expand resembles any algebraic identities as follows and if there is resemblance to
+apply the identities as follows:
+(𝑎 + 𝑏)2 = 𝑎2 + 2𝑎𝑏 + 𝑏2
+(𝑎 − 𝑏)2 = 𝑎2 − 2𝑎𝑏 + 𝑏2
+(𝑎 + 𝑏)(𝑎 − 𝑏) = 𝑎2 − 𝑏2
+Expand and simplify the following:
+(a) (3𝑥 + 5)2
+(b) (3𝑥 − 5)2
+(c) (𝑥 + 5)(𝑥 − 5)
+In the case of example 2(a), the question can be solved by applying the algebraic
+identity (𝑎 + 𝑏)2 = 𝑎2 + 2𝑎𝑏 + 𝑏2
+(3𝑥 + 5)2 = 9𝑥2 + 2(3𝑥)(5) + (5)2 = 9𝑥2 + 30𝑥 + 25
+In the case of example 2(b), the question can be solved by applying the algebraic
+identity (𝑎 − 𝑏)2 = 𝑎2 − 2𝑎𝑏 + 𝑏2
+(3𝑥 − 5)2 = 9𝑥2 − 2(3𝑥)(5) + 52 = 9𝑥2 − 30𝑥 + 25
+
+-- 54 of 145 --
+
+In the case of example 2(c), the question can be solved by applying the algebraic
+identity (𝑎 + 𝑏)(𝑎 − 𝑏) = 𝑎2 − 𝑏2
+(𝑥 + 5)(𝑥 − 5) = 𝑥2 − 52 = 𝑥2 − 25
+Example 3. [“Rainbow” Method of Expansion]
+If the algebraic expression given cannot be expanded by simple multiplication or
+algebraic identities applications, we use the 3rd method which is referred to the
+“Rainbow” Method of Expansion in this document.
+Expand and simplify the Following:
+• (2𝑥 + 4)(3𝑥 − 3)
+(2𝑥 + 4)(3𝑥 − 3)
+As you can see, the lines drawn connect the terms that should be multiplied together
+and later to be added or subtracted up accordingly in a row.
+(2𝑥 + 4)(3𝑥 − 3) = 6𝑥2 + 12𝑥 − 6𝑥 − 12
+= 6𝑥2 + 6𝑥 − 12
+Example 4. [Applications of Expansion of Algebraic Expression to Arithmetic Problems]
+4(a) Using the algebraic identity (𝑎 + 𝑏)(𝑎 − 𝑏) = 𝑎2 − 𝑏2, evaluate 28 × 32
+Since 28 can be rewritten as 30 − 2 and 32 can be rewritten as 30 + 2, it now
+resembles the algebraic identity (𝑎 + 𝑏)(𝑎 − 𝑏) and therefore can be evaluated as
+follows:
+(30 − 2)(30 + 2) = 302 − 22 = 900 − 4 = 896
+4(b) Using the algebraic identity (𝑎 + 𝑏)2 = 𝑎2 + 2𝑎𝑏 + 𝑏2, evaluate 152
+Since 15 can be rewritten as 10 + 5 and the question demanding us to evaluate 152, it
+now resembles the algebraic identity (𝑎 + 𝑏)2 and therefore can be evaluated as
+follows:
+(10 + 5)2 = 102 + 2(5)(10) + 52 = 100 + 100 + 25 = 225
+4(c) Using the algebraic identity (𝑎 − 𝑏)2 = 𝑎2 − 2𝑎𝑏 + 𝑏2, evaluate 162
+Since 16 can be rewritten as 20 − 4 and the question demanding us to evaluate 162, it
+now resembles the algebraic identity (𝑎 − 𝑏)2 and therefore can be evaluated as
+follows:
+(20 − 4)2 = 202 − 2(4)(20) + 42 = 400 − 160 + 16 = 256
+
+-- 55 of 145 --
+
+Factorisation (in this case) is the act of extracting common factors from algebraic
+expression to be expressed with multiple brackets multiplied together. It is the absolute
+reverse of expansion.
+Example 5 [Simple Extraction of Common Factors]
+Factorise 2𝑎2 − 8𝑎 completely.
+The above question can be solved by simple extraction of 2𝑎 as common factor as noted
+below:
+2𝑎2 − 8𝑎 = 2𝑎(𝑎 − 4)
+Example 6 [Factoring by Algebraic Identities]
+(a) Factorise 49 − 4𝑥2 completely
+(b) Factorise 9𝑥2 + 30𝑥 + 25 completely
+(c) Factorise 9𝑥2 − 30𝑥 + 25 completely
+Example 6(a) can be solved by applying the identity 𝑎2 − 𝑏2 = (𝑎 + 𝑏)(𝑎 − 𝑏) as tested
+below:
+𝑎 = 7
+𝑏 = 2𝑥
+𝑎2 − 𝑏2 = (7 − 2𝑥)(7 + 2𝑥)
+49 − 4𝑥2 = (7 − 2𝑥)(7 + 2𝑥)
+Example 6(b) can be solved by applying the identity 𝑎2 + 2𝑎𝑏 + 𝑏2 = (𝑎 + 𝑏)2 as
+tested below:
+𝑎 = √9𝑥2 = 3𝑥
+𝑏 = √25 = 5
+2𝑎𝑏 = 2(3𝑥)(5) = 30𝑥
+∴ 9𝑥2 + 30𝑥 + 25 = (3𝑥 + 5)2
+Example 6(c) can be solved by applying the identity of 𝑎2 − 2𝑎𝑏 + 𝑏2 = (𝑎 − 𝑏)2 as
+tested below:
+𝑎 = √9𝑥2 = 3𝑥
+𝑏 = √25 = 5
+−2𝑎𝑏 = 2(3𝑥)(5) = −30𝑥
+∴ 9𝑥2 − 30𝑥 + 25 = (3𝑥 − 5)2
+
+-- 56 of 145 --
+
+Example 7 (Factoring by Grouping Method)
+(a) 9𝑥2 − 36𝑥𝑦 + 4𝑦 − 𝑥
+(b) 12𝑝𝑟𝑠 + 4𝑞 + 3𝑞𝑟𝑠 + 16𝑝
+7(a)
+9𝑥2 − 36𝑥𝑦 + 4𝑦 − 𝑥
+= 9𝑥2 − 𝑥 − 36𝑥𝑦 + 4𝑦 [Rearrange the expression]
+= 𝑥(9𝑥 − 1) − 4𝑦(9𝑥 − 1)
+= (𝑥 − 4𝑦)(9𝑥 − 1)
+7(b)
+12𝑝𝑟𝑠 + 4𝑞 + 3𝑞𝑟𝑠 + 16𝑝
+= 12𝑝𝑟𝑠 + 3𝑞𝑟𝑠 + 4𝑞 + 16𝑝 [Rearrange the expression]
+= 3𝑟𝑠(4𝑝 + 𝑞) + 4(𝑞 + 4𝑝)
+= 3𝑟𝑠(4𝑝 + 𝑞) + 4(4𝑝 + 𝑞)
+= (3𝑟𝑠 + 4)(4𝑝 + 𝑞)
+Example 8 (Factoring by Cross Method – Trial and Error)
+(a) 4𝑥2 + 5𝑥 − 6
+(b) 8 − 7𝑥 − 𝑥2
+Example 8(a)
+4𝑥2 + 5𝑥 − 6
+= (𝑥 + 2)(4𝑥 − 3)
+After some trial and error, we should get
+the results as shown in blue ink on the right side.
+Example 8(b)
+8 − 7𝑥 − 𝑥2
+= (𝑥 + 8)(−𝑥 + 1)
+= (𝑥 + 8)(1 − 𝑥)
+After some trial and error,
+we should get the results as shown
+in blue ink on the right side.
+
+-- 57 of 145 --

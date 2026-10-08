@@ -1,0 +1,141 @@
+{
+  "actions": {
+    "__AUTO_IF_EMPTY_LESSONS_1__": {
+      "__wwdescription": "Auto-seed lessons when syllabus already exists.",
+      "branches": [
+        {
+          "id": "__AUTO_SEED_LESSONS_1__",
+          "value": true
+        },
+        {
+          "id": null,
+          "value": false
+        }
+      ],
+      "id": "__AUTO_IF_EMPTY_LESSONS_1__",
+      "name": "Need auto seed lessons? (1)",
+      "next": null,
+      "type": "if",
+      "value": {
+        "__wwtype": "js",
+        "code": "const topics = globalContext.tableViews['2e7e24ea-7339-4bca-954a-24f38b47379d']?.data || [];\nconst lessons = globalContext.tableViews['2d11fb00-e8be-4d11-86aa-691fc6f7466e']?.data || [];\nreturn topics.length > 0 && lessons.length === 0;"
+      }
+    },
+    "__AUTO_IF_EMPTY_LESSONS_2__": {
+      "__wwdescription": "Auto-seed lessons after syllabus auto-seed.",
+      "branches": [
+        {
+          "id": "__AUTO_SEED_LESSONS_2__",
+          "value": true
+        },
+        {
+          "id": null,
+          "value": false
+        }
+      ],
+      "id": "__AUTO_IF_EMPTY_LESSONS_2__",
+      "name": "Need auto seed lessons? (2)",
+      "next": null,
+      "type": "if",
+      "value": {
+        "__wwtype": "js",
+        "code": "const topics = globalContext.tableViews['2e7e24ea-7339-4bca-954a-24f38b47379d']?.data || [];\nconst lessons = globalContext.tableViews['2d11fb00-e8be-4d11-86aa-691fc6f7466e']?.data || [];\nreturn topics.length > 0 && lessons.length === 0;"
+      }
+    },
+    "__AUTO_IF_EMPTY__": {
+      "__wwdescription": "Seed automatically when this environment has no syllabus data (admin only).",
+      "branches": [
+        {
+          "id": "__AUTO_SEED__",
+          "value": true
+        },
+        {
+          "id": "__AUTO_IF_EMPTY_LESSONS_1__",
+          "value": false
+        }
+      ],
+      "id": "__AUTO_IF_EMPTY__",
+      "name": "Need auto seed?",
+      "next": null,
+      "type": "if",
+      "value": {
+        "__wwtype": "js",
+        "code": "const topics = globalContext.tableViews['2e7e24ea-7339-4bca-954a-24f38b47379d']?.data || [];\nconst questions = globalContext.tableViews['34ff8d97-be2e-423a-9ada-8749a59a7742']?.data || [];\nreturn topics.length === 0 || questions.length === 0;"
+      }
+    },
+    "__AUTO_REFETCH_LESSONS_1__": {
+      "__wwdescription": "Reload lessons after auto-seed (path 1).",
+      "id": "__AUTO_REFETCH_LESSONS_1__",
+      "name": "Refresh public_lessons (1)",
+      "next": null,
+      "parameters": {},
+      "tableViewId": "2d11fb00-e8be-4d11-86aa-691fc6f7466e",
+      "type": "fetch-table-view"
+    },
+    "__AUTO_REFETCH_LESSONS_2__": {
+      "__wwdescription": "Reload lessons after auto-seed (path 2).",
+      "id": "__AUTO_REFETCH_LESSONS_2__",
+      "name": "Refresh public_lessons (2)",
+      "next": null,
+      "parameters": {},
+      "tableViewId": "2d11fb00-e8be-4d11-86aa-691fc6f7466e",
+      "type": "fetch-table-view"
+    },
+    "__AUTO_REFETCH_T__": {
+      "__wwdescription": "Reload topics after auto-seed.",
+      "id": "__AUTO_REFETCH_T__",
+      "name": "Refresh public_topics",
+      "next": "__AUTO_IF_EMPTY_LESSONS_2__",
+      "parameters": {},
+      "tableViewId": "2e7e24ea-7339-4bca-954a-24f38b47379d",
+      "type": "fetch-table-view"
+    },
+    "__AUTO_SEED_LESSONS_1__": {
+      "__wwdescription": "Populate empty lessons (path 1).",
+      "args": {
+        "__wwstream": false,
+        "headers": {}
+      },
+      "id": "__AUTO_SEED_LESSONS_1__",
+      "name": "Auto seed lessons (1)",
+      "next": "__AUTO_REFETCH_LESSONS_1__",
+      "parameters": {},
+      "type": "execute-backend-workflow:2882ac75-c5b0-4e22-ad8c-2c3bb3c06dc2"
+    },
+    "__AUTO_SEED_LESSONS_2__": {
+      "__wwdescription": "Populate empty lessons (path 2).",
+      "args": {
+        "__wwstream": false,
+        "headers": {}
+      },
+      "id": "__AUTO_SEED_LESSONS_2__",
+      "name": "Auto seed lessons (2)",
+      "next": "__AUTO_REFETCH_LESSONS_2__",
+      "parameters": {},
+      "type": "execute-backend-workflow:2882ac75-c5b0-4e22-ad8c-2c3bb3c06dc2"
+    },
+    "__FETCH_LESSONS__": {
+      "__wwdescription": "Fetches the public_lessons table view.",
+      "id": "__FETCH_LESSONS__",
+      "name": "Fetch public_lessons",
+      "next": "__AUTO_IF_EMPTY__",
+      "parameters": {},
+      "tableViewId": "2d11fb00-e8be-4d11-86aa-691fc6f7466e",
+      "type": "fetch-table-view"
+    },
+    "__FETCH_QUESTIONS__": {
+      "__wwdescription": "Fetches the public_questions table view.",
+      "id": "__FETCH_QUESTIONS__",
+      "name": "Fetch public_questions",
+      "next": "__FETCH_LESSONS__",
+      "parameters": {},
+      "tableViewId": "34ff8d97-be2e-423a-9ada-8749a59a7742",
+      "type": "fetch-table-view"
+    }
+  },
+  "description": "On page load, require admin sign-in, fetch topics, users, questions, and lessons; auto-seed syllabus and lessons when the environment database is empty.",
+  "id": "b4045d63-abeb-47bf-9b78-686c87e42a73",
+  "pageId": "88eb1bcb-50eb-4a38-8d5d-34a4d603934d",
+  "projectId": "bcf230cd-e5b1-4fde-814b-0ddd71a314f0",
+  "scope": "page"
+}

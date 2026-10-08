@@ -1,0 +1,21 @@
+19
+22 Inthediagram, QT is the diameter of the circle.
+R, Sand P are points on the circle. Angle PQS = 70° and angle RPS =20°.
+QT intersects PRat point C.
+Q RN
+P
+(a) FindanglePRS Nr
+ZPRS=70° (Anglesin the same segment)  [B1] <7
+R
+T
+S
+Answer... 0 [1]
+(b) Hence, prove that the point C is the centre of the circle.
+ZRSP=180°-70°—20° =90° (Angle sum of atriangle)
+Thisimplies that PR is a diameter (Angle in a semicircle). [B1]
+Since QT is aso adiameter and point C is the point of intersection
+of the diameters PR and QT, C is the centre of the circle. [B1]
+AANSWET es
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

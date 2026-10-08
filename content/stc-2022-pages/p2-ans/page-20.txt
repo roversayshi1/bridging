@@ -1,0 +1,45 @@
+20
+9 The diagram shows a metal trophy which is made up of a hemisphere and a pyramid.
+The radius of the hemisphere with centre E is 4 cm.
+The base ABCD of the pyramid is a square of side 12 cm.
+Eis vertically above the centre of the square base.
+The vertical height of the pyramid is 18 cm.
+A+
+18
+[9
+12
+A 12 B
+(a) Show that AE = 19.9 cm, correct to three significant figures. [3]
+Answer
+
+Let X be the centre of the square base.
+
+Since vertical height of pyramid is 18 cm, EX = 18 cm. E
+
+AX = Z4C= AX = Siz +12 ) =\72=84853 cm (5s£) [Bl]
+
+18
+
+By Pythagoras’ Theorem,
+
+AE =+/18> +8.4853* or 18 +72 M1] A N
+=19.899756684 or 396 8.4853
+=19.9 cm (3 sf.)(Shown) [AG1]
+
+(b) Calculate angle BAE.
+Let M be the midpoint of AB. AM =12+2=6cm [B1]
+Since EA = EB, AEB is an isosceles triangle hence angle EMA = 90°.
+6 6 E
+ZBAE =——— —_—
+cos 19.900 or 396
+ZBAE =cos™ (ros) or cos”! (7%) [M1] 19.9
+~72452=72.5°(1dp.) [A1]
+Alt. Method: AS wm 8
+2 2
+2 2_ppr (V/396) +127 —(V/396
+cos Z/BAE Apap —pp? (396) +12'-(¥396) M2]
+2(4E)(4B) 2(+/3%) (12)
+CHIJST. THER
+SPE /BAE = cos” ( l ) 72.4520 =72.5°(1 dp) [AT]
+=cos” | = |~ 72.452° =72.5°
+Jit P

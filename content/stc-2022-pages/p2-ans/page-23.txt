@@ -1,0 +1,27 @@
+23
+(@)  Theexchange rate between South Korean wons (KRW) and Singapore dollars (SGD)
+changes each day.
+The graph shows the daily exchange rate for the period 4 June — 4 July 2022.
+Lowest rate on 5 June 2022 1SGD = 908.724 KRW
+Highest rate on 23 June 2022 18GD = 939.752 KRW
+fa
+I
+I
+pa 024.724
+feces nt 908.724
+(Source: https://www.xe.com/currencycharts/?from= SGD& to= KRW& view= 1M)
+All travellers are required to take a PCR test within three days of arriving in South Korea.
+Use the information to work out the difference between the greatest and least possible cost,
+in Singapore dollars, for Mr Tan’s family to book their appointments to take PCR tests in
+South Korea.
+Give your answer correct to the nearest ten cents.
+Difference between the greatest and | east possible cost
+_ 70000x 4  70000x 4 M1]
+908.724 939.752
+~ 308.12 - 297.95
+~ 10.17
+= S$10.20 (nearest ten cents) [A1]
+Answer S$ .........cooeeeeennn [2]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

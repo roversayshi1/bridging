@@ -1,0 +1,129 @@
+
+var win = (typeof wwLib !== 'undefined' && wwLib.getFrontWindow) ? wwLib.getFrontWindow() : window;
+var doc = win.document;
+var delimiters = [
+  { left: '$$', right: '$$', display: true },
+  { left: '\\[', right: '\\]', display: true },
+  { left: '\\(', right: '\\)', display: false }
+];
+function normalizeMath(text) {
+  if (!text || typeof text !== 'string') return text;
+  text = text.replace(/\\\(([^\\]+?)\]\{([^}]+)\}\\\)/g, '\\($1^{$2}\\)');
+  text = text.replace(/\^\{\(([^)]+)\)\}/g, '^{$1}');
+  return text;
+}
+function preparePlainMath(text) {
+  if (!text || typeof text !== 'string') return text;
+  text = normalizeMath(text);
+  if (text.indexOf('\\(') >= 0 || text.indexOf('\\[') >= 0 || text.indexOf('$$') >= 0) return text;
+  return text.replace(/(\d+(?:\.\d+)?|[A-Za-z]+)\^([+-]?\d+(?:\.\d+)?|[A-Za-z]+)/g, function (_, base, exp) {
+    return '\\(' + base + '^{' + exp + '}\\)';
+  });
+}
+function getTarget(el) {
+  var node = el;
+  while (
+    node.children.length === 1 &&
+    (node.textContent || '').trim() === (node.children[0].textContent || '').trim()
+  ) {
+    node = node.children[0];
+  }
+  var child = el.querySelector('p, span');
+  if (child && child.textContent && child.textContent.length >= (el.textContent || '').length * 0.85) {
+    return child;
+  }
+  return el;
+}
+function needsMath(text) {
+  if (!text) return false;
+  return text.indexOf('\\(') >= 0 || text.indexOf('^') >= 0 || text.indexOf('$$') >= 0;
+}
+function renderNode(renderFn, el) {
+  if (!el || el.querySelector('.katex')) return false;
+  var target = getTarget(el);
+  var raw = (target.textContent || '').trim();
+  if (!needsMath(raw)) return false;
+  var prepared = preparePlainMath(raw);
+  if (prepared !== raw) target.textContent = prepared;
+  renderFn(target, { delimiters: delimiters, throwOnError: false });
+  return !!target.querySelector('.katex');
+}
+function scanAndRender(renderFn) {
+  var rendered = 0;
+  Array.from(doc.querySelectorAll('p, span, div')).forEach(function (el) {
+    if (el.children.length > 8) return;
+    var text = (el.textContent || '').trim();
+    if (!text || text.length > 4000 || !needsMath(text)) return;
+    if (el.querySelector('p, span') && getTarget(el) !== el) return;
+    if (renderNode(renderFn, el)) rendered++;
+  });
+  return rendered;
+}
+function startBurst(renderFn) {
+  var runs = 0;
+  var timer = setInterval(function () {
+    scanAndRender(renderFn);
+    runs++;
+    if (runs >= 24) clearInterval(timer);
+  }, 250);
+  return scanAndRender(renderFn);
+}
+function getRenderFn() {
+  if (typeof win.renderMathInElement === 'function') return win.renderMathInElement;
+  if (typeof renderMathInElement === 'function') return renderMathInElement;
+  return null;
+}
+function ensureKaTeXCss() {
+  if (doc.getElementById('bridging-katex-css')) return;
+  var link = doc.createElement('link');
+  link.id = 'bridging-katex-css';
+  link.rel = 'stylesheet';
+  link.href = 'https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css';
+  doc.head.appendChild(link);
+}
+function loadScript(src, onload) {
+  var existing = doc.querySelector('script[src="' + src + '"]');
+  if (existing) {
+    if (existing.getAttribute('data-loaded') === '1') onload();
+    else existing.addEventListener('load', onload);
+    return;
+  }
+  var s = doc.createElement('script');
+  s.src = src;
+  s.onload = function () {
+    s.setAttribute('data-loaded', '1');
+    onload();
+  };
+  doc.head.appendChild(s);
+}
+function ensureKaTeX(onReady) {
+  var existing = getRenderFn();
+  if (existing) {
+    onReady(existing);
+    return;
+  }
+  ensureKaTeXCss();
+  if (!win.__bridgingKatexLoading) {
+    win.__bridgingKatexLoading = true;
+    win.__bridgingKatexQueue = win.__bridgingKatexQueue || [];
+    loadScript('https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js', function () {
+      loadScript('https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js', function () {
+        win.__bridgingKatexLoading = false;
+        var fn = getRenderFn();
+        var queue = win.__bridgingKatexQueue || [];
+        win.__bridgingKatexQueue = [];
+        for (var i = 0; i < queue.length; i++) queue[i](fn);
+      });
+    });
+  }
+  win.__bridgingKatexQueue = win.__bridgingKatexQueue || [];
+  win.__bridgingKatexQueue.push(onReady);
+}
+var renderFn = getRenderFn();
+if (renderFn) {
+  return startBurst(renderFn);
+}
+ensureKaTeX(function (fn) {
+  if (fn) startBurst(fn);
+});
+return 0;

@@ -1,0 +1,192 @@
+Title Basic Trigonometry and Geometry of Congruent & Similar Triangles
+Notes This article assumes that you have already studied and understand the basic
+rules of geometry as it will include basic level guides to proving congruence
+and similarity of triangles.
+Pythagoras’ Theorem
+Given that 𝑐 refers to the hypotenuse (the longest side) of a right-angled triangle,
+a 𝑎𝑛𝑑 𝑏 represent the other 2 sides of a right-angled triangle, the Pythagoras’
+theorem implies the following
+𝑎2 + 𝑏2 = 𝑐2
+Which can also be rewritten as √𝑎2 + 𝑏2 = 𝑐
+Basic Trigonometric Ratios of Right-angled Triangle
+sin 𝜃 = 𝑂𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑆𝑖𝑑𝑒
+𝐻𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒 𝑆𝑖𝑑𝑒
+cos 𝜃 = 𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑆𝑖𝑑𝑒
+𝐻𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒 𝑆𝑖𝑑𝑒
+tan 𝜃 = 𝑂𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑆𝑖𝑑𝑒
+𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑆𝑖𝑑𝑒
+In the above right-angled triangle, we can see that the hypotenuse side is the longest
+in any right-angled triangle. The adjacent side refers to the side of the triangle that is
+closest to the angle in question. Finally, the opposite side refers to the side of the
+triangle that is opposite of the given angle 𝜃 in question.
+Uses of Basic Inverse Trigonometric Functions on Calculator
+𝜃 = sin−1(sin 𝜃)
+𝜃 = cos−1(cos 𝜃)
+𝜃 = tan−1(tan 𝜃)
+Opposite Side
+Adjacent side
+Hypotenuse side
+Angle
+𝜃
+
+-- 117 of 145 --
+
+Given any triangle, such as the
+triangle on the right of this row as an
+example.
+Sine Rule states the following:
+sin 𝐴
+𝑎 = sin 𝐵
+𝑏 = sin 𝐶
+𝑐
+Where ∠𝐴 is opposite of side 𝑎
+∠𝐵 is opposite of side 𝑏
+∠𝐶 is opposite of side 𝑐
+Or in the case of the triangle we have
+on the right side of the row
+sin ∠𝐵𝐴𝐶
+𝑎 = 𝑠𝑖𝑛∠𝐴𝐵𝐶
+𝑏 = sin ∠𝐵𝐶𝐴
+𝑐
+Cosine Rule states the following:
+𝑎2 = 𝑏2 + 𝑐2 − 2𝑏𝑐 cos 𝐴
+𝑏2 = 𝑎2 + 𝑐2 − 2𝑎𝑐 cos 𝐵
+𝑐2 = 𝑎2 + 𝑏2 − 2𝑎𝑏 cos 𝐶
+Where ∠𝐴 is opposite of side 𝑎
+∠𝐵 is opposite of side 𝑏
+∠𝐶 is opposite of side 𝑐
+Because of the formula, it is also
+possible to find ∠𝐴, ∠𝐵 and ∠𝐶 by
+working with the formula of cosine
+rule via the following as derived from
+the above formulae.
+cos 𝐴 = 𝑎2−𝑏2−𝑐2
+−2𝑏𝑐
+
+-- 118 of 145 --
+
+cos 𝐵 = 𝑏2−𝑎2−𝑐2
+−2𝑎𝑐
+cos 𝐶 = 𝑐2−𝑎2−𝑏2
+−2𝑎𝑏
+∠𝐴 = cos−1(cos 𝐴)
+∠𝐵 = cos−1(cos 𝐵)
+∠𝐶 = cos−1(cos 𝐶)
+Given a triangle, with 2 known sides
+length and 1 known angle that lies
+between the 2 known sides, the
+formula for area of such triangle is
+given as below:
+1
+2 𝑎𝑏 sin 𝐶
+Concepts involving Angle of
+Elavation and Angle of Depression
+Angle of Elavation
+𝜃
+(Representing
+the angle of
+elevation)
+Observer
+(Observed object)
+
+-- 119 of 145 --
+
+Angle of Depression
+Concepts of Congruence of Triangles:
+Triangles are said to be congruent to
+each other when they are exactly
+the same shape, size and
+dimensions.
+Notation: We use the symbol
+”≡” to mean “is congurent to” and
+use the following rules to justify why
+two triangles are congruent.
+Example
+△ 𝑨𝑩𝑪 ≡△ 𝑿𝒀𝒁 (By SAS Triangle
+Congruence Rule)
+Implies triangle ABC is congruent to triangle
+XYZ as both triangle share similar length on 2
+sides and share the same included angle.
+SSS (Side-Side-Side) Congruence Rule
+Explanation – Two triangles are said
+to be congruent if all three
+corresponding sides are equal.
+Illustration of Concepts
+Observer
+(Observed
+object)	Angle of
+Depression as
+represented
+using 𝜃
+
+-- 120 of 145 --
+
+SAS (Side-Angle-Side) Congruence
+Rule
+Explanation – Two triangle are said to
+be congurent if two corresponding
+side are equal and they have an equal
+including angle
+AAS (Angle Angle Side) Congruence
+Rule
+Explanation: Two triangles are said to
+be congruent when two angles and a
+corresponding side are equal
+ASA (Angle-Side-Angle) Congruence
+Rule
+Explanation: Two triangles are said to
+be congruent when two angle and an
+included side are equal
+RHS (Right-angle Hypothenus Side)
+Congruence Rule
+Explanation: Two triangles are said to
+be congruent when both triangle
+have a right angle, equal hypohtenus
+length and another equal side)
+
+-- 121 of 145 --
+
+Concept of Similarity in Triangles
+Both triangles are said to be similar
+to each other if and only both
+triangle share the same exact shape,
+but not necessarily be of the same
+size.
+When we try to state that two
+triangles are similar, we write the
+similar triangles in question, followed
+by the rule that justifies the
+statement.
+Example as follows
+△ 𝑩𝑪𝑫 is similar to △ 𝑭𝑮𝑯 (By AAA
+Similarity Rule)
+Implies triangle BCD is similar to triangle FGH
+because both triangles share at least two
+equal angles.
+AAA (Angle-Angle-Angle) Similarity
+Two triangles are said to be similar if
+all of three corresponding angle or
+just two corresponding angles are
+equal
+Illustration
+SSS (Side-Side-Side Similarity)
+Two triangles are said to be similar if
+all of three corresponding sides of
+one triangle is of direct proprtion to
+the other 𝑑 𝑘𝑑
+𝑓
+𝑘𝑓
+ℎ 𝑘ℎ
+
+-- 122 of 145 --
+
+SAS (Side-Angle-Side
+Similarity)
+Two triangles are said to be
+similar if two corresponding
+sides are of direct proportion
+to each other and an included
+angle is equal
+𝑎 𝑐 𝑘𝑎 𝑘𝑐
+
+-- 123 of 145 --

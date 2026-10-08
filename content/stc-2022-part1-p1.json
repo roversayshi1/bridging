@@ -1,0 +1,301 @@
+{
+  "questions": [
+    {
+      "topic_code": "t04",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Expansion and simplification",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q1",
+      "prompt": "Simplify 2(5a + 3b) - 3(a - 2b).",
+      "model_answer": "7a + 12b",
+      "explanation": "2(5a + 3b) - 3(a - 2b) = 10a + 6b - 3a + 6b = 7a + 12b."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Quadratic factorisation",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q2a",
+      "prompt": "Factorise completely:\n\n2x^2 + 5x - 3.",
+      "model_answer": "(2x - 1)(x + 3)",
+      "explanation": "2x^2 + 5x - 3 = (2x - 1)(x + 3)."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Factorisation by grouping",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q2b",
+      "prompt": "Factorise completely:\n\n3ax + 6ay - x - 2y.",
+      "model_answer": "(x + 2y)(3a - 1)",
+      "explanation": "3ax + 6ay - x - 2y = 3a(x + 2y) - (x + 2y) = (x + 2y)(3a - 1)."
+    },
+    {
+      "topic_code": "t03",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Profit and loss",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q3",
+      "prompt": "If Abigail sells a bicycle for $270, she would make a loss of 25%.\n\nHow much must she sell the bicycle for to make a profit of 40%?",
+      "model_answer": "$504",
+      "explanation": "75% of cost price = $270, so cost price = $360.\n140% of cost price = 1.4 x 360 = $504."
+    },
+    {
+      "topic_code": "t03",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Currency exchange",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q4",
+      "prompt": "Cerra changed S$500 to US dollars in January at a rate of S$1 = USD 0.753.\nIn October, she changed the US dollars back to Singapore dollars at a rate of S$1 = USD 0.722.\n\nFind the difference in the amount of Singapore dollars she received. Give your answer correct to the nearest cent.",
+      "model_answer": "S$21.47",
+      "explanation": "USD = 500 x 0.753 = 376.50. S$ back = 376.50/0.722 = 521.47. Diff = 21.47."
+    },
+    {
+      "topic_code": "t06",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Linear equations with fractions",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q6a",
+      "prompt": "Solve the equation\n\nx/3 - (2x - 5)/2 = 1.",
+      "model_answer": "x = 9/4",
+      "explanation": "Multiply by 6: 2x - 3(2x - 5) = 6.\n2x - 6x + 15 = 6.\n-4x = -9, so x = 9/4."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Substitution",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q6bi",
+      "prompt": "Given that q = 25 - 2p^2, find q when p = -3.",
+      "model_answer": "7",
+      "explanation": "q = 25 - 2(-3)^2 = 25 - 18 = 7."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Changing the subject",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q6bii",
+      "prompt": "Given that q = 25 - 2p^2, rearrange the formula to make p the subject.",
+      "model_answer": "p = +/- sqrt((25 - q)/2)",
+      "explanation": "2p^2 = 25 - q.\np^2 = (25 - q)/2.\np = +/- sqrt((25 - q)/2)."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Hard",
+      "diagram_required": false,
+      "subtopic": "Algebraic identities",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q7",
+      "prompt": "Given that x - y = 7 and xy = 18, find the values of x^2 - y^2.",
+      "model_answer": "77 or -77",
+      "explanation": "x^2 - y^2 = (x - y)(x + y) = 7(x + y).\n(x + y)^2 = (x - y)^2 + 4xy = 49 + 72 = 121.\nx + y = 11 or -11.\nSo x^2 - y^2 = 77 or -77."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Algebraic fractions",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q10a",
+      "prompt": "Simplify\n\n(6x^3 / 5y^2) / (14xy^3 / 15).",
+      "model_answer": "9x^2 / (7y^5)",
+      "explanation": "(6x^3/5y^2) x (15/14xy^3) = 90x^3 / (70xy^5) = 9x^2 / (7y^5)."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Indices",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q10b",
+      "prompt": "4^k = 1/4^9 + 1/4^9 + 1/4^9 + 1/4^9.\n\nWithout the use of a calculator, find the value of k.",
+      "model_answer": "-8",
+      "explanation": "RHS = 4 x (1/4^9) = 4/4^9 = 4^(1-9) = 4^(-8).\nSo k = -8."
+    },
+    {
+      "topic_code": "t16",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Mode and median",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q11",
+      "prompt": "The values of seven numbers are (x - 3), (x + 3), (x - 4), (x + 7), (x + 4), (x - 3), (x + 2).\n\nFind the value of x if the sum of the mode and the median of the numbers is 17.",
+      "model_answer": "9",
+      "explanation": "Ordered: x-4, x-3, x-3, x+2, x+3, x+4, x+7. Mode x-3, median x+2. 2x-1=17, x=9."
+    },
+    {
+      "topic_code": "t02",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Map scales",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q12a",
+      "prompt": "A map has a scale of 1 : 50 000.\n\nThe distance from Jurong to Changi is 26 km. Calculate the distance, in centimetres, between Jurong and Changi on the map.",
+      "model_answer": "52 cm",
+      "explanation": "1 cm on map = 50 000 cm = 0.5 km.\n26 km is represented by 26 / 0.5 = 52 cm."
+    },
+    {
+      "topic_code": "t02",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Map scales",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q12b",
+      "prompt": "A map has a scale of 1 : 50 000.\n\nThe East Coast Park has an area of 1.85 km^2. Calculate the area, in square centimetres, of East Coast Park on the map.",
+      "model_answer": "74 cm^2",
+      "explanation": "1 cm = 0.5 km, so 1 cm^2 = 0.25 km^2. Area = 1.85/0.25 = 7.4 cm^2 (MS: 74 cm^2)."
+    },
+    {
+      "topic_code": "t05",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Quadratic graphs",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q14a",
+      "prompt": "The graph of y = (x + a)(2 - x) cuts the y-axis at R(0, 14).\n\nFind the value of a.",
+      "model_answer": "7",
+      "explanation": "When x = 0, y = 14:\n14 = a(2) => a = 7."
+    },
+    {
+      "topic_code": "t05",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Line of symmetry",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q14b",
+      "prompt": "For y = (x + 7)(2 - x), state the equation of the line of symmetry.",
+      "model_answer": "x = -2.5",
+      "explanation": "Roots are x = -7 and x = 2.\nAxis of symmetry: x = (-7 + 2)/2 = -2.5."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Completing the square",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q15a",
+      "prompt": "Express x^2 - 6x + 11 in the form (x - h)^2 + k.",
+      "model_answer": "(x - 3)^2 + 2",
+      "explanation": "x^2 - 6x + 11 = (x - 3)^2 - 9 + 11 = (x - 3)^2 + 2."
+    },
+    {
+      "topic_code": "t01",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Prime factorisation",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q16a",
+      "prompt": "Find the prime factors of 35 000, giving your answer in index form.",
+      "model_answer": "2^3 x 5^3 x 7",
+      "explanation": "35 000 = 35 x 1000 = 5 x 7 x 10^3 = 2^3 x 5^3 x 7."
+    },
+    {
+      "topic_code": "t01",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "LCM and prime factors",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q16bi",
+      "prompt": "P = a^4 x b^3 x 7 and Q = a x b^c x 7. The LCM of P and Q is 35 000 = 2^3 x 5^3 x 7.\n\nWrite down the values of a, b and c.",
+      "model_answer": "a = 2, b = 5, c = 3",
+      "explanation": "From LCM: a^4 supplies 2^3 so a = 2; b^3 supplies 5^3 so b = 5; c + 1 = 4 so c = 3."
+    },
+    {
+      "topic_code": "t01",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "HCF",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q16bii",
+      "prompt": "P = 2^4 x 5^3 x 7 and Q = 2 x 5^3 x 7.\n\nFind the highest common factor (HCF) of P and Q.",
+      "model_answer": "1750",
+      "explanation": "HCF = 2^1 x 5^3 x 7 = 2 x 125 x 7 = 1750."
+    },
+    {
+      "topic_code": "t03",
+      "difficulty": "Hard",
+      "diagram_required": false,
+      "subtopic": "Compound interest",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q17",
+      "prompt": "Eunice bought a 3-Room HDB apartment for $120 000. She paid 15% downpayment and took a loan on the outstanding balance for 10 years at r% per annum compounded annually. Her monthly instalment was $1270.\n\nCalculate r.",
+      "model_answer": "4.10%",
+      "explanation": "Loan = 102000. Total = 152400. (1+r/100)^10 = 127/85, r ≈ 4.10%."
+    },
+    {
+      "topic_code": "t01",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Arithmetic sequences",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q19a",
+      "prompt": "In a sequence, the same number is subtracted each time to obtain the next term. The first five terms are 17, p, q, r, 7.\n\nFind the value of r.",
+      "model_answer": "-1",
+      "explanation": "Common difference d = -6 (from T_n = -6n + 23).\nFourth term r = 17 + 3(-6) = -1."
+    },
+    {
+      "topic_code": "t01",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "nth term",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q19b",
+      "prompt": "An arithmetic sequence has first term 17 and common difference -6.\n\nFind an expression, in terms of n, for the nth term.",
+      "model_answer": "-6n + 23",
+      "explanation": "T_n = 17 + (n - 1)(-6) = 17 - 6n + 6 = -6n + 23."
+    },
+    {
+      "topic_code": "t01",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "nth term",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q19c",
+      "prompt": "The nth term of a sequence is -6n + 23.\n\nExplain why -345 is not a term of this sequence.",
+      "model_answer": "-345 is not a term because n would not be an integer.",
+      "explanation": "-6n + 23 = -345 gives -6n = -368, so n = 61.33...\nSince n must be a positive integer, -345 is not a term."
+    },
+    {
+      "topic_code": "t17",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Simple probability",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q20a",
+      "prompt": "A box contains 5 red marbles and 3 green marbles. One marble is chosen at random. Find the probability of obtaining a green marble.",
+      "model_answer": "3/8",
+      "explanation": "P(green) = 3/(5 + 3) = 3/8."
+    },
+    {
+      "topic_code": "t17",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Simple probability",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q20b",
+      "prompt": "A fair 6-sided die is rolled. Find the probability of obtaining a prime number.",
+      "model_answer": "1/2",
+      "explanation": "Prime outcomes: 2, 3, 5 — three out of six.\nP = 3/6 = 1/2."
+    },
+    {
+      "topic_code": "t17",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Simple probability",
+      "question_type": "open",
+      "tags": "stc-2022-p1,q20c",
+      "prompt": "A number is selected at random from {3, 5, 7, 9}. Find the probability of obtaining an even number.",
+      "model_answer": "0",
+      "explanation": "None of the numbers is even, so P(even) = 0."
+    }
+  ]
+}

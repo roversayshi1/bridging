@@ -1,0 +1,286 @@
+Title Vectors in two dimensions
+Date 6/7/2024
+Notice Diagrams created with help from various free web applications.
+This topic assumes a sufficiently good understanding of coordinate geometry
+topic as taught in secondary one.
+Understanding the concept of scalars and vectors.
+Scalars are quantities that only possess magnitude, while vectors are quantities that
+possess both magnitude and direction.
+Notation for vectors that needs understanding here:
+(Since we are only dealing with 2D plane here, we will only go through notations used in
+basic 2D vector geometry)
+Any vectors in a 2D plane can be described by the following example notation, given two
+points, 𝐴 and 𝐵 and the purpose of the vector is to describe the movement from point 𝐴
+and point 𝐵.
+𝐴𝐵	⃗⃗⃗⃗⃗	 , where 𝐴 represents the starting point of the vector and 𝐵 represents the ending (or
+destination) point of the vector.
+Visual Illustration as shown below:
+Vectors can also be represented using lower case alphabets in the following manner,
+given vector 𝒂 = 𝐴𝐵	⃗⃗⃗⃗⃗
+
+-- 138 of 145 --
+
+The most important rules of vector operations (as it serves a strong basis for other
+rules below):
+Triangle Law of Addition
+𝐴𝐵	⃗⃗⃗⃗⃗	 + 𝐵𝐶	⃗⃗⃗⃗⃗	 = 𝐴𝐶	⃗⃗⃗⃗⃗
+In the case of the diagram representation below, 𝑎 + 𝑏 = 𝑐
+Parallelogram Law of Addition
+𝑨𝑩	⃗⃗⃗⃗⃗⃗	 + 𝑨𝑪	⃗⃗⃗⃗⃗	 = 𝑨𝑫	⃗⃗⃗⃗⃗⃗
+Basic Law of Subtracting a vector from another vector.
+𝑎 − 𝑏 = 𝑎 + (−𝑏) = 𝑐 or 𝐴𝐶	⃗⃗⃗⃗⃗	 − 𝐴𝐵	⃗⃗⃗⃗⃗	 = 𝐵𝐶	⃗⃗⃗⃗⃗
+
+-- 139 of 145 --
+
+Rules of Addition, Subtraction and Scalar Multiplication of Column Vectors
+(𝒂
+𝒃) + (𝒄
+𝒅) = (𝒂 + 𝒄
+𝒃 + 𝒅)
+(𝒂
+𝒃) − (𝒄
+𝒅) = (𝒂 − 𝒄
+𝒃 − 𝒅)
+𝒌 (𝒄
+𝒅) = (𝒌𝒄
+𝒌𝒅)
+Vectors as represented under a 2D Cartesian coordinate system
+Notation and Formula:
+(𝒎
+𝒏 ) + (𝒙
+𝒚) = (𝒂
+𝒃)
+As a result of the above formula, it is also apparently possible to find the vector’s
+displacement after being given two points (origin and destination) by the following
+method.
+Given two points from 𝑨(𝒄, 𝒅) to 𝑩(𝒇, 𝒈)
+The vector displacement across the plane can be found by first expressing the
+coordinates in column vector format and letting the destination point minus the origin
+point
+(𝑓
+𝑔) − (𝑐
+𝑑) = 𝐴𝐵	⃗⃗⃗⃗⃗
+Starting
+point of
+vector
+(Also
+called
+the
+origin)
+Displacement
+of vector
+itself, the
+number of
+units moved
+on the x and
+y coordinate
+End point of the
+vector (Also called
+the destination)
+
+-- 140 of 145 --
+
+Formula for analysis of vectors
+Given a vector 𝑶𝑨	⃗⃗⃗⃗⃗⃗	 = (𝒂
+𝒃) , the absolute length of the vector is |𝑶𝑨	⃗⃗⃗⃗⃗⃗	 | = √𝒂𝟐 + 𝒃𝟐
+Conditions for 2 vectors to be parallel
+Given vector 𝑎 = 𝑂𝐴	⃗⃗⃗⃗⃗	 and vector 𝑏 = 𝑃𝐵	⃗⃗⃗⃗⃗
+Vector 𝑎 can only be parallel to vector 𝑏 if 𝑎 = 𝑘𝑏
+Conditions for 2 vectors to be collinear
+Given vector 𝑃𝑄	⃗⃗⃗⃗⃗	 = 𝑘𝑃𝑅	⃗⃗⃗⃗⃗	 , then 𝑃𝑄 is parallel to 𝑃𝑅,
+𝑃𝑄 = 𝑘𝑃𝑅
+The points 𝑃, 𝑄 and 𝑅 are collinear.
+Example 1. (Taken from CASCO Mathematics Tutor 4B)
+Given that A is the point (−9, 2), 𝐵𝐴	⃗⃗⃗⃗⃗	 = ( 8
+−6) and 𝐶𝐷	⃗⃗⃗⃗⃗	 = ( 𝑚
+−3).
+Find
+(a) |𝐵𝐴	⃗⃗⃗⃗⃗	 |
+(b) the coordinates of 𝐵.
+(c) the value of 𝑚 is 𝐶𝐷	⃗⃗⃗⃗⃗	 is parallel to 𝐵𝐴	⃗⃗⃗⃗⃗
+1(a)
+|𝐵𝐴	⃗⃗⃗⃗⃗	 | = √82 + (−6)2 = 10 units
+1(b)
+Given that Point B is the origin of the vector and Point A is the destination of the vector.
+(−𝟗
+𝟐 ) − ( 𝟖
+−𝟔) = (−𝟏𝟕
+𝟖 )
+Point B = (−𝟏𝟕, 𝟖)
+1(c)
+𝐶𝐷	⃗⃗⃗⃗⃗	 = 𝑘𝐵𝐴	⃗⃗⃗⃗⃗
+( 𝑚
+−3) = 𝑘 ( 8
+−6)
+To determine the value of 𝑘 we perform the following operation:
+𝑘 = −3
+−6 = 1
+2
+
+-- 141 of 145 --
+
+∴ 𝑚 = 1
+2 (8) = 4
+Example 2. (Taken from CASCO Mathematics Tutor 4B)
+The position vectors of the points 𝐴, 𝐵 and 𝐶 , relative to the origin, 𝑂 are (−6
+5 ) , ( 0
+𝑚)
+and ( 10
+−3) respectively.
+(a) Express 𝐴𝐵	⃗⃗⃗⃗⃗	 and 𝐴𝐶	⃗⃗⃗⃗⃗	 as column vectors
+(b) If the points A, B and C lie in a straight line, find the value of 𝑚.
+2(a)
+Using vector formula 𝑂𝐵	⃗⃗⃗⃗⃗	 − 𝑂𝐴	⃗⃗⃗⃗⃗	 = 𝐴𝐵	⃗⃗⃗⃗⃗
+𝐴𝐵	⃗⃗⃗⃗⃗	 = ( 0
+𝑚) − (−6
+5 ) = ( 6
+𝑚 − 5)
+Using vector formula 𝑂𝐶	⃗⃗⃗⃗⃗	 − 𝑂𝐴	⃗⃗⃗⃗⃗	 = 𝐴𝐶	⃗⃗⃗⃗⃗
+𝐴𝐶	⃗⃗⃗⃗⃗	 = ( 10
+−3) − (−6
+5 ) = (16
+−8)
+2(b)
+Using vector collinearity principle 𝐴𝐵	⃗⃗⃗⃗⃗	 = 𝑘𝐴𝐶	⃗⃗⃗⃗⃗
+( 6
+𝑚 − 5) = 𝑘 ( 16
+−8)
+𝑘 = 6
+16 = 3
+8
+3
+8 (−8) = 𝑚 − 5
+−3 = 𝑚 − 5
+𝑚 = 2
+
+-- 142 of 145 --
+
+Example 3. (Taken from Casco Mathematics Book 4B, Volume 2)
+In the diagram, OMN is a triangle. 𝑂𝑀	⃗⃗⃗⃗⃗⃗	 = 𝑚 and 𝑂𝑁	⃗⃗⃗⃗⃗⃗	 = 𝑛. 𝑃 is a point on 𝑀𝑁 such that
+𝑀𝑃: 𝑃𝑁 = 1: 3.
+(a) Find 𝑀𝑃 in terms of 𝒎 and 𝒏.
+(b) 𝑄 is a point on 𝑂𝑁 such that 𝑂𝑄 = 1
+3 𝑂𝑁. Use vectors to show that 𝑂𝑀 is not
+parallel to 𝑄𝑃.
+3(a)
+Using vector principle that 𝑂𝑁	⃗⃗⃗⃗⃗⃗	 − 𝑂𝑀	⃗⃗⃗⃗⃗⃗	 = 𝑀𝑁	⃗⃗⃗⃗⃗⃗⃗
+Since 𝑂𝑁	⃗⃗⃗⃗⃗⃗	 = 𝑛 and 𝑂𝑀	⃗⃗⃗⃗⃗⃗	 = 𝑚
+𝑀𝑁	⃗⃗⃗⃗⃗⃗⃗	 = 𝑛 − 𝑚
+Since the ratio of 𝑀𝑃: 𝑃𝑁 = 1: 3, therefore the ratio of 𝑀𝑃: 𝑀𝑁 = 1: 4.
+𝑀𝑃	⃗⃗⃗⃗⃗⃗	 = 1
+4 (𝑛 − 𝑚) = 1
+4 𝑛 − 1
+4 𝑚
+3(b)
+Using vectors, we can establish that
+𝑄𝑃	⃗⃗⃗⃗⃗	 = 𝑂𝑃	⃗⃗⃗⃗⃗	 − 𝑂𝑄	⃗⃗⃗⃗⃗⃗
+𝑂𝑃	⃗⃗⃗⃗⃗	 = 𝑂𝑀	⃗⃗⃗⃗⃗⃗	 + 𝑀𝑃	⃗⃗⃗⃗⃗⃗	 = 𝑚 + 1
+4 (𝑛 − 𝑚) = 𝑚 + 1
+4 𝑛 − 1
+4 𝑚 = 1
+4 𝑛 + 3
+4 𝑚
+𝑂𝑄	⃗⃗⃗⃗⃗⃗	 = 1
+3 𝑂𝑁	⃗⃗⃗⃗⃗⃗	 = 1
+3 𝑛
+𝑄𝑃	⃗⃗⃗⃗⃗	 = 𝑂𝑃	⃗⃗⃗⃗⃗	 − 𝑂𝑄	⃗⃗⃗⃗⃗⃗	 = 1
+4 𝑛 + 3
+4 𝑚 − 1
+3 𝑛 = − 1
+12 𝑛 + 3
+4 𝑚 = 3
+4 𝑚 − 1
+12 𝑛
+Since 𝑂𝑀	⃗⃗⃗⃗⃗⃗	 cannot be expressed as 𝑘(𝑄𝑃	⃗⃗⃗⃗⃗	 ) where 𝑘 is a scalar, 𝑂𝑀	⃗⃗⃗⃗⃗⃗	 is not parallel
+to 𝑄𝑃	⃗⃗⃗⃗⃗
+
+-- 143 of 145 --
+
+Example 4 (Taken from Casco Mathematics 4B Book, Volume 2)
+In the diagram, 𝐴𝐵𝐶𝐷 is a parallelogram. The diagonals 𝐴𝐶 and 𝐵𝐷 intersect at 𝐺. The
+point 𝐸 lies on 𝐵𝐷 such that such that 𝐵𝐸: 𝐸𝐷 = 2: 3. The point 𝐹 lies on 𝐵𝐶: 𝐹𝐶 =
+2: 1, 𝐵𝐹	⃗⃗⃗⃗⃗	 = 𝑝 and 𝐶𝐺	⃗⃗⃗⃗⃗	 = 𝑞.
+(a) Express as simply as possible in terms of 𝑝 and/or 𝑞.
+(i) 𝐵𝐶	⃗⃗⃗⃗⃗	 (ii) 𝐶𝐴	⃗⃗⃗⃗⃗	 (iii) 𝐵𝐴	⃗⃗⃗⃗⃗	 (iv) 𝐵𝐸	⃗⃗⃗⃗⃗	 (v) 𝐴𝐸	⃗⃗⃗⃗⃗
+(b) What can you deduce about the points 𝐴, 𝐸 and 𝐹?
+(c) Find the numerical value of
+(i) 𝐴𝑟𝑒𝑎 𝑜𝑓 𝛥 𝐴𝐵𝐸
+𝐴𝑟𝑒𝑎 𝑜𝑓 𝛥 𝐴𝐵𝐷 (ii) 𝐴𝑟𝑒𝑎 𝑜𝑓𝛥 𝐴𝐸𝐷
+𝐴𝑟𝑒𝑎 𝑜𝑓 𝑃𝑎𝑟𝑎𝑙𝑙𝑒𝑙𝑜𝑔𝑟𝑎𝑚 𝐴𝐵𝐶𝐷
+4(a) (i)
+Since 𝐵𝐹	⃗⃗⃗⃗⃗	 = 𝑝 and 𝐹𝐶	⃗⃗⃗⃗⃗	 = 1
+2 𝑝
+𝐵𝐹	 ⃗⃗⃗⃗⃗⃗ + 𝐹𝐶	⃗⃗⃗⃗⃗	 = 𝐵𝐶	⃗⃗⃗⃗⃗	 = 3
+2 𝑝
+4(a) (ii)
+𝐶𝐴	⃗⃗⃗⃗⃗	 = 𝐶𝐺	⃗⃗⃗⃗⃗	 + 𝐺𝐴	 ⃗⃗⃗⃗⃗⃗ = 2𝑞 (Bisection of Diagonals in Parallelogram)
+4(a) (iii)
+𝐵𝐴	⃗⃗⃗⃗⃗	 = 𝐵𝐶	⃗⃗⃗⃗⃗	 + 𝐶𝐴	⃗⃗⃗⃗⃗	 = 3
+2 𝑝 + 2𝑞
+4(a) (iv)
+Since 𝐵𝐶	⃗⃗⃗⃗⃗	 = 𝐴𝐷	⃗⃗⃗⃗⃗	 and 𝐵𝐴	⃗⃗⃗⃗⃗	 = 𝐶𝐷	⃗⃗⃗⃗⃗	 (Parallel sides are equal in length within a Parallelogram)
+𝐵𝐷	⃗⃗⃗⃗⃗⃗	 = 𝐵𝐶	⃗⃗⃗⃗⃗	 + 𝐶𝐷	⃗⃗⃗⃗⃗
+𝐵𝐷	⃗⃗⃗⃗⃗⃗	 = 𝐵𝐶	⃗⃗⃗⃗⃗	 + 𝐵𝐴	⃗⃗⃗⃗⃗	 = 3
+2 𝑝 + 3
+2 𝑝 + 2𝑞 = 3𝑝 + 2𝑞
+4(a) (v)
+𝐴𝐸	⃗⃗⃗⃗⃗	 = 𝐴𝐵	⃗⃗⃗⃗⃗	 + 𝐵𝐸	⃗⃗⃗⃗⃗	 =
+Since 𝐴𝐵	⃗⃗⃗⃗⃗	 = −𝐵𝐴	⃗⃗⃗⃗⃗	 = − (3
+2 𝑝 + 2𝑞)
+𝐴𝐸	 ⃗⃗⃗⃗⃗⃗ = − (3
+2 𝑝 + 2𝑞) + 𝐵𝐸	⃗⃗⃗⃗⃗
+
+-- 144 of 145 --
+
+𝐵𝐸	⃗⃗⃗⃗⃗	 = 2
+5 𝐵𝐷	 ⃗⃗⃗⃗⃗⃗⃗ = 2
+5 (3𝑝 + 2𝑞) = 6
+5 𝑝 + 4
+5 𝑞
+𝐴𝐸	⃗⃗⃗⃗⃗	 = − (3
+2 𝑝 + 2𝑞) + 6
+5 𝑝 + 4
+5 𝑞
+𝐴𝐸	⃗⃗⃗⃗⃗	 = − 3
+2 𝑝 − 2𝑞 + 6
+5 𝑝 + 4
+5 𝑞 = − 3
+10 𝑝 − 6
+5 𝑞
+4(b)
+𝐴𝐹	⃗⃗⃗⃗⃗	 = 𝐴𝐵	⃗⃗⃗⃗⃗	 + 𝐵𝐹	⃗⃗⃗⃗⃗	 = − 3
+2 𝑝 − 2𝑞 + 𝑝 = − 1
+2 𝑝 − 3𝑞
+𝐴𝐸	⃗⃗⃗⃗⃗	 = − 3
+10 𝑝 − 6
+5𝑞
+Comparing 𝐴𝐸	⃗⃗⃗⃗⃗	 and 𝐴𝐹	⃗⃗⃗⃗⃗	 by simple division, the vector 𝐴𝐸	⃗⃗⃗⃗⃗	 can be expressed as 3
+5 𝐴𝐹	⃗⃗⃗⃗⃗	 ,
+therefore 𝐴𝐸	⃗⃗⃗⃗⃗	 is parallel to 𝐴𝐹	⃗⃗⃗⃗⃗	 .
+The point A is also shared between vector 𝐴𝐸	⃗⃗⃗⃗⃗	 and vector 𝐴𝐹	⃗⃗⃗⃗⃗	 and therefore proving that
+𝐴𝐸	⃗⃗⃗⃗⃗	 and 𝐴𝐹	⃗⃗⃗⃗⃗	 are colinear vectors, implying 𝐴, 𝐸 and 𝐹 lies on a straight line.
+4(c) (i)
+Since Triangle ABE and Triangle ABD share a common height
+1
+2 × ℎ × 𝑏𝑎𝑠𝑒 𝑜𝑓 𝐴𝐵𝐸
+1
+2 × ℎ × 𝑏𝑎𝑠𝑒 𝑜𝑓 𝐴𝐵𝐷
+=
+1
+2 × ℎ × 𝐵𝐸
+1
+2 × ℎ × 𝐵𝐷
+= 𝐵𝐸
+𝐵𝐷 = 2
+5
+4(c) (ii)
+Since parallelogram ABCD can be expressed rather simply as twice the area of triangle
+𝐴𝐵𝐷
+(1
+2 × ℎ × 𝑏𝑎𝑠𝑒 𝑜𝑓 𝐴𝐸𝐷)
+(2 × ℎ × 𝑏𝑎𝑠𝑒 𝑜𝑓 𝐴𝐵𝐷 ) = 3
+2 × 5 = 3
+10
+
+-- 145 of 145 --
+

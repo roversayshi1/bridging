@@ -1,0 +1,18 @@
+20
+9 The diagram shows a metal trophy which is made up of a hemisphere and a pyramid.
+The radius of the hemisphere with centre E is 4 cm.
+The base ABCD of the pyramid is a square of side 12 cm.
+E is vertically above the centre of the square base.
+The vertical height of the pyramid is 18 cm.
+A+“
+18
+Cc
+12
+A 12 B
+(a) Show that AE = 19.9 cm, correct to three significant figures. [3]
+Answer
+(b) Calculate angle BAE.
+Answer ...........co....... 0 [3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

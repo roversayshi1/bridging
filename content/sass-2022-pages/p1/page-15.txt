@@ -1,0 +1,42 @@
+: 15
+|
+17 The stem-and-leaf diagram shows the distribution of the lengths of fish caught by a fisherman.
+The numbers x and y are non-negative digits.
+The mode and range of the data are 24 cm and 22 cm respectively.
+Stem | Leaf
+1 x 4 5 7 8
+2 0 1 2 y 4 4 5 8
+3 0 0 3
+Key: 20 means 20 cm.
+(a) Find the value of x and the value of y.
+ravge = max ~win woe = 24
+22 = 3% —min SP, SC
+Sian = LN
+|
+- ANSWEY X= cooererererenirensnssssesssnsene
+le =) i 4
+(b) Iftwo of the fishes caught are selected at random, find the probability that at least one
+of them is longer than or equal to 25 cm.
+fl. Ls Pp ( <25¢ , £25 0m)
+) i
+= \ 10 2x +) + ( 5 x =)
+= | - (4% x55) (+ I< Ar ig
+FR;
+24 3
+>
+Answer re  r— [2]
+18 (a) &= {x:xisa positive integer, x<12}
+X= {x:xisaprime number} x= 92,3, 5, 7, ng
+Y={x:x<6
+br x56) efi 2,3 45,67
+@) Find XAY.
+2: IS
+ANSWEr { cover evemeenn Leese } [1]
+(ii) A number, k, is chosen at random from &
+Find the probability that kg (XUY). ~~ X VY = § 1,2,3,4,5,6,7, ul
+. Lo P
+Give your answer as a fraction in the lowest terms. (x ¥) v) - $ 8,4, lo, nf
+4 _ 1
+12 3 [
+Answer en [1
+[Turn over

@@ -1,0 +1,89 @@
+Title Coordinate Geometry of Quadratic Graphs
+Author AprilDolphin – Lim Wang Sheng
+Date 23/2/2026
+Several facts to remember about quadratic graphs
+• In context of any quadratic graphs, the line intersecting the point vertically where
+the graph can be folded into half and remain symmetrical is called the line of
+symmetry of graph.
+• In any quadratic functions drawn on a graph paper, the point where the line of
+symmetry intersects the graph is also called the turning point, minimum or
+maximum point of the quadratic function.
+Method of Finding Line of Symmetry
+Case 1: Quadratic Equation roots given as part of question in the form 𝒙 = 𝒑 or
+𝒙 = 𝒒 directly
+Example 1(a): Sketch the graph of 𝑦 = −(𝑥 − 5)(𝑥 + 1). Write down the coordinates
+of turning point and 𝑥 and 𝑦 intercepts.
+(Yellow represents 𝑦 = −(𝑥 − 5)(𝑥 + 1) and Blue represents the line of symmetry)
+• 𝑥 intercepts are simply just the 𝑥-coordinates of roots given for the quadratic
+equation (when 𝑦 = 0)
+Since 𝑥 = 5 OR 𝑥 = −1 when 𝑦 = 0
+The coordinate of the 𝑥-intercepts are (5,0) and (−1,0)
+• 𝑦 intercepts can be derived by removal of brackets through expansion (or
+substituting 𝑥 = 0)
+−(𝑥 − 5)(𝑥 + 1) = −(𝑥2 − 5𝑥 + 𝑥 − 5) = −(𝑥2 − 7𝑥 − 5) = −𝑥2 + 7𝑥 + 5
+Comparing with the general form of a quadratic equation 𝑎𝑥2 + 𝑏𝑥 + 𝑐, the
+value of 𝑐 as highlighted above is 𝑦-coordinate of the 𝑦-intercept.
+The coordinates of the 𝑦-intercept is (0,5).
+• 𝑥-coordinate of turning point can be derived by summing 𝑝 and 𝑞 together and
+dividing by 2.
+𝑥 = (5+(−1))
+2 = 2
+
+-- 67 of 145 --
+
+𝑦-coordinate of turning point can be derived by substituting value of 𝑥 on the
+turning point back into original equation which gives us
+−(2 − 5)(2 + 1) = 9
+The coordinates of the turning point is (2,9).
+Example 1(b): Write down the line of symmetry of 𝑦 = −(𝑥 − 5)(𝑥 + 1)
+• Since the line of symmetry intersects the turning point exactly, we can derive
+the line of symmetry by extracting 𝑥-ccoordinates of the turning point as
+mentioned in the previous question which give us a value of 𝑥 = 2
+Example 1(c): Write down the coordinates of the maximum point.
+• Since in any quadratic function, the maximum or minimum point coincides with
+the turning point, we can derive the coordinates of the maximum point of the
+quadratic equation from the coordinate values of turning point as obtained in
+1(a)
+Therefore, coordinate of maximum point is (2,9).
+Case 2: Quadratic equation has no real roots or given/rewritten in the form of
+𝒚 = (𝒙 − 𝒉)𝟐 + 𝒌 where (𝒉, 𝒌) represents the coordinate of the minimum or
+maximum point.
+Example 2(a): Express 𝑥2 − 4𝑥 + 5 in the form (𝑥 − ℎ)2 + 𝑘 where ℎ and 𝑘 are
+constants.
+Using completing the squares, we can rewrite the quadratic above in the form of
+(𝑥 − ℎ)2 + 𝑘.
+𝑥2 − 4𝑥 + (4
+2)
+2
++ 5 − (4
+2)
+2
+(𝑥 − 2)2 + 1
+Details obtained shows that
+Coordinates where graph crosses the 𝑦-axis or 𝑦-intercept: (0,5)
+Minimum point (Since 𝑎 > 0): (2,1)
+
+-- 68 of 145 --
+
+Example 2(b) Hence, sketch the graph for 𝑥2 − 4𝑥 + 5.
+Example 3(a): Express −2𝑥2 − 8𝑥 + 4 in the form 𝑎(𝑥 + ℎ)2 + 𝑘
+Step 1: Factor out 𝑎 from the given quadratic, in this case, we are given 𝑎 = −2 which
+could be factored out to give us −2(𝑥2 + 4𝑥 − 2)
+Step 2: Use completing the square to deal with the quadratic inside the bracket.
+−2(𝑥2 + 4𝑥 − 2)
+= −2[𝑥2 + 4𝑥 + (4
+2)
+2
+− 2 − (4
+2)
+2
+]
+= −2[(𝑥 + 2)2 − 6]
+= −2(𝑥 + 2)2 + 12
+Example 3(b)
+Details inferred from quadratic
+• 𝑎 < 0 (Hence having maximum point)
+• Maximum point coordinates (−2,12)
+• 𝑦-intercept coordinates (0,4)
+
+-- 69 of 145 --

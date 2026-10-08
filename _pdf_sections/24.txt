@@ -1,0 +1,52 @@
+Title Financial Arithmetic – Hire Purchase
+Author Liu Hui Ling, Ngee Ann Polytechnic
+Date 7/1/2019
+Hire purchase, otherwise known more familiar as “pay by installments” appears quite
+often in our lives. That may include purchasing a vehicle or any assets for which paying
+at one go isn’t always a feasible idea, therefore there will be a need to divide the
+payment into equal segments or “installments” and often it will take many years before
+you finally clear the installments.
+Terminology used in Hire Purchase plans
+• Deposit/Initial Payment – The amount of money being paid upfront at the point
+of purchase.
+• Installments – The number of “intervals” for which the payment is divided into
+equal segments.
+Structure of a Hire Purchase Plan Which Are Important To Note
+Initial payment amount Example: A car cost $50 000 and the buyer pay an
+initial amount of 40%, implying the initial amount is
+$50 000(40%) = $20 000
+Number of Installments Example: The car dealer allows you to pay the
+remaining amount in 24 months, each payment to be
+done every month, which works out to 24
+installments in total.
+Interest Rate (Typically simple
+interest)
+The car dealer also requires you to pay an additional
+2.5% interest on top of your total installment
+amount.
+Total Interest payable Example: The total interest can be computed as
+follows:
+Total Interest payable =
+Remaining Amount× Interest Rate
+In the car example, the remaining amount is
+$50 000 − $20 000 = $30 000
+Total interest payable is
+$30 000 × 2.5% = $750
+
+-- 136 of 145 --
+
+Amount Paid per Installment Amount Paid per Installment =
+𝑅𝑒𝑚𝑎𝑖𝑛𝑔 𝐴𝑚𝑜𝑢𝑛𝑡+𝑇𝑜𝑡𝑎𝑙 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑃𝑎𝑦𝑎𝑏𝑙𝑒
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝐼𝑛𝑠𝑡𝑎𝑙𝑙𝑚𝑒𝑛𝑡
+Using the car example, we can calculate the
+Amount paid per installment as
+$30 000 + $750
+24 = $1281.25
+Total Amount Payable Total Amount Payable is computed as follows
+𝑇𝑜𝑡𝑎𝑙 𝐴𝑚𝑜𝑢𝑛𝑡 𝑃𝑎𝑦𝑎𝑏𝑙𝑒 =
+(𝐼𝑛𝑖𝑡𝑖𝑎𝑙 𝑃𝑎𝑦𝑚𝑒𝑛𝑡 𝐴𝑚𝑜𝑢𝑛𝑡 + 𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝐴𝑚𝑜𝑢𝑛𝑡 +
+𝑇𝑜𝑡𝑎𝑙 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑃𝑎𝑦𝑎𝑏𝑙𝑒)
+Which works out to be
+$20 000 + $30 000 + $750 = $50 750
+
+-- 137 of 145 --

@@ -1,0 +1,14 @@
+5
+2 A bag contains 10 red balls and 8 green balls.
+Anna takes two balls from the bag, at random, without replacement.
+(a) Anna says that the probability that she takes one red ball and one green ball is 2 .
+Explain why Anna is wrong and provide the correct solution.
+(b) Anna puts back the two balls into the bag.
+n red balls are removed from the bag.
+The probability that she takes two green balls is 4 .
+Write down an equation to represent this information and show that it simplifies to
+n’=35n+124=0. 3]
+Answer
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

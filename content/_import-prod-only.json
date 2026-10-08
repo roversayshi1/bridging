@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "topic_code": "t01",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Standard form",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q3a",
+      "prompt": "A light on a computer comes on for 26 700 microseconds. One microsecond is 10^-6 seconds.\n\nWork out the length of time, in seconds, that the light is on in standard form.",
+      "model_answer": "2.67 x 10^-2 s",
+      "explanation": "26 700 microseconds = 26 700 x 10^-6 s\n= 2.67 x 10^4 x 10^-6 s\n= 2.67 x 10^-2 s.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Direct proportion",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q7a",
+      "prompt": "p is proportional to q^3. It is known that p = 24 for a particular value of q.\n\nFind the value of p when this value of q is halved.",
+      "model_answer": "3",
+      "explanation": "p = kq^3, so 24 = kq^3.\nWhen q is halved: p = k(q/2)^3 = kq^3 / 8 = 24 / 8 = 3.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Inverse proportion",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q7b",
+      "prompt": "y is inversely proportional to x^2. y = 4 when x = 3.\n\nFind y when x = 10.",
+      "model_answer": "0.36",
+      "explanation": "y = k / x^2, so 4 = k / 9 and k = 36.\nWhen x = 10: y = 36 / 100 = 0.36.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t02",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Map scales",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q8b",
+      "prompt": "A map is drawn to a scale of 1 : 50 000.\n\nThe actual area of the airport is 3.5 km^2. Calculate the area on the map which represents the airport, giving your answer in square centimetres.",
+      "model_answer": "14 cm^2",
+      "explanation": "1 cm : 0.5 km, so 1 cm^2 : 0.25 km^2.\nArea on map = 3.5 / 0.25 = 14 cm^2.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Algebraic fractions",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q10",
+      "prompt": "Express as a single fraction in its simplest form:\n\n2x/(x^2 - 4) + 5/(2 - x).",
+      "model_answer": "(-3x - 10)/[(x - 2)(x + 2)]",
+      "explanation": "2x/(x^2 - 4) + 5/(2 - x)\n= 2x/[(x - 2)(x + 2)] - 5/(x - 2)\n= [2x - 5(x + 2)] / [(x - 2)(x + 2)]\n= (-3x - 10) / [(x - 2)(x + 2)].",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Quadratic factorisation",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q13b",
+      "prompt": "Factorise completely:\n\ny^2 - 6xy + 5x^2.",
+      "model_answer": "(y - 5x)(y - x)",
+      "explanation": "Need two terms multiplying to 5x^2 and summing to -6xy.\n(y - 5x)(y - x) = y^2 - xy - 5xy + 5x^2 = y^2 - 6xy + 5x^2.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Laws of indices",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q16a",
+      "prompt": "Given that (x^5 x x^0) / sqrt(x) = x^k, find k.",
+      "model_answer": "9/2",
+      "explanation": "x^5 x x^0 / x^(1/2) = x^(5 + 0 - 1/2) = x^(9/2).\nSo k = 9/2.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Laws of indices",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q16bi",
+      "prompt": "Simplify, expressing your answer in positive index:\n\n(x^27 / 27)^(2/3).",
+      "model_answer": "x^18 / 9",
+      "explanation": "(x^27 / 27)^(2/3) = x^(27 x 2/3) / 27^(2/3)\n= x^18 / 9.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Laws of indices",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q16bii",
+      "prompt": "Simplify, expressing your answer in positive index:\n\n(27/7) / (p^2 / 3)^(-1).",
+      "model_answer": "9p^2 / 7",
+      "explanation": "(p^2 / 3)^(-1) = 3 / p^2.\n(27/7) / (3 / p^2) = (27/7) x (p^2 / 3) = 9p^2 / 7.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Completing the square",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q22ai",
+      "prompt": "The expression x^2 - 10x + 17 can be written in the form (x - 5)^2 + n.\n\nFind the value of n.",
+      "model_answer": "-8",
+      "explanation": "(x - 5)^2 + n = x^2 - 10x + 25 + n.\nCompare constant terms: 25 + n = 17, so n = -8.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Completing the square",
+      "question_type": "open",
+      "tags": "sass-2022-p1,q22aii",
+      "prompt": "The expression x^2 - 10x + 17 can be written as (x - 5)^2 - 8.\n\nExplain why when x = 5, the expression x^2 - 10x + 17 has its minimum value.",
+      "model_answer": "(x - 5)^2 >= 0, so the expression is smallest when (x - 5)^2 = 0, i.e. when x = 5.",
+      "explanation": "x^2 - 10x + 17 = (x - 5)^2 - 8.\n(x - 5)^2 is never negative and is zero when x = 5.\nSo the minimum value occurs at x = 5.",
+      "diagram_filename": ""
+    },
+    {
+      "topic_code": "t01",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Number properties",
+      "question_type": "open",
+      "tags": "sass-2022-p2,q1b",
+      "prompt": "Given that n is an integer and n > 1, decide whether each statement is true or false. If false, give a counter-example.\n\n(i) n^3 > 1\n(ii) 1/n > 1/n^2\n(iii) (n - 1)(n + 3) is always odd",
+      "model_answer": "(i) True (ii) True (iii) False; e.g. n = 3 gives (2)(6) = 12 which is even",
+      "explanation": "(i) For n > 1, n^3 > 1.\n(ii) For n > 1, 1/n > 1/n^2 since n > 1.\n(iii) When n = 3, (n - 1)(n + 3) = 2 x 6 = 12, which is even, so the statement is false.",
+      "diagram_filename": ""
+    }
+  ]
+}

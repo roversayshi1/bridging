@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://emath-marker.local/schemas/question.schema.json",
+  "title": "EMathQuestion",
+  "type": "object",
+  "required": ["id", "prompt", "questionType", "canonicalAnswer"],
+  "properties": {
+    "id": { "type": "string", "format": "uuid" },
+    "prompt": { "type": "string", "minLength": 1 },
+    "questionType": {
+      "type": "string",
+      "enum": [
+        "numeric",
+        "fraction",
+        "decimal",
+        "percentage",
+        "ratio",
+        "algebraic-expression",
+        "equation",
+        "coordinate",
+        "set",
+        "interval",
+        "matrix",
+        "text-exact"
+      ]
+    },
+    "canonicalAnswer": { "type": "string", "minLength": 1 },
+    "acceptedAnswers": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "answerConstraints": {
+      "type": "object",
+      "properties": {
+        "allowEquivalentForms": { "type": "boolean", "default": true },
+        "requireExactForm": { "type": "boolean", "default": false },
+        "requiredForm": {
+          "type": ["string", "null"],
+          "enum": [
+            "fraction",
+            "decimal",
+            "percentage",
+            "simplified-surds",
+            "factorised",
+            "expanded",
+            "set-roster",
+            "interval",
+            null
+          ]
+        },
+        "decimalPlaces": { "type": ["integer", "null"], "minimum": 0 },
+        "significantFigures": { "type": ["integer", "null"], "minimum": 1 },
+        "tolerance": { "type": ["number", "null"], "minimum": 0 },
+        "requireUnits": { "type": "boolean", "default": false },
+        "acceptedUnits": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "ordered": { "type": "boolean", "default": false },
+        "simplifyRequired": { "type": "boolean", "default": false }
+      },
+      "additionalProperties": false
+    },
+    "topicId": { "type": "string" },
+    "difficulty": { "type": "string", "enum": ["Easy", "Medium", "Hard"] },
+    "metadata": { "type": "object" }
+  },
+  "additionalProperties": false
+}

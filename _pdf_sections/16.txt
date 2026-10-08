@@ -1,0 +1,79 @@
+Title Shapes of Graphs of Commonly Seen Power Function
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 4/10/2018
+This topic requires a bit of memory work. I am showing you all the generic shapes of
+graphs of power function.
+(Note: In exam, please specify your X-axis and Y-axis and write down the equation of
+graph beside the line you drew, or marks will be deducted. The computer software I
+used to generate these graphs doesn’t do that for me, as it is widely understood in the
+computer software manuals that horizontal-axis are called X-axis while vertical-axis are
+as defined Y-axis.)
+Equation 𝑦 = 𝑚𝑥 + 𝑐 (for 𝑚 > 0)
+Name Linear Function
+
+-- 89 of 145 --
+
+Equation 𝑦 = 𝑚𝑥 + 𝑐 (for 𝑚 < 0)
+Name Negative Linear Function
+
+-- 90 of 145 --
+
+Equation 𝑦 = 𝑎𝑥2 + 𝑏𝑥 + 𝑐 (for 𝑎 > 0)
+Name Quadratic Function
+
+-- 91 of 145 --
+
+Equation 𝑦 = 𝑎𝑥2 + 𝑏𝑥 + 𝑐 (for 𝑎 < 0)
+Name Negative Quadratic Function
+
+-- 92 of 145 --
+
+Equation 𝑦 = 𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥 + 𝑑 (for 𝑎 > 0)
+Name Cubic Function
+
+-- 93 of 145 --
+
+Equation 𝑦 = 𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥 + 𝑑 (for 𝑎 < 0)
+Name Negative Cubic Function
+
+-- 94 of 145 --
+
+Equation 𝑦 = 𝑎
+𝑥 𝑂𝑟 𝑦 = 𝑎𝑥−1 (For 𝑎 > 0)
+Name Linear Reciprocal Function
+***Take note that the graph will not have any
+contact with the Y-axis or X-axis.
+
+-- 95 of 145 --
+
+Equation 𝑦 = 𝑎
+𝑥 𝑂𝑅 𝑦 = 𝑎𝑥−1 (for 𝑎 < 0)
+Name Negative Linear Reciprocal Function
+***Take note that the graph will not have any contact with
+the Y-axis or X-axis.
+
+-- 96 of 145 --
+
+Equation 𝑦 = 𝑎
+𝑥2 𝑂𝑅 𝑦 = 𝑎𝑥−2(for 𝑎 > 0)
+Name Quadratic Reciprocal Function
+***Take note that the graph will not have any contact with the Y-
+axis or X-axis.
+
+-- 97 of 145 --
+
+Equation 𝑦 = 𝑎
+𝑥2 𝑂𝑅 𝑦 = 𝑎𝑥−2(for 𝑎 < 0)
+Name Negative Quadratic Reciprocal
+***Take note that the graph will not have any contact with the Y-axis
+or X-axis.
+
+-- 98 of 145 --
+
+Equation 𝑦 = 𝑎𝑥
+(𝒂 > 𝟏)
+Name Exponential Function
+**Note the graph doesn’t have any contact with the X-axis
+
+-- 99 of 145 --

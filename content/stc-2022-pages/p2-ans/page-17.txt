@@ -1,0 +1,54 @@
+17
+(co) State what each element of matrix R represents.
+
+The two elements in row 1 of R represent total amount spent on the drinks by Belinda
+
+and Carol respectively if they bought them at Café X. -
+
+The two elements in row 2 of R represent total amount spent on the drinks by Belinda
+
+and Carol respectively if they bought them at Café Y. 1]
+
+OR
+
+Amount Belinda would have spent is $58.70 in Café X and $58.80 in Café Y.
+
+Amount Carol would have spent is $62.20 in Café X and $61.60 in Café Y. [B1]
+
+(d)  Belindaand Carol each bought their drinks from the café that provided a better offer.
+For the latest meeting in July, Belinda and Carol gave their members another treat to
+celebrate the completion of the project. Each of them bought the same set of drinks
+from the same café they patronised in February. However, the prices of the drinks have
+changed by the following percentages in both cafés.
+
+The price of acup of Americano has increased by 10%.
+The price of acup of Latte has increased by 15%.
+The price of acup of Mocha has decreased by 5%.
+Calculate the percentage change in the combined total spent in February and July.
+Total amount for latest meeting in July
+=§(5.2x1.1x 2+ 6.6x1.15x 4+ 7.3x 0.95x 3) + (6.4x1.15x 5+ 7.4x 0.95x 4)
+= $(62.605 + 64.92)
+=$127.525 [B1]
+Percentage change
+_ (127.525 58.70 61.60) «100% [M1]
+(58.70+ 61.60)
+~ 6.005818786%
+=6.01% (3sf.) [A1]
+Alt. Method:
+52 66 7.3 10 0 5.72 7.59 6.935
+New price= ee 64 a) 0 115 0 (oo 736 703 )
+BE ’ 0 0 09% ’ ’ ’
+Total cost of drinks latest meeting in July in Cafe X and Y:
+20
+_(572 759 6.935 45 62.605 65.69 M1]
+6.05 7.36 7.03 34 “6263 64.92
+Percentage change
+(62.605-+ 64.92) - (58.70+ 61.60)
+= ——————x100% [M1
+(58.70+ 61.60) SEES [LK]
+~ 6.005818786%
+=6.01% (3sf.) [A1]
+Answer .......cccoeeeiii. % [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

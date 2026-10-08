@@ -1,0 +1,255 @@
+Title Matrices – Rules, Operations and Applications
+Notes and
+Credits
+Some examples here are taken directly from CASCO Mathematics Tutor
+4B for demonstration purposes
+Date
+Before we proceed, I will be providing explanation on various vocabulary that surrounds
+how any matrices would be described, added, subtracted and multiplied, it is very
+important to understand these terms as any correct matrix operation relies heavily on
+correct understanding of core concepts.
+Typical structure of a matrix as an example
+(3 6
+0 4) As seen from the matrix on the left side of
+this table row, we see a typical matrix
+which consist of a large bracket with a set
+of numbers (also referred to as elements)
+in a rectangle array format.
+The term rows and columns
+Rows Refers to an arrangement of matrix
+elements made horizontally
+Columns Refers to an arrangement of matrix
+elements made vertically
+Let’s see a few real examples that would clear confusion instantly
+For the following matrices, state the number of rows and column
+(4 3 1
+0 8 4)
+Referring to our definitions of rows and columns, we get the following idea on the
+above example
+The matrix above has 2 elements each in horizontal format for every 3 elements
+arranged vertically, therefore the matrix above has 2 rows and 3 columns.
+Example
+(
+7
+2
+4
+)
+Referring to our above example, we get the following idea
+
+-- 124 of 145 --
+
+The matrix just right above has 3 elements in horizontal arrangement for every 1 and
+only element arranged vertically, therefore the matrix has 3 rows and 1 column.
+Order of any matrices is described by the number of rows multiplied by the number of
+columns
+Example:
+State the order of the matrix below.
+(82 5 2
+0 61 18)
+In this case, the matrix order is said to be 2 × 3, as it has 2 horizontal elements for every
+3 vertical elements.
+Square Matrices
+In the case where the matrix has same number of rows and columns, the matrix is
+called a square matrix.
+Example:
+(5) is a square matrix, as it has order 1 × 1
+(1 1
+2 0) is a square matrix, as it has order 2 × 2
+(
+3 3 5
+0 4 1
+2 5 0
+) is also a square matrix, as it has a 3 × 3 order and so on….
+Identity matrices are square matrices, specifically, in which all the elements in the
+leading diagonal are equal to 1 and the rest of the elements are equal to 0, typically
+denoted by the capital letter I.
+Examples
+(𝟏 𝟎
+𝟎 𝟏)
+(
+𝟏 𝟎 𝟎
+𝟎 𝟏 𝟎
+𝟎 𝟎 𝟏
+)
+Null Matrices – matrices for which all the elements inside are zero, typically denoted
+by 0.
+Examples
+(0 0)
+
+-- 125 of 145 --
+
+(0
+0)
+(
+0 0
+0 0
+0 0
+)
+Addition and Subtraction Operation on Matrices
+Both operation of addition and subtraction of matrices can only happen if both matrices
+are of the exact same order.
+Example as given below
+( 7 3
+−4 −6) + (−9 1
+6 7) will produce valid results as the order are the same
+(2 −2
+1 4 ) + ( 8
+12) will not produce valid results of any kind due to differences in order of
+both matrices
+(5 −6) − (5 7) will produce valid results as the order are the same
+(8 0 9
+5 −3 7) − (0 −5
+2 −1) will not produce valid results of any kind due to differences in
+order of both matrices.
+Things to note about matrices addition and subtraction
+Matrices addition is commutative in nature which means, if 𝐴 and 𝐵 represents two
+matrices of the same order, then
+𝐴 + 𝐵 = 𝐵 + 𝐴
+Matrices addition is also associative in nature, which means if 𝐴, 𝐵 and C represents
+three matrices of the same order, then
+(𝐴 + 𝐵) + 𝐶 = 𝐴 + (𝐵 + 𝐶)
+However, matrices subtraction is neither commutative nor associative in nature, as with
+regular subtraction, which means generally speaking,
+𝐴 − 𝐵 ≠ 𝐵 − 𝐴
+(𝐴 + 𝐵) − 𝐶 ≠ 𝐴 − (𝐵 + 𝐶)
+
+-- 126 of 145 --
+
+Multiplication Operation involving Scalar and a Matrix
+Multiplication Operation can involve regular numbers (also called a scalar) being
+multiplied to a matrix
+Given a matrix, 𝐴 and a regular number, 𝑛 the product of the two is 𝑛 × 𝐴
+Multiplication Operation involving Multiple Matrices
+Both matrices can only be multiplied together provided, the number of columns in the
+first matrix matches the number of rows in the second matrix, in mathematical terms,
+this implies, given two matrices, 𝐴 and 𝐵
+Matrix 𝐴 has order of 𝑚 × 𝑛, Matrix 𝐵 has order of 𝑝 × 𝑞, multiplication can only occur
+if 𝑛 = 𝑝
+The resultant matrix 𝐴𝐵 after multiplying 𝐴 and 𝐵 shall have an order of 𝑚 × 𝑞
+Demonstration of how to perform addition and subtraction of matrices, along with
+scalar multiplication
+Example (Performing scalar multiplication to a matrix directly)
+In the below case, the number 3 is to be multiplied by every single element in the
+bracket, which implies
+3 ( 8
+−2) = ( 3 × 8
+3 × (−2)) = (24
+−6)
+Example (Performing Addition and Subtraction of Matrices Only)
+Given matrix 𝐴 = (𝑎 𝑐
+𝑏 𝑑) and 𝐵 = (𝑓 𝑔
+ℎ 𝑘)
+𝐴 + 𝐵 = (𝑎 + 𝑓 𝑐 + 𝑔
+𝑏 + ℎ 𝑑 + 𝑘)
+(5 8
+1 8) + (6 2
+7 8) = (11 10
+8 16)
+Given matrix 𝐴 = (𝑎 𝑐
+𝑏 𝑑) and 𝐵 = (𝑓 𝑔
+ℎ 𝑘)
+
+-- 127 of 145 --
+
+𝐴 − 𝐵 = (𝑎 − 𝑓 𝑐 − ℎ
+𝑏 − ℎ 𝑑 − 𝑘)
+(5 8
+1 8) − (6 2
+7 8) = (−1 6
+−6 0)
+Examples (Performing Addition and Subtraction of Matrices, alongside with scalar
+multiplication)
+3 (
+1
+−3
+4
+) − 2 (
+5
+6
+0
+) = (
+3
+−9
+12
+) − (
+10
+12
+0
+) = (
+−7
+−21
+12
+)
+3 (−2 1
+0 4) + 1
+2 ( 8 −6
+10 12) = (−6 3
+0 12) + (4 −3
+5 6 ) = (−2 0
+5 18)
+Demonstration of how to multiply a matrix by another matrix
+Step 1. Read the question carefully and note the order of both matrices
+Step 2. Determine the order of the resultant matrix after both are multiplied together
+Step 3. Multiply the matrices together according to the guideline below
+(1
+6) (2 3)
+In the above example, we noted that the matrix order of both matrices are 2 × 1 and
+1 × 2 respectively, so the resultant matrix must have an order of 2 × 2
+Every time when a matrix is multiplied by another matrix, it is always a matter of
+multiplying the rows of a matrix by the columns of another matrix and adding the
+product together in the following manner, as seen in the following few examples.
+Examples (Performing multiplication of matrices together)
+(1
+6) (2 3) = (1 × 2 1 × 3
+6 × 2 6 × 3) = ( 2 3
+12 18)
+(1 2 5
+0 3 −1) (
+−1
+2
+3
+) = ( 1 × (−1) + 2 × 2 + 5 × 3
+0 × (−1) + 3 × 2 + (−1) × 3) = (18
+3 )
+
+-- 128 of 145 --
+
+(1 2
+0 −1)2
+= (1 2
+0 −1) (1 2
+0 −1) = ( 1 × 1 + 2 × 0 1 × 2 + 2 × (−1)
+0 × 1 + (−1) × 0 0 × 2 + (−1) × (−1))
+= (1 0
+0 1)
+Applications of Matrices
+Andy and Mark each purchased some pencils, pens and erasers. The table below show
+the number of stationary purchased and the cost of each item.
+Pencil Pen Eraser
+Andy 5 6 2
+Mark 8 4 0
+Cost
+Pencil 0.20
+Pen 1.50
+Eraser 0.40
+(a) Write two matrices that can represent the above information and multiply the
+matrices together, taking into account the order provided by the table.
+(b) Explain what your answer to part (a) represents
+(a)
+In this case, we get the following matrices, which are multiplied together in the
+following manner.
+[As the matrix on the left is a 2 × 3 matrix and the matrix on the right is a 3 × 1 matrix,
+we will get a 2 × 1 as a product of the 2]
+(5 6 2
+8 4 0) × (
+0.20
+1.50
+0.40
+) = (5 × (0.20) + 6 × (1.50) + 2 × (0.40)
+8 × (0.20) + 4 × (1.50) + 0 × (0.40)) = (10.80
+7.60 )
+(b)
+My answer to part (a) represents the amount of money Andy and Mark spent on
+stationary respectively, where Andy spent $10.80 and Mark spent $7.60.
+
+-- 129 of 145 --

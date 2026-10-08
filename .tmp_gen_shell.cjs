@@ -1,0 +1,344 @@
+const fs = require('fs');
+const page = {
+  dash: '2477b79a-4106-4f7c-84e0-17b35f03677f',
+  topics: '74ea9589-7db5-49bc-a4a4-f3ec2b663b96',
+  notes: '7649d5a4-7d5a-4c33-9de1-913589ca6f14',
+  practice: '24b87e3d-6298-463b-9b2d-6dfdf5824a36',
+  account: '020852ef-08ed-401f-a365-e6e5fc31a6f5',
+};
+const navStyle = () => ({
+  default: {
+    font: "var(--7ec2b1df-c053-4193-bf70-b5a5590fa9ff, 400 16px/24px 'Inter', sans-serif)",
+    color: 'var(--18c67ebb-8fca-41e9-b7e2-17c101228283,#9CA3AF)',
+    padding: '8px 12px 8px 12px',
+    borderRadius: 'var(--c914c39d-e584-4d5c-a2ba-ee422ab4fb87,6px)',
+    cursor: 'pointer',
+    transition: 'color 0.2s ease, background-color 0.2s ease',
+  },
+  _wwHover_default: {
+    color: 'var(--c3f9c15f-d6a5-4463-aad8-1ca500123b9f,#F9FAFB)',
+    backgroundColor: 'rgba(47,98,253,0.10)',
+  },
+  _wwLinkActive_default: {
+    color: 'var(--3016b512-3f64-40df-9e06-b089cc8439c9,#2F62FD)',
+    backgroundColor: 'rgba(47,98,253,0.18)',
+    fontWeight: '600',
+  },
+});
+const mobStyle = () => ({
+  default: {
+    font: "var(--0c716e13-45b8-41cf-a7f7-b66ac9a6bf9b, 500 13px/18px 'Inter', sans-serif)",
+    color: 'var(--18c67ebb-8fca-41e9-b7e2-17c101228283,#9CA3AF)',
+    padding: '6px 12px 6px 12px',
+    borderRadius: 'var(--17ea00c9-e3cd-4acd-bb93-dd123176acf6,9999px)',
+    cursor: 'pointer',
+    border: '1px solid var(--15cd162b-41dd-4297-a76a-3b0746fd0ae0,#1F2937)',
+  },
+  _wwHover_default: {
+    color: 'var(--c3f9c15f-d6a5-4463-aad8-1ca500123b9f,#F9FAFB)',
+  },
+  _wwLinkActive_default: {
+    color: 'var(--3016b512-3f64-40df-9e06-b089cc8439c9,#2F62FD)',
+    border: '1px solid var(--3016b512-3f64-40df-9e06-b089cc8439c9,#2F62FD)',
+  },
+});
+const out = [
+  {
+    uid: 'UID0',
+    tag: 'ww-section',
+    name: 'Account App Shell',
+    style: {
+      default: {
+        width: '100%',
+        minHeight: '100vh',
+        backgroundColor: 'var(--2f5fd52f-8697-4093-b06d-5600b24a7cc7,#0A0E1A)',
+      },
+    },
+    slots: [{ slotKey: 'wwObjects', elements: ['UID1'] }],
+  },
+  {
+    uid: 'UID1',
+    tag: 'ww-div',
+    name: 'App Shell Row',
+    style: {
+      default: {
+        display: 'flex',
+        flexDirection: 'row',
+        alignItems: 'stretch',
+        width: '100%',
+        minHeight: '100vh',
+      },
+      mobile: { flexDirection: 'column' },
+    },
+    slots: [{ slotKey: 'children', elements: ['UID2', 'UID10'] }],
+  },
+  {
+    uid: 'UID2',
+    tag: 'ww-div',
+    name: 'Left Sidebar',
+    style: {
+      default: {
+        display: 'flex',
+        flexDirection: 'column',
+        width: '248px',
+        padding: 'var(--9630a370-f7ae-40df-a962-9b93db6110ba,24px)',
+        rowGap: 'var(--3715e539-3087-4941-9077-5041f3eee1bf,32px)',
+        backgroundColor: 'var(--57396fcb-444f-4ea9-9448-29627bd7b90a,#111827)',
+      },
+      mobile: { conditionalRendering: false },
+    },
+    slots: [{ slotKey: 'children', elements: ['UID3', 'UID4', 'UID9'] }],
+  },
+  {
+    uid: 'UID3',
+    tag: 'ww-text',
+    name: 'Sidebar Logo',
+    content: { default: { tag: 'div', text: { en: 'BRIDGING' } } },
+    style: {
+      default: {
+        font: "var(--77b8dd82-d376-43a7-8d22-f19e2cd7a0eb, 600 20px/28px 'Inter', sans-serif)",
+        color: 'var(--c3f9c15f-d6a5-4463-aad8-1ca500123b9f,#F9FAFB)',
+        letterSpacing: '0.08em',
+      },
+    },
+  },
+  {
+    uid: 'UID4',
+    tag: 'ww-div',
+    name: 'Navigation Links',
+    style: {
+      default: {
+        display: 'flex',
+        flexDirection: 'column',
+        rowGap: 'var(--9a08123f-9e3d-47b0-bb50-1d0a69c39c18,8px)',
+        width: '100%',
+      },
+    },
+    slots: [{ slotKey: 'children', elements: ['UID5', 'UID6', 'UID7', 'UID8'] }],
+  },
+  {
+    uid: 'UID5',
+    tag: 'ww-text',
+    name: 'Nav Dashboard',
+    states: [
+      { id: '_wwHover', label: 'hover' },
+      { id: '_wwLinkActive', label: 'active' },
+    ],
+    content: { default: { tag: 'div', text: { en: 'Dashboard' } } },
+    link: { type: 'internal', pageId: page.dash, targetBlank: false },
+    style: navStyle(),
+  },
+  {
+    uid: 'UID6',
+    tag: 'ww-text',
+    name: 'Nav Topics',
+    states: [
+      { id: '_wwHover', label: 'hover' },
+      { id: '_wwLinkActive', label: 'active' },
+    ],
+    content: { default: { tag: 'div', text: { en: 'Topics' } } },
+    link: { type: 'internal', pageId: page.topics, targetBlank: false },
+    style: navStyle(),
+  },
+  {
+    uid: 'UID7',
+    tag: 'ww-text',
+    name: 'Nav Notes',
+    states: [
+      { id: '_wwHover', label: 'hover' },
+      { id: '_wwLinkActive', label: 'active' },
+    ],
+    content: { default: { tag: 'div', text: { en: 'Notes' } } },
+    link: { type: 'internal', pageId: page.notes, targetBlank: false },
+    style: navStyle(),
+  },
+  {
+    uid: 'UID8',
+    tag: 'ww-text',
+    name: 'Nav Practice',
+    states: [
+      { id: '_wwHover', label: 'hover' },
+      { id: '_wwLinkActive', label: 'active' },
+    ],
+    content: { default: { tag: 'div', text: { en: 'Practice' } } },
+    link: { type: 'internal', pageId: page.practice, targetBlank: false },
+    style: navStyle(),
+  },
+  {
+    uid: 'UID9',
+    tag: 'ww-text',
+    name: 'Profile Meta',
+    content: { default: { tag: 'div', text: { en: 'Account settings' } } },
+    link: { type: 'internal', pageId: page.account, targetBlank: false },
+    style: {
+      default: {
+        font: "var(--0c716e13-45b8-41cf-a7f7-b66ac9a6bf9b, 500 13px/18px 'Inter', sans-serif)",
+        color: 'var(--3016b512-3f64-40df-9e06-b089cc8439c9,#2F62FD)',
+        marginTop: 'auto',
+        cursor: 'pointer',
+      },
+    },
+  },
+  {
+    uid: 'UID10',
+    tag: 'ww-div',
+    name: 'Main Content Area',
+    style: {
+      default: {
+        display: 'flex',
+        flexDirection: 'column',
+        flex: '1',
+        minHeight: '100vh',
+        position: 'relative',
+      },
+    },
+    slots: [{ slotKey: 'children', elements: ['UID16', 'UID24', 'UID11'] }],
+  },
+  {
+    uid: 'UID11',
+    tag: 'ww-div',
+    name: 'Mobile Tab Bar',
+    style: {
+      default: { conditionalRendering: false },
+      mobile: {
+        conditionalRendering: true,
+        display: 'flex',
+        flexDirection: 'row',
+        justifyContent: 'space-around',
+        alignItems: 'center',
+        columnGap: 'var(--9a08123f-9e3d-47b0-bb50-1d0a69c39c18,8px)',
+        padding: '12px 16px 12px 16px',
+        backgroundColor: 'var(--57396fcb-444f-4ea9-9448-29627bd7b90a,#111827)',
+        border: '1px solid var(--15cd162b-41dd-4297-a76a-3b0746fd0ae0,#1F2937)',
+        position: 'fixed',
+        bottom: '0px',
+        left: '0px',
+        right: '0px',
+        zIndex: '50',
+        width: '100%',
+      },
+    },
+    slots: [{ slotKey: 'children', elements: ['UID12', 'UID13', 'UID14', 'UID15'] }],
+  },
+  {
+    uid: 'UID12',
+    tag: 'ww-text',
+    name: 'Mobile Tab Dashboard',
+    states: [
+      { id: '_wwHover', label: 'hover' },
+      { id: '_wwLinkActive', label: 'active' },
+    ],
+    content: { default: { tag: 'span', text: { en: 'Dashboard' } } },
+    link: { type: 'internal', pageId: page.dash, targetBlank: false },
+    style: mobStyle(),
+  },
+  {
+    uid: 'UID13',
+    tag: 'ww-text',
+    name: 'Mobile Tab Topics',
+    states: [
+      { id: '_wwHover', label: 'hover' },
+      { id: '_wwLinkActive', label: 'active' },
+    ],
+    content: { default: { tag: 'span', text: { en: 'Topics' } } },
+    link: { type: 'internal', pageId: page.topics, targetBlank: false },
+    style: mobStyle(),
+  },
+  {
+    uid: 'UID14',
+    tag: 'ww-text',
+    name: 'Mobile Tab Notes',
+    states: [
+      { id: '_wwHover', label: 'hover' },
+      { id: '_wwLinkActive', label: 'active' },
+    ],
+    content: { default: { tag: 'span', text: { en: 'Notes' } } },
+    link: { type: 'internal', pageId: page.notes, targetBlank: false },
+    style: mobStyle(),
+  },
+  {
+    uid: 'UID15',
+    tag: 'ww-text',
+    name: 'Mobile Tab Practice',
+    states: [
+      { id: '_wwHover', label: 'hover' },
+      { id: '_wwLinkActive', label: 'active' },
+    ],
+    content: { default: { tag: 'span', text: { en: 'Practice' } } },
+    link: { type: 'internal', pageId: page.practice, targetBlank: false },
+    style: mobStyle(),
+  },
+  {
+    uid: 'UID16',
+    tag: 'ww-div',
+    name: 'Account Header',
+    style: {
+      default: {
+        display: 'flex',
+        flexDirection: 'row',
+        alignItems: 'center',
+        justifyContent: 'space-between',
+        columnGap: 'var(--5920094a-e0a7-46f6-bbdc-33eb9aa5a5dd,16px)',
+        width: '100%',
+        padding: 'var(--9630a370-f7ae-40df-a962-9b93db6110ba,24px)',
+        backgroundColor: 'var(--57396fcb-444f-4ea9-9448-29627bd7b90a,#111827)',
+        position: 'sticky',
+        top: '0px',
+        zIndex: '20',
+      },
+      mobile: { padding: 'var(--5920094a-e0a7-46f6-bbdc-33eb9aa5a5dd,16px)' },
+    },
+    slots: [{ slotKey: 'children', elements: ['UID17', 'UID18'] }],
+  },
+  {
+    uid: 'UID17',
+    tag: 'ww-text',
+    name: 'Account Page Title',
+    content: { default: { tag: 'div', text: { en: 'Account & Settings' } } },
+    style: {
+      default: {
+        font: "var(--2d7702f0-51f6-41b1-bd66-c7dc5b1395d6, 700 36px/44px 'Inter', sans-serif)",
+        color: 'var(--c3f9c15f-d6a5-4463-aad8-1ca500123b9f,#F9FAFB)',
+      },
+      mobile: {
+        font: "var(--77b8dd82-d376-43a7-8d22-f19e2cd7a0eb, 600 20px/28px 'Inter', sans-serif)",
+      },
+    },
+  },
+  {
+    uid: 'UID18',
+    tag: 'ww-button',
+    name: 'Header Account Active Button',
+    classes: { default: ['239dbe23-213e-4392-8b0d-0429b6e81598'] },
+    states: [{ id: '_wwHover', label: 'hover' }],
+    content: { default: { text: { en: 'Account' }, buttonType: 'button', disabled: false } },
+    link: { type: 'internal', pageId: page.account, targetBlank: false },
+    style: { default: { cursor: 'pointer' }, _wwHover_default: { opacity: '0.9' } },
+  },
+  {
+    uid: 'UID24',
+    tag: 'ww-div',
+    name: 'Scrollable Body',
+    style: {
+      default: {
+        display: 'flex',
+        flexDirection: 'column',
+        rowGap: 'var(--9630a370-f7ae-40df-a962-9b93db6110ba,24px)',
+        width: '100%',
+        padding: 'var(--9630a370-f7ae-40df-a962-9b93db6110ba,24px)',
+        flex: '1',
+      },
+      mobile: {
+        padding: 'var(--5920094a-e0a7-46f6-bbdc-33eb9aa5a5dd,16px)',
+        rowGap: 'var(--5920094a-e0a7-46f6-bbdc-33eb9aa5a5dd,16px)',
+        paddingBottom: '88px',
+      },
+    },
+    slots: [{ slotKey: 'children', elements: [] }],
+  },
+];
+fs.writeFileSync(
+  'C:/Users/rover/Projects/emath-marker/.tmp_account_shell.jsonl',
+  out.map((o) => JSON.stringify(o)).join('\n')
+);
+console.log('ok', out.length);

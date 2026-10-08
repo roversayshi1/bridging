@@ -1,0 +1,245 @@
+Title Percentages – Basics and Applications (Secondary 1)
+Editor Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+[This document is created through a joint collaboration with Liu Hui Ling,
+she wrote the original version several years ago, found a copy below her
+desk, sent to me a scanned copy and ask me to improve it if necessary.]
+Date 21/9/2018
+Concepts to Cover Include the Following
+• Percentage Basics
+• Practical Applications – Basic Applications
+• Practical Applications – Percentage Change
+• Practical Application – Reverse Percentages
+I want to start off by explaining what is required for this topic as introduction, the basic
+concepts you need to know are the following:
+• Percentages are numerator values within a fraction, for which the denominator is
+widely understood to have a value of 100.
+75
+100
+Basically, from my above illustration, I showed that percentages are just another form of
+fraction, just that the denominator is 100 and the way to express this fraction is
+replaced by the “%” symbol.
+From this, we will be able to further on understand other concepts and application.
+Numerator	Denominator
+As long as the
+denominator of the
+fraction is 100, you can
+copy the numerator
+value and write the
+fraction in the following
+format:
+75%
+Read as “75 Percent” in
+English.
+
+-- 31 of 145 --
+
+In Example 1, we have the following lesson objectives in mind.
+• Finding value of a percentage rate of a base value
+• Finding total value, of which a certain percentage gets added to the base value
+Basic Applications
+Example 1. [Applying Percentage to Get Final Value]
+Product ID QT-531A
+Name Potato Chips (1 Can)
+Pricing (Before GST) $7.20
+GST Rate 8.5%
+GST Tax (In $) (a)
+Pricing (After GST) (b)
+Fill in the above blanks.
+To do the above question, we need to understand the goal of the question itself, the
+question asks us to do the following
+• Find GST Tax Rate – (Deriving value of a percentage, given base value)
+• Find Pricing After GST – (Deriving final target value, given percentage.)
+(a)
+Formula for deriving value of percentage of a base value goes as follows
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡 𝑅𝑎𝑡𝑒 × 𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒 = 𝑉𝑎𝑙𝑢𝑒 𝑜𝑓 𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒
+In this case, the GST Tax is the “Value of Percentage”, while the percent rate is 8.5%
+Which can be written as the following statement
+GST Tax in $ as follows:
+8.5% × $7.20 = $0.612
+$0.612 = $0.61 (𝑁𝑒𝑎𝑟𝑒𝑠𝑡 𝐶𝑒𝑛𝑡𝑠)
+(b)
+Formula for deriving final value, when certain percentage of a base value gets added in.
+(100% + 𝑃𝑒𝑟𝑐𝑒𝑛𝑡 𝑅𝑎𝑡𝑒)(𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒) = 𝐹𝑖𝑛𝑎𝑙 𝑉𝑎𝑙𝑢𝑒.
+Pricing of Potato Chips after GST as Follows
+(100% + 8.5%) × $7.20 = 108.5% × $7.20 = $7.812
+$7.812 = $7.81 (𝑁𝑒𝑎𝑟𝑒𝑠𝑡 𝐶𝑒𝑛𝑡𝑠)
+
+-- 32 of 145 --
+
+After obtaining the answer, the answers are to be filled in as follows:
+Product ID QT-531A
+Name Potato Chips (2 Bag)
+Pricing (Before GST) $7.20
+GST Rate 8.5%
+GST Tax (In $) $0.61
+Pricing (After GST) $7.81
+In Example 2, the following concepts are to be illustrated
+• Finding value of percentages of base value.
+• Finding final values, of which a certain percentage gets subtracted from the base
+value.
+Example 2.
+A staff member of ABC Company keys in the following information into the inventory
+system, and accidentally left some blanks in the process. You will have to fill in the
+missing information and provide clear workings for your answer.
+Product ID QN-242C
+Name ABC Electronic Dictionary Model QN-242C [Exam
+Approved]
+Original Pricing $25.00
+Discounts Yes
+Discount Rate 20%
+Discount Amount (In $) (a)
+Discounted Price (b)
+(a)
+Formula for deriving value of percentage of a base value goes as follows
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡 𝑅𝑎𝑡𝑒 × 𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒 = 𝑉𝑎𝑙𝑢𝑒 𝑜𝑓 𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒
+In this case, the percent rate refers to the discount rate, while the original value refers
+to the original pricing.
+Discount Amount
+20% × $25.00 = $5.00
+
+-- 33 of 145 --
+
+(b)
+Formula for deriving final value of which a certain percentage gets removed from the
+base value
+(100% − 𝑃𝑒𝑟𝑐𝑒𝑛𝑡 𝑅𝑎𝑡𝑒)(𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒) = 𝐹𝑖𝑛𝑎𝑙 𝑉𝑎𝑙𝑢𝑒
+Pricing of ABC Electronic Dictionary QN-242C after discount applied
+(100% − 20%) × $25 = $20.00
+I filled in the blanks as follows.
+Product ID QN-242C
+Name ABC Electronic Dictionary Model QN-242C [Exam
+Approved]
+Original Pricing $25.00
+Discounts Yes
+Discount Rate 20%
+Discount Amount (In $) $5.00
+Discounted Price $20.00
+In Example 3, it will be different, the goal of Example 3, is to find the target
+percentage, given the value of the target and base value. (Calculator Guide at Last
+Page of This Topic)
+Example 3.
+In a country XYZ election, a group of 200 people is interviewed. Out of the group of
+people interviewed, about 137 people are supportive of candidate A, about 51 people
+are supportive of candidate B, the remaining being unsure.
+(a) Find the percentages of the number of people within the group who are
+supportive of candidate B.
+3(a)
+𝐷𝑒𝑠𝑖𝑟𝑒𝑑 𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 = ( 𝑉𝑎𝑙𝑢𝑒
+𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒) × 100%
+In this case,
+Target Value is the number of people in support of candidate B.
+Base Value is the total number of people interviewed.
+Target Percentage is the percentage of people in support of candidate B.
+Percentage of people in support of candidate B as follows:
+( 51
+200) × 100% = 25.5%
+
+-- 34 of 145 --
+
+Change in Percentage
+Example 4
+The following data shows the stock market situation of XYZ Indices Index.
+Current Point 1298
+Change (Refers to the amount of value
+increased or decreased compared to the
+previous trading day, as denoted by +/-
+symbols respectively.)
++31
+52 Week High 1330
+52 Week Low 1069
+Answer the following questions
+(a) What is the percentage increase or decrease of XYZ Indices Index from the
+previous trading day to the current points?
+(b) Calculate the percentage increase from the 52-Week-Low value to the current
+number of points.
+(c) Calculate the percentage decrease from the 52-Week-High value to the current
+number of points.
+Formula for Percentage Increase and Decrease as Follows
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐼𝑛𝑐𝑟𝑒𝑎𝑠𝑒 = 𝐿𝑎𝑡𝑒𝑟 𝑉𝑎𝑙𝑢𝑒 − 𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 × 100%
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐷𝑒𝑐𝑟𝑒𝑎𝑠𝑒 = 𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 − 𝐿𝑎𝑡𝑒𝑟 𝑉𝑎𝑙𝑢𝑒
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 × 100%
+
+-- 35 of 145 --
+
+4(a)
+Since 𝐿𝑎𝑡𝑒𝑟 𝑉𝑎𝑙𝑢𝑒 − 𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 = 𝐷𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑐𝑒 𝑖𝑛 𝐵𝑜𝑡ℎ 𝑉𝑎𝑙𝑢𝑒𝑠,
+the difference between the previous day stock index points can be rewritten as follows
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐼𝑛𝑐𝑟𝑒𝑎𝑠𝑒 = 𝐷𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑐𝑒 𝑖𝑛 𝐵𝑜𝑡ℎ 𝑉𝑎𝑙𝑢𝑒𝑠
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 × 100%
+𝐷𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑐𝑒 𝐼𝑛 𝐵𝑜𝑡ℎ 𝑉𝑎𝑙𝑢𝑒𝑠 = 31
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 = 1298 − 31 = 1267
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐼𝑛𝑐𝑟𝑒𝑎𝑠𝑒 = 31
+1267 × 100% = 2.4467%
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐼𝑛𝑐𝑟𝑒𝑎𝑠𝑒 = 2.45% (3 𝑠𝑖𝑔𝑛𝑖𝑓𝑖𝑐𝑎𝑛𝑡 𝑓𝑖𝑔𝑢𝑟𝑒𝑠)
+4(b)
+Previous Value = 52 Week Low = 1069
+Later Value = 1298
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐼𝑛𝑐𝑟𝑒𝑎𝑠𝑒 = 𝐿𝑎𝑡𝑒𝑟 𝑉𝑎𝑙𝑢𝑒 − 𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 × 100%
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐼𝑛𝑐𝑟𝑒𝑎𝑠𝑒 = 1298−1069
+1069 × 100% = 21.4% (3 𝑆𝑖𝑔𝑛𝑖𝑓𝑖𝑐𝑎𝑛𝑡 𝐹𝑖𝑔𝑢𝑟𝑒𝑠)
+4(c)
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 = 52 𝑊𝑒𝑒𝑘 𝐻𝑖𝑔ℎ = 1330
+Later Value = 1298
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐷𝑒𝑐𝑟𝑒𝑎𝑠𝑒 = 𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 − 𝐿𝑎𝑡𝑒𝑟 𝑉𝑎𝑙𝑢𝑒
+𝑃𝑟𝑒𝑣𝑖𝑜𝑢𝑠 𝑉𝑎𝑙𝑢𝑒 × 100%
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 𝐼𝑛𝑐𝑟𝑒𝑎𝑠𝑒 1330−1298
+1298 × 100% = 2.47% (3 𝑆𝑖𝑔𝑛𝑖𝑓𝑖𝑐𝑎𝑛𝑡 𝐹𝑖𝑔𝑢𝑟𝑒𝑠)
+
+-- 36 of 145 --
+
+Reverse Percentages
+If you are being given the final value, percentages and asked to find the base value, the
+usual approach to doing question simply don’t work here, instead, you rely on the
+following methods.
+5(a)
+John buys a pair of shoes from a local fashion store. At a discounted rate of 15%, the
+pair of shoes cost $17.50. Find the amount of money she has to pay for the pair of shoes
+if the discount wasn’t offered.
+𝐹𝑖𝑛𝑎𝑙 𝑉𝑎𝑙𝑢𝑒 = 17.50
+100%
+(100 − 15)% × $17.50 = $20.59
+Cost of Shoes (Before Discount) = $20.59 (Nearest Cents)
+5(b)
+ABC Company reported earnings of $257 036 after paying taxes in 2005. Given the tax
+rate for his company is 7.35%. Compute the amount of earning before the company
+paid its taxes on that year.
+𝐹𝑖𝑛𝑎𝑙 𝑉𝑎𝑙𝑢𝑒 = 257 036
+100%
+(100−7.35)% × 257 036 = $277426.88 (Nearest Cents)
+
+-- 37 of 145 --
+
+Reminder (Calculator Matters)
+The way you write your workings and answers isn’t necessarily the same as how you
+input into a calculator, as illustrated in the below example.
+Written Format Calculator Input
+Objective: Find the percentage equivalent
+of a fraction.
+23
+46 × 100% = 50%
+Objective: Find the number of %
+equivalent of a fraction.
+23
+46 × 100 = 50
+This is because calculators interpret the following statements literally in the following
+way.
+23
+46 × 100% is interpreted as 23
+46 × 100
+100 = 23
+46 × 1 = 23
+46
+I want to remind students that when keying in to the calculator, remember not to key in
+“× 100%” if the purpose is to find the percentage equivalent on a fraction, instead you
+key the fraction, multiplied by 100 and convert the value from fraction to decimal, if
+necessary, and the decimal value displayed on the screen is the number of %. You write
+the decimal value displayed on the screen followed by the percent symbol (%).
+This value is the number
+of percent equivalent of
+the fraction value 23
+46.
+
+-- 38 of 145 --

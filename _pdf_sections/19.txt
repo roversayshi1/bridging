@@ -1,0 +1,263 @@
+Title Venn Diagrams and Set Language
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 21/7/2018
+Knowing a lot of students are having problems with this topic, I will also be explaining
+the tricks I’ve used (derived from my secondary school teacher’s approach) to do
+questions pertaining to this topic. Before we began, let’s talk about why this topic is
+important.
+It serves as a basic concept to be applied to various other concepts in the following
+fields
+• Electronics (Logic Gate and Computer System Programming)
+• Software Development (Creating Computer Software and Understanding
+Software Logic)
+• Mathematical Proofs and Logic Demonstration
+
+-- 107 of 145 --
+
+Notation Alternative Notation Meaning of the Notation
+𝜀 𝕌
+(Not used in ‘O’ Levels,
+appears in other
+textbooks)
+Universal Set: A set containing all the
+possible element, in which all are
+subsets.
+∩
+(E.g. 𝐴 ∩ 𝐵)
+𝐴𝑁𝐷
+(Not used in ‘O’ Levels,
+appears in programmer
+guide and electrical
+theory books)
+Intersection: To take the intersection
+between multiple sets.
+Further explanation: When you say to
+take the intersection between multiple
+sets, you are taking any elements
+common between the sets.
+Example Below Meant: To take the
+intersection or common elements
+between A and B.
+∪
+(E.g. 𝐴 ∪ 𝐵)
+𝑂𝑅
+(Not used in ‘O’ Levels,
+appears in programmer
+guide and electrical
+theory books)
+Union: To take element that appear in
+either set, along with the intersection
+between the sets.
+Further explanation: When you say to
+take the union between multiple sets,
+you are taking every possible element in
+both sets, along with the intersection.
+Example Below Meant: To take the
+elements that appear in either Set A or
+Set B, along with the intersection
+between A and B.
+∈ Element of: To explain that something is
+an element of a set.
+𝑛(𝐴) Number of Element in a specific set: In
+this case, we are talking number of
+elements in set A.
+𝐴′ 𝐴𝑐
+(Not used in ‘O’ Levels,
+appears in other
+textbooks)
+Complement of a specific set:
+In this case, we are talking about the
+complement of set A, or simply,
+whatever element not found in set A.
+
+-- 108 of 145 --
+
+⊆
+E.g. (𝐴 ⊆ 𝐵)
+To be a subset of:
+In the example below the notation, we
+are saying that whatever element found
+in set A is found in set B as well.
+⊂
+E.g. (𝐴 ⊂ 𝐵)
+To be a proper subset of:
+In the example below the notation, we
+are implying that whatever element
+found in set A is found in set B. However,
+set B must contain at least one element
+not found in set A.
+{}
+E.g. 𝐴 = {1,2,3}
+To contain the following elements as
+mentioned.
+In the example, we meant set A is to
+contain elements 1,2,3.
+∅
+E.g. 𝐴 ∩ 𝐵 = ∅
+To describe a null set, or a set that
+doesn’t exist.
+In the example, it implies the
+intersection between set A and set B
+does not exist.
+Example 1. Drawing Venn Diagram for a Given Question. (Elements of sets not given,
+just ask you to draw Venn Diagram)
+A universal set is given by 𝜀 and its subsets are given by 𝐴 and 𝐵.
+Draw separate Venn Diagrams, for the following situations.
+(a) 𝐴 ∩ 𝐵
+(b) 𝐴 ∪ 𝐵
+(c) 𝐴′ ∪ 𝐵
+(d)(𝐴 ∩ 𝐵′)′
+(e) 𝐴 ∩ 𝐵 = ∅
+To facilitate understanding of the question, I would assign “dummy elements” to set A,
+set B and 𝜀. The dummy element will not be used for answering of question. In an exam
+situation, I will either ask for extra paper and write the dummy elements down and do
+workings with the help of the dummy element or, I will do workings with a pencil with
+the dummy elements and erase them later.
+
+-- 109 of 145 --
+
+Dummy Elements
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+Example 1(a)
+Step 1: Understand the
+question using the dummy
+elements you produce.
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+In this case, they are asking for 𝐴 ∩ 𝐵. We are going
+to look for dummy elements common to both A and
+B.
+Step 2: Draw a Venn Diagram,
+in pencil, along with the
+dummy elements into the
+diagram.
+Step 3: Shade the area
+enclosed within the dummy
+elements you are finding, in
+this case, we shade the area
+that encloses 4,5 as follows.
+
+-- 110 of 145 --
+
+Step 4: Carefully Erase the
+Dummy Elements while
+retaining the shaded area as
+follows.
+Example 1(b)
+Same procedure will apply as well, except you are shading the union, meaning
+element A, element B, along with the intersection between A and B. since the
+question asked for 𝐴 ∪ 𝐵.
+Example 1(b)
+Step 1
+Understand the question
+using dummy elements
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+In this case, they are asking for 𝐴 ∪ 𝐵, the union
+between both sets, which means, elements in both A
+and B, along with elements they share should be
+highlighted as above.
+Step 2: Draw a Venn Diagram,
+in pencil, along with the
+dummy elements into the
+diagram.
+
+-- 111 of 145 --
+
+Step 3: Shade area which
+encloses the dummy
+elements highlighted
+previously, in this case, we
+shade the area occupying
+2,3,4,5,6,7,8,9
+Step 4: Erase all dummy
+elements you written
+previously carefully.
+Example 1(c)
+Step 1:
+Understand the question
+using dummy elements
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+Since the question asked for 𝐴′ ∪ 𝐵, we highlighted
+elements that satisfy the following conditions.
+- Found in universal set
+- Not found in A
+- Found in B
+
+-- 112 of 145 --
+
+Step 2: Draw a Venn Diagram,
+in pencil, along with the
+dummy elements into the
+diagram.
+Step 3: Shade areas which
+encloses the elements
+highlighted previously.
+Step 4: Erase Dummy
+Elements carefully.
+
+-- 113 of 145 --
+
+Example 1(d)
+Step 1: Understand the
+question using the dummy
+elements you produce.
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+Question Asked for (𝐴 ∩ 𝐵′)′. We have analyses the
+question in following detail.
+𝐴 ∩ 𝐵′ is to be highlighted as follows:
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+𝐵′ = {1,2,3,10)
+Question asked for (𝐴 ∩ 𝐵′)′. Values highlighted in
+the previous part will not be highlighted in the next
+part of the working. Values not highlighted will be
+highlighted in the next part of the working like this.
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+
+-- 114 of 145 --
+
+Step 2: Draw a Venn Diagram,
+in pencil, along with the
+dummy elements into the
+diagram.
+Step 3: Shade areas which
+encloses the elements
+highlighted previously.
+Areas enclosing the following elements will be
+shaded.
+{1,4,5,6,7,8,9,10}
+Step 4
+Erase Dummy Elements
+carefully to get the following
+
+-- 115 of 145 --
+
+Example 1(e) [Special Case]
+*** Please commit this to memory.
+Firstly, we need to understand what set notation 𝐴 ∩ 𝐵 = ∅ mean.
+We break this down into several parts
+𝐴 ∩ 𝐵 Intersect Between A and B
+∅ Null Set (In English Terms, doesn’t exist.)
+𝐴 ∩ 𝐵 = ∅ The intersection between A and B is non-existent, implying
+set A and set B doesn’t overlap in a Venn Diagram. This is
+also known as “disjointed sets”.
+Drawn out in Venn Diagram Form.
+***Unless question specify additional instructions, you
+most likely don’t have to shade the Venn Diagram, ask
+your teachers if in doubt as my school doesn’t require us
+to shade diagram if sets are supposed to be disjointed.
+
+-- 116 of 145 --

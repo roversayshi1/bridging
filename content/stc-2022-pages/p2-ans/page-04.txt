@@ -1,0 +1,30 @@
+4
+(d Solvetheinequality Fez dx
+x=2_ 4+5x
+4 3
+3(3x—2) < 4(4+5x) M1]
+9x—6<16+20x
+-11x<22
+x=-2 [A1]
+Answer oo [2]
+(e) Solve the simultaneous equations.
+4x-3y=5
+6x+5y=-2
+4x-3y=5 -—(1)
+6x+5y=-2 —(2)
+(1)x3 = (2)x2
+12x-9y=15 ~~ -—-(3) [M1 Elimination/Substitution Method]
+12x+10y=-4 -—-(4)
+(3) - (4)
+-19y=19
+y=-1 [A1]
+Sub y=-1 into (1)
+4x-3(-1)=5
+1
+X=7 [A1]
+so x=7,y=-1
+Answer x=...........
+Y= orien [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

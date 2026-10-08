@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://emath-marker.local/schemas/mark-response.schema.json",
+  "title": "MarkAnswerResponse",
+  "type": "object",
+  "required": ["isCorrect", "verdict"],
+  "properties": {
+    "isCorrect": { "type": "boolean" },
+    "verdict": { "type": "string", "enum": ["Correct", "Wrong"] }
+  },
+  "additionalProperties": false
+}

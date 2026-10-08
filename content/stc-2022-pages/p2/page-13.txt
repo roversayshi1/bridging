@@ -1,0 +1,18 @@
+13
+S
+6 (2)
+B
+N
+P 0 4 R
+A, B and C are points on the circle with centre O.
+AOB is a straight line.
+PCS and PAR are tangents to the circle.
+Qs on PAR and QC is parallel to AB.
+@) Show that triangle 4QC is similar to triangle BCA.
+Give a reason for each statement you make.
+(ii) Angle COB=x°.
+Find angle APC in terms of x.
+Answer o.oo... [2]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

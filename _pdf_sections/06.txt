@@ -1,0 +1,82 @@
+Title Coordinate Geometry – Basic Overview
+Date 18/1/2019
+Author Lee Jian Lian
+Liu Hui Ling, Ngee Ann Polytechnic
+Coordinate Geometry appears in many ways in our lives, the idea of Coordinate
+Geometry in simple terms is to perform Mathematical calculations and applications of
+calculations on a plane, in this case, we focus on the cartesian coordinate system.
+Basic principle surrounding the idea of cartesian coordinate system.
+You have a horizontal axis called the 𝑥-axis, a vertical axis called the 𝑦-axis. Both axis
+intersect each other at 90° (Also called perpendicular to each other).
+An example will follow:
+I want to remind students to mark out 𝑥-axis and 𝑦-axis during exam or doing
+homework, the computer software used doesn’t do that.
+Point of Origin, the
+point where the
+coordinate is (0,0)
+
+-- 39 of 145 --
+
+In a Cartesian Coordinate system, we can things like points, lines and curves.
+Points
+Points are typically expressed in the following notation as follows
+(𝑥 − 𝑐𝑜𝑜𝑟𝑑𝑖𝑛𝑎𝑡𝑒, 𝑦 − 𝑐𝑜𝑜𝑟𝑑𝑖𝑛𝑎𝑡𝑒)
+(2,2)
+
+-- 40 of 145 --
+
+We can do another example to illustrate this point.
+Showing how to find a coordinate of a point
+Step 1. Mark out the point of the coordinate mentioned in the question or obtained
+from previous parts of the question.
+Step 2. From the X axis, use a ruler or gently use a pencil to trace the shortest path from
+the X-axis to the point. From the Y-Axis, use a ruler or gently use a pencil to trace the
+shortest path from the Y-Axis to the point in question. (I use color to indicate clearly but
+do not use colored pen during your exam, USE A PENCIL.)
+The point we
+mentioned
+earlier.
+
+-- 41 of 145 --
+
+Step 3.
+Deduce the Coordinate Values for X and Y.
+𝑥 −coordinate refers to the value for which the path passes through both the point and
+the 𝑥 − 𝑎𝑥𝑖𝑠, and 𝑦 −coordinate refers to the value for which the path passes through
+both the point and the 𝑦 −axis.
+Scaling
+Each big box, as noted with darker black lines, represents a 5-unit by 5-unit grid space.
+Each small box as noted with lighter black lines, represents a 1-unit by 1-unit grid space.
+Therefore, from the number of units away from the 𝑦 −axis, the point 4 units to the left
+of the point of origin and 7 units above the point of origin. Giving us a coordinate value
+of (−4,7)
+Lines
+Apart from Points, we can also have lines and curves on a Cartesian Coordinate system.
+Lines
+Two things we are particularly interested in
+• Slope (Steepness) of the Line (Also called the gradient)
+• Point where the Line crosses the Y-axis (Also called the Y-Intercept)
+
+-- 42 of 145 --
+
+To find Gradient, follow the following steps
+1. Select a point on the graph, called the coordinate of the point (𝑥1, 𝑦1) and select
+another different point on the graph, calling the coordinate of the point (𝑥2, 𝑦2)
+[Note the graph scaling is different this time, each small box represents a 0.2 unit
+by 0.2-unit grid space and each darker box, represents a 1 unit by 1 unit of grid
+space.)
+(𝑥1, 𝑦1) (−0.85, 0)
+(𝑥2, 𝑦2) (0, 2.5)
+Apply gradient formula
+𝑦2−𝑦1
+𝑥2−𝑥1
+= 0−2.5
+(−0.85)−0 = 2.941
+𝑦 − 𝑖𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡 can be approximated by the same methods established earlier and we
+can tell from the graph the 𝑦 −intercept is 2.5 units above the point of origin, therefore
+the 𝑦-intercept is 2.5.
+(When point fall between 2 tiny square, select the mid-point of the tiny square as your
+coordinate value.)
+[I also would like to say, just try your best in obtaining the best approximation possible.]
+
+-- 43 of 145 --

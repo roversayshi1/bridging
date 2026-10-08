@@ -1,0 +1,45 @@
+[
+  {
+    "id": "example-001",
+    "prompt": "Simplify 6a^5b^2 ÷ 3a^2b.",
+    "questionType": "algebraic-expression",
+    "canonicalAnswer": "2a^3b",
+    "answerConstraints": {
+      "allowEquivalentForms": true,
+      "simplifyRequired": true
+    }
+  },
+  {
+    "id": "example-002",
+    "prompt": "Write x^2 - 9x + 20 in factorised form.",
+    "questionType": "algebraic-expression",
+    "canonicalAnswer": "(x-4)(x-5)",
+    "answerConstraints": {
+      "allowEquivalentForms": false,
+      "requiredForm": "factorised",
+      "requireExactForm": true
+    }
+  },
+  {
+    "id": "example-003",
+    "prompt": "Find the interquartile range.",
+    "questionType": "numeric",
+    "canonicalAnswer": "16",
+    "acceptedAnswers": ["16.0"],
+    "answerConstraints": {
+      "allowEquivalentForms": true,
+      "significantFigures": 2
+    }
+  },
+  {
+    "id": "example-004",
+    "prompt": "Give the exact value of the diagonal of a unit square.",
+    "questionType": "numeric",
+    "canonicalAnswer": "sqrt(2)",
+    "answerConstraints": {
+      "requireExactForm": true,
+      "requiredForm": "simplified-surds",
+      "allowEquivalentForms": false
+    }
+  }
+]

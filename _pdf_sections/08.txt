@@ -1,0 +1,75 @@
+Title Mathematics (Direct & Inverse Proportion)
+Date 22/3/2018
+Author Lee Jian Lian
+This material is designed to teach students basics of inverse and direct proportion.
+The following table describes the notation I used when teaching my friend’s siblings
+about this topic, you can consider using my notation or consult your teachers about
+what notation to use.
+Notation English Name Meaning
+(𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑝𝑡) 𝐺𝑖𝑣𝑒𝑛 “Subscript Given Value” Values derived from given
+information in the question.
+(𝑆𝑢𝑏𝑠𝑐𝑟𝑖𝑝𝑡)𝑁𝑒𝑤 “Subscript New Value” Values used to solve later
+parts of the question.
+Please also state which part of the question you are trying to solve in the question paper
+before writing down how you solve the question. I will also demonstrate how I use
+those notation, you will realize how clear my working is. Students with problems with
+producing clear workings can consider a similar way of writing down workings like me.
+
+-- 47 of 145 --
+
+Direct Proportion
+Two values are said to be in direct proportion when the following conditions are met:
+• Each time when the value of the former is increased, the latter will increase as
+well.
+• Both values can be expressed in the following form 𝑦 = 𝑏𝑥, where 𝑏 is a
+constant.
+(Some teachers and questions may use different letters but they essentially mean the
+same thing.)
+Example 1:
+𝑦 is directly proportional to 𝑥. Given that 𝑦 = 144 and 𝑥 = 12. Find the value of 𝑦 when
+𝑥 = 7.
+𝑦𝑔𝑖𝑣𝑒𝑛 = 144
+𝑥𝑔𝑖𝑣𝑒𝑛 = 12
+Since 𝑦 is directly proportional to 𝑥,
+𝑦𝑔𝑖𝑣𝑒𝑛 = 𝑏(𝑥𝑔𝑖𝑣𝑒𝑛)
+144 = 𝑏(12)
+𝑏 = 12
+Since 𝑥𝑛𝑒𝑤 = 7
+𝑦𝑛𝑒𝑤 = 𝑏(𝑥𝑛𝑒𝑤)
+𝑦𝑛𝑒𝑤 = 12(7)
+𝑦𝑛𝑒𝑤 = 84
+When 𝑥 = 7, 𝑦 = 84
+
+-- 48 of 145 --
+
+Inverse Proportion
+Two values are said to be in inverse proportion when the following conditions are met:
+• Each time when you increase the former value, the latter value decreases. (And
+each time when decrease the former value, the latter value increases.)
+• Both values can be expressed in the form of 𝑦 = 𝑏
+𝑥
+Example 2:
+𝐿 is inversely proportional to the √𝑀. When 𝑀 = 100, 𝐿 = 35.
+Find the value of 𝑀, when 𝐿 = 700.
+𝐿𝑔𝑖𝑣𝑒𝑛 = 35
+𝑀𝑔𝑖𝑣𝑒𝑛 = 100
+√𝑀𝑔𝑖𝑣𝑒𝑛 = √100 = 10
+𝐿𝑔𝑖𝑣𝑒𝑛 = 𝑏
+√𝑀𝑔𝑖𝑣𝑒𝑛
+35 = 𝑏
+√100
+𝑏 = 35(10) = 350
+Since 𝐿𝑛𝑒𝑤 = 700
+700 = 350
+√𝑀𝑛𝑒𝑤
+700√𝑀𝑛𝑒𝑤 = 350
+√𝑀𝑛𝑒𝑤 = 350
+700 = 1
+2
+𝑀𝑛𝑒𝑤 = (1
+2)
+2
+= 1
+4
+
+-- 49 of 145 --

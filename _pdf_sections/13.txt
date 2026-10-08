@@ -1,0 +1,112 @@
+Title Simultaneous Equations (Secondary 2)
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 25/12/2018
+The purpose of this article is to provide an overview to simultaneous equation and to
+teach the methods required to solve such system of equations.
+The purpose of a simultaneous equation is to find the point of intersection (also called
+the coordinate of the intersection) of 2 different lines.
+Graphical Illustration as follows
+The below graph, created with the help of an App named “Desmos”, illustrates the
+following simultaneous equation
+𝑥 + 𝑦 = 5
+2𝑥 − 𝑦 = 1
+Setting aside the graphical method, where students are asked to convert simultaneous
+equations to 𝑦 = 𝑚𝑥 + 𝑐 form, graph them literally on a graphing paper or graphing
+grid space to find the coordinate(s) of intersection point(s), which most of the time
+provides a reasonably good approximation, there are ways to obtain exact solutions
+using algebraic methods, namely
+• Elimination Approach
+• Substitution Approach
+I will be providing students with some idea how to judge which method is better in
+certain situation if the question does not require a specific method to be used.
+If the question requires you to use a specific method, you must use that method, or
+marks may be lost.
+The coordinates of Intersection
+Point (The 𝑥 and 𝑦 coordinate)
+are the so-called “solutions” of
+a simultaneous equation.
+
+-- 70 of 145 --
+
+Elimination Approach
+Question 1
+Solve the simultaneous equations:
+2𝑥 − 5𝑦 = −1 Equation 1
+6𝑥 − 4𝑦 = 30 Equation 2
+Why I think elimination method is more suitable for this question.
+• Done in fewer steps (Just multiply by their common factors)
+• The question creates a situation that is more favorable to using elimination
+method.
+From Equation 1 to Equation 1A
+3(2𝑥 − 5𝑦) = 3(−1)
+6𝑥 − 15𝑦 = −3
+Equation 2 - Equation 1A
+(6𝑥 − 4𝑦) − (6𝑥 − 15𝑦) = 30 − (−3)
+6𝑥 − 4𝑦 − 6𝑥 + 15𝑦 = 33
+−4𝑦 + 15𝑦 = 33
+11𝑦 = 33
+Equation 3
+𝑦 = 3
+Substitute Equation 3 into Equation 1
+2𝑥 − 5(3) = −1
+2𝑥 = −1 + 15
+2𝑥 = 14
+𝑥 = 7
+Answer: 𝑦 = 3, 𝑥 = 7
+
+-- 71 of 145 --
+
+Substitution Approach
+Question 2
+Solve the following simultaneous equations.
+𝑦 = 2𝑥 − 5 Equation 1
+7𝑥 − 4𝑦 − 12 = 0 Equation 2
+Why I think substitution method is more suitable in this case
+• It takes less effort to substitute the values as you just need to substitute equation
+1 into equation 2.
+Substitute Equation 1 into Equation 2.
+7𝑥 − 4(2𝑥 − 5) − 12 = 0
+7𝑥 − 8𝑥 + 20 − 12 = 0
+−𝑥 + 8 = 0
+−𝑥 = −8
+Equation 3
+𝑥 = 8
+Substitute Equation 3 into Equation 1.
+𝑦 = 2(8) − 5
+𝑦 = 16 − 5 = 11
+𝑦 = 11
+𝑥 = 8, 𝑦 = 11
+
+-- 72 of 145 --
+
+Calculator Guide for Solving Simultaneous Equations (Casio FX-97 SG X)
+Step 1: Rearrange the simultaneous equation as the following order
+𝑎𝑥 + 𝑏𝑦 = 𝑐
+𝑑𝑥 + 𝑓𝑦 = 𝑔
+Example as illustrated below:
+2𝑥 + 𝑦 = 5
+𝑥 − 𝑦 = 6
+Step 2. Press the buttons and do so in correct order.
+Press [Menu], [5], [1] and you should get to the following screen.
+Step 3. Once prompted to select the number of unknowns, press [2] and press [=] and
+the following should appear on the screen.
+Step 4. Under the first row of the table displayed above, you key in each of the following
+values. Pressing [=] key after each value is entered, replacing the letters 𝑎, 𝑏 and 𝑐 with
+the value you obtained in step 1.
+
+-- 73 of 145 --
+
+Step 5. After the cursor jumped to the 2nd row, you key in each of the following values.
+Pressing [=] key after each value is entered, replacing the letters 𝑑, 𝑓, 𝑔 with the values
+obtained in step 1. You should see the following output:
+Step 6. After filling up both rows with input values. Press [=] button and you should get
+the following value in the below screenshot obtained.
+Step 7. For obtaining the value of 𝑦, press [=] button again and you should see the
+following on the calculator.
+Disclaimer: The presence of the simultaneous equation solver does NOT exempt you
+from writing down workings in your answering sheet or test paper. This functionality is
+only used to check if your answers are correct after you finish solving the simultaneous
+equation on paper.
+
+-- 74 of 145 --

@@ -1,0 +1,39 @@
+18
+y
+21
+A(-2.6)
+0(12,4)
+T
+X
+[e]
+B
+P(-4,-8)
+The diagram shows the points P(-4,-8), Q(12,4) and A(-2,6).
+B is apoint on PQ so that AB is perpendicular to PQ.
+The line segment AB cuts the x-axis at point T.
+The product (gradient of AB)x (gradient of PQ) =—1.
+Use this information to find the coordinates of T.
+4-(-8
+mop M1] When y = 0, we have,
+4.10
+O=—=xX+— M1
+3 353 [M1]
+4
+4 SoX= 21
+Mg = M1] 2
+n . Coordinatesof T is (23.0) [A1]
+__4
+&
+4 [Al t (25,0) or [2,0
+y=-3x+c [Also accept (2.5,0) or > 1
+When x=-2, y=6,we have,
+4
+6=——(-2)+c
+32
+10
+SLC=—
+&
+. equation of AB is y=-2x: 2 [A1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

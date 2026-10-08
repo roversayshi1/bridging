@@ -1,0 +1,32 @@
+13
+6 (a)
+B
+Nt
+P Q A R
+A, B and C are points on the circle with centre O.
+AOB is astraight line.
+PCSand PAR are tangents to the circle.
+Qison PARand QC is parallel to AB.
+(i) Show that triangle AQC is similar to triangle BCA.
+Give a reason for each statement you make.
+In AAQC and ABCA, Alt. Method:
+ZBAP= ZBAR = 9(* (radius L tangent) ZCAQ = ZABC (£sin alt. segment)
+ZCQA = 90 (corr. /int. Zs, QC // AB) ZQCA=~/CAB (alt. Zs, QC // AB)
+ZACB =90° (£ in semicircle)
+~. ZCQA=ZACB [B2,1,0]
+ZQCA=~CAB (alt. Zs, QC// AB)
+By AA similarity test,
+triangle AQC is similar to triangle BCA.
+(ii) AngleCOB=x.
+Find angle APC in terms of x.
+_180°-x° . Alt. Method:
+ACET==—= (base angles, isosceles A) In OAPC, ZAOC = 180° — x
+180° — x° CL ZOCP = Z0AP = 90° (radius L tangent)
+AeNe= === (corr. angles in similar As) [B1] ZAPC + ZAOC + 90° + 90° = 360° [B1]
+PA = PC (tangents from external point P are equal) (sum of angles in quadrilateral)
+180° — 3° ZAPC = 180° — (180° — x°)
+ZAPC = tao BX). (£sumof A) [B1] =x [B1]
+Answer .........cccceeee... 0 [2]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

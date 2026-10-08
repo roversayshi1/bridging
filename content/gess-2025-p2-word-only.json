@@ -1,0 +1,215 @@
+{
+  "source": "GESS Preliminary Examination 2025 Mathematics Paper 2 (4052/02)",
+  "notes": "Word-only items only. Diagram/graph questions (Q3-Q6, Q8) omitted. Notation cleaned from PDF extract; spot-check Q1b and Q1d against the paper before import.",
+  "questions": [
+    {
+      "topic_code": "t06",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Linear inequalities",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q1a",
+      "prompt": "Solve the inequality\n\n(2x + 1)/3 >= (3x - 1)/5.",
+      "model_answer": "x >= -8",
+      "explanation": "Multiply both sides by 15: 5(2x + 1) >= 3(3x - 1).\nExpand: 10x + 5 >= 9x - 3.\nSubtract 9x: x + 5 >= -3.\nSubtract 5: x >= -8."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Hard",
+      "diagram_required": false,
+      "subtopic": "Algebraic fractions",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q1b",
+      "prompt": "Express as a single fraction in its simplest form:\n\n2/(x - 1) + 7/[3(3x - 1)].",
+      "model_answer": "(3x^2 - x + 7)/(3x - 1)^2",
+      "explanation": "Combine over a common denominator involving (3x - 1).\nFollowing the marking scheme, the simplified result is (3x^2 - x + 7)/(3x - 1)^2.\nVerify against the printed paper expression before seeding if the OCR of the original fraction looked ambiguous."
+    },
+    {
+      "topic_code": "t06",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Simultaneous equations",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q1c",
+      "prompt": "Solve the simultaneous equations:\n\n5x = 49 - 4y\n4x - 5y = -10",
+      "model_answer": "x = 5, y = 6",
+      "explanation": "From (1): 5x + 4y = 49.\nMultiply (1) by 4: 20x + 16y = 196.\nMultiply (2) by 5: 20x - 25y = -50.\nSubtract: 41y = 246 => y = 6.\nSubstitute into (1): 5x + 24 = 49 => 5x = 25 => x = 5."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Indices",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q1d",
+      "prompt": "Simplify\n\n[(15h^3)/(12f)]^(-2).",
+      "model_answer": "(16f^2)/(25h^6)",
+      "explanation": "[(15h^3)/(12f)]^(-2) = [(12f)/(15h^3)]^2 = 144f^2 / 225h^6 = 16f^2 / 25h^6.\n(If your printed paper includes an extra constant such as 64, check the MS final answer before seeding.)"
+    },
+    {
+      "topic_code": "t08",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Matrix representation",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q2a",
+      "prompt": "The organiser of SG60 concerts sold tickets over one weekend. Seats were in three sections.\n\nWeek 1 ticket sales:\nSection A - Saturday 164, Sunday 128\nSection B - Saturday 144, Sunday 90\nSection C (obstructed view) - Saturday 50, Sunday 40\n\nWrite down a 2 x 3 matrix A to represent this information (rows = Saturday, Sunday; columns = A, B, C).",
+      "model_answer": "A = [[164, 144, 50], [128, 90, 40]]",
+      "explanation": "Row 1 is Saturday sales for sections A, B, C.\nRow 2 is Sunday sales for sections A, B, C."
+    },
+    {
+      "topic_code": "t08",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Matrix representation",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q2b",
+      "prompt": "Ticket prices are $30 (Section A), $25 (Section B) and $20 (Section C).\n\nRepresent these prices in a 3 x 1 column matrix P.",
+      "model_answer": "P = [[30], [25], [20]]",
+      "explanation": "Order the prices to match sections A, B, C as a single column."
+    },
+    {
+      "topic_code": "t08",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Matrix multiplication and interpretation",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q2c",
+      "prompt": "Using\nA = [[164, 144, 50], [128, 90, 40]]\nand\nP = [[30], [25], [20]],\n\nevaluate the matrix (1 1)AP and interpret the element(s) in the resulting matrix.",
+      "model_answer": "(16410)\n\nThis element is the total amount collected from ticket sales on Saturday and Sunday combined in week 1.",
+      "explanation": "AP = [[9520], [6890]] (Saturday and Sunday revenue).\n(1 1)AP = 9520 + 6890 = 16410, the combined weekend revenue."
+    },
+    {
+      "topic_code": "t08",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Matrix applications",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q2di",
+      "prompt": "In week 2, compared with week 1 matrix A:\n- Section A sales increase by 25%\n- Section B sales increase by 50%\n- Section C sales decrease to 80% of the original\n\nWrite down a matrix M such that F = AM gives the week-2 Saturday/Sunday sales for sections A, B and C.",
+      "model_answer": "M = [[1.25, 0, 0], [0, 1.5, 0], [0, 0, 0.8]]",
+      "explanation": "M is a 3 x 3 diagonal scale matrix that multiplies each section column by its week-2 factor."
+    },
+    {
+      "topic_code": "t08",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Matrix interpretation",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q2dii",
+      "prompt": "With F = AM (week-2 sales) and P the price column matrix, state what each element of matrix FP represents.",
+      "model_answer": "Each element of FP is the total amount collected from ticket sales on Saturday and on Sunday respectively in week 2.",
+      "explanation": "FP multiplies week-2 sales by prices, giving daily revenue totals for Saturday and Sunday."
+    },
+    {
+      "topic_code": "t16",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Mean and standard deviation from grouped data",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q7a",
+      "prompt": "Waiting times (minutes) for 50 patients at Hospital A:\n\n20 < t <= 24: 8 patients\n24 < t <= 28: 10 patients\n28 < t <= 32: 21 patients\n32 < t <= 36: 7 patients\n36 < t <= 40: 4 patients\n\nCalculate the mean and standard deviation of the waiting times in Hospital A.",
+      "model_answer": "Mean = 29.12 minutes\nSD = 4.47 minutes (3 s.f.)",
+      "explanation": "Use class midpoints 22, 26, 30, 34, 38.\nMean = [22(8) + 26(10) + 30(21) + 34(7) + 38(4)] / 50 = 29.12.\nSum of x^2 / n = [8(22)^2 + 10(26)^2 + 21(30)^2 + 7(34)^2 + 4(38)^2] / 50 = 868.\nSD = sqrt(868 - 29.12^2) = 4.47 (3 s.f.)."
+    },
+    {
+      "topic_code": "t16",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Comparing distributions",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q7b",
+      "prompt": "Hospital A waiting times have mean 29.12 min and SD about 4.47 min.\nHospital B has mean 29.12 min and SD = 3.2 min.\n\nCompare briefly the waiting times for the A&E clinics in both hospitals.",
+      "model_answer": "Both hospitals have the same mean waiting time (29.12 min), so average waits are similar. Hospital B has a smaller standard deviation (3.2 < 4.47), so waiting times at B are more consistent / less spread out.",
+      "explanation": "Compare mean (centre) then SD (spread/consistency)."
+    },
+    {
+      "topic_code": "t17",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Combined events without replacement",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q7c",
+      "prompt": "From the 50 Hospital A patients:\n- 8 waited 24 minutes or less (the 20 < t <= 24 class)\n- 11 waited more than 32 minutes (7 + 4 in the last two classes)\n\nTwo patients are selected at random. Find the probability of selecting one patient who waited 24 minutes or less and the other who waited more than 32 minutes.",
+      "model_answer": "88/1225",
+      "explanation": "P = (8/50)(11/49) + (11/50)(8/49) = 88/1225."
+    },
+    {
+      "topic_code": "t02",
+      "difficulty": "Hard",
+      "diagram_required": false,
+      "subtopic": "Speed and algebraic modelling",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q9a",
+      "prompt": "Ali and Robert ran a 42 km race. Ali's average speed was x km/h. Robert's average speed was 2 km/h slower than Ali's. Robert finished 30 minutes later than Ali.\n\nForm an equation in x and show that it reduces to x^2 - 2x - 168 = 0.",
+      "model_answer": "Shown: 42/(x-2) - 42/x = 1/2 reduces to x^2 - 2x - 168 = 0.",
+      "explanation": "Times: Ali 42/x h, Robert 42/(x - 2) h.\nDifference 1/2 hour:\n42/(x - 2) - 42/x = 1/2\n84 / [x(x - 2)] = 1/2\nx(x - 2) = 168\nx^2 - 2x - 168 = 0."
+    },
+    {
+      "topic_code": "t06",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Quadratic equations",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q9b",
+      "prompt": "Solve the equation x^2 - 2x - 168 = 0.",
+      "model_answer": "x = -12 or x = 14",
+      "explanation": "Factorise: (x + 12)(x - 14) = 0.\nHence x = -12 or x = 14."
+    },
+    {
+      "topic_code": "t06",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Interpreting solutions",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q9c",
+      "prompt": "In the race-speed model, the quadratic x^2 - 2x - 168 = 0 gives solutions x = -12 and x = 14. Explain why one solution must be rejected.",
+      "model_answer": "x represents average speed, so it cannot be negative. Reject x = -12.",
+      "explanation": "Speed must be positive; only x = 14 is valid."
+    },
+    {
+      "topic_code": "t02",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Speed-time calculation",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q9d",
+      "prompt": "Ali's valid average speed is 14 km/h for a 42 km race. Robert is 2 km/h slower. Calculate the time taken for Robert to complete the race.",
+      "model_answer": "3.5 hours",
+      "explanation": "Robert's speed = 12 km/h.\nTime = 42/12 = 3.5 h."
+    },
+    {
+      "topic_code": "t02",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Time and time zones",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q10a",
+      "prompt": "Mdm Siti flies Singapore to Doha (7 h 40 min) then Doha to London (6 h 10 min), plus a 2-hour layover. She departs Singapore at 11:15 PM. London is 7 hours behind Singapore.\n\nWhat is her arrival time in London, in local London time?",
+      "model_answer": "8:05 am",
+      "explanation": "Total journey time including layover = 13 h 50 min + 2 h = 15 h 50 min.\nSingapore arrival clock time: 11:15 pm + 15 h 50 min = 3:05 pm next day.\nLondon local = 3:05 pm - 7 h = 8:05 am."
+    },
+    {
+      "topic_code": "t03",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Money and percentages",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q10b",
+      "prompt": "Mdm Siti brings SGD $700. Exchange rate: 1 pound = SGD 1.65. She stays 6 days and plans on average:\n- 25 pounds/day food\n- 10 pounds/day transport\n- 15 pounds/day sightseeing\n- plus 10% of SGD 700 for emergencies\n\nBy showing working, determine whether SGD $700 is sufficient for meals, transport, sightseeing and emergencies.",
+      "model_answer": "Sufficient (planned spending about SGD $565)",
+      "explanation": "Daily = 50 pounds => 6 days = 300 pounds => SGD 300 x 1.65 = $495.\nEmergencies = 10% of $700 = $70.\nTotal planned = $565 < $700, so sufficient."
+    },
+    {
+      "topic_code": "t03",
+      "difficulty": "Hard",
+      "diagram_required": false,
+      "subtopic": "Financial decision making",
+      "question_type": "open",
+      "tags": "gess-2025-p2,q10c",
+      "prompt": "Mdm Siti has 60 pounds for 4 days of sightseeing (2 attractions per day). Options:\n\nA: 4-day pass 90 pounds, with 5% discount if she stays more than 5 days in London (she stays 6 days).\nB: Pay-as-you-go at 12.50 pounds per attraction.\nC: 2-day pass 35 pounds, then 6 pounds per attraction for the other 2 days.\n\nWhich option is most cost-effective for her plan? Show calculations and explain.",
+      "model_answer": "Option C (59 pounds). It covers all 8 attractions and stays within the 60-pound budget; A (85.50) and B (100) both exceed 60.",
+      "explanation": "Budget = 15 x 4 = 60 pounds.\nA: 90 x 0.95 = 85.50 (over budget).\nB: 8 x 12.50 = 100 (over budget).\nC: 35 + 4 x 6 = 59 (within budget).\nRecommend C."
+    }
+  ]
+}

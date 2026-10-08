@@ -1,0 +1,32 @@
+h 21
+23
+A
+|
+I |
+|
+| or
+| ~~
+| F,
+A, Band C are points on a circle, centre O, with radius 5 cm.
+AC is a diameter of the circle and point D lies on AC.
+EF is a tangent to the circle at C.
+DE=10 cm.
+(a) Show that triangle ABC is congruent to triangle DCE.
+Give a geometrical reason for cach statement you make.
+wae» 0" ££ 4 seeivinde)
+0) ZDeE = 20cE=90° ( tomgeat pL cool ius)
+- = £»CE =90° ; lef Ln
+© LABEL “ E L or ody. 2s ona csi 1
+6S Ack = qo’ 380-5 (Ament L eeclive)
+] LAR = 4pEC = 52°
+must beseea(® $ pc = DE = 10 om Lgives) -
+5 anke = ance (AAS)
+(b) Calculate AD.
+- pC
+sin 53° = To
+°
+pC = 10 sin 52° = 71-8801
+“ab = (o — (10 sa 52°)
+= NPS
+= 2.11989 Answer AD = ao cm [3]
+= 2.12 ew (3s. )

@@ -1,0 +1,643 @@
+
+
+===== P1-ANS PAGE 1 =====
+
+REN
+7, ele o- CHIJ ST. THERESA'S CONVENT
+i a PRELIMINARY EXAMINATION 2022
+oo ~~ SECONDARY 4 EXPRESS / 5 NORMAL (ACADEMIC)
+Ge NSO
+RS ge
+CANDIDATE
+NAME
+CLASS INDEX
+NUMBER
+MATHEMATICS 4048/1
+Paper 1 29 August 2022
+2 hours
+Candidates answer on the Question Paper.
+READ THESE INSTRUCTIONS FIRST
+Write your name, class and index number in the spaces at the top of this page.
+Write in dark blue or black pen.
+You may use an HB pencil for any diagrams or graphs.
+Do not use paper clips, highlighters, glue or correction fluid.
+Answer all questions.
+If working is needed for any question it must be shown with the answer.
+Omission of essential working will result in loss of marks.
+Calculators should be used where appropriate.
+If the degree of accuracy is not specified in the question, and if the answer is not exact,
+give the answer to three significant figures. Give answers in degrees to one decimal place.
+For =, use either your calculator value or 3.142, unless the question requires the answers in
+terms of mt.
+The number of marks is given in brackets [ ] at the end of each question or part question.
+The total marks for this paper is 80.
+This document consists of 21 printed pages.
+
+
+===== P1-ANS PAGE 2 =====
+
+2
+Compound interest
+Total amount = at + )
+100
+Mensuration
+Curved surface area of acone = rl
+Surface area of a sphere = 4nr?
+Volume of acone= Tar h
+_4 5
+Volume of a sphere = 3 ar
+Areaof triangle ABC = 3 absinC
+Arclength=r6, where ¢ isin radians
+Sector area = Tro , Where ¢ isinradians
+Trigonometry
+a _ bc
+snA snB sinC
+a?=b? +c? 2bc cos A
+Statistics
+> fx
+Mean = &—
+>t
+A 2
+Standard deviation = DL PIL
+DRAENOR
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 3 =====
+
+3
+Answer all the questions.
+1 Simplify 2(5a+30)-3(a-2b).
+2(5a+3b)-3(a—2b)
+=10a+6b—3a+6b [M1 — correct expansion]
+=7a+12b [A1]
+Answer... [2]
+2 Factorise completely
+(a) 2x¢+5x-3,
+2x% +5x-3
+=(2x-1)(x+3) [B1]
+Answer... [1]
+(b) 3ax+Gay—x-2y.
+3ax+ Bay — x—2y
+=3a(x+2y)—(x+2y) [M1]
+=(x+2y)(3a-1) [A]
+Answer... [2]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 4 =====
+
+4
+3 If Abigail sels a bicycle for $270, she would make aloss of 25%.
+How much must she sell the bicycle for to make a profit of 40%?
+75% of the cost price = $270
+.. 140% of the cost price = 210 tao [M1]
+75%
+=$504 [A1]
+Answer $ .....ooooeiiiiiiiiiiin [2]
+4  Cerrachanged S$500 to US dollars in January at arate of S$1 = USD 0.753.
+In October, she changed the US dollars back to Singapore dollars at arate of
+S$1=USD 0.722.
+Find the difference in the amount of Singapore dollars she received.
+Give your answer correct to the nearest cent.
+S$1=USD 0.753
+-. S$500= 2% 500= USD 376.50
+Since USD 0.721=S$1,
+~. USD 37650= 376550 M1]
+0.721
+=8$521.47
+Hence, difference = 521.47 — 500 = $521.47 [A1]
+Answer S$... [2]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 5 =====
+
+5
+5 Thegraph shows the total number of fraudulent insurance claims received by a company in
+each of the years from 2019 to 2021.
+Rapid increase in fraudulent insurance claims
+NO a
+Number of
+fraudulent 1000 f-== === msm mm mmmmm meme
+insurance
+claims
+900 fmmmmmm mmm mmm mm oT eee
+800 Year
+2019 2020 2021
+(a) State one misleading feature of the graph.
+Answer. The vertical axis of the graph does not start from zero. [BN] |
+(Accept other plausible answers)
+(b) Explain how this feature affects the reader’s interpretation of the graph.
+ANSIEN eee
+The reader might think that there is a sudden spike/significant [B1 |...
+increase in the number of fraudulent insurance claims in the year 2021.
+(Accept other plausible answers) [ree
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 6 =====
+
+6
+6 (a) Solvetheequation X25
+3 2
+X_2x=5_,
+§ 2
+2x-3(2x-5)=6 [M1 — Getting rid of the denominator correctly]
+2x-6x+15=6
+—4x=-9
+1
+LoX=2— A1
+a [A1]
+Answer... [2]
+(b) Itisgiventhat q=25-2p?.
+(i) Find qwhen p=-3.
+q=25-2(-3)°=7 [B1]
+Answer... [1]
+(ii) Rearrange the formula to make p the subject.
+q=25-2p°
+2p?=25-q
+pd [M1 — Isolating p correctly]
+25-q
+Lp=t/— Al
+P=t= [A1]
+Answer p=.....ccooeviiiiiiiiiniiii [2]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 7 =====
+
+7
+7  Giventhat x—y=7 and xy=18, find the values of x*—y*.
+x-y="7
+a (x= yy =49
+x 2xy+y* =49
+SX ty =49+2xy
+=49+2(18) MA]
+=85
+(x+ vy) =x +2xy+y* =85+2(18)=121
+S(x+y)=11 or 11 [A1 for both answers]
+x= yr=(x+y) (x=)
+17) or —11(7)
+=77 or -T7 [A1,A1]
+Answer... OF nnn. [4]
+CHIJ ST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 8 =====
+
+8
+8 (a) OntheVenn diagram, shade the region which represents A' n B.
+¢
+oO [B1
+[1
+(b) Write down the sets represented by the shaded region.
+3
+A B
+( QV) BUA' [B1]
+Answer... [1]
+9 The diagram shows a regular octagon, ABCDEFGH, and three sides, PH, HG and GQ, of a
+second regular polygon. Angle PHA = 81°.
+Find the number of sides in the second regular polygon.
+----P A B
+omig=E2A 0% c
+8 H
+185%
+ZPHG = 360° -135°-81° = 144° (Angles at apt) G D
+(n=2)<180° __ 1c M1]
+m __--"7Q F E
+180°n—360° =144°n
+36°n= 2360"
+n= 10 (A)
+36°
+Answer... [3]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 9 =====
+
+9
+CB 14°
+10 (a) Simplify By? 15
+of toy 6X 15
+5p 15  5y* 14xy’
+_ 9 [B1 — Correct numerator]
+7y° [B1— Correct denominator]
+Answer oii [2]
+1.1.1.1
+© STE
+Without the use of a calculator, find the value of k.
+1.1. 1.1
+Y= prt
+43)
+4 = 4x 4° [M1 — express RHS as base 4 correctly]
+EEA
+k=-8 [A1]
+Answer... [2]
+11 The values of seven numbers are
+(x=3), (x+3), (x=4), (x+7), (x+4), (x-3), (x+2).
+Find the value of x if the sum of the mode and the median of the numbersis 17.
+(x=4), (x=3), (x=3), (x+2), (x+3), (x+4), (x+7)
+Mode=(x-3)
+Median =(x+2)
+s(x=3)+(x+2)=17 [M1 — Constructing the eqn correctly]
+2x=18
+5x=9 [A1]
+Answer... [2]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 10 =====
+
+10
+12 A maphasascaeof 1:50 000.
+(a) Thedistance from Jurong and Changi is 26 km.
+Calculate the distance, in centimetres, between Jurong and Changi on the map.
+1cm : 50000 cm
+1cm : 0.5km [M1 — converting cm to km correctly]
+Since 0.5 km is represented by 1 cm,
+. 26 kmis represented by x 26
+=52cm [A1]
+ANSWEr oie cm [2]
+(b) The East Coast Park is the largest park in Singapore with an area of 1.85 km?.
+Calculate the area, in square centimetres, of East Coast Park on the map.
+05km : 1cm
+©. 025km? : 1cm? [M1 — converting km? to cm? correctly]
+1
+-. 1.85km? ted by ——x1.85
+m* is represented by Toh
+=74 cm [A1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 11 =====
+
+11
+13 ABisaplaneinclined at an angle of 28° with the horizontal ground.
+PQRSis the side view of a cuboid. The diagonal PR produced is perpendicular to the ground.
+Giventhat PQ=12 cm and AR=3 PR, find
+4 P 15]
+Jon
+(@ PS
+Q
+ZPRS=90°- 28° = 62°
+tan62° = 2 B
+o. PS=12tan62° [M1] S Ni
+= 2256871758 R
+~ 226m (3sf.) [A1] :
+bo (2 A
+Answer .........ccooiiiiiiiiiiieeeee cm [2]
+(b) theangleof elevation of Q from A.
+PR=|[(22.56871758)" +(12)° M1]
+= 25.56065362 cm
+5 AR= 2 25.56065362=19.17049021 cm
+tan ZQAR = 22.56871758
+19.17049021
+conta (23S) M1]
+19.17049021
+=49.6545107°
+-. Angle of elevation = 49.6545107° + 28°
+=77.6545107°
+=77.7° (1dp) [A1]
+Answer... © [3]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 12 =====
+
+12
+14  Thegraph of y=(x+a)(2-x), wherea isa constant, cuts the x-axis at P and Q
+and it cuts the y-axis at R(0,14). y
+R(0,14)
+X
+P [0] Q
+(a) Findthevalueof a.
+When x=0, y=14, we have,
+14=(0+a)(2-0)
+14=2a
+na=7 [B1]
+Answer a= .......cooeeeiiiiiiniieenn [1]
+(b) State the equation of the line of symmetry for y=(x+a)(2-x).
+P(-7,0) and Q(2,0)
+.~. equation of the line of symmetry isx- "2
+x=-2 [B1— Accept aso
+x=-25 or sm]
+2
+Answer iii [1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 13 =====
+
+13
+15 (a) Express x*—6x+11intheform (x—h)2+k .
+xX’ —6x+11
+2 2
+~-oce( 2] (3) +1
+2 2
+=(x-3)°+2 [B1for (x-3)°] [B1for +2]
+Answer oii [2]
+(b) Sketch the graph of y=x*—6x+11, indicating clearly where the graph crosses
+the axes (if any) and the coordinates of the turning point of the curve.
+[3]
+y
+11
+(32)
+X
+[0]
+[P1— Correct shape]
+[B1— Correct y-intercept indicated]
+[B1 — Coordinates of turning point
+correctly indicated]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 14 =====
+
+14
+16 (a) Find the prime factors of 35000, giving your answer in index form.
+35000=2°x 5'x 7 [B1]
+Answer iii [1]
+(b) Two integers P and Q, can be written as products of prime factors.
+P=a’xb'x7 Q=axb"'x7
+The lowest common multiple (LCM) of P and Q is 35000.
+(i) Writedown thevalueof a, band c.
+35000=2°x5x 7
+P=a’xb'x7
+Q=axb"'x7
+a=2 [B1]
+b=5, [B1]
+c+1=4
+&©=8 [B1]
+Answer a=...
+(ii) Find the highest common factor (HCF) of P and Q.
+P=2*x5'x7
+Q=2x5'x7
+2 HCF=2x5'x 7=1750 [B1]
+Answer iii [1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 15 =====
+
+15
+17 Eunice bought a 3-Room HDB apartment for $120 000. She paid 15% downpayment on the
+apartment and took a loan on the outstanding balance from a bank, to be paid over 10 years.
+Given that the bank charges an interest rate of r% compounded annually, calculate the value
+of r if her monthly instalment over the 10 years was $1270.
+Amt borrowed = 0.85x $120000 [M1]
+=$102000
+Tota amt of instalments paid = $1270x 12x 10= $152400
+10
+F
+-. 152400=102000{ 1+ —
+( “100 ) M1]
+[1 a J _ 162400 _127
+100 102000 85
+dl fz
+100 85
+127
+sor=|t lL x 100 = 4.097063731= 4.10% [A1]
+Answer .....oooiiiiieiiiiiieeeee. % [3]
+18  Thediagram shows atriangular container with a uniform cross-section and a
+thickness of 5 cm.
+The container is filled with liquid to half its perpendicular height.
+Find the ratio of the volume of water in the container
+to the volume of the container.
+: h cm
+Let the base of the empty space in the container = b cm.
+.. Ratio of the volume of water : volume of container
+(3 2bx 2hx 6-3 bx hx J h cm
+2 J) M1]
+(3 2x 2hx 6)
+2
+_ %h \
+12bh pre
+4
+4
+=3:4 [A1]
+Answer ot [2)
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 16 =====
+
+16
+19 In asequence, the same number is subtracted each time to obtain the next term.
+Thefirst five terms of the sequence are
+17 p q r 7
+(a) Findthevalueofr.
+Common difference= RE =6
+Lr=-T+6=-1 [B1]
+Answer... [1]
+(b) Find an expression, in terms of n, for the nt term of the sequence.
+T,=-6n+23 [B1]
+Answer... [1]
+(c) Explain why —345 is not aterm of this sequence.
+—6n+23=-345
+—6n=-368
+n=61.
+&
+Since n=6t] isnot an integer, -345 is not aterm of the sequence.  [B1]
+AANSWET
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 17 =====
+
+17
+20 The number line shows the probabilities of 7 events represented by the
+arowsP, A, T,R |,CandK.
+PA T R | C K
+0 1
+Write down the letter of the correct arrow that best represents each of these events:
+(a) Choosing amarble randomly from a box that contains 5 red marbles and 3 green
+marbles and obtaining a green marble.
+&
+P(green marble) === aow T [B1]
+Answer... [1]
+(b) Rolling afair 6-sided die and obtaining a prime number.
+. 8 1
+P(prime number) = = 2 = arrow RB1]
+Answer... [1]
+(c) Selecting anumber at random fromthe set { 3, 5,7, 9} and obtaining an even number.
+P( even number) = 0= arrow P [B1]
+Answer... [1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 18 =====
+
+18
+y
+21
+A(-2.6)
+0(12,4)
+T
+X
+[e]
+B
+P(-4,-8)
+The diagram shows the points P(-4,-8), Q(12,4) and A(-2,6).
+B is apoint on PQ so that AB is perpendicular to PQ.
+The line segment AB cuts the x-axis at point T.
+The product (gradient of AB)x (gradient of PQ) =—1.
+Use this information to find the coordinates of T.
+4-(-8
+mop M1] When y = 0, we have,
+4.10
+O=—=xX+— M1
+3 353 [M1]
+4
+4 SoX= 21
+Mg = M1] 2
+n . Coordinatesof T is (23.0) [A1]
+__4
+&
+4 [Al t (25,0) or [2,0
+y=-3x+c [Also accept (2.5,0) or > 1
+When x=-2, y=6,we have,
+4
+6=——(-2)+c
+32
+10
+SLC=—
+&
+. equation of AB is y=-2x: 2 [A1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 19 =====
+
+19
+22 Inthediagram, QT is the diameter of the circle.
+R, Sand P are points on the circle. Angle PQS = 70° and angle RPS =20°.
+QT intersects PRat point C.
+Q RN
+P
+(a) FindanglePRS Nr
+ZPRS=70° (Anglesin the same segment)  [B1] <7
+R
+T
+S
+Answer... 0 [1]
+(b) Hence, prove that the point C is the centre of the circle.
+ZRSP=180°-70°—20° =90° (Angle sum of atriangle)
+Thisimplies that PR is a diameter (Angle in a semicircle). [B1]
+Since QT is aso adiameter and point C is the point of intersection
+of the diameters PR and QT, C is the centre of the circle. [B1]
+AANSWET es
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 20 =====
+
+20
+23  Thediagram below shows the cumulative frequency curve for the lengths of 500 fishes
+inapond A.
+Cumulative frequency
+500
+450
+400
+350
+300
+250
+200
+150
+100
+50
+Length (cm
+0 5 10 15 20 25 30 35 40 45 50 55 60 gtriem)
+(a) Usethegraph to find the
+(i) the percentage of fishes that are more than 45 cm long,
+500-400 41309 = 20% [B1]
+500
+Answer LL... %0 [1]
+(ii) the median length of the fishes,
+36 [B1]
+(iii) the interquartile range of the lengths of the fishes.
+1.Q. range=43-30=13 [B1]
+Answer .........ccooeiiiiiiiiieeeee om [1]
+(b) In another pond B, the interquartile range of the lengths of the fishes thereis 5 cm.
+Explain what this tells us about the fishes in pond B compared to those in pond A.
+Answer..| The lengths of the fishes in Pond B are more consistent than the lengths of the
+fishes in Pond A as the Inter-Quartile range for B < Inter-Quartile range for A
+Te [B1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1
+
+
+===== P1-ANS PAGE 21 =====
+
+21
+24 ABCD isapardlelogram. Gis the mid-point of AC and H is the mid-point of AG.
+Jisapoint on AD such that AD=3JD.
+— — 6p
+AB=6pand AD =9q. A B
+(a) Express, assimply as possible,
+in terms of p and/or q,
+9q
+(i) AC, J
+AC=AB+ BC D Cc
+=6p+9q [B1]
+(ii) BH,
+Bi =8+ A
+1 9 9
+=—6p +—(6p+9q)=-——p+— B1
+p + (6p+9q)=——p+-q [BI]
+i. Answer iii [1]
+(iii) GJ.
+GI=GA+AJ
+1 2 3
+=—(-6p- 9g) + =(9q)= 3p+ = B1
+5 6p — 9a) + =(9q) P*3d [B1]
+Answer... [1]
+(b) What do your answers to (a)(ii) and (a)(iii) tell you about BH and GJ?
+Explain your answers clearly.
+= 9 3 3 3 =
+BH=-—p+—-q==(-3p+=-q) == GJ
+SPF ZA =5ERE A=
+. — = _3 i [B1]
+Since BH = k (GJ), where k = BE BH is parallel to GJ.
+|| =3[GJ]. [B1]
+~~ End of Paper 1 ~~
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

@@ -1,0 +1,18 @@
+7
+3 A, B, C and D are four points on horizontal ground.
+The points are connected by straight paths AB, BC, BD, AD and DC.
+Cis due east of D.
+AB =350 m, AD = 500 m and BC = 1060 m.
+Angle BAD = 85° and angle BDC = 103°.
+North
+B
+350 m
+1060 m
+A
+500 m
+D Cc
+(a) Show that BD = 585 m, correct to 3 significant figures. 3]
+Answer
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

@@ -1,0 +1,38 @@
+|
+12 '
+7
+North i
+N
+A North
+41 50 B
+(CRESS
+Poel 147°
+(6 ;
+204 aN,
+5
+339 >)
+/ 300°
+D
+The diagram shows a plot of land with points ABCD on level ground.
+The bearing of 4 from D is 033° and the length of AD is 204 m.
+Bis 50 m due east of A.
+Angle ABC = 142° and the bearing of 4 from C is 300°.
+(a) Find the bearing of C from 4.
+180° — 60° 0°
+= 20° Answer sibs. [1]
+(b) Find angle BAC.
+(20°-90°
+©
+= B 20
+= 30 ARSWEP ovesesimsssissssmsssssons [1] |
+(¢) Show that the distance AC is 221.19 m, correct to two decimal places.
+Answer LBRCA = 180° 142° 30° (£ Sum of s)
+= g&°
+AC _ SD
+Sin 142° em &°
+°
+AC = 5D Sin 142
+en §°
+= 521. l§£T
+= 329.19 ( 2p.)
+[2]

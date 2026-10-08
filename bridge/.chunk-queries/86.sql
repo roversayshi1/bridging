@@ -1,0 +1,1 @@
+SELECT bridging._apply_b64_seed();

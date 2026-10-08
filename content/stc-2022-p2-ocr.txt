@@ -1,0 +1,595 @@
+
+
+===== P2 PAGE 1 =====
+
+GE Wig
+
+As of s
+
+"a x © CHIJ ST. THERESA’S CONVENT
+
+#5 t% PRELIMINARY EXAMINATION 2022
+
+NN “, SECONDARY 4 EXPRESS / 5 NORMAL (ACADEMIC)
+
+TE STEADY £3 )
+
+KER
+CANDIDATE
+NAME
+INDEX
+MATHEMATICS 4048/2
+Paper 2 23 August 2022
+2 hours 30 minutes
+Candidates answer on the Question Paper.
+READ THESE INSTRUCTIONS FIRST
+Write your name, class and index number in the spaces at the top of this page.
+Write in dark blue or black pen.
+You may use an HB pencil for any diagrams or graphs.
+Do not use paper clips, highlighters, glue or correction fluid.
+Answer all questions.
+If working is needed for any question it must be shown with the answer.
+Omission of essential working will result in loss of marks.
+Calculators should be used where appropriate.
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the
+answer to three significant figures. Give answers in degrees to one decimal place.
+For nt, use either your calculator value or 3.142, unless the question requires the answers in terms
+of m.
+The number of marks is given in brackets [ ] at the end of each question or part question.
+The total of the marks is 100.
+This document consists of 25 printed pages.
+
+
+===== P2 PAGE 2 =====
+
+2
+Mathematical Formulae
+Compound interest
+o
+,
+Total amount = P| 1+ —
+100
+Mensuration
+Curved surface area of a cone = ml
+Surface area of a sphere = Amr?
+1 2
+Volume of a cone = 3 h
+4 5
+Volume of a sphere = 3 wr’
+. 1 .
+Area of triangle ABC = 3 %bsin Cc
+Arc length = 78, where 6 is in radians
+1, - .
+Sector area = 57 , where @ is in radians
+Trigonometry
+a bc
+sind sinB sinC
+a =b* +? — 2bc cos A
+Statistics
+fx
+Mean = 22
+Xf
+N z
+LL fic fic
+Standard deviation = 2A - PIL}
+>ro\Xrs
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 3 =====
+
+3
+Answer all the questions.
+Co (32d TF
+1 (a) Simplify (2 .
+Answer... [2]
+(b) Express  — 2 as a single fraction in its simplest form.
+3By-5)7 5-3y
+Answer... [2]
+© Simplify _3X=108
+2x" +5x-42
+Answer ooo [3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 4 =====
+
+4
+. Loo 3x=2_4+5x
+(d) Solve the inequality “= < 3
+Answer o.oo [2]
+(e) Solve the simultaneous equations.
+4x-3y=5
+6x+5y=-2
+Answer x=...
+Y= 3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 5 =====
+
+5
+2 A bag contains 10 red balls and 8 green balls.
+Anna takes two balls from the bag, at random, without replacement.
+(a) Anna says that the probability that she takes one red ball and one green ball is 2 .
+Explain why Anna is wrong and provide the correct solution.
+(b) Anna puts back the two balls into the bag.
+n red balls are removed from the bag.
+The probability that she takes two green balls is 4 .
+Write down an equation to represent this information and show that it simplifies to
+n’=35n+124=0. 3]
+Answer
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 6 =====
+
+6
+(c) Solve the equation n’—35n+124=0.
+Answer n= ..........or ..........[3]
+(d) Explain why one of the solutions in part (c) must be rejected.
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 7 =====
+
+7
+3 A, B, C and D are four points on horizontal ground.
+The points are connected by straight paths AB, BC, BD, AD and DC.
+Cis due east of D.
+AB =350 m, AD = 500 m and BC = 1060 m.
+Angle BAD = 85° and angle BDC = 103°.
+North
+B
+350 m
+1060 m
+A
+500 m
+D Cc
+(a) Show that BD = 585 m, correct to 3 significant figures. 3]
+Answer
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 8 =====
+
+8
+(b) Calculate the bearing of B from C.
+Answer... [3]
+(©) John is a Grab delivery partner. He cycles at an average speed of 12 km/h.
+He starts at point C, cycles along path CB to collect food at point B then path BA to
+collect food at point 4, and delivers the food collected to point D.
+He spends 5 minutes to collect the food at each collection point.
+Calculate the time it takes him to complete the food delivery.
+Give your answer in minutes and seconds.
+Answer ............ minutes ............ seconds [3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 9 =====
+
+9
+4 ABCD is a trapezium with 4B parallel to CD.
+A is the point (-1, 3) and B is the point (7, 9).
+— 1
+AD = .
+5)
+(a) Find the length of the line AB.
+Answer o.oo [2]
+(b) Find the equation of the line CD.
+Answer o.oo [4]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 10 =====
+
+10
+. . area of triangle AXD 1
+(©) X is the point on AB such that area 0 Mange A220 ==.
+area of traingle BXD 3
+(i) Find AX.
+Answer AX = 2]
+(ii) Find the position vector of X.
+Answer ox = ( [1]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 11 =====
+
+11
+© . 8
+5 The variables x and y are connected by the equation y=3x+—-11.
+x
+Some corresponding values of x and y, correct to 1 decimal place, are given in the table below.
+IE CE I 0 HE I
+Tes To [oa a foes [or | 5 [56 | 5
+(a) Calculate the value of p.
+Answer p= .....cccoooeiiiiiiiiin [1]
+. 8
+(b) On the grid, draw the graph of y=3x+—-11 for0.5<x<6. [31
+xX
+SN EEE EEE EEE NEE NE]
+EY ee
+Er EE ee es
+fl a in RA BRE MAS AE ———
+BM EMM MENA RENE MAREN
+bo eh
+[NEESER EERNANNN ARRRANS TH CE TT = EEN ARAN NEAR NAN NANNNR RANRNANNE)
+A A 1 i
+[NEN EERE EER t Tr ee
+a A BR I ME I I MMI A RN MAME NR
+mJ J ot i A a a Be MM mE A
+Eo HEE A een
+a am i im
+EA EE A HE rn
+mm a Re
+OO Ee ee ee
+Er, HE
+EH RE Ee ee eee
+Err rer eer rere eee eer
+RA A BRB A EMA MM AMMAR NNE WARNE RANE]
+EEE HE EE EE Ee SE EE EE ee
+Cr A TT
+EAR Ames Aas Rs mA A Mn RA RAS AR Ban An En 2 En Nn RARER En man AX RARE]
+EE ee Ee ee
+EE EE eee
+PEA 2 Bee eH HE HH HE EE
+EE eR HER EE
+Hr ee ed
+HRY EER EERE EE RE
+Fr eH TE
+Er eee HE
+nas EEE EEE REN EERE ARNE EAN ENA NE RARE RENE IRN RENNER NE NRNRRERRENNARRANERRY]
+BT 22 EE ee ee ee
+EER EE ee TE ET A EE ee Ee
+LL LL LL FLL LL IL PL LL TL I LL LV TL LTV TFET)
+. . 8 .
+(¢) Use your graph to find the solutions to the equation  3x+—=13 in the range
+x
+0.5<x<6.
+Answer X= ......ccoeoiiiiiiiiiininn. [2]
+
+CHIJ ST. THERESA'S CONVENT
+
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 12 =====
+
+12
+@ (3) On the same axes, draw the graph of 2y—1=x for 0 <x <6. 2]
+(ii) Write down the x-coordinates of the points where this line intersects the curve.
+Answer x= ..........0 .......... [2]
+(ii) These values of x give the solutions of the equation 5x*+ Ax+B=0.
+Find the value of 4 and the value of B.
+Answer A=...
+B=.........[3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 13 =====
+
+13
+S
+6 (2)
+B
+N
+P 0 4 R
+A, B and C are points on the circle with centre O.
+AOB is a straight line.
+PCS and PAR are tangents to the circle.
+Qs on PAR and QC is parallel to AB.
+@) Show that triangle 4QC is similar to triangle BCA.
+Give a reason for each statement you make.
+(ii) Angle COB=x°.
+Find angle APC in terms of x.
+Answer o.oo... [2]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 14 =====
+
+14
+6 (b)
+B
+f
+/
+i
+/
+;
+i
+/
+i
+i
+i
+%
+A Nem iN
+Na
+A, B and C are points on a circle with centre O and radius 10 cm.
+BA = BC and angle AOC is 2.4 radians.
+[0] Calculate angle COB, in radians, in terms of 7.
+Answer ................. radians [1]
+(ii) Calculate the length of major arc AC.
+Answer .....................cm [2]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 15 =====
+
+15
+(iii) ~~ Calculate the total area of the shaded regions.
+Answer .....................cm* [3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 16 =====
+
+16
+7 In Café X, an Americano (A) costs $5.20, a Latte (L) costs $6.60 and a Mocha (M) costs $7.30.
+In Café Y, an Americano costs $0.30 more, a Latte costs $0.20 less and a Mocha costs $0.10
+more than Café X.
+The matrix P shows the price of a cup of coffee in each café.
+A L M
+Po 52 66 73)\X
+“55 64 74) Y
+(a) Belinda and Carol are project group leaders in a company.
+They want to give a treat to their group members to welcome them for the first
+meeting in February.
+Belinda intends to buy 2 cups of Americano, 4 cups of Latte and 3 cups of Mocha.
+Carol intends to buy 5 cups of Latte and 4 cups of Mocha.
+Represent their intended purchases using a 3 x 2 matrix Q.
+Answer Q= [1]
+(b) Evaluate the matrix R=PQ.
+Answer R= [2]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 17 =====
+
+17
+(c) State what each element of matrix R represents.
+(d) Belinda and Carol each bought their drinks from the café that provided a better offer.
+For the latest meeting in July, Belinda and Carol gave their members another treat to
+celebrate the completion of the project. Each of them bought the same set of drinks
+from the same café they patronised in February. However, the prices of the drinks have
+changed by the following percentages in both cafés.
+The price of a cup of Americano has increased by 10%.
+The price of a cup of Latte has increased by 15%.
+The price of a cup of Mocha has decreased by 5%.
+Calculate the percentage change in the combined total spent in February and July.
+Answer ...............co.... % [3]
+
+CHIJ ST. THERESA’S CONVENT
+
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 18 =====
+
+18
+8 A class of 40 Secondary Four students were asked how much time they have spent on social
+media in the last week.
+The results are shown in the table.
+Time spent | <10 | 10<x<20 | 20<x<30 | 30<x<40 | 40<x<50
+(x hours)
+[Frequency [pp | mo | 10 [ 4 [ 3 |
+The upper quartile of the time spent on social media was 30 hours.
+(a) Show that p = 9 and hence state the value of ¢.
+Answer
+Answer g=..................... [3]
+(b) Estimate the mean number of hours spent by the students.
+Answer... [2]
+(c) Estimate the standard deviation.
+Answer... [1]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 19 =====
+
+19
+(d) A class of 40 Secondary Three students were asked how much time they have spent
+on social media in the last week.
+The results are summarised in the table.
+Standard Deviation
+
+Make two comparisons between the number of hours spent on social media by the
+Secondary Three students and by the Secondary Four students.
+
+CHIJ ST. THERESA’S CONVENT
+
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 20 =====
+
+20
+9 The diagram shows a metal trophy which is made up of a hemisphere and a pyramid.
+The radius of the hemisphere with centre E is 4 cm.
+The base ABCD of the pyramid is a square of side 12 cm.
+E is vertically above the centre of the square base.
+The vertical height of the pyramid is 18 cm.
+A+“
+18
+Cc
+12
+A 12 B
+(a) Show that AE = 19.9 cm, correct to three significant figures. [3]
+Answer
+(b) Calculate angle BAE.
+Answer ...........co....... 0 [3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 21 =====
+
+21
+(©) Calculate the total surface area of the trophy.
+Answer .....................cm? [4]
+(d) The whole trophy is melted to make paper weights, each in the shape of a cube of side
+Sem.
+What is the maximum number of paper weights that can be made from the metal
+trophy?
+Answer ..........cocoo [3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 22 =====
+
+22
+10 Mr Tan plans to bring his wife and two children for a free-and-easy 5-day holiday in Jeju,
+South Korea during the school holidays in September 2022.
+The tables below give information that they can use to work out their travelling costs.
+Cost of Pre-departure PCR/ART Test (per person) in Cost of PCR Test (per person) in
+Singapore South Korea
+SGST 70,000 won through the Korean National
+PCR Test Tuberculosis Association (KNTA).
+ART Test
+Estimated expenditure in South Korea Cost of return air tickets from
+SINGAPORE to JEJU for 2 adults
+Hotel (Family Suite $2903 and 2 children
+Food, Shopping & $400 per day
+Sightseeing
+Car rental for 5 days $ 464 Adult / $467.13 $697.49
+Child per person | per person
+Summary of Travel Insurance Plans (Family plan for 2 adults and 2 children)
+Travel Insurance Compan Singlife by Aviva* FWD#
+Travel | Travel Plus: | Travel Premium: | Business: First:
+Coverage/Type of Plan Lite: Prestige:
+S$110.66 $8159.65 $8222.63 $59.54 $893.89 $$119.08
+Overseas medical expenses
+(per adult below 70 years $8250,000 | $82,000,000 | Unlimited $58200,000 $$500,000 | S$1,000,000
+old
+Travel delay (S$100 for
+every six hours of delay $500 $1000 552000 $8300 $5500 $51000
+overseas and S$100 after six
+hours of delay in Singapore)
+Trip cancelled before you
+leave Singapore for Family $810,000 $820,000 $830,000 $87,500 $810,000 $815,000
+Plans
+Emergency Medical Cover And ; .
+Repatriation Due To COVID- yin ra on GOVID-19 with an
+19 (Free extension) $$50.000 | $5100.00 | $5200000 | ACERT OE lati
+(1) Overseas Medical * Up wv $54 or trip cancellation
+Expenses due to COVID-19 and os N depot 655.000
+(2) Emergency Medical o LL M rip disruption: Up to 585,
+Evacuation due to COVID-19 | S3250,000 | $52,000,000 | Unlimited | §  yerseas hospital cash: S$100 per
+(3) Repatriation due to COVID- hn. day up to 14 days
+19 $830,000 | $8500.000 | Unlimited |, 6/0 cca quarantine allowance: $$50
+$$1,000 $52,000 per day up to 14 days
+ii. Overseas Quarantine Not (S850 for | (SS100for | Emergency medical evacuation &
+Allowance Due To COVID-19 covered every 24 every 24 repatriation: up to $$200,000
+hours) hours) * Hospital cash while in Singapore:
+iil Trip Cancellation/ ] ] S$100 per day up to 14 days
+Posponensent Due To COVID- | $8500 $81500 82000 | 4 Medical expenses: Up to $200,000
+2 Trip emptor Dae To «Extended policy cover in some
+*30% discount off your travel quote if you or your immediate family member(s) has an active MINDEF &
+MHA Group Term Life / Group Personal Accident policy or POGIS Group Term Life policy with Singlife.
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 23 =====
+
+23
+(a) The exchange rate between South Korean wons (KRW) and Singapore dollars (SGD)
+changes each day.
+The graph shows the daily exchange rate for the period 4 June — 4 July 2022.
+Lowest rate on 5 June 2022 1 SGD =908.724 KRW
+Highest rate on 23 June 2022 1 SGD = 939.752 KRW
+anrs2
+| vo,
+DE NR Lop,
+al J
+CS
+oy aon724
+(Source: https://www.xe.com/currencycharts/?from=SGDd&to=KRW&view= IM)
+All travellers are required to take a PCR test within three days of arriving in South Korea.
+Use the information to work out the difference between the greatest and least possible cost,
+in Singapore dollars, for Mr Tan’s family to book their appointments to take PCR tests in
+South Korea.
+Give your answer correct to the nearest ten cents.
+Answer S$ ....cooiiiieienn [2]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 24 =====
+
+24
+(b) Mr Tan intends to buy travel insurance with some coverage for COVID-19 for the
+whole family. The plan should have coverage of at least $300,000 per person for
+overseas medical expenses. Mr Tan has an active POGIS Group Term Life policy with
+Singlife. He wants to spend not more than $150 on the travel insurance.
+The family will need to take a pre-departure PCR or ART test in Singapore before
+their trip.
+Mr Tan adds an extra 10% to the estimated total cost of the trip to cover any extra
+costs.
+Mr Tan finds this information about exchange rates over the past two years.
+Lowest rate in Dec 2020 1 SGD =811.551 KRW
+Highest rate in Jun 2022 1 SGD = 939.752 KRW
+B rE
+sss
+
+Estimate the total cost, in Singapore dollars, for the 5-day trip for Mr Tan and his
+family.
+Justify any decisions you make and show your calculations clearly. [8]
+Answer
+
+CHIJ ST. THERESA’S CONVENT
+
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2 PAGE 25 =====
+
+25
+Additional space for working
+(b)
+~~ End of Paper 2 ~~
+CHIJ ST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

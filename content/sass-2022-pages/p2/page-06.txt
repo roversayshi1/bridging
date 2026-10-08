@@ -1,0 +1,40 @@
+i :
+3 The upper part of a solid wooden right circular cone was cut off leaving the frustum illustrated
+in the diagram.
+The top and the base of the frustum are horizontal circles with radii x cm and 6 cm respectively.
+The slant height AB of the frustum is 7 cm.
+A cylindrical hole of radius 2 cm is drilled centrally through the frustum.
+(*)
+( :
+H IY = [2
+7 cm x \ i»
+: i.
+{oe \ 6
+o_o :
+€-2
+(a) Show that the slant height of the cone which was cut off is pe cm.
+. -x
+Answer Let Hao slant eng Wt of
+tue tone be yu. 9
+By similar figures ,
+Nox 7
+y+1 4
+b y = xy +7 A
+6 y- 1y = Tx
+SLE) = 7X 2)
+(b) The curve surface area of the cone which was cut off is 180 em?.
+B 22; 2
+Taking © === show that 11x” +90x-540=0.
+Answer mr A = 180 :
+a2 TX ew | 0
+—_— bs — =
+7 ) ( 6 =)
+fc
+2
+= = = 180 °7 4
+Be igo (6-2) Isyy = 7560 -1260x
+1
+Sox? = jogo — 1&0 ara 3780 (30x
+225*+4 180 x — 1080 =0 \
+~ 1) x* + 40 © — S40 =0 ( shown |
+[2]

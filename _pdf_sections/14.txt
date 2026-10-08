@@ -1,0 +1,130 @@
+Title Basic Statistics – Mean, Median, Mode and Standard Deviation Application
+on Ungrouped Data
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 13/9/2018
+For Ungrouped Data
+Mean Meaning: The value of the total of all observations divided by
+the number of observations.
+𝑋̅ = Σ𝑥
+𝑁
+𝑋̅ refers to the mean value of the observation in question
+Σ𝑥 refers to the total of all observations
+𝑁 refers to the number of observations
+[I assume you all understand how to calculate mean, but if
+you still need help in understanding, proceed to the next few
+pages, I have condensed the example for standard deviation
+and mean together since calculating mean is necessary to
+calculate standard deviation.]
+Mode Meaning: The most frequently occurring value in the
+observation.
+Example: 2,6,0,5,5,5
+The mode in the above example is 5, since “5” appear most
+frequently.
+
+-- 75 of 145 --
+
+Median Meaning: The middle value of observation.
+Example 2 (If the number of observation is odd.)
+Given 9,5,3,1,2 [There are only 5 observations in the data
+given, the number of observation is odd]
+Rearrange in ascending order (if the values are indeed not in
+ascending order)
+1,2,3,5,9
+Median Position Number = [𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑂𝑏𝑠𝑒𝑟𝑣𝑎𝑡𝑖𝑜𝑛𝑠+1
+2 ]
+Median Value = The value represented by the median position
+number.
+In this case the median position number is calculated by
+(5+1
+2 ) = 3
+The third value in ascending order is the median value, in this
+case, the value is 3.
+Example 3 (If the number of observation is even)
+Given 2,4,8,10,12,15 (Already in ascending order, so we do
+not need to rearrange)
+Median to be calculated as follows
+Position number of 2 median numbers to be computed as
+follows
+𝐹𝑖𝑟𝑠𝑡 𝑀𝑖𝑑𝑑𝑙𝑒 𝑃𝑜𝑠𝑖𝑡𝑖𝑜𝑛 𝑁𝑢𝑚𝑏𝑒𝑟
+= (𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑂𝑏𝑠𝑒𝑟𝑣𝑎𝑡𝑖𝑜𝑛𝑠
+2 )
+𝑆𝑒𝑐𝑜𝑛𝑑 𝑀𝑖𝑑𝑑𝑙𝑒 𝑃𝑜𝑠𝑖𝑡𝑖𝑜𝑛 𝑁𝑢𝑚𝑏𝑒𝑟
+= [(𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑂𝑏𝑠𝑒𝑟𝑣𝑎𝑡𝑖𝑜𝑛)
+2 + 1]
+In this case, the 2 middle-position number are represented by
+the following:
+
+-- 76 of 145 --
+
+First Middle Position Number
+6
+2 = 3 and the 3rd value in ascending order is 8
+Second Middle Position Number
+6
+2 + 1 = 4 and the 4th value in ascending order is 10
+Add up the 2 middle-position-number and divide by 2
+Median = 8+10
+2 = 9
+Standard Deviation Refers to how spread out is the data. (At the present level,
+that’s is all you need to know, at higher level, there are other
+ways to measure how spread out the data is which will not be
+covered here.)
+𝑆𝑡𝑎𝑛𝑑𝑎𝑟𝑑 𝐷𝑒𝑖𝑣𝑎𝑡𝑖𝑜𝑛 = √Σ(𝑥 − 𝑋̅ )2
+𝑁
+Example 4
+Compute the standard deviation of the following given data.
+5,0,9,7,2
+The mean of the data (𝑋̅ ) in this case is
+5+0+9+7+2
+5 = 23
+5 = 4.6
+Standard Deviation to be computed as follows.
+Σ(𝑥 − 𝑋̅ )2 = (5 − 4.6)2 + (0 − 4.6)2 + (9 − 4.6)2
++(7 − 4.6)2 + (2 − 4.6)2 = 53.2
+𝑁 = 5
+√Σ(𝑥−𝑋̅ )2
+𝑁 = √53.2
+5 = 3.26 (3𝑠𝑓)
+
+-- 77 of 145 --
+
+Using Casio FX 97 SGX calculator to find mean and standard deviation of ungrouped
+dataset.
+(Advice: Fully reset your calculator before using this functionality, the FX 97 SGX
+calculator for instance can be reset using the following key combinations.
+Pressing [Shift], [9], afterwards press [3] and then press [=] button)
+After fully resetting the calculator to default, press the following button to access the
+functionality that allows you to calculate mean and standard deviation of ungrouped
+dataset.
+Step 1.
+Press [Menu], [3] and [1] and you should see the following:
+Step 2.
+(For demonstration purposes, we shall use the dataset as follows below.)
+Height of males obtained from students within a
+tuition class (in centi-metres)
+168 163 155 190 172 188
+Key in 168 into row 1, pressing [=] button and your cursor should jump to the next row
+as follows and shown.
+Step 3. Key in 163 and your cursor should jump to the third row and repeat the process
+for the remaining data and the following should be seen once you are fully done with
+keying in all six data from the dataset.
+
+-- 78 of 145 --
+
+Step 4.
+Once fully completed, check all your entries by going through every keyed in data by
+pressing the up and down arrow button and press [AC] button and the following should
+show up
+Step 5.
+Press [OPTN] key located as follows
+
+-- 79 of 145 --
+
+Step 6.
+Press [2] and the following should show up.
+Step 7.
+The mean is obtained from the calculator screen as 𝑋̅ = 172.6666667
+The standard deviation is obtained from the calculator screen as 𝜎𝑥 = 12.67105187
+
+-- 80 of 145 --

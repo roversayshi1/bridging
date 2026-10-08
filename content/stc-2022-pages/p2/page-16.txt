@@ -1,0 +1,20 @@
+16
+7 In Café X, an Americano (A) costs $5.20, a Latte (L) costs $6.60 and a Mocha (M) costs $7.30.
+In Café Y, an Americano costs $0.30 more, a Latte costs $0.20 less and a Mocha costs $0.10
+more than Café X.
+The matrix P shows the price of a cup of coffee in each café.
+A L M
+Po 52 66 73)\X
+“55 64 74) Y
+(a) Belinda and Carol are project group leaders in a company.
+They want to give a treat to their group members to welcome them for the first
+meeting in February.
+Belinda intends to buy 2 cups of Americano, 4 cups of Latte and 3 cups of Mocha.
+Carol intends to buy 5 cups of Latte and 4 cups of Mocha.
+Represent their intended purchases using a 3 x 2 matrix Q.
+Answer Q= [1]
+(b) Evaluate the matrix R=PQ.
+Answer R= [2]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

@@ -1,0 +1,33 @@
+21
+(9 Calculate the total surface area of the trophy.
+Total surface area of hemisphere
+= curved surface area hemisphere + base area
+=27r2 + ar? = 27 (4) + (4%) = 327 +167 = 487 om? [B1]
+Total surface area of pyramid
+= (4x area of lateral face) + base area
+= 4d absinC)+ (1?)
+=40 12x19.900x sin72.452) + (12%) = 455.37 + 144 = 599.37 cm? [B2]
+Total surface area of the trophy
+~150.80+ 599.37
+~ 750.17
+=750 cm? (3sf.) [B1]
+ANSWEr .....cooeeninnnn.. cm? [4]
+(d) The whole trophy is melted to make paper weights each in the shape of a cube of side
+5cm.
+What is the maximum number of paper weights that can be made from the metal
+trophy?
+Volume of trophy
+= Volume of hemisphere + Volume of pyramid
+Za. base area x height
+8] &
+_2 ye dros
+8] &
+12 soa- 00.04 cm’ [B1]
+Maximum number of paper weights
+998.04
+== [M1]
+~7.98432=7 [A1]
+Answer... [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

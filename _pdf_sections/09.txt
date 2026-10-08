@@ -1,0 +1,154 @@
+Title Maps and Scales
+Date 18/2/2026
+Author Lee Jian Lian
+AprilDolphin – Lim Wang Sheng
+Before proceeding on the topic of Maps and Scales, I shall take the chance to explain
+why this topic is very important for daily life:
+This topic has many applications in real life, ranging from navigation to inference of real-
+life distance between two places when all you are being given is a paper map. Even as
+smartphone takes over coming with navigation software and hardware installed, this is
+still how smartphone can determine the distance from a place to another place. The
+map application is set to be able to interpret a certain “zoom” level on the map as a
+certain scale on the map application, zooming in on a smartphone map app reduces the
+ratio between the literal map distance and actual distance, with zooming out doing the
+exact opposite.
+Terminology Meaning
+𝐷𝑚𝑎𝑝 The literal distance between any two mentioned points on the map
+𝐷𝑎𝑐𝑡𝑢𝑎𝑙 The actual distance between any two mentioned points on the
+map, in real life.
+𝐴𝑚𝑎𝑝 The literal area of any mentioned shape as displayed on the map.
+𝐴𝑎𝑐𝑡𝑢𝑎𝑙 The actual area of any mentioned shape as displayed on the map,
+in real life.
+Formula List
+Scale of Map Formula
+in Representative
+Fraction
+Scale = 𝐷𝑚𝑎𝑝
+𝐷𝑎𝑐𝑡𝑢𝑎𝑙
+(Where 𝐷𝑚𝑎𝑝 is reduced to 1 to be expressed
+as a fraction)
+Ratio of Areas
+Between Map Area
+and Actual Area in Real
+Life
+𝐴𝑚𝑎𝑝
+𝐴𝑎𝑐𝑡𝑢𝑎𝑙
+= ( 𝐷𝑚𝑎𝑝
+𝐷𝑎𝑐𝑡𝑢𝑎𝑙
+)
+2
+
+-- 50 of 145 --
+
+Example 1. (Taken from GCE ‘O’ Level Elementary Mathematics Paper 2024)
+A map of Singapore has a scale of 1: 200 000.
+(a) The scale can be written as 1 cm: 𝑛 km.
+Find the value of 𝑛.
+(b) The distance on the map from Changi Airport to Bukit Panjang is 18.9 cm.
+Calculate the actual distance, in kilometres, between these two places.
+(c) The area of Singapore is 728.6 𝑘𝑚2.
+Calculate the area, in square centimetres, of Singapore on the map
+1(a)
+Since the scale is 1: 200 000, the following statement must be true as well for the map
+that,
+1 𝑐𝑚 represents 200 000 𝑐𝑚
+1 𝑐𝑚 represents 2 000 𝑚
+1 𝑐𝑚 represents 2 km
+We established that every 𝑐𝑚 of length on the map is 2 𝑘𝑚 and therefore 𝑛 = 2
+1(b)
+Since 1 𝑐𝑚 on the map represents 2 𝑘𝑚 of actual distance, we can use this fact to
+deduce the actual distance between Changi Airport to Bukit Panjang that 18.9 cm of
+distance on the map represents 37.8 𝑘𝑚 of actual distance.
+1(c)
+Since 𝐴𝑚𝑎𝑝
+𝐴𝑎𝑐𝑡𝑢𝑎𝑙
+= ( 𝐷𝑚𝑎𝑝
+𝐷𝑎𝑐𝑡𝑢𝑎𝑙
+)2
+We have the following deduced: 1 𝑐𝑚 of distance on the map represents 2 km of actual
+distance, therefore we can square both the numerator and denominator to get
+1 𝑐𝑚2 area on map representing 4 𝑘𝑚2 of actual distance.
+Therefore 728.6 𝑘𝑚2 of actual area can be divided by 4 to get 182.15 𝑐𝑚2 map area of
+Singapore.
+Example 2. (Taken from Casco Mathematics 4B Assessment Book)
+On a map, a length of 4 𝑐𝑚 represents an actual distance of 1 𝑘𝑚.
+Calculate
+(a) The actual distance in kilometres, represented by 26 𝑐𝑚 on the map.
+(b) The scale of the map in 1: 𝑛
+(c) The area of the map in square centimetres which represents an actual area of
+9 𝑘𝑚2
+
+-- 51 of 145 --
+
+To solve the question, we need to derive the following details accordingly
+Detail Steps
+Ratio between map distance
+and actual distance in real
+life.
+Since 4 cm represents 1 km, we can argue that
+4 cm represents 1000 m and therefore 100 000 cm
+and hence 1 cm of map distance represents 100000
+4 cm
+= 25000 cm
+(To establish the representative fraction of the map’s
+scale, we need to ensure both numerator and
+denominator of the ratio have the exact same unit.)
+Hance 𝐷𝑚𝑎𝑝
+𝐷𝑎𝑐𝑡𝑢𝑎𝑙
+= 1
+25000
+Ratio between map area and
+actual area in real life. Since 𝐴𝑚𝑎𝑝
+𝐴𝑎𝑐𝑡𝑢𝑎𝑙
+= ( 𝐷𝑚𝑎𝑝
+𝐷𝑎𝑐𝑡𝑢𝑎𝑙
+)2
+With 1 cm of map distance representing 25000 cm of
+actual distance, we can also argue the following is
+true as well: that 1 cm of map represents 250 m and
+hance 0.25 km of actual real-life distance
+Area scale with unit:
+𝐴𝑚𝑎𝑝
+𝐴𝑎𝑐𝑡𝑢𝑎𝑙
+= ( 𝐷𝑚𝑎𝑝
+𝐷𝑎𝑐𝑡𝑢𝑎𝑙
+)
+2
+= ( 1 𝑐𝑚
+0.25 𝑘𝑚 )
+2
+= 1 𝑐𝑚2
+0.0625 𝑘𝑚2
+Area scale without unit:
+𝐴𝑚𝑎𝑝
+𝐴𝑎𝑐𝑡𝑢𝑎𝑙
+= ( 𝐷𝑚𝑎𝑝
+𝐷𝑎𝑐𝑡𝑢𝑎𝑙
+)
+2
+= ( 1
+25000)
+2
+Hence 1 𝑐𝑚2 of map area represents 0.0625 𝑘𝑚2 of
+actual real-life distance.
+2(a) Let 𝑦 be the actual distance in real life.
+Given scale fraction = 1 𝑐𝑚
+0.25𝑘𝑚 = 26 𝑐𝑚
+𝑦
+𝑦 = 26 × 0.25 = 6.5 𝑘𝑚
+2(b) Since we derived the representative fraction of the map’s scale already, we just
+need to rewrite the representative as ratio format which is 1: 25000.
+
+-- 52 of 145 --
+
+2(c)
+Given actual area = 9 𝑘𝑚2
+Let 𝑥 be the area of map in 𝑐𝑚2
+𝑥 𝑐𝑚2
+9 𝑘𝑚2 = 1 𝑐𝑚2
+0.0625 𝑘𝑚2
+𝑥 = 9
+0.00625 = 144
+Thus, map area = 144 𝑐𝑚2
+
+-- 53 of 145 --

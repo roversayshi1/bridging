@@ -1,0 +1,21 @@
+7
+3 A, B, C and D are four points on horizontal ground.
+The points are connected by straight paths AB, BC, BD, AD and DC.
+Cisdueeast of D.
+AB = 350 m, AD = 500 m and BC = 1060 m.
+Angle BAD = 85° and angle BDC = 103°.
+North
+B
+350m
+&) 1060
+A m
+500 m
+D [¢
+(a) Show that BD = 585 m, correct to 3 significant figures. [3]
+Answer
+Using Cosine Rule,
+BD? = 500? + 350% — 2(500)(350) c0s85° [M2]
+BD ~ 584.80=585m (3 sf.) [A1]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

@@ -1,0 +1,1085 @@
+{
+  "101": {
+    "id": "019fa77d-8469-7104-aa43-56df5a5cb8fe",
+    "subtopic_name": "Prime factorisation, HCF and LCM",
+    "summary": "Break numbers into prime factors to find highest common factors and lowest common multiples quickly.",
+    "key_concepts": [
+      "Every integer above 1 is a product of primes in exactly one way",
+      "HCF uses the lowest power of each shared prime",
+      "LCM uses the highest power of every prime that appears"
+    ],
+    "formulas": [
+      {
+        "note": "Useful when you already know three of the four values.",
+        "label": "Product of two numbers",
+        "expression": "a x b = HCF(a, b) x LCM(a, b)"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "84 = 2^2 x 3 x 7",
+          "360 = 2^3 x 3^2 x 5",
+          "HCF: lowest powers of shared primes = 2^2 x 3 = 12",
+          "LCM: highest power of every prime = 2^3 x 3^2 x 5 x 7 = 2520"
+        ],
+        "answer": "HCF = 12, LCM = 2520",
+        "question": "Find the HCF and LCM of 84 and 360."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "That only works when the HCF is 1. Otherwise divide the product by the HCF.",
+        "mistake": "Multiplying the two numbers together to get the LCM."
+      },
+      {
+        "fix": "The HCF uses shared primes only.",
+        "mistake": "Including primes that appear in only one number when finding the HCF."
+      }
+    ],
+    "exam_tips": [
+      "Write prime factorisations in index form before comparing them.",
+      "Smallest number divisible by both is asking for an LCM."
+    ]
+  },
+  "102": {
+    "id": "019fa77d-846f-77df-b73d-aeca15ab2712",
+    "subtopic_name": "Indices and standard form",
+    "summary": "Index laws let you simplify powers without expanding, and standard form keeps very large or small numbers manageable.",
+    "key_concepts": [
+      "Add indices when multiplying, subtract when dividing",
+      "A negative index means a reciprocal",
+      "Standard form is A x 10^n where 1 <= A < 10"
+    ],
+    "formulas": [
+      {
+        "note": "Bases must be the same.",
+        "label": "Multiplying powers",
+        "expression": "a^m x a^n = a^(m+n)"
+      },
+      {
+        "note": "Never makes the answer negative.",
+        "label": "Negative index",
+        "expression": "a^(-n) = 1 / a^n"
+      },
+      {
+        "note": "Denominator is the root, numerator is the power.",
+        "label": "Fractional index",
+        "expression": "a^(m/n) = (nth root of a)^m"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Divide the numbers: 6 / 3 = 2",
+          "Subtract powers of a: a^(5-2) = a^3",
+          "Subtract powers of b: b^(2-1) = b"
+        ],
+        "answer": "2a^3b",
+        "question": "Simplify 6a^5b^2 divided by 3a^2b."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "A negative index flips the base into a fraction. It does not change the sign.",
+        "mistake": "Writing a^(-2) as a negative number."
+      },
+      {
+        "fix": "The first part must be between 1 and 10, so write 3.4 x 10^6.",
+        "mistake": "Leaving standard form as 34 x 10^5."
+      }
+    ],
+    "exam_tips": [
+      "Simplify numbers and each letter separately, one at a time.",
+      "Check the standard form range before writing your final answer."
+    ]
+  },
+  "202": {
+    "id": "019fa77d-846f-78a5-8c08-d120beccd3ac",
+    "subtopic_name": "Direct and inverse proportion",
+    "summary": "In direct proportion one quantity is a constant multiple of the other. In inverse proportion their product is constant.",
+    "key_concepts": [
+      "Direct proportion graphs are straight lines through the origin",
+      "Find the constant k using the given pair of values first",
+      "Inverse proportion means y increases as x decreases"
+    ],
+    "formulas": [
+      {
+        "note": "y is proportional to x.",
+        "label": "Direct proportion",
+        "expression": "y = kx"
+      },
+      {
+        "note": "Also written as xy = k.",
+        "label": "Inverse proportion",
+        "expression": "y = k / x"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Write y = k(x + 1)^(1/3)",
+          "Substitute: 1 = k x cube root of 8 = 2k, so k = 1/2",
+          "When x = 124: y = 1/2 x cube root of 125 = 1/2 x 5"
+        ],
+        "answer": "y = 5/2",
+        "question": "y is directly proportional to the cube root of (x + 1), and y = 1 when x = 7. Find y when x = 124."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Always substitute the given pair to find k before answering.",
+        "mistake": "Skipping the step of finding k."
+      },
+      {
+        "fix": "Inverse proportion is y = k/x. Read the wording carefully.",
+        "mistake": "Using y = kx when the question says inversely proportional."
+      }
+    ],
+    "exam_tips": [
+      "Underline whether the question says directly or inversely proportional.",
+      "If d is halved in an inverse square relation, F becomes four times larger."
+    ]
+  },
+  "204": {
+    "id": "019fa797-96d4-7182-967a-27541bebc955",
+    "subtopic_name": "Map scales and scale drawings",
+    "summary": "A scale compares drawing length to actual length. Areas scale by the square of the length scale.",
+    "key_concepts": [
+      "A scale of 1 : n means 1 unit on the map represents n of the same units in reality",
+      "Convert both lengths to the same unit before writing a scale",
+      "If lengths scale by 1 : n, then areas scale by 1 : n squared",
+      "A scale has no units because both sides are the same measure"
+    ],
+    "formulas": [
+      {
+        "note": "Both sides must be in the same unit.",
+        "label": "Length scale",
+        "expression": "map length : actual length = 1 : n"
+      },
+      {
+        "note": "Square the length scale factor to get the area scale.",
+        "label": "Area scale",
+        "expression": "1^2 : n^2"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "1 cm on the map represents 50000 cm = 0.5 km",
+          "So 1 cm^2 represents 0.5 x 0.5 = 0.25 km^2",
+          "Actual area = 8 x 0.25"
+        ],
+        "answer": "2 km^2",
+        "question": "A map has scale 1 : 50000. A park covers 8 cm^2 on the map. Find its actual area in km^2."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Square it. Areas scale by n squared, not by n.",
+        "mistake": "Using the length scale factor directly for an area."
+      },
+      {
+        "fix": "Convert both lengths to the same unit, then simplify to the form 1 : n.",
+        "mistake": "Writing a scale without converting units first."
+      }
+    ],
+    "exam_tips": [
+      "Convert the length scale into a convenient unit such as km before working with areas.",
+      "Check whether the question asks for a length or an area, that decides whether you square."
+    ]
+  },
+  "301": {
+    "id": "019fa77d-846f-78bf-9be6-38293f247790",
+    "subtopic_name": "Percentage change, profit and loss",
+    "summary": "Percentage questions almost always come down to identifying which value counts as 100 percent.",
+    "key_concepts": [
+      "The original value is always the 100 percent baseline",
+      "A multiplier is faster and safer than working out the change separately",
+      "Reverse percentage means dividing by the multiplier, not multiplying"
+    ],
+    "formulas": [
+      {
+        "note": "Original is the value before the change.",
+        "label": "Percentage change",
+        "expression": "change / original x 100"
+      },
+      {
+        "note": "For a decrease use (1 - rate/100).",
+        "label": "Increase multiplier",
+        "expression": "new = original x (1 + rate/100)"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "A 24 percent loss means $136 is 76 percent of the cost price",
+          "Cost price = 136 / 0.76 = $178.947...",
+          "Keep the full value in your calculator, do not round yet",
+          "For a 40 percent profit: 1.4 x 178.947... = 250.526..."
+        ],
+        "answer": "$250.53",
+        "question": "A shopkeeper makes a 24 percent loss selling an item for $136. Find the selling price needed for a 40 percent profit instead."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Divide by 0.76. Reverse percentages divide by the multiplier.",
+        "mistake": "Multiplying by 1.24 to reverse a 24 percent loss."
+      },
+      {
+        "fix": "Percentage change is always measured against the original.",
+        "mistake": "Using the new value as the 100 percent baseline."
+      }
+    ],
+    "exam_tips": [
+      "Write down what represents 100 percent before calculating anything.",
+      "Keep full accuracy in working and round only at the end."
+    ]
+  },
+  "302": {
+    "id": "019fa77d-846f-78da-8d36-a3c6c5093e2d",
+    "subtopic_name": "Simple and compound interest",
+    "summary": "Simple interest is a fixed amount each year. Compound interest grows on the new balance each year.",
+    "key_concepts": [
+      "Simple interest is linear, compound interest is exponential",
+      "Compound interest formula gives the total amount, not the interest",
+      "Subtract the principal to get the interest earned"
+    ],
+    "formulas": [
+      {
+        "note": "P is principal, R is percent per year, T is years.",
+        "label": "Simple interest",
+        "expression": "I = P x R x T / 100"
+      },
+      {
+        "note": "A is the final amount. Interest earned = A - P.",
+        "label": "Compound amount",
+        "expression": "A = P x (1 + R/100)^n"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Final amount = 4540 + 1328.54 = 5868.54",
+          "So 4540 x (1 + r/100)^10 = 5868.54",
+          "(1 + r/100)^10 = 5868.54 / 4540 = 1.29263",
+          "Take the 10th root of both sides: 1 + r/100 = 1.0260",
+          "So r/100 = 0.0260"
+        ],
+        "answer": "r = 2.6 percent",
+        "question": "Jessica invests $4540 at r percent compound interest per year. After 10 years she has earned $1328.54 in interest. Find r."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Interest earned = final amount minus the principal.",
+        "mistake": "Reporting the compound amount when the question asks for the interest."
+      },
+      {
+        "fix": "Compound interest recalculates on the new balance each period.",
+        "mistake": "Using simple interest when the question says compound."
+      }
+    ],
+    "exam_tips": [
+      "Check whether the question wants the total amount or just the interest.",
+      "For an unknown rate, take the nth root of both sides."
+    ]
+  },
+  "303": {
+    "id": "019fa797-96d4-7391-a305-684acbf30080",
+    "subtopic_name": "Exchange rates, hire purchase and taxation",
+    "summary": "Everyday finance: converting currency, buying by instalments, and working out tax charged in bands.",
+    "key_concepts": [
+      "Check the size of a converted amount to confirm you multiplied the right way",
+      "A hire purchase total is the deposit plus every instalment, and always exceeds the cash price",
+      "Tax is charged in bands, so only the income inside each band is taxed at that band's rate"
+    ],
+    "formulas": [
+      {
+        "note": "The amount above the cash price is the interest charged.",
+        "label": "Hire purchase total",
+        "expression": "total = deposit + (number of instalments x instalment amount)"
+      },
+      {
+        "note": "Use the rate in the direction you need, or divide by the reverse rate.",
+        "label": "Currency conversion",
+        "expression": "new amount = original amount x rate"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Instalments total = 12 x 82 = $984",
+          "Hire purchase total = 300 + 984 = $1284",
+          "Extra cost = 1284 - 1200"
+        ],
+        "answer": "$84 more than the cash price",
+        "question": "A laptop costs $1200 cash, or a $300 deposit plus 12 monthly payments of $82. How much extra does the instalment plan cost?"
+      },
+      {
+        "steps": [
+          "Each Singapore dollar is worth 0.75 US dollars",
+          "So multiply: 300 x 0.75"
+        ],
+        "answer": "US$225",
+        "question": "If S$1 = US$0.75, convert S$300 into US dollars."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Sanity-check the size. Converting into a weaker currency should give a larger number.",
+        "mistake": "Multiplying when you should divide in a currency conversion."
+      },
+      {
+        "fix": "Total = deposit + all instalments.",
+        "mistake": "Forgetting the deposit when totalling a hire purchase plan."
+      },
+      {
+        "fix": "Only the part of the income inside a band is taxed at that band's rate.",
+        "mistake": "Taxing the whole income at the highest band rate."
+      }
+    ],
+    "exam_tips": [
+      "Write the exchange rate as a fraction and check which unit cancels.",
+      "Hire purchase always costs more than cash, so use that to check your answer."
+    ]
+  },
+  "401": {
+    "id": "019fa77e-4a20-77c9-9dbd-84e3b0a7ecaf",
+    "subtopic_name": "Expansion and factorisation",
+    "summary": "Expanding removes brackets, factorising puts them back. Most algebra marks come from doing these two accurately.",
+    "key_concepts": [
+      "Every term inside the bracket must be multiplied",
+      "Always take out the highest common factor first",
+      "For a quadratic, find two numbers with the right product and sum"
+    ],
+    "formulas": [
+      {
+        "note": "Spot this whenever there is no middle term.",
+        "label": "Difference of two squares",
+        "expression": "a^2 - b^2 = (a + b)(a - b)"
+      },
+      {
+        "note": "The middle term is twice the product.",
+        "label": "Perfect square",
+        "expression": "(a + b)^2 = a^2 + 2ab + b^2"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Need two numbers with product 20 and sum -9",
+          "Those numbers are -4 and -5",
+          "So x^2 - 9x + 20 = (x - 4)(x - 5)"
+        ],
+        "answer": "(x - 4)(x - 5)",
+        "question": "Factorise completely x^2 - 9x + 20."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "You must include the 2ab middle term.",
+        "mistake": "Writing (a + b)^2 as a^2 + b^2."
+      },
+      {
+        "fix": "Check whether the remaining bracket factorises further.",
+        "mistake": "Stopping after one factor when the question says completely."
+      }
+    ],
+    "exam_tips": [
+      "Expand your factorised answer mentally to check it.",
+      "Completely is a hint that there are at least two stages."
+    ]
+  },
+  "402": {
+    "id": "019fa77e-4a20-7a03-898c-3b69d3499409",
+    "subtopic_name": "Algebraic fractions and changing the subject",
+    "summary": "Combine algebraic fractions over a common denominator, and rearrange formulas by undoing operations in reverse order.",
+    "key_concepts": [
+      "Factorise every denominator before finding the common denominator",
+      "Only cancel factors, never individual terms",
+      "To change the subject, collect all terms with that letter on one side"
+    ],
+    "formulas": [
+      {
+        "note": "Simplify the result if possible.",
+        "label": "Adding fractions",
+        "expression": "a/b + c/d = (ad + bc) / bd"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Common denominator is (x + 2)(x - 2) = x^2 - 4",
+          "Numerator: 3(x - 2) + 1(x + 2)",
+          "= 3x - 6 + x + 2 = 4x - 4"
+        ],
+        "answer": "(4x - 4) / (x^2 - 4)",
+        "question": "Write 3/(x + 2) + 1/(x - 2) as a single fraction."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "You can only cancel a factor common to the whole numerator and denominator.",
+        "mistake": "Cancelling the x in (x + 3)/x."
+      },
+      {
+        "fix": "Moving a term to the other side reverses its sign.",
+        "mistake": "Forgetting to change signs when moving a term across the equals sign."
+      }
+    ],
+    "exam_tips": [
+      "Never cancel across a plus or minus sign.",
+      "When the new subject appears twice, factorise it out."
+    ]
+  },
+  "501": {
+    "id": "019fa77e-4a20-7a3a-8806-6eebbef428fd",
+    "subtopic_name": "Linear graphs and gradients",
+    "summary": "Every straight line can be written as y = mx + c, where m is the gradient and c the y-intercept.",
+    "key_concepts": [
+      "Gradient measures how steep the line is",
+      "Parallel lines share the same gradient",
+      "A negative gradient slopes downwards from left to right"
+    ],
+    "formulas": [
+      {
+        "note": "Keep the order of subtraction consistent.",
+        "label": "Gradient from two points",
+        "expression": "m = (y2 - y1) / (x2 - x1)"
+      },
+      {
+        "note": "c is where the line crosses the y-axis.",
+        "label": "Equation of a line",
+        "expression": "y = mx + c"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Gradient m = (11 - 5) / (3 - 1) = 6 / 2 = 3",
+          "Substitute (1, 5): 5 = 3(1) + c, so c = 2"
+        ],
+        "answer": "y = 3x + 2",
+        "question": "Find the equation of the line through (1, 5) and (3, 11)."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Gradient is change in y over change in x.",
+        "mistake": "Computing the gradient as change in x over change in y."
+      },
+      {
+        "fix": "If you start with point 2 on top, start with point 2 on the bottom too.",
+        "mistake": "Mixing up the order of the points in the numerator and denominator."
+      }
+    ],
+    "exam_tips": [
+      "Sketch the two points quickly to check whether the gradient should be positive or negative.",
+      "Read the axis scales before measuring a gradient off a graph."
+    ]
+  },
+  "502": {
+    "id": "019fa77e-4a20-7a59-a2f1-9b582ffbba2f",
+    "subtopic_name": "Quadratic and other graph shapes",
+    "summary": "Recognising the shape of a graph from its equation saves time and prevents sketching errors.",
+    "key_concepts": [
+      "A positive x^2 coefficient gives a U shape, a negative one gives an n shape",
+      "The turning point is the minimum or maximum of a quadratic",
+      "Completing the square reveals the turning point directly"
+    ],
+    "formulas": [
+      {
+        "note": "The turning point is at (a, b).",
+        "label": "Completed square form",
+        "expression": "y = (x - a)^2 + b"
+      },
+      {
+        "note": "A hyperbola with the axes as asymptotes.",
+        "label": "Reciprocal graph",
+        "expression": "y = k / x"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Half of -10 is -5, so start with (x - 5)^2",
+          "(x - 5)^2 = x^2 - 10x + 25, which is 18 too big",
+          "So x^2 - 10x + 7 = (x - 5)^2 - 18",
+          "The squared term is smallest (zero) when x = 5"
+        ],
+        "answer": "(x - 5)^2 - 18, minimum value -18 at x = 5",
+        "question": "Write x^2 - 10x + 7 in the form (x - a)^2 + b and state the minimum value."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "The x-coordinate is +5. The sign inside the bracket flips.",
+        "mistake": "Reading the turning point of (x - 5)^2 - 18 as (-5, -18)."
+      },
+      {
+        "fix": "Draw a single smooth curve through the points.",
+        "mistake": "Joining plotted points with straight lines."
+      }
+    ],
+    "exam_tips": [
+      "Identify the shape from the equation before plotting anything.",
+      "The minimum of a squared term is always zero, which fixes the turning point."
+    ]
+  },
+  "601": {
+    "id": "019fa77e-4a20-7a72-9313-8026d7faa4f5",
+    "subtopic_name": "Linear equations and inequalities",
+    "summary": "Solve inequalities exactly like equations, with one extra rule about multiplying or dividing by a negative.",
+    "key_concepts": [
+      "Do the same operation to both sides to stay balanced",
+      "Multiplying or dividing by a negative reverses the inequality sign",
+      "Integer solutions must be listed, not just described"
+    ],
+    "formulas": [
+      {
+        "note": "Dividing by -1 flips the inequality.",
+        "label": "Sign reversal rule",
+        "expression": "If -x > 3 then x < -3"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Solve 87 - 9n < 0",
+          "87 < 9n, so n > 9.666...",
+          "The smallest integer n is 10",
+          "10th term = 87 - 90 = -3"
+        ],
+        "answer": "The 10th term, which is -3",
+        "question": "Find the first negative term of the sequence whose nth term is 87 - 9n."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Reverse the sign whenever you multiply or divide by a negative number.",
+        "mistake": "Keeping the inequality sign the same after dividing by a negative."
+      },
+      {
+        "fix": "Round to the correct integer and check it satisfies the inequality.",
+        "mistake": "Giving n > 9.67 as the final answer for an integer question."
+      }
+    ],
+    "exam_tips": [
+      "After solving, test one value from your range to confirm it works.",
+      "On a number line, use an open circle for < and a filled circle for <=."
+    ]
+  },
+  "602": {
+    "id": "019fa77e-4a20-7c37-92ed-92b483c805c2",
+    "subtopic_name": "Simultaneous and quadratic equations",
+    "summary": "Two unknowns need two equations. Quadratics need factorising, the formula, or completing the square.",
+    "key_concepts": [
+      "Elimination works well when coefficients match, substitution when one variable is isolated",
+      "A quadratic must equal zero before you factorise it",
+      "The discriminant tells you how many real roots there are"
+    ],
+    "formulas": [
+      {
+        "note": "For ax^2 + bx + c = 0.",
+        "label": "Quadratic formula",
+        "expression": "x = (-b +/- sqrt(b^2 - 4ac)) / 2a"
+      },
+      {
+        "note": "Positive gives 2 roots, zero gives 1, negative gives none.",
+        "label": "Discriminant",
+        "expression": "b^2 - 4ac"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "The y terms are +2y and -2y, so adding the equations eliminates y",
+          "4x = 16, so x = 4",
+          "Substitute x = 4 into x - 2y = 0: 4 - 2y = 0",
+          "2y = 4, so y = 2"
+        ],
+        "answer": "x = 4, y = 2",
+        "question": "Solve the simultaneous equations 3x + 2y = 16 and x - 2y = 0."
+      },
+      {
+        "steps": [
+          "Already equal to zero, so try factorising",
+          "Two numbers with product 2 x (-3) = -6 and sum -5 are -6 and +1",
+          "2x^2 - 6x + x - 3 = 2x(x - 3) + 1(x - 3) = (2x + 1)(x - 3)",
+          "Set each bracket to zero"
+        ],
+        "answer": "x = -1/2 or x = 3",
+        "question": "Solve 2x^2 - 5x - 3 = 0."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Move every term to one side so the equation reads ... = 0 first.",
+        "mistake": "Trying to factorise a quadratic that has not been rearranged to equal zero."
+      },
+      {
+        "fix": "A quadratic usually has two solutions. State both.",
+        "mistake": "Giving only one solution to a quadratic."
+      },
+      {
+        "fix": "Opposite signs means add to eliminate. Matching signs means subtract.",
+        "mistake": "Subtracting the simultaneous equations when the signs are already opposite."
+      }
+    ],
+    "exam_tips": [
+      "Substitute both answers back into the original equation to check.",
+      "If the question says give answers to 2 decimal places, it wants the formula, not factorising."
+    ]
+  },
+  "701": {
+    "id": "019fa77f-0ed2-7580-a556-eae0ff73494a",
+    "subtopic_name": "Set notation and Venn diagrams",
+    "summary": "Sets group objects. Most marks come from reading the notation correctly and shading the right region.",
+    "key_concepts": [
+      "Union means everything in either set, intersection means only what is in both",
+      "The complement is everything in the universal set that is not in the set",
+      "n(A) means the number of elements in A"
+    ],
+    "formulas": [
+      {
+        "note": "Subtract the overlap so it is not counted twice.",
+        "label": "Union count",
+        "expression": "n(A union B) = n(A) + n(B) - n(A intersect B)"
+      },
+      {
+        "note": "The prime symbol means not in A.",
+        "label": "Complement",
+        "expression": "A' = universal set minus A"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "A = {1, 4, 9}, so n(A) = 3",
+          "B = {2, 3, 5, 7, 11, 13}, so n(B) = 6",
+          "No element is in both, so the intersection is empty",
+          "n(A union B) = 3 + 6 - 0"
+        ],
+        "answer": "9",
+        "question": "The universal set is the integers 1 to 15. A is the perfect squares and B is the primes. Find n(A union B)."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Elements in both sets would be counted twice. Subtract the intersection.",
+        "mistake": "Adding n(A) and n(B) without subtracting the overlap."
+      },
+      {
+        "fix": "Union looks like a cup and collects everything. Intersection is the overlap only.",
+        "mistake": "Confusing the union and intersection symbols."
+      }
+    ],
+    "exam_tips": [
+      "Always list the actual elements before counting them.",
+      "Fill the intersection of a Venn diagram first, then work outwards."
+    ]
+  },
+  "801": {
+    "id": "019fa77f-0ed2-76b8-9b76-1055b754a2df",
+    "subtopic_name": "Matrix operations and applications",
+    "summary": "Matrices store data in rows and columns. Order matters for multiplication, and the dimensions must match.",
+    "key_concepts": [
+      "You can only add or subtract matrices of the same size",
+      "For multiplication, the columns of the first must equal the rows of the second",
+      "AB is usually not the same as BA"
+    ],
+    "formulas": [
+      {
+        "note": "Always state rows first, then columns.",
+        "label": "Order of a matrix",
+        "expression": "order = rows x columns"
+      },
+      {
+        "note": "The inner numbers must match; the outer numbers give the size of the answer.",
+        "label": "Multiplication dimensions",
+        "expression": "(m x n) x (n x p) = (m x p)"
+      },
+      {
+        "note": "Every entry is multiplied by k.",
+        "label": "Scalar multiplication",
+        "expression": "k x (a b / c d) = (ka kb / kc kd)"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Each row of the recipe matrix is one ingredient",
+          "Each entry of the cakes matrix is how many of that cake are made",
+          "Multiplying sums ingredient amount times cake count"
+        ],
+        "answer": "Each element is the total amount of one ingredient needed for all the cakes.",
+        "question": "A recipe matrix is multiplied by a number-of-cakes matrix. Explain what the product elements represent."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Multiply each row of the first matrix by each column of the second, then add.",
+        "mistake": "Multiplying matrices element by element."
+      },
+      {
+        "fix": "Matrix multiplication is not commutative. Keep the given order.",
+        "mistake": "Assuming AB equals BA."
+      }
+    ],
+    "exam_tips": [
+      "Write the dimensions above each matrix before multiplying to check it is possible.",
+      "For interpretation questions, state what a row and a column represent in context."
+    ]
+  },
+  "1001": {
+    "id": "019fa77f-0ed2-7889-a1bc-441d9ff8f55c",
+    "subtopic_name": "Congruence and similarity",
+    "summary": "Congruent figures are identical in size and shape. Similar figures have the same shape with all lengths scaled by one factor.",
+    "key_concepts": [
+      "Congruence tests are SSS, SAS, ASA, RHS",
+      "Similar shapes have equal corresponding angles and a constant ratio of sides",
+      "Area and volume scale by the square and cube of the length scale factor"
+    ],
+    "formulas": [
+      {
+        "note": "Match the corresponding sides carefully.",
+        "label": "Length scale factor",
+        "expression": "k = corresponding length on B / corresponding length on A"
+      },
+      {
+        "note": "A very common source of lost marks.",
+        "label": "Area and volume scaling",
+        "expression": "area ratio = k^2, volume ratio = k^3"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Length scale factor k = 10 / 4 = 2.5",
+          "Volume scale factor = k^3 = 15.625",
+          "Larger volume = 32 x 15.625"
+        ],
+        "answer": "500 cm^3",
+        "question": "Two similar solids have heights 4 cm and 10 cm. The smaller has volume 32 cm^3. Find the volume of the larger."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Square it for area and cube it for volume.",
+        "mistake": "Using the length scale factor directly for area or volume."
+      },
+      {
+        "fix": "Match sides by the equal angles they sit between.",
+        "mistake": "Pairing sides that do not correspond."
+      }
+    ],
+    "exam_tips": [
+      "Sketch both shapes the same way round before pairing sides.",
+      "For congruence proofs, state the test abbreviation such as SAS explicitly."
+    ]
+  },
+  "1201": {
+    "id": "019fa780-0e84-7e60-b2fc-65a592509a11",
+    "subtopic_name": "Pythagoras and right-angled trigonometry",
+    "summary": "In a right-angled triangle, use Pythagoras for sides only and SOHCAHTOA when an angle is involved.",
+    "key_concepts": [
+      "The hypotenuse is always opposite the right angle",
+      "Label the sides opposite, adjacent and hypotenuse relative to the angle you are using",
+      "Use the inverse function to find an angle from two sides"
+    ],
+    "formulas": [
+      {
+        "note": "c is the hypotenuse. Rearrange to find a shorter side.",
+        "label": "Pythagoras theorem",
+        "expression": "a^2 + b^2 = c^2"
+      },
+      {
+        "note": "Choose the ratio that uses the two sides you know.",
+        "label": "SOHCAHTOA",
+        "expression": "sin = O/H, cos = A/H, tan = O/A"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Adjacent = 1.4, hypotenuse = 5, so use cosine",
+          "cos x = 1.4 / 5 = 0.28",
+          "x = inverse cos of 0.28"
+        ],
+        "answer": "73.7 degrees to 1 decimal place",
+        "question": "A ladder 5 m long leans against a wall with its foot 1.4 m from the base. Find the angle with the ground."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Pythagoras only relates three sides. Use trigonometry when an angle appears.",
+        "mistake": "Using Pythagoras when one of the given values is an angle."
+      },
+      {
+        "fix": "Set the calculator to degrees before any trigonometry.",
+        "mistake": "Leaving the calculator in radian mode."
+      }
+    ],
+    "exam_tips": [
+      "Label the three sides relative to your chosen angle before picking a ratio.",
+      "Check the hypotenuse is the longest side in your answer."
+    ]
+  },
+  "1401": {
+    "id": "019fa780-0e85-712d-a090-4b3d82b18a9b",
+    "subtopic_name": "Coordinate geometry",
+    "summary": "Gradient, midpoint and distance are three formulas that answer nearly every coordinate question.",
+    "key_concepts": [
+      "Midpoint is the average of the coordinates",
+      "Perpendicular gradients multiply to give -1",
+      "Distance between points comes straight from Pythagoras"
+    ],
+    "formulas": [
+      {
+        "note": "Average each coordinate separately.",
+        "label": "Midpoint",
+        "expression": "((x1 + x2)/2, (y1 + y2)/2)"
+      },
+      {
+        "note": "Pythagoras applied to the coordinate differences.",
+        "label": "Distance",
+        "expression": "sqrt((x2 - x1)^2 + (y2 - y1)^2)"
+      },
+      {
+        "note": "The perpendicular gradient is the negative reciprocal.",
+        "label": "Perpendicular gradient",
+        "expression": "m1 x m2 = -1"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Original gradient is 2, so perpendicular gradient is -1/2",
+          "Substitute (4, 3): 3 = -1/2(4) + c",
+          "3 = -2 + c, so c = 5"
+        ],
+        "answer": "y = -1/2 x + 5",
+        "question": "Find the equation of the line perpendicular to y = 2x + 1 passing through (4, 3)."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Take the negative reciprocal, which is -1/2, not just the negative.",
+        "mistake": "Using -2 as the perpendicular gradient to 2."
+      },
+      {
+        "fix": "Midpoint means average, so add and divide by two.",
+        "mistake": "Subtracting coordinates when finding a midpoint."
+      }
+    ],
+    "exam_tips": [
+      "Plot the points roughly to sanity-check your answer.",
+      "Perpendicular gradient means flip the fraction and change the sign."
+    ]
+  },
+  "1501": {
+    "id": "019fa780-0e85-714b-8123-58667f21b215",
+    "subtopic_name": "Vectors in two dimensions",
+    "summary": "A vector has both magnitude and direction. Route-finding through a diagram is the core skill.",
+    "key_concepts": [
+      "Vector AB means go from A to B, and BA is its negative",
+      "Add vectors by following one route then another",
+      "Parallel vectors are scalar multiples of each other"
+    ],
+    "formulas": [
+      {
+        "note": "For the column vector with components x and y.",
+        "label": "Magnitude",
+        "expression": "|v| = sqrt(x^2 + y^2)"
+      },
+      {
+        "note": "Any route from A to B gives the same vector.",
+        "label": "Route addition",
+        "expression": "AB = AO + OB = -OA + OB"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Travel from A back to O, then O to B",
+          "AO = -a and OB = b",
+          "AB = -a + b"
+        ],
+        "answer": "AB = b - a",
+        "question": "OA is vector a and OB is vector b. Express AB in terms of a and b."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "AB = b - a. You subtract the start point from the end point.",
+        "mistake": "Writing AB as a - b."
+      },
+      {
+        "fix": "Add the components first, then apply the magnitude formula.",
+        "mistake": "Adding the magnitudes of two vectors to get the magnitude of their sum."
+      }
+    ],
+    "exam_tips": [
+      "Draw arrows on the diagram for every vector you write down.",
+      "If two vectors are parallel, write one as k times the other and solve for k."
+    ]
+  },
+  "1601": {
+    "id": "019fa780-0e85-71ab-b016-3c60cee766c0",
+    "subtopic_name": "Averages and measures of spread",
+    "summary": "Mean, median and mode each summarise data differently, and the range or interquartile range describes the spread.",
+    "key_concepts": [
+      "The median needs the data ordered first",
+      "The mean is affected by extreme values, the median is not",
+      "Interquartile range describes the middle half of the data"
+    ],
+    "formulas": [
+      {
+        "note": "x is the value, f is its frequency.",
+        "label": "Mean from a frequency table",
+        "expression": "mean = sum of (fx) / sum of f"
+      },
+      {
+        "note": "Ignores extreme values at both ends.",
+        "label": "Interquartile range",
+        "expression": "IQR = upper quartile - lower quartile"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "IQR = upper quartile - lower quartile",
+          "= 77 - 59"
+        ],
+        "answer": "18 marks",
+        "question": "A cumulative frequency graph for 200 students gives a lower quartile of 59 marks and an upper quartile of 77 marks. Find the interquartile range."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "Always sort the values into order first.",
+        "mistake": "Finding the median without ordering the data."
+      },
+      {
+        "fix": "The median is read at half the total frequency on the vertical axis.",
+        "mistake": "Reading the median at the halfway point of the marks axis."
+      }
+    ],
+    "exam_tips": [
+      "If a question mentions outliers, the median and IQR are usually the better measures.",
+      "State units with every average and spread you calculate."
+    ]
+  },
+  "1602": {
+    "id": "019fa799-85bc-7e0f-b6c8-3e8869a04a9e",
+    "subtopic_name": "Standard deviation and comparing data sets",
+    "summary": "Standard deviation measures how spread out data is around the mean. Use it alongside the mean to compare two sets.",
+    "key_concepts": [
+      "A larger standard deviation means the data is more spread out and less consistent",
+      "Compare two data sets by commenting on the average and on the spread separately",
+      "Standard deviation uses every value, so extreme values affect it",
+      "Always give the comparison in the context of the question"
+    ],
+    "formulas": [
+      {
+        "note": "Work out the mean and the mean of the squares first.",
+        "label": "Standard deviation",
+        "expression": "s.d. = sqrt(sum of x^2 / n - (mean)^2)"
+      },
+      {
+        "note": "From a frequency table, use sum of fx divided by sum of f.",
+        "label": "Mean",
+        "expression": "mean = sum of x / n"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "Mean = (4 + 6 + 7 + 9 + 9) / 5 = 35 / 5 = 7",
+          "Sum of squares = 16 + 36 + 49 + 81 + 81 = 263",
+          "Mean of the squares = 263 / 5 = 52.6",
+          "s.d. = sqrt(52.6 - 7^2) = sqrt(3.6)"
+        ],
+        "answer": "Mean 7 and standard deviation 1.90 to 3 significant figures",
+        "question": "Five students score 4, 6, 7, 9 and 9. Find the mean and the standard deviation."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "It is the mean of the squares minus the square of the mean. That result is never negative.",
+        "mistake": "Subtracting in the wrong order inside the square root."
+      },
+      {
+        "fix": "Mention both the average and the spread to earn full marks.",
+        "mistake": "Comparing two data sets using the mean alone."
+      },
+      {
+        "fix": "Standard deviation uses every value; the range uses only the two extremes.",
+        "mistake": "Confusing standard deviation with the range or interquartile range."
+      }
+    ],
+    "exam_tips": [
+      "Set out a table of x and x squared before substituting into the formula.",
+      "A smaller standard deviation means more consistent, which is usually the point of the comparison."
+    ]
+  },
+  "1603": {
+    "id": "019fa799-85bc-7e8f-847b-a45e098e814a",
+    "subtopic_name": "Statistical diagrams and cumulative frequency curves",
+    "summary": "Different diagrams suit different data. A cumulative frequency curve gives the median and quartiles by reading across and down.",
+    "key_concepts": [
+      "A cumulative frequency curve plots the running total against the upper class boundary",
+      "Read the median at half the total frequency on the vertical axis, then across to the curve and down",
+      "Quartiles are read at one quarter and three quarters of the total frequency",
+      "A box-and-whisker plot shows the minimum, lower quartile, median, upper quartile and maximum"
+    ],
+    "formulas": [
+      {
+        "note": "n is the total frequency.",
+        "label": "Median position",
+        "expression": "read across at n / 2 on the cumulative frequency axis"
+      },
+      {
+        "note": "Always read across from the vertical axis first.",
+        "label": "Quartile positions",
+        "expression": "lower quartile at n / 4, upper quartile at 3n / 4"
+      },
+      {
+        "note": "Describes the spread of the middle half of the data.",
+        "label": "Interquartile range",
+        "expression": "IQR = upper quartile - lower quartile"
+      }
+    ],
+    "worked_examples": [
+      {
+        "steps": [
+          "For the median, read across from 100 on the cumulative frequency axis to the curve, then down to the marks axis",
+          "For scores above 70, read up from 70 to the curve to find how many scored 70 or less",
+          "Subtract that reading from 200"
+        ],
+        "answer": "The median is read at a cumulative frequency of 100, and the number above 70 marks is 200 minus the curve reading at 70",
+        "question": "A cumulative frequency curve covers 200 students. Explain how to find the median, and how many scored more than 70 marks."
+      }
+    ],
+    "common_mistakes": [
+      {
+        "fix": "The median is read at half the total frequency on the vertical axis, not halfway along the horizontal axis.",
+        "mistake": "Reading the median halfway along the marks axis."
+      },
+      {
+        "fix": "Plot it against the upper class boundary.",
+        "mistake": "Plotting cumulative frequency against the class midpoint."
+      },
+      {
+        "fix": "Subtract the reading from the total frequency.",
+        "mistake": "Giving the curve reading as the answer when asked how many scored more than a value."
+      }
+    ],
+    "exam_tips": [
+      "Draw your reading lines onto the graph, they show the examiner your method.",
+      "Check your curve finishes at the total frequency."
+    ]
+  }
+}

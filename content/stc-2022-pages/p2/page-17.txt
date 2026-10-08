@@ -1,0 +1,18 @@
+17
+(c) State what each element of matrix R represents.
+(d) Belinda and Carol each bought their drinks from the café that provided a better offer.
+For the latest meeting in July, Belinda and Carol gave their members another treat to
+celebrate the completion of the project. Each of them bought the same set of drinks
+from the same café they patronised in February. However, the prices of the drinks have
+changed by the following percentages in both cafés.
+The price of a cup of Americano has increased by 10%.
+The price of a cup of Latte has increased by 15%.
+The price of a cup of Mocha has decreased by 5%.
+Calculate the percentage change in the combined total spent in February and July.
+Answer ...............co.... % [3]
+
+CHIJ ST. THERESA’S CONVENT
+
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

@@ -1,0 +1,16 @@
+17
+20 The number line shows the probabilities of 7 events represented by the
+arrows P, A, T,R, I, C and K.
+P 4 T R I Cc K
+0 1
+Write down the letter of the correct arrow that best represents each of these events:
+(a) Choosing a marble randomly from a box that contains 5 red marbles and 3 green
+marbles and obtaining a green marble.
+Answer... [1]
+(b) Rolling a fair 6-sided die and obtaining a prime number.
+Answer... [1]
+(¢) Selecting a number at random from the set { 3, 5, 7,9 } and obtaining an even number.
+Answer o.oo [11
+CHII ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

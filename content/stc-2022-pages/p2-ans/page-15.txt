@@ -1,0 +1,19 @@
+15
+Answer ..........ccccce. cm [2]
+(iii) Calculate the total area of the shaded regions.
+Area of triangle OAC
+= Tx10Pxsin24
+~ 33.773 cm? [M1]
+Area of segment BCD = Area of sector OBC — Area of triangle OBC
+= Txt (z-12)- Dx t0Pxsin(a-12)
+= 97.079632679— 46.601954298
+~ 50.478 cm? [M1]
+Area of shaded region
+= Area of triangle OAC + Area of segment BCD
+~ 33.773 + 50.478
+~ 84.251
+=84.3cm?(3sf) [A1]
+ANSWEr .....cooeonvinnnn.. cm? [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

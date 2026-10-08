@@ -1,0 +1,346 @@
+Title Basic Algebra – Algebraic Manipulation
+Author AprilDolphin – Lim Wang Sheng
+Date 2/2/2026
+Algebra is basically
+• Representing known or unknown quantities and numbers with letters and
+symbols
+• Performing mathematical operations using letters and symbols, together with
+numbers
+Without algebra
+• Textbook would be ridiculously thick and heavy
+• Certain statistical analysis will be virtually impossible to conduct as the person
+conducting the analysis will need to make endless amount of mathematical
+explanation
+• Certain fields of Mathematics, dependent on algebra, cannot exist as well
+Tips to students who are new to basic algebra
+• Please name your unknowns systematically, so that you won’t be confused.
+• Never use letters that can be easily confused for something else as shown in the
+below table (Unless the question specified them as part of the question or insist
+that you must use them):
+Common Letters to try Avoid
+Using
+Reasoning/Explanation
+𝑄
+(Upper Case Only)
+Upper case letter 𝑄 can
+be confused with “𝑂” or
+Zero (0)
+𝑂, 𝑜
+(Lower Case and Upper Case)
+Upper case letter 𝑂 can
+be confused with zero
+(0).
+Lower case letter 𝑜 can
+be confused with zero
+(0).
+𝐽, 𝑗
+(Lower Case and Upper case)
+Upper case letter 𝐽 can
+be confused with 𝐿 and 𝐼
+Lower case letter 𝑗 can
+be confused with 𝑖
+𝑙
+(Lower Case only)
+Lower case letter 𝑙 can
+be confused with 𝑖 or
+one (1)
+𝐼, 𝑖
+(Lower case and upper case)
+Upper case letter 𝐼 can
+be confused with lower
+case letter 𝑙
+Lower case letter 𝑖 is
+typically reserved for a
+specific use at higher
+level Mathematics
+
+-- 2 of 145 --
+
+𝑒
+(Lower Case Only)
+Lower case 𝑒 is typically
+reserved for a specific
+use at higher level
+Mathematics
+𝑆, 𝑠
+(Upper and Lower case)
+Upper case letter 𝑆 can
+be confused with
+number five (5)
+Lower case letter 𝑠 can
+be confused with the
+number five (5)
+Basic Operands in Algebra
+Expression English Meaning
+𝑥 + 4 Add 4 to 𝑥
+𝑥 − 𝑦 Subtract 𝑦 from 𝑥
+6𝑚 Multiply 𝑚 by 6
+𝑚
+𝑛
+Divide 𝑚 by 𝑛
+Basic Operands in Algebra – Index Notation
+Expression English Meaning
+𝑘5 = 𝑘 × 𝑘 × 𝑘 × 𝑘 × 𝑘 Write 𝑘 five times in a row and multiply
+all the written values of 𝑘 together
+𝑚−4 = 1
+𝑚 × 𝑚 × 𝑚 × 𝑚
+1 divided by 𝑚4, where 𝑚4 is 𝑚 written
+four times in a row and multiplied
+together
+
+-- 3 of 145 --
+
+Example 1.
+Evaluate the following expression
+𝑥 + 7 + 3𝑥 + 4
+= 𝑥 + 3𝑥 + 7 + 4
+4𝑥 + 11
+Let’s convert it to models and see how they correlate
+𝑥
+4
+3𝑥
+7
+Sum up all the values
+represented by the
+models and you should
+get the same expression
+How algebra is translated into models in Example 1.
+1. 1.There are four boxes of the unknown 𝑥, which equates to 4𝑥 when
+summed up.
+2. 2.There is one box of 7 and as well as one box of 4, hence adding up
+everything above, we get a total value of 4𝑥 + 11
+
+-- 4 of 145 --
+
+The above also, in a way, demonstrate the concept of “like” and “unlike” terms.
+In any algebraic addition and subtraction, only “like terms” can be added or subtracted
+in this way.
+2𝑥 + 3𝑥 = 5𝑥
+5𝑥 − 4𝑥 = 𝑥
+Arithmetic demonstration of concept:
+2𝑥 + 3𝑥 = 5𝑥
+Since 2𝑥 = 2 × 𝑥,
+We can pretend the value of 𝑥 is 5.
+In this case:
+2𝑥 = 2 × 5 and 3𝑥 = 3 × 5
+10 + 15 = 25
+The other way is true as well and valid:
+2𝑥 + 3𝑥 = 5𝑥 = 5 × 5 = 25
+
+-- 5 of 145 --
+
+More Complicated Subtraction and Addition and Demonstration by Purely Algebra
+Approach and How to Check Your Answers.
+Example 2:
+3𝑥 + 5 − 3𝑥 + 4
+= 3𝑥 − 3𝑥 + 5 + 4 (Group “Like Terms” together)
+= 0 + 9 = 9 (Final Answer)
+To verify your answer is correct, what you need to do.
+Pretend 𝑥 = 2
+(3 × 2) + 5 − (3 × 2) + 4
+= 6 + 5 − 6 + 4
+11 − 6 + 4 = 5 + 4 = 9
+Example 3:
+15𝑥𝑦 − 5 + 2 − 13𝑥𝑦
+= 15𝑥𝑦 − 13𝑥𝑦 − 5 + 2 (Group “Like Terms” Together)
+= 2𝑥𝑦 − 5 + 2
+= 2𝑥𝑦 − 3 (Final Answer)
+To verify the correctness of your answer, you need to
+Pretend 𝑥 = 2 and 𝑦 = 3 in your original question.
+(15 × 2 × 3) − 5 + 2 − (13 × 2 × 3)
+(90) − 5 + 2 − (78)
+= 90 − 5 + 2 − 78 = 9
+Then pretend 𝑥 = 2 and 𝑦 = 3 in your answer.
+(2 × 2 × 3) − 3
+= 12 − 3
+= 9
+Some teachers also call this type of answer checking as “Checking Answers by Value
+Substitution” as you are indeed “Substituting the Value” of the letters by another value.
+
+-- 6 of 145 --
+
+Problem Solving (Addition and Subtraction of Algebra):
+To solve a problem sum using algebra, while it varies slightly in different questions, we
+observed the following steps are necessary.
+1. Find out what are the unknowns, needed to solve the question.
+2. Define the known and unknown variable properly using algebra letters and
+numbers.
+3. Construct the equation or expression needed to solve the question.
+4. Solve the equation and find the value of unknown variable.
+The easiest example I’ve seen on books that can demonstrate this:
+Example 4:
+The sum of three consecutive numbers is 84. What is the smallest of the three numbers.
+1 Find out the
+unknown.
+The smallest number out of the three consecutive
+numbers.
+2 Define the unknown
+and known properly
+In this case, the unknown value (smallest number) is
+defined as 𝑥.
+Since they said the numbers are in consecutive order, we
+can define the subsequent two numbers as 𝑥 + 1 and
+𝑥 + 2
+3 Construct an
+Equation
+Sum means, add the three numbers together, so we
+have:
+𝑥 + (𝑥 + 1) + (𝑥 + 2) = 84
+4 Solve the Equation
+and find out what is
+the unknown value,
+in this case, it is 𝑥.
+3𝑥 + 1 + 2 = 84
+3𝑥 + 3 = 84
+3𝑥 = 84 − 3
+3𝑥 = 81
+𝑥 = 27 [Final Answer]
+Thus, the smallest number is 27.
+
+-- 7 of 145 --
+
+Performing Algebra Addition and Subtraction (Using Brackets) Demonstration and
+Concept:
+The below two example seems extremely straightforward:
+𝑎 + 𝑏 = 𝑎 + 𝑏
+𝑎 − 𝑏 = 𝑎 − 𝑏
+It is the below few example students often get confused about and are careless enough
+to lose a total of 7 marks in exams.
+𝑎 + (−𝑏) = 𝑎 − 𝑏
+𝑎 − (−𝑏) = 𝑎 + 𝑏
+(−𝑎) + 𝑏 = 𝑏 − 𝑎
+(−𝑎) + (−𝑏) = (−𝑏) − 𝑎
+Performing Algebra Multiplication and Division (Using Brackets) Demonstration and
+Concept:
+The below two examples are straightforward.
+𝑎(𝑏) = 𝑎𝑏
+𝑎 ÷ 𝑏 = 𝑎
+𝑏
+Once again students can get really confused when negative signs are involved.
+𝑎(−𝑏) = −𝑎𝑏
+−𝑎(𝑏) = −𝑎𝑏
+(−𝑎)(−𝑏) = 𝑎𝑏
+𝑎 ÷ (−𝑏) = − 𝑎
+𝑏
+(−𝑎) ÷ 𝑏 = − 𝑎
+𝑏
+(−𝑎) ÷ (−𝑏) = 𝑎
+𝑏
+
+-- 8 of 145 --
+
+Example 5
+Simplify −2(3𝑥 − 4 + 6𝑥)
+We must take note of 2 things in the above example, firstly, the bracket needs to be
+removed, secondly, that the expression in the bracket has to be multiplied by a
+negative value outside the bracket.
+−2(3𝑥) − 2(−4) − 2(6𝑥) Remove Brackets by multiplying values outside of
+the brackets with the value inside the bracket.
+= −6𝑥 + 8 − 12𝑥 Group “Like Terms” Together
+= −18𝑥 + 8 Final Answer
+Example 6
+Simplify 1
+3𝑥−1 + 3𝑥
+5
+This time, we will be performing calculations and simplifying algebra fractions.
+Students may begin to think how to start, and I would like you all to recall how you
+add fractions in your primary school by converting the denominator to their least
+common multiple.
+Evaluate 2
+5 + 1
+4
+2
+5 + 1
+4 = 2
+5 (4
+4) + 1
+4 (5
+5) = 8
+20 + 5
+20 = 13
+20
+In the case of the example 1
+3𝑥−1 + 3𝑥
+5 , it turns out the lowest common multiple of the
+denominator is 5(3𝑥 − 1) = 15𝑥 − 5
+1
+3𝑥 − 1 + 3𝑥
+5
+
+-- 9 of 145 --
+
+After converting the denominator to their lowest common multiple, we will also
+multiply the numerator according to what led us to the new denominator values.
+= 1
+(3𝑥 − 1) (5
+5) + 3𝑥
+5 (3𝑥 − 1
+3𝑥 − 1) = 5(1)
+5(3𝑥 − 1) + 3𝑥(3𝑥 − 1)
+5(3𝑥 − 1)
+= 5
+15𝑥 − 5 + 9𝑥2 − 3𝑥
+15𝑥 − 5 = 5
+15𝑥 − 5 + (9𝑥2 − 3𝑥)
+15𝑥 − 5
+= 9𝑥2 − 3𝑥 + 5
+15𝑥 − 5
+Example 7
+(Dealing with Negative Signs in Algebraic Fractions)
+Simplify 2𝑥
+9 − 2𝑥−5
+7
+After converting the denominator values to their lowest common multiple, we will also
+multiply the numerator according to what led us to the new dominator values, which
+get us to the following expression
+2𝑥
+9 (7
+7) − (2𝑥 − 5)
+7 (9
+9)
+= 14𝑥
+63 − 9(2𝑥 − 5)
+63
+= 14𝑥 − 9(2𝑥 − 5)
+63
+14𝑥 − 18𝑥 + 45
+63
+= −4𝑥 + 45
+63
+➢ Beware of Negative Signs
+➢ All fractions should be combined into a single
+denominator right after the denominator has a Lowest
+Common Multiple. (Prevent Careless Mistakes)
+➢ Be careful when dealing with brackets.
+
+-- 10 of 145 --
+
+Example 8:
+(Dealing with a type of algebraic expression where you have to deal with both whole
+numbers coefficient and algebraic fractions within the same expression)
+First, I would like to explain what I meant by dealing with whole numbers coefficient and
+algebraic fraction within the same expression.
+It refers to a situation where you deal with algebraic expression that resembles the
+following expression.
+𝑎
+𝑏 + 𝑛𝑐
+Where 𝑛 is the coefficient of 𝑐 and 𝑛 is a whole number
+To make this clearer, let me demonstrate a proper example below
+Simplify 5𝑥+6
+5 − 4𝑥
+In this case above, we need to ensure 5𝑥+6
+5 and −4𝑥 both have the same denominator
+by realising the following fact:
+• −4𝑥 is just basically − 4𝑥
+1 which means we can multiply both the numerator and
+denominator by 5 to get 5(−4𝑥)
+5 = − 20𝑥
+5
+After the above operation is done, the fractions can be combined under a single
+denominator as seen below:
+= 5𝑥 + 6 − 20𝑥
+5
+= −15𝑥 + 6
+5
+
+-- 11 of 145 --

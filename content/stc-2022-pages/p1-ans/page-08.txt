@@ -1,0 +1,28 @@
+8
+8 (a) OntheVenn diagram, shade the region which represents A' n B.
+¢
+oO [B1
+[1
+(b) Write down the sets represented by the shaded region.
+3
+A B
+( QV) BUA' [B1]
+Answer... [1]
+9 The diagram shows a regular octagon, ABCDEFGH, and three sides, PH, HG and GQ, of a
+second regular polygon. Angle PHA = 81°.
+Find the number of sides in the second regular polygon.
+----P A B
+omig=E2A 0% c
+8 H
+185%
+ZPHG = 360° -135°-81° = 144° (Angles at apt) G D
+(n=2)<180° __ 1c M1]
+m __--"7Q F E
+180°n—360° =144°n
+36°n= 2360"
+n= 10 (A)
+36°
+Answer... [3]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

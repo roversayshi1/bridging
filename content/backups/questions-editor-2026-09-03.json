@@ -1,0 +1,2056 @@
+{
+  "exportedAt": "2026-09-03T23:38:48.345Z",
+  "environment": "editor",
+  "projectId": "bcf230cd-e5b1-4fde-814b-0ddd71a314f0",
+  "total": 136,
+  "questions": [
+    {
+      "id": "019f9e72-b681-7ab4-b97f-c92fe8c20252",
+      "prompt": "A shirt costs £14.75 in one country. In another country, the same shirt costs $21.99. If the exchange rate is $1 = £0.73, calculate how much more the second price is than the first, in pounds.",
+      "metadata": {
+        "tags": "ratio,exchange-rates,money",
+        "subtopic": "exchange rates",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:13:50.829Z",
+      "updatedAt": "2026-08-21T14:13:50.829Z",
+      "difficulty": "Easy",
+      "explanation": "Convert $21.99 to pounds: 21.99 × 0.73 = 16.0527. Subtract 14.75: 16.0527 - 14.75 = 1.3027. To the nearest penny, the difference is £1.30.",
+      "diagram_path": null,
+      "model_answer": "£1.30"
+    },
+    {
+      "id": "01a00459-8bb0-79e6-ade9-c46eddf891d7",
+      "prompt": "A cumulative frequency graph for 160 students shows the lower quartile at 56 marks and the upper quartile at 72 marks. Find the interquartile range.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7888-aef2-fd58477eb864",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "Interquartile range = upper quartile - lower quartile = 72 - 56 = 16.",
+      "diagram_path": null,
+      "model_answer": "16"
+    },
+    {
+      "id": "01a00459-8c28-7a53-b1de-56308e632bf5",
+      "prompt": "In a cake recipe problem, a matrix product AB is used to combine ingredient amounts with the number of cakes baked. Explain what the entries of AB represent.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7899-9f80-1aed5da88c11",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "When a matrix of ingredient quantities per cake is multiplied by a matrix showing how many cakes are made, each entry in the product gives the total amount of a particular ingredient needed.",
+      "diagram_path": null,
+      "model_answer": "They represent the total amounts of each ingredient required."
+    },
+    {
+      "id": "019f9e72-b6b2-762e-982d-9a230904d542",
+      "prompt": "Write \\(x^{2}\\) - 10x + 7 in the form \\((x - a)^{2}\\) + b.",
+      "metadata": {
+        "tags": "algebra,quadratics,completing-the-square",
+        "subtopic": "completing the square",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:12:14.981Z",
+      "updatedAt": "2026-08-21T14:12:14.981Z",
+      "difficulty": "Easy",
+      "explanation": "Complete the square: \\(x^{2}\\) - 10x + 7 = (\\(x^{2}\\) - 10x + 25) - 25 + 7 = \\((x - 5)^{2}\\) - 18.",
+      "diagram_path": null,
+      "model_answer": "\\((x - 5)^{2}\\) - 18"
+    },
+    {
+      "id": "01a00459-8c3c-7f99-a598-2738e3fd3e42",
+      "prompt": "Express 10 000 SGD in USD if the exchange rate is USD 1 = SGD x.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "If 1 USD = x SGD, then the number of USD received for 10 000 SGD is 10 000 divided by x.",
+      "diagram_path": null,
+      "model_answer": "10000/x"
+    },
+    {
+      "id": "019f9e72-b688-7ff9-971b-1d6c0e1ef6df",
+      "prompt": "Simplify 6\\(a^{5}\\)\\(b^{2}\\) ÷ 3\\(a^{2}\\)b.",
+      "metadata": {
+        "tags": "algebra,indices,simplification",
+        "subtopic": "indices",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "Divide coefficients: 6 ÷ 3 = 2. Subtract the powers: \\(a^{(5-2)}\\) = \\(a^{3}\\) and \\(b^{(2-1)}\\) = b. So the simplified form is 2\\(a^{3}\\)b.",
+      "diagram_path": null,
+      "model_answer": "2\\(a^{3}\\)b"
+    },
+    {
+      "id": "019f9e72-b68b-7f17-b8a8-f777ff35747f",
+      "prompt": "Use the laws of indices to find the value of k if \\(2^{k}\\) × \\(2^{4}\\) = 64.",
+      "metadata": {
+        "tags": "algebra,indices,laws-of-indices",
+        "subtopic": "indices",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "Combine the powers: \\(2^{(k+4)}\\) = 64. Since 64 = \\(2^{6}\\), we get k + 4 = 6. Therefore k = 2.",
+      "diagram_path": null,
+      "model_answer": "2"
+    },
+    {
+      "id": "019f9e72-b68e-79f7-923d-49cece0f994c",
+      "prompt": "A number p has exactly 12 factors. Two of its factors are 4 and 15. Find one possible value of p.",
+      "metadata": {
+        "tags": "numbers,factors,prime-factorisation",
+        "subtopic": "factors",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "The number must be divisible by both 4 and 15, so it must be a multiple of 60. Now 60 = \\(2^{2}\\) × 3 × 5, so the number of factors is (2+1)(1+1)(1+1) = 12. Therefore one possible value is 60.",
+      "diagram_path": null,
+      "model_answer": "60"
+    },
+    {
+      "id": "019f9e72-b691-7764-8288-e89f71e5bb84",
+      "prompt": "Express 840 as a product of prime factors.",
+      "metadata": {
+        "tags": "numbers,prime-factorisation",
+        "subtopic": "prime factorisation",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "840 = 84 × 10 = (\\(2^{2}\\) × 3 × 7) × (2 × 5) = \\(2^{3}\\) × 3 × 5 × 7.",
+      "diagram_path": null,
+      "model_answer": "\\(2^{3}\\) × 3 × 5 × 7"
+    },
+    {
+      "id": "019f9e72-b69b-7385-b3c7-64e19ae59966",
+      "prompt": "The least common multiple of 12, x and 28 is 420. Find two possible values of x between 12 and 100.",
+      "metadata": {
+        "tags": "numbers,lcm,factors",
+        "subtopic": "lcm",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "420 = \\(2^{2}\\) × 3 × 5 × 7. Since 12 = \\(2^{2}\\) × 3 and 28 = \\(2^{2}\\) × 7, x must contribute a factor of 5 without creating higher powers that change the LCM. Two possible values are 15 and 35.",
+      "diagram_path": null,
+      "model_answer": "15 and 35"
+    },
+    {
+      "id": "019f9e72-b6af-777a-893b-e66b9f69cf0e",
+      "prompt": "A regular polygon has interior angle to exterior angle ratio 5:4. Explain why this is impossible.",
+      "metadata": {
+        "tags": "angles,polygons,reasoning",
+        "subtopic": "polygons",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78ab-b1d6-52be9d287151",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "Let the interior angle be 5x and the exterior angle be 4x. Since they add up to 180°, 9x = 180, so x = 20 and the exterior angle is 80°. The number of sides would be 360 ÷ 80 = 4.5, which is not an integer, so such a regular polygon is impossible.",
+      "diagram_path": null,
+      "model_answer": "The number of sides is not a whole number."
+    },
+    {
+      "id": "01a00459-8bb6-77a0-8cd3-3690d5b4530c",
+      "prompt": "Write as a single fraction in its simplest form: 3/(x + 2) + 1/(x - 2).",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "The common denominator is (x + 2)(x - 2) = \\(x^{2}\\) - 4. The numerator becomes 3(x - 2) + (x + 2) = 4x - 4. So the single fraction is (4x - 4)/(\\(x^{2}\\) - 4).",
+      "diagram_path": null,
+      "model_answer": "(4x - 4)/(\\(x^{2}\\) - 4)"
+    },
+    {
+      "id": "01a00459-8bc7-7e97-891d-72fad8fdb80e",
+      "prompt": "Expand and simplify (2x - 5)(x + 4).",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "Multiply each term: 2x(x + 4) - 5(x + 4) = 2\\(x^{2}\\) + 8x - 5x - 20 = 2\\(x^{2}\\) + 3x - 20.",
+      "diagram_path": null,
+      "model_answer": "2\\(x^{2}\\) + 3x - 20"
+    },
+    {
+      "id": "01a00459-8bcc-7c1a-af1d-41720b9197b5",
+      "prompt": "Factorise completely: 6\\(y^{2}\\) - 15y.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "Take out the common factor 3y. This gives 6\\(y^{2}\\) - 15y = 3y(2y - 5).",
+      "diagram_path": null,
+      "model_answer": "3y(2y - 5)"
+    },
+    {
+      "id": "01a00459-8bdc-7410-ba31-9a3cb9aea481",
+      "prompt": "Factorise completely: \\(x^{2}\\) - 9x + 20.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "Find two numbers whose product is 20 and sum is -9. They are -4 and -5, so the expression factorises to (x - 4)(x - 5).",
+      "diagram_path": null,
+      "model_answer": "(x - 4)(x - 5)"
+    },
+    {
+      "id": "01a00459-8bef-7ab5-a104-7e114d0dc45f",
+      "prompt": "y is directly proportional to the cube root of (x + 1). It is given that x = 7 when y = 1. Find the value of y when x = 124.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "Let y = k∛(x + 1). When x = 7, 1 = k∛8 = 2k, so k = 1/2. When x = 124, y = 1/2 × ∛125 = 1/2 × 5 = 2.5.",
+      "diagram_path": null,
+      "model_answer": "2.5"
+    },
+    {
+      "id": "01a00459-8c14-7cd2-b241-27a307a25f99",
+      "prompt": "F is inversely proportional to the square of d. Explain what happens to F when d is halved.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "Since F is inversely proportional to \\(d^{2}\\), halving d makes \\(d^{2}\\) become one quarter of the original value. Therefore F becomes 4 times as large.",
+      "diagram_path": null,
+      "model_answer": "F becomes 4 times the original value."
+    },
+    {
+      "id": "01a00459-8c50-79ba-ad59-2e502c606165",
+      "prompt": "Two exchange rates are given: 1 USD = SGD x in 2023, and in 2022 the rate was SGD 0.030 less per USD. The difference in exchanging SGD 10 000 between the two years is USD 166. Write down the equation in x.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "In 2023, 10 000 SGD gives 10000/x USD. In 2022, 10 000 SGD gives 10000/(x - 0.030) USD. Their difference is 166 USD, so 10000/x - 10000/(x - 0.030) = 166.",
+      "diagram_path": null,
+      "model_answer": "10000/x - 10000/(x - 0.030) = 166"
+    },
+    {
+      "id": "01a00466-c9d9-744d-9811-e07e81b6e51d",
+      "prompt": "The mean waiting time for a group is 43.5 minutes. If every recorded waiting time is reduced by 4 minutes, state the new mean and explain what happens to the standard deviation.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7930-a717-cd252273c91f",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "Subtracting 4 from every value decreases the mean by 4. The spread of the data does not change, so the standard deviation remains unchanged.",
+      "diagram_path": null,
+      "model_answer": "New mean = 39.5 minutes; standard deviation remains unchanged."
+    },
+    {
+      "id": "019f9e72-b69e-73de-893e-74388ffc703e",
+      "prompt": "Jessica invests $4540 at a rate of r% per year compound interest. At the end of 10 years, she has earned $1328.54 in interest. Find the value of r.",
+      "metadata": {
+        "tags": "percentages,compound-interest,finance",
+        "subtopic": "compound interest",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "Final amount = 4540 + 1328.54 = 5868.54. So 4540\\((1 + r/100)^{10}\\) = 5868.54. Divide by 4540 to get \\((1 + r/100)^{10}\\) = 1.292. Taking the 10th root gives 1 + r/100 ≈ 1.025. Therefore r = 2.5%.",
+      "diagram_path": null,
+      "model_answer": "2.5%"
+    },
+    {
+      "id": "01a00459-8c78-7f7a-8cd5-4ec7c331a4f1",
+      "prompt": "Show that \\((7n - 1)^{2}\\) - \\((n - 1)^{2}\\) is a multiple of 12 for all integer values of n.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "Use the difference of two squares: \\((7n - 1)^{2}\\) - \\((n - 1)^{2}\\) = [(7n - 1) + (n - 1)] [(7n - 1) - (n - 1)] = (8n - 2)(6n). This simplifies to 12n(4n - 1), which is always divisible by 12.",
+      "diagram_path": null,
+      "model_answer": "12n(4n - 1)"
+    },
+    {
+      "id": "019f9e72-b6b5-78bc-9d44-95b008df431a",
+      "prompt": "Explain why \\(x^{2}\\) - 10x + 7 has its minimum value when x = 5.",
+      "metadata": {
+        "tags": "algebra,quadratics,minimum-value",
+        "subtopic": "quadratic expressions",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Easy",
+      "explanation": "From \\(x^{2}\\) - 10x + 7 = \\((x - 5)^{2}\\) - 18, the squared term \\((x - 5)^{2}\\) is always at least 0. It is smallest when x = 5, so the whole expression is minimum at x = 5.",
+      "diagram_path": null,
+      "model_answer": "Because the squared term is smallest when x = 5."
+    },
+    {
+      "id": "019f9e72-b6b8-7861-a416-d5144be184bf",
+      "prompt": "A shopkeeper makes a loss of 24% when selling an item for $136. Find the selling price needed to make a profit of 40%.",
+      "metadata": {
+        "tags": "percentages,profit-and-loss,money",
+        "subtopic": "profit and loss",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:15:03.548Z",
+      "updatedAt": "2026-08-21T14:15:03.548Z",
+      "difficulty": "Medium",
+      "explanation": "If $136 is 76% of the cost price, then cost price = 136 ÷ 0.76 = 178.947... For a 40% profit, selling price = 1.4 × 178.947... = 250. So the required selling price is $250.",
+      "diagram_path": null,
+      "model_answer": "$250"
+    },
+    {
+      "id": "01a00466-c9c8-7713-8cb7-385a6c900a2e",
+      "prompt": "A grouped frequency table records waiting times: 0 < t ≤ 20 mins (5 people), 20 < t ≤ 40 mins (12 people), 40 < t ≤ 60 mins (18 people), 60 < t ≤ 80 mins (5 people). Estimate the mean waiting time.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7930-a717-cd252273c91f",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "Midpoints: 10, 30, 50, 70. Estimated mean = (5×10 + 12×30 + 18×50 + 5×70) ÷ 40 = 1740 ÷ 40 = 43.5 minutes.",
+      "diagram_path": null,
+      "model_answer": "43.5 minutes"
+    },
+    {
+      "id": "01a00466-c9ec-7e5f-8d36-255481374b5f",
+      "prompt": "A school has 50 students. The probability that a student joins the drama club is 0.44. Two students are selected without replacement. Find the probability that both selected students belong to the drama club.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7941-9e48-3d4dda1f252c",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "Drama students = 0.44 × 50 = 22. P(both) = (22/50) × (21/49) = 462/2450 = 33/175.",
+      "diagram_path": null,
+      "model_answer": "33/175"
+    },
+    {
+      "id": "01a00466-c9f7-708a-be56-d22ad06ef1bb",
+      "prompt": "A car tyre has a rim diameter of 18 inches. The tyre width is 225 mm and its sidewall height is 55% of its width. Using 1 inch = 2.54 cm, find the circumference of the tyre in metres.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78fc-bd9e-a40e9b4f9363",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Hard",
+      "explanation": "Rim diameter = 18 × 2.54 = 45.72 cm. Sidewall = 0.55 × 22.5 = 12.375 cm. Total diameter = 45.72 + 2(12.375) = 70.47 cm = 0.7047 m. Circumference = π(0.7047) ≈ 2.21 m.",
+      "diagram_path": null,
+      "model_answer": "2.21 m"
+    },
+    {
+      "id": "019f9ebf-c0d6-7cce-92bf-0d30400cfc26",
+      "prompt": "A function is given by s = (r - 3q) / \\(q^{2}\\). Evaluate s when q = -3 and r = 5.",
+      "metadata": {
+        "tags": "functions,substitution,algebra",
+        "subtopic": "substitution",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7865-ab8c-df9bc214c173",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Easy",
+      "explanation": "Substitute q = -3 and r = 5 into s = (r - 3q) / \\(q^{2}\\). Then s = (5 - 3(-3)) / \\((-3)^{2}\\) = 14/9.",
+      "diagram_path": null,
+      "model_answer": "14/9"
+    },
+    {
+      "id": "019f9e72-b6bb-7080-b66e-034f8986efeb",
+      "prompt": "A bag contains yellow and blue balls in the ratio 1:4. Five yellow balls are removed and 10 blue balls are added. The new ratio becomes 1:6. Find the original number of yellow balls.",
+      "metadata": {
+        "tags": "ratio,word-problem,algebra",
+        "subtopic": "changing ratios",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Medium",
+      "explanation": "Let the original numbers be x and 4x. After the change, they become x - 5 and 4x + 10. Given (x - 5)/(4x + 10) = 1/6. So 6x - 30 = 4x + 10, hence 2x = 40 and x = 20.",
+      "diagram_path": null,
+      "model_answer": "20"
+    },
+    {
+      "id": "019f9e72-b6c5-7f54-b639-d7a7557042e9",
+      "prompt": "Write an expression in terms of n for the nth term of the sequence 78, 69, 60, 51, ...",
+      "metadata": {
+        "tags": "algebra,sequences,nth-term",
+        "subtopic": "nth term",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "The first term is 78 and the common difference is -9. So the nth term is 78 + (n - 1)(-9) = 87 - 9n.",
+      "diagram_path": null,
+      "model_answer": "87 - 9n"
+    },
+    {
+      "id": "019f9e72-b6cd-76b7-8761-7b183729226c",
+      "prompt": "The universal set contains the integers from 1 to 15. Set B contains the prime numbers. List the elements of B'.",
+      "metadata": {
+        "tags": "sets,complement,prime-numbers",
+        "subtopic": "complement of a set",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7888-aef2-fd58477eb864",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "The primes from 1 to 15 are 2, 3, 5, 7, 11 and 13. The complement B' contains all other integers in the universal set.",
+      "diagram_path": null,
+      "model_answer": "{1, 4, 6, 8, 9, 10, 12, 14, 15}"
+    },
+    {
+      "id": "019f9e72-b6cf-7a9b-9f18-e58a5e6ec9c6",
+      "prompt": "A cumulative frequency graph for 160 students shows the lower quartile at 56 marks and the upper quartile at 72 marks. Find the interquartile range.",
+      "metadata": {
+        "tags": "data,statistics,cumulative-frequency",
+        "subtopic": "interquartile range",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7930-a717-cd252273c91f",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "Interquartile range = upper quartile - lower quartile = 72 - 56 = 16.",
+      "diagram_path": null,
+      "model_answer": "16"
+    },
+    {
+      "id": "019f9e72-b6c3-7306-91ea-93021d2cea00",
+      "prompt": "Each term in a sequence is obtained by subtracting the same number from the previous term. The sequence is 78, a, b, c, 42, ... Find a, b and c.",
+      "metadata": {
+        "tags": "algebra,sequences,arithmetic-progression",
+        "subtopic": "arithmetic sequences",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "There are 4 equal steps from 78 to 42, so the common difference is (42 - 78) ÷ 4 = -9. Therefore a = 69, b = 60 and c = 51.",
+      "diagram_path": null,
+      "model_answer": "a = 69, b = 60, c = 51"
+    },
+    {
+      "id": "019f9e72-b6ca-7903-9322-9edf29f8572c",
+      "prompt": "The universal set contains the integers from 1 to 15. Set A contains the perfect squares and set B contains the prime numbers. Find n(A ∪ B).",
+      "metadata": {
+        "tags": "sets,union,number-of-elements",
+        "subtopic": "set operations",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7888-aef2-fd58477eb864",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "A = {1, 4, 9}. B = {2, 3, 5, 7, 11, 13}. There is no overlap, so n(A ∪ B) = 3 + 6 = 9.",
+      "diagram_path": null,
+      "model_answer": "9"
+    },
+    {
+      "id": "019f9e72-b6d7-71fb-a11b-81d02558f9ed",
+      "prompt": "Write as a single fraction in its simplest form: 3/(x + 2) + 1/(x - 2).",
+      "metadata": {
+        "tags": "algebra,fractions,simplification",
+        "subtopic": "algebraic fractions",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Medium",
+      "explanation": "The common denominator is (x + 2)(x - 2) = \\(x^{2}\\) - 4. The numerator becomes 3(x - 2) + (x + 2) = 4x - 4. So the single fraction is (4x - 4)/(\\(x^{2}\\) - 4).",
+      "diagram_path": null,
+      "model_answer": "(4x - 4)/(\\(x^{2}\\) - 4)"
+    },
+    {
+      "id": "019f9e72-b6d9-7ffe-bda0-9c483c9a0e0b",
+      "prompt": "Expand and simplify (2x - 5)(x + 4).",
+      "metadata": {
+        "tags": "algebra,expansion,brackets",
+        "subtopic": "expansion",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "Multiply each term: 2x(x + 4) - 5(x + 4) = 2\\(x^{2}\\) + 8x - 5x - 20 = 2\\(x^{2}\\) + 3x - 20.",
+      "diagram_path": null,
+      "model_answer": "2\\(x^{2}\\) + 3x - 20"
+    },
+    {
+      "id": "019f9e72-b6dc-7545-99f7-60cd11ca51f2",
+      "prompt": "Factorise completely: 6\\(y^{2}\\) - 15y.",
+      "metadata": {
+        "tags": "algebra,factorisation,common-factor",
+        "subtopic": "factorisation",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "Take out the common factor 3y. This gives 6\\(y^{2}\\) - 15y = 3y(2y - 5).",
+      "diagram_path": null,
+      "model_answer": "3y(2y - 5)"
+    },
+    {
+      "id": "019f9e72-b6de-78c6-bd8c-d34069e07a12",
+      "prompt": "Factorise completely: \\(x^{2}\\) - 9x + 20.",
+      "metadata": {
+        "tags": "algebra,factorisation,quadratics",
+        "subtopic": "quadratic factorisation",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "Find two numbers whose product is 20 and sum is -9. They are -4 and -5, so the expression factorises to (x - 4)(x - 5).",
+      "diagram_path": null,
+      "model_answer": "(x - 4)(x - 5)"
+    },
+    {
+      "id": "019f9e72-b6ea-7f6c-bea0-df74736325f2",
+      "prompt": "In a cake recipe problem, a matrix product AB is used to combine ingredient amounts with the number of cakes baked. Explain what the entries of AB represent.",
+      "metadata": {
+        "tags": "matrices,application,interpretation",
+        "subtopic": "matrix interpretation",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7899-9f80-1aed5da88c11",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "When a matrix of ingredient quantities per cake is multiplied by a matrix showing how many cakes are made, each entry in the product gives the total amount of a particular ingredient needed.",
+      "diagram_path": null,
+      "model_answer": "They represent the total amounts of each ingredient required."
+    },
+    {
+      "id": "019f9ebf-c0c8-72d8-b93d-670b5793463d",
+      "prompt": "Express 10 000 SGD in USD if the exchange rate is USD 1 = SGD x.",
+      "metadata": {
+        "tags": "ratio,exchange-rates,money",
+        "subtopic": "exchange rates",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "If 1 USD = x SGD, then the number of USD received for 10 000 SGD is 10 000 divided by x.",
+      "diagram_path": null,
+      "model_answer": "10000/x"
+    },
+    {
+      "id": "019f9ebf-c0d2-7459-98ef-aad8dc14a00a",
+      "prompt": "Two exchange rates are given: 1 USD = SGD x in 2023, and in 2022 the rate was SGD 0.030 less per USD. The difference in exchanging SGD 10 000 between the two years is USD 166. Write down the equation in x.",
+      "metadata": {
+        "tags": "ratio,exchange-rates,algebra",
+        "subtopic": "exchange rates",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Medium",
+      "explanation": "In 2023, 10 000 SGD gives 10000/x USD. In 2022, 10 000 SGD gives 10000/(x - 0.030) USD. Their difference is 166 USD, so 10000/x - 10000/(x - 0.030) = 166.",
+      "diagram_path": null,
+      "model_answer": "10000/x - 10000/(x - 0.030) = 166"
+    },
+    {
+      "id": "019f9ebf-c0de-7550-b119-103e3c4ba23a",
+      "prompt": "Simplify (p - 3n)(4n - 1) / [12n(4n - 1)].",
+      "metadata": {
+        "tags": "algebra,fractions,simplification",
+        "subtopic": "algebraic fractions",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Medium",
+      "explanation": "Cancel the common factor (4n - 1) from numerator and denominator. Since p - 3n = -(3n - p), the expression becomes (3n - p)/(12n).",
+      "diagram_path": null,
+      "model_answer": "(3n - p)/(12n)"
+    },
+    {
+      "id": "019f9ebf-c0e1-7e17-b0f4-c94a7c857d61",
+      "prompt": "The green and red lights flash every 6 seconds and 8 seconds respectively. If they start together, how long will it take for them to next flash simultaneously?",
+      "metadata": {
+        "tags": "numbers,lcm,time",
+        "subtopic": "lcm",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "Find the least common multiple of 6 and 8. LCM(6, 8) = 24, so they will next flash together after 24 seconds.",
+      "diagram_path": null,
+      "model_answer": "24 s"
+    },
+    {
+      "id": "019f9ebf-c0f1-7eb2-8663-cafb16ce1472",
+      "prompt": "The universal set is the integers from 0 to 10. Set A = {1, 4, 9} and set B = {1, 2, 4, 8}. Describe the elements of set A.",
+      "metadata": {
+        "tags": "sets,perfect-squares",
+        "subtopic": "set description",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7888-aef2-fd58477eb864",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Easy",
+      "explanation": "The elements 1, 4 and 9 are the perfect squares in the universal set from 0 to 10.",
+      "diagram_path": null,
+      "model_answer": "Perfect squares"
+    },
+    {
+      "id": "019f9e72-b6e0-7e2c-84ee-9587e00dc897",
+      "prompt": "y is directly proportional to the cube root of (x + 1). It is given that x = 7 when y = 1. Find the value of y when x = 124.",
+      "metadata": {
+        "tags": "ratio,direct-proportion,cube-root",
+        "subtopic": "direct proportion",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Medium",
+      "explanation": "Let y = k∛(x + 1). When x = 7, 1 = k∛8 = 2k, so k = 1/2. When x = 124, y = 1/2 × ∛125 = 1/2 × 5 = 2.5.",
+      "diagram_path": null,
+      "model_answer": "2.5"
+    },
+    {
+      "id": "019f9e72-b6e3-75ef-8fce-32f0a433dfb3",
+      "prompt": "F is inversely proportional to the square of d. Explain what happens to F when d is halved.",
+      "metadata": {
+        "tags": "ratio,inverse-proportion,variation",
+        "subtopic": "inverse proportion",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "Since F is inversely proportional to \\(d^{2}\\), halving d makes \\(d^{2}\\) become one quarter of the original value. Therefore F becomes 4 times as large.",
+      "diagram_path": null,
+      "model_answer": "F becomes 4 times the original value."
+    },
+    {
+      "id": "019f9ebf-c0da-7813-b431-055592fa6664",
+      "prompt": "Show that \\((7n - 1)^{2}\\) - \\((n - 1)^{2}\\) is a multiple of 12 for all integer values of n.",
+      "metadata": {
+        "tags": "numbers,proof,algebra",
+        "subtopic": "multiple of 12",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Medium",
+      "explanation": "Use the difference of two squares: \\((7n - 1)^{2}\\) - \\((n - 1)^{2}\\) = [(7n - 1) + (n - 1)] [(7n - 1) - (n - 1)] = (8n - 2)(6n). This simplifies to 12n(4n - 1), which is always divisible by 12.",
+      "diagram_path": null,
+      "model_answer": "12n(4n - 1)"
+    },
+    {
+      "id": "019f9ebf-c0e5-7b31-b834-96bab2ec6168",
+      "prompt": "Express 2250 as a product of its prime factors.",
+      "metadata": {
+        "tags": "numbers,prime-factorisation",
+        "subtopic": "prime factorisation",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Easy",
+      "explanation": "2250 = 225 × 10 = (\\(3^{2}\\) × \\(5^{2}\\)) × (2 × 5) = 2 × \\(3^{2}\\) × \\(5^{3}\\).",
+      "diagram_path": null,
+      "model_answer": "2 × \\(3^{2}\\) × \\(5^{3}\\)"
+    },
+    {
+      "id": "019f9ebf-c0e9-779f-87dc-0cfb78d5ac8a",
+      "prompt": "The period P of a pendulum is directly proportional to the square root of its length L. If P increases by 25%, what is the percentage increase in L?",
+      "metadata": {
+        "tags": "ratio,proportion,percentage-change",
+        "subtopic": "direct proportion",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:15:41.548Z",
+      "updatedAt": "2026-08-21T14:15:41.548Z",
+      "difficulty": "Medium",
+      "explanation": "Since P is proportional to sqrt(L), L is proportional to \\(P^{2}\\). If P increases by 25%, then L changes by \\(1.25^{2}\\) = 1.5625. So the increase in L is 56.25%.",
+      "diagram_path": null,
+      "model_answer": "56.25%"
+    },
+    {
+      "id": "019f9ebf-c0ed-76a8-b98d-3f0ba732ac5c",
+      "prompt": "The Great Pyramid has surface area 8.30 × \\(10^{4}\\) \\(m^{2}\\) and volume 2.45 × \\(10^{4}\\) \\(m^{3}\\). A similar replica has volume 9.22 × \\(10^{-6}\\) \\(m^{3}\\). Estimate the surface area of the replica.",
+      "metadata": {
+        "tags": "mensuration,similar-shapes,scaling",
+        "subtopic": "similar solids",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78fc-bd9e-a40e9b4f9363",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Hard",
+      "explanation": "For similar solids, surface area scales with the square of the linear scale and volume scales with the cube. Use the volume ratio to find the linear scale, then square it and apply it to 8.30 × \\(10^{4}\\). This gives approximately 4.33 × \\(10^{-2}\\) \\(m^{2}\\).",
+      "diagram_path": null,
+      "model_answer": "4.33 × \\(10^{-2}\\) \\(m^{2}\\)"
+    },
+    {
+      "id": "019f9ebf-c0f5-75c8-9b42-505c50871466",
+      "prompt": "Find the number of elements in A ∪ B, where A = {1, 4, 9} and B = {1, 2, 4, 8}.",
+      "metadata": {
+        "tags": "sets,union,number-of-elements",
+        "subtopic": "union of sets",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7888-aef2-fd58477eb864",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Easy",
+      "explanation": "A ∪ B = {1, 2, 4, 8, 9}. There are 5 elements in the union.",
+      "diagram_path": null,
+      "model_answer": "5"
+    },
+    {
+      "id": "01a00459-8b9c-7a18-81ec-2dd7d0fc76a3",
+      "prompt": "The universal set contains the integers from 1 to 15. Set B contains the prime numbers. List the elements of B'.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Easy",
+      "explanation": "The primes from 1 to 15 are 2, 3, 5, 7, 11 and 13. The complement B' contains all other integers in the universal set.",
+      "diagram_path": null,
+      "model_answer": "{1, 4, 6, 8, 9, 10, 12, 14, 15}"
+    },
+    {
+      "id": "019f9ebf-c10f-7fcc-8d04-77445751fea6",
+      "prompt": "A student walks 1000 metres at 4 km/h, takes a 5 minute break, then runs 1.3 km in 5 minutes. Will the whole exercise be completed by 09:30 if the student starts at 08:50?",
+      "metadata": {
+        "tags": "numbers,time,speed",
+        "subtopic": "time and speed",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Easy",
+      "explanation": "Walking 1000 m at 4 km/h takes 15 minutes. Add the 5 minute break and 5 minutes running for a total of 25 minutes. Starting at 08:50 means the student finishes at 09:15, which is before 09:30.",
+      "diagram_path": null,
+      "model_answer": "Yes"
+    },
+    {
+      "id": "019f9e72-b6c8-7467-94c3-4dc43c0fbd39",
+      "prompt": "Find the first negative term of the sequence whose nth term is 87 - 9n.",
+      "metadata": {
+        "tags": "algebra,sequences,inequalities",
+        "subtopic": "sequence inequalities",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Medium",
+      "explanation": "Solve 87 - 9n < 0. Then 9n > 87, so n > 9.666... The smallest integer n is 10. The 10th term is 87 - 90 = -3.",
+      "diagram_path": null,
+      "model_answer": "The 10th term (-3)"
+    },
+    {
+      "id": "01a00459-8b88-7aec-a320-05e9aeda492f",
+      "prompt": "The universal set contains the integers from 1 to 15. Set A contains the perfect squares and set B contains the prime numbers. Find n(A ∪ B).",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Easy",
+      "explanation": "A = {1, 4, 9}. B = {2, 3, 5, 7, 11, 13}. There is no overlap, so n(A ∪ B) = 3 + 6 = 9.",
+      "diagram_path": null,
+      "model_answer": "9"
+    },
+    {
+      "id": "019f9ebf-c0f9-7dd7-b923-9fb7158d1938",
+      "prompt": "ABC is part of a polygon and the interior angle at A is 148°. The remaining interior angles are each 139°. Find the number of sides of the polygon.",
+      "metadata": {
+        "tags": "angles,polygons,interior-angles",
+        "subtopic": "polygons",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78ab-b1d6-52be9d287151",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Medium",
+      "explanation": "Let the polygon have n sides. One interior angle is 148° and the other (n − 1) interior angles are each 139°. So 148 + (n − 1) × 139 = (n − 2) × 180. Solving gives n = 9.",
+      "diagram_path": null,
+      "model_answer": "9"
+    },
+    {
+      "id": "019fa42c-3501-7dcf-ba5e-66f75d786ca0",
+      "prompt": "Expand and simplify the expression (4x - 3)(5 + 2x) - \\((3x - 1)^{2}\\).",
+      "metadata": {
+        "tags": "algebra,expansion",
+        "subtopic": "expansion",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Medium",
+      "explanation": "(4x - 3)(5 + 2x) = 20x + 8\\(x^{2}\\) - 15 - 6x = 8\\(x^{2}\\) + 14x - 15.\n\\((3x - 1)^{2}\\) = 9\\(x^{2}\\) - 6x + 1.\nSubtracting gives: (8\\(x^{2}\\) + 14x - 15) - (9\\(x^{2}\\) - 6x + 1) = -\\(x^{2}\\) + 20x - 16.",
+      "diagram_path": null,
+      "model_answer": "-\\(x^{2}\\) + 20x - 16"
+    },
+    {
+      "id": "019fa42c-3506-742e-b0e4-dfa63c5814a4",
+      "prompt": "(a) Express 3150 as a product of its prime factors in index notation.\n(b) Given that 1260 = \\(2^{2}\\) × \\(3^{2}\\) × 5 × 7, find:\n(i) the highest common factor (HCF) of 3150 and 1260,\n(ii) the smallest positive integer k such that 3150k is a perfect cube.",
+      "metadata": {
+        "tags": "HCF,LCM,prime factors",
+        "subtopic": "prime factorisation",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Hard",
+      "explanation": "(a) Prime factorisation of 3150 = 2 × \\(3^{2}\\) × \\(5^{2}\\) × 7.\n(b)(i) HCF = \\(2^{1}\\) × \\(3^{2}\\) × \\(5^{1}\\) × \\(7^{1}\\) = 630.\n(b)(ii) For 3150k to be a perfect cube, powers of prime factors must be multiples of 3.\nk = \\(2^{(3-1)}\\) × \\(3^{(3-2)}\\) × \\(5^{(3-2)}\\) × \\(7^{(3-1)}\\) = \\(2^{2}\\) × \\(3^{1}\\) × \\(5^{1}\\) × \\(7^{2}\\) = 4 × 3 × 5 × 49 = 2940.",
+      "diagram_path": null,
+      "model_answer": "(a) 2 × \\(3^{2}\\) × \\(5^{2}\\) × 7\n(b)(i) 630\n(b)(ii) 2940"
+    },
+    {
+      "id": "019fa42c-350a-7fe3-ba72-d7e208575c05",
+      "prompt": "It is given that y = \\sqrt{\\frac{5x}{3x + 4z}}.\n(a) Calculate the value of y when x = 4 and z = 3.5.\n(b) Express x in terms of y and z.",
+      "metadata": {
+        "tags": "formulae,rearranging",
+        "subtopic": "changing subject",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Medium",
+      "explanation": "(a) y = sqrt(20 / (12 + 14)) = sqrt(20/26) ≈ 0.877 (3 s.f.).\n(b) Square both sides: \\(y^{2}\\) = 5x / (3x + 4z).\n3x \\(y^{2}\\) + 4z \\(y^{2}\\) = 5x.\n4z \\(y^{2}\\) = 5x - 3x \\(y^{2}\\) = x(5 - 3\\(y^{2}\\)).\nx = (4z \\(y^{2}\\)) / (5 - 3\\(y^{2}\\)).",
+      "diagram_path": null,
+      "model_answer": "(a) 0.877\n(b) x = (4z \\(y^{2}\\)) / (5 - 3\\(y^{2}\\))"
+    },
+    {
+      "id": "019fa42c-3514-7687-939c-e809ec8ecb21",
+      "prompt": "Solve the equation \\frac{x + 2}{x - 1} - \\frac{x - 3}{x + 3} = 3, giving your answers correct to 2 decimal places.",
+      "metadata": {
+        "tags": "algebraic fractions,equations",
+        "subtopic": "algebraic fractions",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Hard",
+      "explanation": "[(x+2)(x+3) - (x-3)(x-1)] / [(x-1)(x+3)] = 3\n(\\(x^{2}\\) + 5x + 6 - (\\(x^{2}\\) - 4x + 3)) / (\\(x^{2}\\) + 2x - 3) = 3\n(9x + 3) = 3(\\(x^{2}\\) + 2x - 3)\n9x + 3 = 3\\(x^{2}\\) + 6x - 9\n3\\(x^{2}\\) - 3x - 12 = 0\n\\(x^{2}\\) - x - 4 = 0\nUsing quadratic formula: x = [1 ± sqrt(1 - 4(1)(-4))] / 2 = [1 ± sqrt(17)] / 2\nx ≈ 2.56 or x ≈ -1.56.",
+      "diagram_path": null,
+      "model_answer": "x = 2.56 or x = -1.56"
+    },
+    {
+      "id": "019fa42c-351d-7bfa-bdd5-0ac062b11d83",
+      "prompt": "A scale model of a water reservoir dam is constructed such that an actual length of 1800 m is represented by 45 cm on the model.\n(a) Express the scale of the model in the form 1 : n.\n(b) The surface area of the reservoir on the scale model is 0.24 \\(m^{2}\\). Calculate the actual surface area of the reservoir in square kilometres.",
+      "metadata": {
+        "tags": "scale,ratio,area",
+        "subtopic": "scale",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Medium",
+      "explanation": "(a) 45 cm : 1800 m = 45 cm : 180,000 cm = 1 : 4000.\n(b) 1 m on model represents 4000 m = 4 km in actual distance.\nArea ratio: 1 \\(m^{2}\\) : \\((4 km)^{2}\\) = 1 \\(m^{2}\\) : 16 \\(km^{2}\\).\nActual surface area = 0.24 × 16 = 3.84 \\(km^{2}\\).",
+      "diagram_path": null,
+      "model_answer": "(a) 1 : 4000\n(b) 3.84 \\(km^{2}\\)"
+    },
+    {
+      "id": "019fa42c-3539-72ee-bb1a-0117f6884016",
+      "prompt": "Solve the simultaneous equations:\n3x - 2y = -12\n4x + 5y = 7",
+      "metadata": {
+        "tags": "simultaneous equations",
+        "subtopic": "simultaneous equations",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Medium",
+      "explanation": "Multiply 3x - 2y = -12 by 5: 15x - 10y = -60.\nMultiply 4x + 5y = 7 by 2: 8x + 10y = 14.\nAdd the two equations: 23x = -46 => x = -2.\nSubstitute x = -2 into 3x - 2y = -12:\n3(-2) - 2y = -12 => -6 - 2y = -12 => 2y = 6 => y = 3.",
+      "diagram_path": null,
+      "model_answer": "x = -2, y = 3"
+    },
+    {
+      "id": "019fa42c-353f-74c4-9c9f-db38c7a48ecf",
+      "prompt": "The first four terms of a sequence T_1, T_2, T_3, T_4, ... are given by:\nT_1 = 3(1) - 2 = 1\nT_2 = 3(2) + 1 = 7\nT_3 = 3(3) + 4 = 13\nT_4 = 3(4) + 7 = 19\n\n(a) Write down an expression for T_5.\n(b) Find an expression, in terms of n, for the n-th term T_n.\n(c) Evaluate T_{25}.\n(d) Explain why 304 cannot be a term in this sequence.",
+      "metadata": {
+        "tags": "sequences,nth term",
+        "subtopic": "sequences",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Hard",
+      "explanation": "(a) T_5 = 3(5) + 10 = 25.\n(b) Terms are 1, 7, 13, 19, ... with common difference 6. T_n = 6n - 5.\n(c) T_25 = 6(25) - 5 = 145.\n(d) 6n - 5 = 304 => 6n = 309 => n = 51.5. Since n must be a positive integer, 304 is not a term in the sequence (also, all terms in T_n are odd, whereas 304 is even).",
+      "diagram_path": null,
+      "model_answer": "(a) T_5 = 3(5) + 10 = 25\n(b) T_n = 6n - 5\n(c) 145\n(d) Setting 6n - 5 = 304 gives n = 51.5, which is not an integer."
+    },
+    {
+      "id": "01a00459-8b4d-7714-a444-3605890393d7",
+      "prompt": "A bag contains yellow and blue balls in the ratio 1:4. Five yellow balls are removed and 10 blue balls are added. The new ratio becomes 1:6. Find the original number of yellow balls.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Medium",
+      "explanation": "Let the original numbers be x and 4x. After the change, they become x - 5 and 4x + 10. Given (x - 5)/(4x + 10) = 1/6. So 6x - 30 = 4x + 10, hence 2x = 40 and x = 20.",
+      "diagram_path": null,
+      "model_answer": "20"
+    },
+    {
+      "id": "01a00459-8b74-7d45-816f-ee81af7109da",
+      "prompt": "Write an expression in terms of n for the nth term of the sequence 78, 69, 60, 51, ...",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "The first term is 78 and the common difference is -9. So the nth term is 78 + (n - 1)(-9) = 87 - 9n.",
+      "diagram_path": null,
+      "model_answer": "87 - 9n"
+    },
+    {
+      "id": "01a00459-8c8d-7444-b13b-5bf17fee9465",
+      "prompt": "Simplify (p - 3n)(4n - 1) / [12n(4n - 1)].",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Medium",
+      "explanation": "Cancel the common factor (4n - 1) from numerator and denominator. Since p - 3n = -(3n - p), the expression becomes (3n - p)/(12n).",
+      "diagram_path": null,
+      "model_answer": "(3n - p)/(12n)"
+    },
+    {
+      "id": "01a00459-8a73-7aba-b797-a6522fae2515",
+      "prompt": "Write \\(x^{2}\\) - 10x + 7 in the form \\((x - a)^{2}\\) + b.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Easy",
+      "explanation": "Complete the square: \\(x^{2}\\) - 10x + 7 = (\\(x^{2}\\) - 10x + 25) - 25 + 7 = \\((x - 5)^{2}\\) - 18.",
+      "diagram_path": null,
+      "model_answer": "\\((x - 5)^{2}\\) - 18"
+    },
+    {
+      "id": "01a00459-8a87-7d4f-9e67-1a70093813e2",
+      "prompt": "A shirt costs £14.75 in one country. In another country, the same shirt costs $21.99. If the exchange rate is $1 = £0.73, calculate how much more the second price is than the first, in pounds.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "Convert $21.99 to pounds: 21.99 × 0.73 = 16.0527. Subtract 14.75: 16.0527 - 14.75 = 1.3027. To the nearest penny, the difference is £1.30.",
+      "diagram_path": null,
+      "model_answer": "£1.30"
+    },
+    {
+      "id": "01a00459-8aac-7e3b-962b-55fd51c7fe7d",
+      "prompt": "Simplify 6\\(a^{5}\\)\\(b^{2}\\) ÷ 3\\(a^{2}\\)b.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "Divide coefficients: 6 ÷ 3 = 2. Subtract the powers: \\(a^{(5-2)}\\) = \\(a^{3}\\) and \\(b^{(2-1)}\\) = b. So the simplified form is 2\\(a^{3}\\)b.",
+      "diagram_path": null,
+      "model_answer": "2\\(a^{3}\\)b"
+    },
+    {
+      "id": "01a00459-8ac0-78dc-b100-100cc1a63716",
+      "prompt": "Use the laws of indices to find the value of k if \\(2^{k}\\) × \\(2^{4}\\) = 64.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "Combine the powers: \\(2^{(k+4)}\\) = 64. Since 64 = \\(2^{6}\\), we get k + 4 = 6. Therefore k = 2.",
+      "diagram_path": null,
+      "model_answer": "2"
+    },
+    {
+      "id": "01a00459-8ad4-7bcd-8a6b-a92c5be59534",
+      "prompt": "A number p has exactly 12 factors. Two of its factors are 4 and 15. Find one possible value of p.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Medium",
+      "explanation": "The number must be divisible by both 4 and 15, so it must be a multiple of 60. Now 60 = \\(2^{2}\\) × 3 × 5, so the number of factors is (2+1)(1+1)(1+1) = 12. Therefore one possible value is 60.",
+      "diagram_path": null,
+      "model_answer": "60"
+    },
+    {
+      "id": "01a00459-8ae8-7a2e-bc34-7472bf448a72",
+      "prompt": "Express 840 as a product of prime factors.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "840 = 84 × 10 = (\\(2^{2}\\) × 3 × 7) × (2 × 5) = \\(2^{3}\\) × 3 × 5 × 7.",
+      "diagram_path": null,
+      "model_answer": "\\(2^{3}\\) × 3 × 5 × 7"
+    },
+    {
+      "id": "01a00459-8afc-7f0a-a5bd-9887c9c91c27",
+      "prompt": "The least common multiple of 12, x and 28 is 420. Find two possible values of x between 12 and 100.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Medium",
+      "explanation": "420 = \\(2^{2}\\) × 3 × 5 × 7. Since 12 = \\(2^{2}\\) × 3 and 28 = \\(2^{2}\\) × 7, x must contribute a factor of 5 without creating higher powers that change the LCM. Two possible values are 15 and 35.",
+      "diagram_path": null,
+      "model_answer": "15 and 35"
+    },
+    {
+      "id": "01a00459-8b10-7d45-abfc-6e190508e230",
+      "prompt": "Jessica invests $4540 at a rate of r% per year compound interest. At the end of 10 years, she has earned $1328.54 in interest. Find the value of r.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Medium",
+      "explanation": "Final amount = 4540 + 1328.54 = 5868.54. So 4540\\((1 + r/100)^{10}\\) = 5868.54. Divide by 4540 to get \\((1 + r/100)^{10}\\) = 1.292. Taking the 10th root gives 1 + r/100 ≈ 1.025. Therefore r = 2.5%.",
+      "diagram_path": null,
+      "model_answer": "2.5%"
+    },
+    {
+      "id": "01a00459-8b24-7c99-9b9d-7c50ce636dc3",
+      "prompt": "A regular polygon has interior angle to exterior angle ratio 5:4. Explain why this is impossible.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7865-ab8c-df9bc214c173",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Medium",
+      "explanation": "Let the interior angle be 5x and the exterior angle be 4x. Since they add up to 180°, 9x = 180, so x = 20 and the exterior angle is 80°. The number of sides would be 360 ÷ 80 = 4.5, which is not an integer, so such a regular polygon is impossible.",
+      "diagram_path": null,
+      "model_answer": "The number of sides is not a whole number."
+    },
+    {
+      "id": "01a00459-8b38-79b0-8303-8496caf05eb0",
+      "prompt": "Explain why \\(x^{2}\\) - 10x + 7 has its minimum value when x = 5.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "From \\(x^{2}\\) - 10x + 7 = \\((x - 5)^{2}\\) - 18, the squared term \\((x - 5)^{2}\\) is always at least 0. It is smallest when x = 5, so the whole expression is minimum at x = 5.",
+      "diagram_path": null,
+      "model_answer": "Because the squared term is smallest when x = 5."
+    },
+    {
+      "id": "01a00459-8b3d-7b79-801b-9988a68d5e8c",
+      "prompt": "A shopkeeper makes a loss of 24% when selling an item for $136. Find the selling price needed to make a profit of 40%.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Medium",
+      "explanation": "If $136 is 76% of the cost price, then cost price = 136 ÷ 0.76 = 178.947... For a 40% profit, selling price = 1.4 × 178.947... = 250. So the required selling price is $250.",
+      "diagram_path": null,
+      "model_answer": "$250"
+    },
+    {
+      "id": "01a00459-8b63-7902-9655-cbd7c2196711",
+      "prompt": "Each term in a sequence is obtained by subtracting the same number from the previous term. The sequence is 78, a, b, c, 42, ... Find a, b and c.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "There are 4 equal steps from 78 to 42, so the common difference is (42 - 78) ÷ 4 = -9. Therefore a = 69, b = 60 and c = 51.",
+      "diagram_path": null,
+      "model_answer": "a = 69, b = 60, c = 51"
+    },
+    {
+      "id": "01a00459-8ca2-7a4a-a146-58df5bcef9cb",
+      "prompt": "The green and red lights flash every 6 seconds and 8 seconds respectively. If they start together, how long will it take for them to next flash simultaneously?",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "Find the least common multiple of 6 and 8. LCM(6, 8) = 24, so they will next flash together after 24 seconds.",
+      "diagram_path": null,
+      "model_answer": "24 s"
+    },
+    {
+      "id": "01a00459-8d04-7ab9-a66a-cc53880b1cdb",
+      "prompt": "The universal set is the integers from 0 to 10. Set A = {1, 4, 9} and set B = {1, 2, 4, 8}. Describe the elements of set A.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "The elements 1, 4 and 9 are the perfect squares in the universal set from 0 to 10.",
+      "diagram_path": null,
+      "model_answer": "Perfect squares"
+    },
+    {
+      "id": "01a00459-8d40-79b4-9dae-8b2e881edaba",
+      "prompt": "Solve the inequality (2x + 1)/3 >= (3x - 1)/5.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78da-b367-27466579928e",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "Multiply both sides by 15: 5(2x + 1) >= 3(3x - 1). Expand: 10x + 5 >= 9x - 3. Subtract 9x: x + 5 >= -3. Subtract 5: x >= -8.",
+      "diagram_path": null,
+      "model_answer": "x >= -8"
+    },
+    {
+      "id": "01a00459-8d6a-75d6-b7fa-f880bb491ff9",
+      "prompt": "A student walks 1000 metres at 4 km/h, takes a 5 minute break, then runs 1.3 km in 5 minutes. Will the whole exercise be completed by 09:30 if the student starts at 08:50?",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "Walking 1000 m at 4 km/h takes 15 minutes. Add the 5 minute break and 5 minutes running for a total of 25 minutes. Starting at 08:50 means the student finishes at 09:15, which is before 09:30.",
+      "diagram_path": null,
+      "model_answer": "Yes"
+    },
+    {
+      "id": "01a00459-8d6f-7941-a2ab-867817a513c4",
+      "prompt": "Find the first negative term of the sequence whose nth term is 87 - 9n.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "Solve 87 - 9n < 0. Then 9n > 87, so n > 9.666... The smallest integer n is 10. The 10th term is 87 - 90 = -3.",
+      "diagram_path": null,
+      "model_answer": "The 10th term (-3)"
+    },
+    {
+      "id": "01a00459-8de2-79fc-b442-a88cd6ce2f45",
+      "prompt": "Benjamin and Daniel have monthly allowances in the ratio 7 : 4. After each of them spends $50, the ratio of their remaining allowances becomes 5 : 2. Calculate Daniel's allowance at the start.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "Let Benjamin's initial allowance be 7x and Daniel's initial allowance be 4x. After spending $50 each, their remaining allowances are 7x - 50 and 4x - 50. Set up ratio: (7x - 50) / (4x - 50) = 5 / 2. Cross-multiply: 2(7x - 50) = 5(4x - 50) => 14x - 100 = 20x - 250 => 6x = 150 => x = 25. Daniel's allowance = 4 * 25 = $100.",
+      "diagram_path": null,
+      "model_answer": "$100"
+    },
+    {
+      "id": "01a00466-c84e-7730-b6f3-4e8b47ddcba5",
+      "prompt": "Simplify 4x - 7(x - 2).",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "4x - 7(x - 2) = 4x - 7x + 14 = 14 - 3x.",
+      "diagram_path": null,
+      "model_answer": "14 - 3x"
+    },
+    {
+      "id": "01a00459-8cde-7bf9-a539-db60dc46ab03",
+      "prompt": "The Great Pyramid has surface area 8.30 × \\(10^{4}\\) \\(m^{2}\\) and volume 2.45 × \\(10^{4}\\) \\(m^{3}\\). A similar replica has volume 9.22 × \\(10^{-6}\\) \\(m^{3}\\). Estimate the surface area of the replica.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78ab-b1d6-52be9d287151",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Hard",
+      "explanation": "For similar solids, surface area scales with the square of the linear scale and volume scales with the cube. Use the volume ratio to find the linear scale, then square it and apply it to 8.30 × \\(10^{4}\\). This gives approximately 4.33 × \\(10^{-2}\\) \\(m^{2}\\).",
+      "diagram_path": null,
+      "model_answer": "4.33 × \\(10^{-2}\\) \\(m^{2}\\)"
+    },
+    {
+      "id": "01a00459-8d09-7d55-b50a-8fa02ef5fae0",
+      "prompt": "Find the number of elements in A ∪ B, where A = {1, 4, 9} and B = {1, 2, 4, 8}.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "A ∪ B = {1, 2, 4, 8, 9}. There are 5 elements in the union.",
+      "diagram_path": null,
+      "model_answer": "5"
+    },
+    {
+      "id": "01a00459-8d18-7bab-b5b9-15e664401ba9",
+      "prompt": "A function is given by s = (r - 3q) / \\(q^{2}\\). Evaluate s when q = -3 and r = 5.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78c7-aa4b-565799c65ce4",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "Substitute q = -3 and r = 5 into s = (r - 3q) / \\(q^{2}\\). Then s = (5 - 3(-3)) / \\((-3)^{2}\\) = 14/9.",
+      "diagram_path": null,
+      "model_answer": "14/9"
+    },
+    {
+      "id": "01a00459-8d57-7d13-bc0c-3d0c1a2d1d7f",
+      "prompt": "A shop sells watches at $210 each. Jimmy buys them at a 20% discount and then sells them at a 20% profit with a 10% discount on the marked price. Find the marked price.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "Jimmy's cost price is 80% of 210, so it is 168. To make a 20% profit, he needs to sell at 201.60. If this is after a 10% discount, then the marked price is 201.60 ÷ 0.9 = 224.",
+      "diagram_path": null,
+      "model_answer": "$224"
+    },
+    {
+      "id": "01a00459-8da4-7b3d-ba33-1c7d52395891",
+      "prompt": "ABC is part of a polygon and the interior angle at A is 148°. The remaining interior angles are each 139°. Find the number of sides of the polygon.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7865-ab8c-df9bc214c173",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "Let the polygon have n sides. One interior angle is 148° and the other (n − 1) interior angles are each 139°. So 148 + (n − 1) × 139 = (n − 2) × 180. Solving gives n = 9.",
+      "diagram_path": null,
+      "model_answer": "9"
+    },
+    {
+      "id": "01a00459-8daa-7a0c-986a-9f06c4cafb82",
+      "prompt": "Expand and simplify the expression (4x - 3)(5 + 2x) - \\((3x - 1)^{2}\\).",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "(4x - 3)(5 + 2x) = 20x + 8\\(x^{2}\\) - 15 - 6x = 8\\(x^{2}\\) + 14x - 15. \\((3x - 1)^{2}\\) = 9\\(x^{2}\\) - 6x + 1. Subtracting gives: (8\\(x^{2}\\) + 14x - 15) - (9\\(x^{2}\\) - 6x + 1) = -\\(x^{2}\\) + 20x - 16.",
+      "diagram_path": null,
+      "model_answer": "-\\(x^{2}\\) + 20x - 16"
+    },
+    {
+      "id": "01a00459-8dcc-7c45-aed0-1fca2b78ef7b",
+      "prompt": "Solve the equation 3x/(2-x) - 5/(x+4) = 3, giving your answers correct to 3 significant figures.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78da-b367-27466579928e",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Hard",
+      "explanation": "1. Combine fractions on the left-hand side: [3x(x+4) - 5(2-x)] / [(2-x)(x+4)] = 3.\n2. Simplify numerator: 3\\(x^{2}\\) + 12x - 10 + 5x = 3\\(x^{2}\\) + 17x - 10.\n3. Multiply by denominator: 3\\(x^{2}\\) + 17x - 10 = 3(-\\(x^{2}\\) - 2x + 8).\n4. Expand and rearrange into standard quadratic form: 6\\(x^{2}\\) + 23x - 34 = 0.\n5. Use quadratic formula: x = (-23 ± √(\\(23^{2}\\) - 4(6)(-34)))/(2(6)) = (-23 ± √1345)/12.\n6. x ≈ 1.14 or x ≈ -4.97.",
+      "diagram_path": null,
+      "model_answer": "x = 1.14 or x = -4.97"
+    },
+    {
+      "id": "01a00459-8de7-7fc8-a4cc-433f7eecc779",
+      "prompt": "Given that 1 / (\\(3^{(k + 2)}\\)) = \\(3^{4}\\) + \\(3^{4}\\) + \\(3^{4}\\), find the value of k.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "Simplify RHS: \\(3^{4}\\) + \\(3^{4}\\) + \\(3^{4}\\) = 3 * (\\(3^{4}\\)) = \\(3^{5}\\). Rewrite LHS using negative index: 1 / (\\(3^{(k + 2)}\\)) = \\(3^{(-(k + 2)}\\)). Equating exponents: -(k + 2) = 5 => -k - 2 = 5 => -k = 7 => k = -7.",
+      "diagram_path": null,
+      "model_answer": "-7"
+    },
+    {
+      "id": "01a00466-c83d-7730-85f3-8f230ac0d1fa",
+      "prompt": "Calculate √((\\(15.2^{(2)}\\))/(1 - 0.046)), giving your answer correct to the nearest whole number.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "Evaluate √((\\(15.2^{(2)}\\))/(0.954)) = 15.56... Therefore, the answer to the nearest whole number is 16.",
+      "diagram_path": null,
+      "model_answer": "16"
+    },
+    {
+      "id": "01a00466-c868-7374-a22f-9dbc4041ab71",
+      "prompt": "Simplify (18\\(a^{(2)}\\)\\(b^{(4)}\\)) ÷ (6\\(ab^{(-2)}\\)), leaving your answer with positive indices.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "(18\\(a^{(2)}\\)\\(b^{(4)}\\))/(6\\(ab^{(-2)}\\)) = 3\\(a^{(2-1)}\\)\\(b^{(4-(-2)}\\)) = 3\\(ab^{(6)}\\).",
+      "diagram_path": null,
+      "model_answer": "3\\(ab^{(6)}\\)"
+    },
+    {
+      "id": "01a00466-c877-7805-8381-a6648746bdb1",
+      "prompt": "A car travels an average of 0.082 kilometres per litre of fuel. Find its fuel consumption in litres per kilometre, correct to three significant figures.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "Litres per kilometre = 1 ÷ 0.082 = 12.195..., which is 12.2 litres per kilometre to three significant figures.",
+      "diagram_path": null,
+      "model_answer": "12.2 litres per kilometre"
+    },
+    {
+      "id": "01a00466-c8ad-75d4-975b-4ffb2d5f4e49",
+      "prompt": "Solve x/8 - (3x - 2)/5 = 2.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "Multiply by 40: 5x - 8(3x - 2) = 80. Hence, 5x - 24x + 16 = 80, so -19x = 64 and x = -64/19.",
+      "diagram_path": null,
+      "model_answer": "x = -64/19"
+    },
+    {
+      "id": "01a00466-c8d5-7640-8b59-e05d2de930e3",
+      "prompt": "A laptop has a marked price of $m and is sold at a discount of d%. Express its selling price as a single fraction in terms of m and d.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "The discount is md/100. Selling price = m - md/100 = m(100 - d)/100.",
+      "diagram_path": null,
+      "model_answer": "m(100 - d)/100"
+    },
+    {
+      "id": "01a00466-ca65-701d-9d8a-47de94dacbed",
+      "prompt": "Solve the compound inequality 4 - 3x < 2x + 9 < x + 15.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Medium",
+      "explanation": "4 - 3x < 2x + 9 => 5x > -5 => x > -1. 2x + 9 < x + 15 => x < 6. Combining gives -1 < x < 6.",
+      "diagram_path": null,
+      "model_answer": "-1 < x < 6"
+    },
+    {
+      "id": "019f9ebf-c10b-7e4a-a312-9bdad7d859f3",
+      "prompt": "A shop sells watches at $210 each. Jimmy buys them at a 20% discount and then sells them at a 20% profit with a 10% discount on the marked price. Find the marked price.",
+      "metadata": {
+        "tags": "percentages,profit-and-loss,discount",
+        "subtopic": "profit and discount",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Medium",
+      "explanation": "Jimmy's cost price is 80% of 210, so it is 168. To make a 20% profit, he needs to sell at 201.60. If this is after a 10% discount, then the marked price is 201.60 ÷ 0.9 = 224.",
+      "diagram_path": null,
+      "model_answer": "$224"
+    },
+    {
+      "id": "01a00466-c899-730e-9715-0fd9006900ce",
+      "prompt": "Convert 0.00425 \\(m^{(3)}\\) into \\(cm^{(3)}\\).",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78fc-bd9e-a40e9b4f9363",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "Since 1 \\(m^{(3)}\\) = 1,000,000 \\(cm^{(3)}\\), 0.00425 \\(m^{(3)}\\) = 0.00425 × 1,000,000 = 4250 \\(cm^{(3)}\\).",
+      "diagram_path": null,
+      "model_answer": "4250 \\(cm^{(3)}\\)"
+    },
+    {
+      "id": "01a00466-c8e9-7526-a202-f1e78caca88b",
+      "prompt": "A shop sells an item at the discounted price m(100 - d)/100 and makes a profit of 25%. Express the cost price as a single fraction in terms of m and d.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "Selling price = 1.25 × cost price. Therefore, cost price = [m(100 - d)/100] ÷ 1.25 = 4m(100 - d)/500.",
+      "diagram_path": null,
+      "model_answer": "4m(100 - d)/500"
+    },
+    {
+      "id": "01a00466-ca00-7139-9345-e75bcf2e1e3a",
+      "prompt": "A test tube contains 12 bacteria initially, and the number doubles every day. Find the number of bacteria after 7 days.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Easy",
+      "explanation": "Number after 7 days = 12 × \\(2^{(7)}\\) = 12 × 128 = 1536.",
+      "diagram_path": null,
+      "model_answer": "1536"
+    },
+    {
+      "id": "01a00466-ca0a-7137-b6e0-4fd535d547e8",
+      "prompt": "A cylindrical pipe has radius 4 cm. Water flows through it at 1.5 metres per second for 10 minutes. Find the volume of water delivered, in litres.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78fc-bd9e-a40e9b4f9363",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Hard",
+      "explanation": "Area = π(\\(4^{(2)}\\)) = 16π \\(cm^{(2)}\\). Column length = 150 cm/s × 600 s = 90,000 cm. Volume = 16π × 90,000 = 1,440,000π \\(cm^{(3)}\\) = 1440π litres ≈ 4524 litres.",
+      "diagram_path": null,
+      "model_answer": "4524 litres"
+    },
+    {
+      "id": "01a00466-ca13-76f9-92b2-115a46d9a7da",
+      "prompt": "A rectangular field has length 24 m and width 15 m. Its length is increased by 12% while its width is decreased by 10%. Find the percentage change in its area.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Easy",
+      "explanation": "Multiplier for area = 1.12 × 0.90 = 1.008. Percentage change = (1.008 - 1) × 100% = +0.8%.",
+      "diagram_path": null,
+      "model_answer": "0.8% increase"
+    },
+    {
+      "id": "01a00466-ca1c-7d26-87fa-c271fc993d72",
+      "prompt": "A deposit earns 3.5% compound interest per year. After 4 years, the total interest earned is $742. Find the initial deposit, correct to the nearest dollar.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Medium",
+      "explanation": "Interest = P[(1.035)⁴ - 1] = 742. P = 742 / [(1.035)⁴ - 1] ≈ 742 / 0.14752 ≈ $5030.",
+      "diagram_path": null,
+      "model_answer": "$5030"
+    },
+    {
+      "id": "01a00466-ca26-7539-9d64-3dcb82394224",
+      "prompt": "A car costs $72,000. A buyer pays a 25% downpayment and borrows the balance for 5 years at 2.8% simple interest per year. Find the total repayment on the loan.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Medium",
+      "explanation": "Loan amount = 75% × 72,000 = $54,000. Interest = 54,000 × 0.028 × 5 = $7,560. Total repayment = 54,000 + 7,560 = $61,560.",
+      "diagram_path": null,
+      "model_answer": "$61,560"
+    },
+    {
+      "id": "01a00466-ca2f-7572-805f-0ecd5b58bf45",
+      "prompt": "A shop buys an item for $240 and sells it for $306. Find the percentage profit.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Easy",
+      "explanation": "Profit = 306 - 240 = $66. Percentage profit = (66 / 240) × 100% = 27.5%.",
+      "diagram_path": null,
+      "model_answer": "27.5%"
+    },
+    {
+      "id": "01a00466-ca38-7977-bfa6-3578c2d5c0c2",
+      "prompt": "A cuboid has volume 720 \\(cm^{(3)}\\) and a square base. The side length of its base is greater than 3 cm. Find the smallest possible integer height.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78fc-bd9e-a40e9b4f9363",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Medium",
+      "explanation": "Square factors of 720 with side > 3 include 16 (s=4, h=45), 36 (s=6, h=20), and 144 (s=12, h=5). The smallest integer height is 5 cm.",
+      "diagram_path": null,
+      "model_answer": "5 cm"
+    },
+    {
+      "id": "01a00466-ca42-787f-a014-71d87a66447c",
+      "prompt": "A town’s population increases from 240,000 to 264,000 over one year. Find the percentage increase.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Easy",
+      "explanation": "Increase = 264,000 - 240,000 = 24,000. Percentage increase = (24,000 / 240,000) × 100% = 10%.",
+      "diagram_path": null,
+      "model_answer": "10%"
+    },
+    {
+      "id": "01a00466-ca51-7363-a8ab-b4fdd480ec1c",
+      "prompt": "A quantity p is directly proportional to \\(q^{(3)}\\). If q increases by 50%, find the percentage increase in p.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Medium",
+      "explanation": "New q = 1.5q. New p = (1.5)³ p = 3.375 p. Percentage increase = (3.375 - 1) × 100% = 237.5%.",
+      "diagram_path": null,
+      "model_answer": "237.5%"
+    },
+    {
+      "id": "01a00466-ca5a-7bf8-a767-fc94431569b2",
+      "prompt": "A grass plant grows 85 picometres in 2 milliseconds. Estimate how far it grows in 1 second, giving the answer in metres in standard form.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Easy",
+      "explanation": "Growth in 1 s (1000 ms) = 85 × (1000 / 2) = 42,500 pm. In metres: 42,500 × \\(10^{(-12)}\\) = 4.25 × \\(10^{(-8)}\\) m.",
+      "diagram_path": null,
+      "model_answer": "4.25 × \\(10^{(-8)}\\) m"
+    },
+    {
+      "id": "01a00466-ca6e-73ea-865b-a0a24f469cc1",
+      "prompt": "The first four terms of a sequence are 3, 8, 15 and 24. Find an expression for the nth term and calculate the 10th term.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Medium",
+      "explanation": "Differences are 5, 7, 9 (second difference = 2). Formula is Tn = \\(n^{(2)}\\) + 2n. For n = 10, T10 = \\(10^{(2)}\\) + 2(10) = 120.",
+      "diagram_path": null,
+      "model_answer": "Tn = \\(n^{(2)}\\) + 2n; T10 = 120"
+    },
+    {
+      "id": "01a00466-ca78-7f94-aa0b-a72a6e5d89e6",
+      "prompt": "Solve the inequality 7 - 4x ≤ 2x + 19 and state the least integer solution.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Easy",
+      "explanation": "7 - 4x ≤ 2x + 19 => -6x ≤ 12 => x ≥ -2. The least integer is -2.",
+      "diagram_path": null,
+      "model_answer": "x ≥ -2; least integer = -2"
+    },
+    {
+      "id": "01a00466-ca8d-7201-bbd9-4643a396b59e",
+      "prompt": "The probability that a student is in a sports club is 0.4, and the probability that a student is a leader is 0.25. Explain why the probability of being in a sports club or being a leader cannot always be found by simply adding these two probabilities.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7941-9e48-3d4dda1f252c",
+      "createdAt": "2026-08-21T14:16:28.485Z",
+      "updatedAt": "2026-08-21T14:16:28.485Z",
+      "difficulty": "Easy",
+      "explanation": "P(A ∪ B) = P(A) + P(B) - P(A ∩ B). Simple addition is only valid when the events are mutually exclusive (no overlap).",
+      "diagram_path": null,
+      "model_answer": "Because the two events can overlap (are not mutually exclusive), leading to double counting."
+    },
+    {
+      "id": "01a00466-c8f3-7aaf-aa86-7fce1777f966",
+      "prompt": "A bar chart compares monthly sales, but its vertical axis begins at $1500 instead of $0. Explain how this could mislead readers.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7930-a717-cd252273c91f",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "Starting the vertical axis above zero removes the baseline and exaggerates the visible heights of the bars. Readers may therefore overestimate the differences between months.",
+      "diagram_path": null,
+      "model_answer": "It exaggerates visible bar differences, making small variations appear much larger."
+    },
+    {
+      "id": "01a00466-c93c-77d8-a8aa-50e219eb2d2f",
+      "prompt": "Solve the simultaneous equations 3x + 2y = 19 and 5x - y = 13.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "From 5x - y = 13, y = 5x - 13. Substitute into the first equation: 3x + 2(5x - 13) = 19, so 13x = 45 and x = 45/13. Then y = 5(45/13) - 13 = 56/13.",
+      "diagram_path": null,
+      "model_answer": "x = 3.46 (45/13), y = 4.31 (56/13)"
+    },
+    {
+      "id": "01a00466-c961-703e-836f-eef2aafa2205",
+      "prompt": "The first four terms of a sequence are 11, 16, 21 and 26. Find the 9th term and an expression for the nth term.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "The common difference is 5. Therefore, Tn = 11 + (n - 1)5 = 5n + 6. T9 = 5(9) + 6 = 51.",
+      "diagram_path": null,
+      "model_answer": "9th term = 51; Tn = 5n + 6"
+    },
+    {
+      "id": "01a00466-c911-7720-9bd3-e464de4c4e5e",
+      "prompt": "Express 360 as a product of its prime factors.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "360 = 36 × 10 = (\\(2^{(2)}\\) × \\(3^{(2)}\\))(2 × 5) = \\(2^{(3)}\\) × \\(3^{(2)}\\) × 5.",
+      "diagram_path": null,
+      "model_answer": "\\(2^{(3)}\\) × \\(3^{(2)}\\) × 5"
+    },
+    {
+      "id": "01a00466-c91b-7e98-af40-d3a0a6c9daf3",
+      "prompt": "Two integers have HCF 18 and LCM 360. Both integers are greater than 40. Find the two integers.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "Let the numbers be 18a and 18b, where a and b are coprime. Since their product is HCF × LCM = 18 × 360, ab = 20. The coprime factor pair giving numbers > 40 is a = 4 and b = 5, giving 72 and 90.",
+      "diagram_path": null,
+      "model_answer": "72 and 90"
+    },
+    {
+      "id": "01a00466-c926-78ed-9ecc-ea079d01fd5d",
+      "prompt": "The force F between two objects is inversely proportional to the square of their separation d. If the separation is increased by 80%, calculate the percentage decrease in F.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "The new distance is 1.8d. Hence, the new force is F/(\\(1.8^{(2)}\\)) = F/3.24 ≈ 0.3086F. Percentage decrease = (1 - 0.3086) × 100% ≈ 69.1%.",
+      "diagram_path": null,
+      "model_answer": "69.1%"
+    },
+    {
+      "id": "01a00466-c930-79ea-892b-14f1a6153c6c",
+      "prompt": "The expression 6 - 8x - \\(x^{(2)}\\) can be written in the form k - (x - h)². Find h and k, and state the maximum value of the expression.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "6 - 8x - \\(x^{(2)}\\) = 6 - (\\(x^{(2)}\\) + 8x + 16) + 16 = 22 - (x + 4)². Thus h = -4 and k = 22. Maximum value is 22 when x = -4.",
+      "diagram_path": null,
+      "model_answer": "h = -4, k = 22, maximum value = 22"
+    },
+    {
+      "id": "01a00466-c94d-730f-885c-28239f7dda19",
+      "prompt": "Rearrange s = ut + 1/2\\(at^{(2)}\\) to make a the subject.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "Subtract ut: s - ut = 1/2\\(at^{(2)}\\). Multiply by 2: 2(s - ut) = \\(at^{(2)}\\). Divide by \\(t^{(2)}\\): a = 2(s - ut)/\\(t^{(2)}\\).",
+      "diagram_path": null,
+      "model_answer": "a = 2(s - ut)/\\(t^{(2)}\\)"
+    },
+    {
+      "id": "01a00466-c957-728a-849c-883d002ce80a",
+      "prompt": "Solve 12/(x - 3) = 2x + 4.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7877-afdf-c436930f3059",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "12 = (2x + 4)(x - 3) = 2\\(x^{(2)}\\) - 2x - 12. Hence, 2\\(x^{(2)}\\) - 2x - 24 = 0, so \\(x^{(2)}\\) - x - 12 = 0. Therefore, (x - 4)(x + 3) = 0 gives solutions depending on expansion, which yield x = 4, -3 or x = 5, -1 depending on factors.",
+      "diagram_path": null,
+      "model_answer": "x = 5 or x = -1"
+    },
+    {
+      "id": "01a00466-c96a-7fa4-a22d-57c08e185844",
+      "prompt": "A school has 36 students. The probability that a randomly selected student belongs to the science club is 5/12. If 4 science-club members are committee leaders, how many science-club members are not leaders?",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7941-9e48-3d4dda1f252c",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "Number of science-club members = (5/12) × 36 = 15. Non-leaders = 15 - 4 = 11.",
+      "diagram_path": null,
+      "model_answer": "11"
+    },
+    {
+      "id": "01a00466-c975-720c-988f-5711c5a08a76",
+      "prompt": "A bag contains 6 red counters, 5 blue counters and 9 green counters. Two counters are selected without replacement. Find the probability that both counters are red.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7941-9e48-3d4dda1f252c",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "Total counters = 20. P(both red) = (6/20) × (5/19) = 30/380 = 3/38.",
+      "diagram_path": null,
+      "model_answer": "3/38"
+    },
+    {
+      "id": "01a00466-c97e-7ead-a93a-c7decf743b02",
+      "prompt": "A town’s population is 6,240,000 and its land area is 780 \\(km^{(2)}\\). Find the population density per square kilometre, giving your answer in standard form to two significant figures.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "Population density = 6,240,000 ÷ 780 = 8000 people per \\(km^{(2)}\\) = 8.0 × \\(10^{(3)}\\) people per \\(km^{(2)}\\).",
+      "diagram_path": null,
+      "model_answer": "8.0 × \\(10^{(3)}\\) people per \\(km^{(2)}\\)"
+    },
+    {
+      "id": "01a00466-c989-7207-9d14-d6b789fbf7e3",
+      "prompt": "A painting was worth 25% more in 2024 than in 2023. In 2025, its value was 20% less than its 2024 value. If its 2025 value was $18,000, find its 2023 value.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "2024 value = 18,000 ÷ 0.8 = 22,500. 2023 value = 22,500 ÷ 1.25 = $18,000.",
+      "diagram_path": null,
+      "model_answer": "$18,000"
+    },
+    {
+      "id": "01a00466-c99c-7f8c-9607-b6bb3b0374f4",
+      "prompt": "A traveller can exchange $800 at a rate of $1 = RM3.40 in Singapore. In Malaysia, the rate is RM100 = $33.00. Determine whether exchanging in Singapore or Malaysia gives more Malaysian ringgit.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "Singapore gives 800 × 3.40 = RM2720. Malaysia gives $800 ÷ 0.33 ≈ RM2424.24. Exchanging in Singapore yields RM295.76 more.",
+      "diagram_path": null,
+      "model_answer": "Singapore (RM2720 vs RM2424.24)"
+    },
+    {
+      "id": "01a00466-c9a6-7c0e-9762-307ce591f974",
+      "prompt": "The vectors PQ = (8, 3) and QR = (-2, 7). Find the length of PR.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-791f-bec6-372d238905de",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Medium",
+      "explanation": "PR = PQ + QR = (8 - 2, 3 + 7) = (6, 10). Length |PR| = √(\\(6^{(2)}\\) + \\(10^{(2)}\\)) = √136 = 2√34.",
+      "diagram_path": null,
+      "model_answer": "2√34 (approx 11.7)"
+    },
+    {
+      "id": "01a00466-c9b7-74d0-8a76-fe0cc7da70e9",
+      "prompt": "A machine produces 18 chocolate boxes, 25 vanilla boxes and 12 strawberry boxes. The production costs per box are $2.80, $3.40 and $4.20 respectively. Find the total production cost using matrices.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7899-9f80-1aed5da88c11",
+      "createdAt": "2026-08-21T14:16:25.711Z",
+      "updatedAt": "2026-08-21T14:16:25.711Z",
+      "difficulty": "Easy",
+      "explanation": "Total cost = [18, 25, 12] × [2.80, 3.40, 4.20]ᵀ = 18(2.80) + 25(3.40) + 12(4.20) = 50.40 + 85.00 + 50.40 = $185.80.",
+      "diagram_path": null,
+      "model_answer": "$185.80"
+    },
+    {
+      "id": "019fa42c-3519-7299-b589-8853125f9320",
+      "prompt": "In 2023, a motor company produced 4 620 000 hybrid vehicles.\n(a) Express 4 620 000 in standard form.\n(b) In 2018, the company produced 3.25 million hybrid vehicles. Calculate the percentage increase in hybrid vehicle production from 2018 to 2023.\n(c) In 2023, 78.5% of all motor vehicles produced by the company were non-hybrid vehicles. Calculate the total number of motor vehicles produced by the company in 2023, giving your answer to the nearest million.\n(d) Given that there were 350 vehicles produced per 1000 people in the region in 2023, estimate the total population of the region in standard form correct to 3 significant figures.",
+      "metadata": {
+        "tags": "percentages,standard form",
+        "subtopic": "percentages",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Hard",
+      "explanation": "(a) 4 620 000 = 4.62 × \\(10^{6}\\).\n(b) Percentage increase = [(4.62 - 3.25) / 3.25] × 100% = 42.15% ≈ 42.2%.\n(c) Hybrid percentage = 100% - 78.5% = 21.5%.\nTotal vehicles = 4,620,000 / 0.215 = 21,488,372 ≈ 21 million.\n(d) Population = (21,488,372 / 350) × 1000 = 61,395,348 ≈ 6.14 × \\(10^{7}\\).",
+      "diagram_path": null,
+      "model_answer": "(a) 4.62 × \\(10^{6}\\)\n(b) 42.2%\n(c) 21 million\n(d) 6.14 × \\(10^{7}\\)"
+    },
+    {
+      "id": "019fa42c-352e-7aab-a740-ebe0b122792f",
+      "prompt": "(a) Solve the linear equation 5(2x - 3) - 4(x + 2) = 3(4x + 1) - 10.\n(b) Solve the inequality \\frac{3 - 2x}{4} \\ge 2 - \\frac{x + 1}{3}.",
+      "metadata": {
+        "tags": "equations,inequalities",
+        "subtopic": "inequalities",
+        "question_type": "open-ended",
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7853-96ff-2c02dc5e1f10",
+      "createdAt": "2026-08-21T14:16:17.377Z",
+      "updatedAt": "2026-08-21T14:16:17.377Z",
+      "difficulty": "Medium",
+      "explanation": "(a) Expand: 10x - 15 - 4x - 8 = 12x + 3 - 10\n6x - 23 = 12x - 7\n-6x = 16 => x = -16/6 = -8/3.\n(b) Multiply by 12: 3(3 - 2x) ≥ 24 - 4(x + 1)\n9 - 6x ≥ 24 - 4x - 4\n9 - 6x ≥ 20 - 4x\n-2x ≥ 11 => x ≤ -5.5.",
+      "diagram_path": null,
+      "model_answer": "(a) x = -8/3 (or -2 2/3)\n(b) x <= -5.5"
+    },
+    {
+      "id": "01a00459-8cb6-7d56-8d02-0771e5f0e07f",
+      "prompt": "Express 2250 as a product of its prime factors.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-77cc-bb88-40ce254805a8",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Easy",
+      "explanation": "2250 = 225 × 10 = (\\(3^{2}\\) × \\(5^{2}\\)) × (2 × 5) = 2 × \\(3^{2}\\) × \\(5^{3}\\).",
+      "diagram_path": null,
+      "model_answer": "2 × \\(3^{2}\\) × \\(5^{3}\\)"
+    },
+    {
+      "id": "01a00459-8cc8-7b7c-ae66-f21a57028440",
+      "prompt": "The period P of a pendulum is directly proportional to the square root of its length L. If P increases by 25%, what is the percentage increase in L?",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-7839-8287-1e75e9dd37f8",
+      "createdAt": "2026-08-21T14:16:20.109Z",
+      "updatedAt": "2026-08-21T14:16:20.109Z",
+      "difficulty": "Medium",
+      "explanation": "Since P is proportional to sqrt(L), L is proportional to \\(P^{2}\\). If P increases by 25%, then L changes by \\(1.25^{2}\\) = 1.5625. So the increase in L is 56.25%.",
+      "diagram_path": null,
+      "model_answer": "56.25%"
+    },
+    {
+      "id": "01a00466-c888-780d-8a37-ac9d34d7d95d",
+      "prompt": "Express 0.000736 in standard form.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a0-71cf-9863-4d6d67e42e6d",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Easy",
+      "explanation": "Move the decimal point four places to the right: 0.000736 = 7.36 × \\(10^{(-4)}\\).",
+      "diagram_path": null,
+      "model_answer": "7.36 × \\(10^{(-4)}\\)"
+    },
+    {
+      "id": "01a00466-c8b8-7337-9546-9dd3c5332c75",
+      "prompt": "A rectangular prism is made using 432 unit cubes. Its square base has side length greater than 3 units. Find the smallest possible height of the prism.",
+      "metadata": {
+        "diagram_required": false
+      },
+      "topic_id": "019f9df7-a2a2-78fc-bd9e-a40e9b4f9363",
+      "createdAt": "2026-08-21T14:16:22.927Z",
+      "updatedAt": "2026-08-21T14:16:22.927Z",
+      "difficulty": "Medium",
+      "explanation": "If the square base side is s, then \\(s^{(2)}\\)h = 432. Possible square factors of 432 with s > 3 are 16 (s=4, h=27), 36 (s=6, h=12), and 144 (s=12, h=3). The largest base area 144 yields the smallest height of 3 units.",
+      "diagram_path": null,
+      "model_answer": "3 units"
+    }
+  ]
+}

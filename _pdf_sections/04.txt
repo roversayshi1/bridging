@@ -1,0 +1,172 @@
+Title Mathematics (Lowest Common Multiple and Highest Common Factor)
+Author Lim Wang Sheng, School of Information Technology, Nanyang
+Polytechnic [Mentoring Club, Nanyang Polytechnic]
+(Editor) Lee Jian Lian
+Date 24/2/2018
+Understanding some schools chose to teach the law of indices in Secondary 3 rather
+than Secondary 1, I will like to explain various ways on how the laws of indices works
+before proceeding to introduce the concepts as it will be frequently used in the
+documents.
+Notation English Explanation
+𝑎𝑏
+Example:
+32 = 3 × 3
+23 = 2 × 2 × 2
+𝑎 to the power of 𝑏 It means to multiply 𝑎 by
+itself 𝑏 number of times.
+𝑎 is the base while 𝑏 is the
+power or the exponent.
+Law of Indices Relevant to this topic
+(𝑎𝑏)(𝑎𝑐) = 𝑎𝑏+𝑐
+(𝑎𝑏)
+(𝑎𝑐) = 𝑎𝑏−𝑐
+(𝑎𝑏)𝑐 = 𝑎𝑏𝑐
+In General
+√𝑎𝑏	𝑐
+= 𝑎𝑏
+𝑐
+Specifically
+√𝑎 = 𝑎1
+2
+√𝑎
+3 = 𝑎1
+3
+Definitions:
+A prime number is a number greater than 1, that can only be divisible by itself or 1.
+
+-- 25 of 145 --
+
+Recalling how you find Lowest Common Multiple and Highest Common Factor in
+Primary School.
+Example 1:
+Find the Lowest Common Multiple and Highest Common Factor of 18 and 15.
+Highest Common Factor
+(Listing down all factors and drawing conclusion of the highest factor shared between
+both values.)
+Numbers Arithmetic Form Listed
+18 1 × 18
+2 × 9
+6 × 3
+1,2,3,6,9,18
+15 1 × 15
+3 × 5
+1,3,5,15
+The highest common factor is deduced to be 3.
+Lowest Common Multiple
+(Listing down every multiple possible for both values and to draw conclusion of the
+lowest multiple shared between both values)
+Numbers Listed
+18 18,36,54,72,90,108
+15 15,30,45,60,75,90,105
+The lowest common multiple is therefore 90.
+The problem with this method, it works only for small numbers, as the numbers get
+larger and larger, listing the factors and multiples becomes increasingly difficult and
+tiring and thus we need a more efficient method to find lowest common multiples and
+highest common factors.
+
+-- 26 of 145 --
+
+Example 2:
+Find the highest common factor of 168 and 560.
+Step 1: Divide both numbers repeatedly by prime numbers until you get 1 and thus
+unable to divide further.
+Divisor Dividend Quotient
+2 560 280
+2 280 140
+2 140 70
+2 70 35
+5 35 7
+7 7 1
+Divisor Dividend Quotient
+2 168 84
+2 84 42
+2 42 21
+7 21 3
+3 3 1
+Step 2: Express Numbers in Index Notation.
+560 = 24 × 5 × 7
+168 = 23 × 3 × 7
+Step 3: Highlight values with common bases.
+560 = 24 × 5 × 7
+168 = 23 × 3 × 7
+Step 4: Take value which satisfy two conditions: Highlighted (Common Base), Lowest
+Power of the two rows.
+What we get is 23 and 7
+Step 5:
+Multiply the values to get Highest Common Factor
+HCF = 23 × 7 = 56
+
+-- 27 of 145 --
+
+Example 3:
+Find the lowest common multiple of 45 and 378.
+Step 1: Divide the values repeatedly by prime numbers until you get 1, thus unable to
+divide any further.
+Divisor Dividends Quotients
+3 45 15
+3 15 5
+5 5 1
+Divisor Dividends Quotients
+2 378 189
+3 189 63
+3 63 21
+7 21 3
+3 3 1
+Step 2: Express Numbers in Index Notation.
+45 = 32 × 5
+378 = 2 × 33 × 7
+Step 3: Highlight values that satisfy the following condition.
+If base common in both rows, pick the one with highest power.
+If the base value is only found on either row, highlight the value as well.
+What we get is 2, 5, 33, 7
+Step 4: Multiply the highlighted values together to get Lowest Common Multiple.
+LCM = 2 × 33 × 5 × 7 =1890
+
+-- 28 of 145 --
+
+Example 4:
+(a) Express 2700 as a product of its prime factors.
+(b) Given that 2700h is a perfect square, write down the smallest possible value of h
+(c) Given that 2700k is a perfect cube, write down the smallest possible value of k.
+4(a)
+Divisor Dividends Quotient
+2 2700 1350
+2 1350 675
+5 675 135
+5 135 27
+3 27 9
+3 9 3
+3 3 1
+Product of Prime Factors (Index Notation): 22 × 52 × 33 = 2700
+4(b)
+To solve this question, I would like to introduce you to the vocabulary needed to solve
+the question and the rules of solving similar questions.
+For a number to be even called a perfect square, it needs to:
+• Produce an integer when square rooted.
+For 2700h to be a perfect square, it needs to satisfy the following requirements:
+Multiplying h to 2700 should be able to ensure all the power of the prime factors of
+2700h are divisible by 2.
+Which bring us to the law of indices
+𝑎𝑏 × 𝑎𝑐 = 𝑎𝑏+𝑐
+Apparently, since the only base value where the power isn’t divisible by 2 is 33
+And that (33)(3) = 34
+2700ℎ = 22 × 52 × 33 × 3 = 2700(3)
+ℎ = 3 (Final Answer)
+
+-- 29 of 145 --
+
+4(c)
+For a number to be called a perfect cube, it needs to
+• Produce an integer when being cube rooted.
+For 2700k to be a perfect cube in this case, multiplying 𝑘 to 2700 results in:
+• Powers of prime factors of 2700k should all be divisible by 3.
+As you see from the following values, there are two values for which the powers are not
+divisible by 3.
+22 × 52 × 33 = 2700
+Since 22 × 2 = 23
+And 52 × 5 = 53
+2700𝑘 = 2(22) × 5(52) × 33 = 23 × 53 × 33
+𝑘 = 2 × 5 = 10 (Final Answer)
+(Questions all obtained from CASCO Mathematics 4B Assessment Book)
+
+-- 30 of 145 --

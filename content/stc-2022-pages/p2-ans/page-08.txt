@@ -1,0 +1,29 @@
+8
+(b) Calculate the bearing of B from C.
+Using Sine Rule,
+sinZBCD _sin10%° M1]
+584.80 1060
+BCD sin (SeeBbemor )
+1060
+~ 32.518 or 32.530° [A1]
+Bearing of B from C
+=270° + 32.519
+=3025° (1dp.) [A1]
+Answer .......ccceeeeeee 0 [3]
+(co) John is a Grab delivery partner. He cycles at an average speed of 12 km/h.
+He starts at point C, cycles dong path CB to collect food at point B then path BA to
+collect food at point A, and delivers the food collected to point D.
+He spends 5 minutes to collect the food at each collection point.
+Calculate the time it takes him to complete the food delivery.
+Give your answer in minutes and seconds.
+Total distance travelled
+= (1060 +350+500)/1000 = 1.91 km [B1]
+Total time taken
+= 19, 60410 M1]
+12
+=19.55 min
+=19 min 33 sec [A1]
+Answer ............minutes............. seconds [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

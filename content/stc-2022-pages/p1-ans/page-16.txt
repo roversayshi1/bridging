@@ -1,0 +1,21 @@
+16
+19 In asequence, the same number is subtracted each time to obtain the next term.
+Thefirst five terms of the sequence are
+17 p q r 7
+(a) Findthevalueofr.
+Common difference= RE =6
+Lr=-T+6=-1 [B1]
+Answer... [1]
+(b) Find an expression, in terms of n, for the nt term of the sequence.
+T,=-6n+23 [B1]
+Answer... [1]
+(c) Explain why —345 is not aterm of this sequence.
+—6n+23=-345
+—6n=-368
+n=61.
+&
+Since n=6t] isnot an integer, -345 is not aterm of the sequence.  [B1]
+AANSWET
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

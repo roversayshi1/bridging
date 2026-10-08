@@ -1,0 +1,170 @@
+Title Basic Algebra – Changing Subject of Formula [Final Version]
+Author Lim Wang Sheng, School of Information Technology, Nanyang
+Polytechnic [Part of NYP Mentoring Club]
+Date 13/3/2018
+Realizing in my class, a lot of students have issues with algebra and I anticipate similar
+problems to occur with its slightly trickier counterpart, formula manipulation. I decided
+to write some materials for my own students to use. Due to involvement in public
+projects, I decided to publish this file through various people, hoping it will help other
+students as well.
+Definitions
+Changing Subject of Formula – Making an algebraic symbol in a formula (anything, from
+letters, symbols) appear as a standalone variable on the left-hand side of the formula.
+[Will be described in greater detail and will explain how my definition works]
+Notation used in this document
+Notation Meaning
+RHS Right-Hand Side of a formula
+LHS Left-Hand Side of a formula
+Important things to take note (Or be cautious about)
+1. Squares and Square Roots (Negative and Positive Answers are possible in some
+cases, will be demonstrated in the subsequent pages)
+2. (Rarely) If they specify the subject of formula should be a variable that only has a
+positive value (Example include, distance and speed), be aware that the negative
+value should be rejected in this case as distances and speed cannot have any
+negative signs.
+Explaining Point 1 in Greater Detail Using Arithmetic:
+Supposed we have the number “4” and we want to square root the number.
+√4 = 2 𝑜𝑟 − 2
+Both 2 and (−2) satisfy the requirement of being a square root value of 4,
+22 = 4 AND (−2)2 = 4
+
+-- 12 of 145 --
+
+Example 1:
+Make 𝑐 the subject of the formula.
+𝐸 = 𝑚𝑐2
+When they ask you to make 𝑐 the subject of the formula, they are asking you to
+rearrange the formula in a way that 𝑐 must appear as a single algebraic letter on the
+LHS of the formula.
+Steps Taken Explanation
+𝐸
+𝑚 = 𝑐2 Divide both sides by 𝑚 to isolate 𝑐2
+𝑐2 = 𝐸
+𝑚
+Change 𝑐2 to the LHS of the formula
+𝑐 = ±√𝐸
+𝑚
+Square rooting 𝑐2 on the LHS gives two
+possible values, positive and negative, on
+the right-hand side of the formula.
+
+-- 13 of 145 --
+
+Example 2:
+Make 𝒎 the subject of the formula
+𝐸 = 1
+2 𝑚𝑣2
+Steps Explanation
+2(𝐸) = 𝑚𝑣2 Get rid of fraction by multiplying both
+sides by 2.
+𝑚𝑣2 = 2𝐸 Change sides of the formula
+𝑚 = 2𝐸
+𝑣2
+Divide both sides by 𝑣2 to isolate and get
+𝑚
+
+-- 14 of 145 --
+
+Example 3
+Make the b the subject of the formula (Not taken from physics, self-created)
+3
+𝑓 + 1
+𝑏𝑐 = 1
+𝑔
+Steps Explanation
+1
+𝑏𝑐 = 1
+𝑔 − 3
+𝑓 Isolate 1
+𝑏𝑐 from formula
+1
+𝑏𝑐 = 1(𝑓)−3(𝑔)
+𝑓𝑔
+Create a common denominator for RHS
+1
+𝑏𝑐 = 𝑓−3𝑔
+𝑓𝑔
+𝑏𝑐 = 𝑓𝑔
+𝑓−3𝑔
+When a fraction gets inversed on the LHS,
+the same applies to the RHS.
+Can be explained in the following
+manner:
+( 1
+𝑏𝑐)−1
+= (𝑓−3𝑔
+𝑓𝑔 )−1
+𝑏𝑐 = 𝑓𝑔
+𝑓−3𝑔
+𝑏 = (𝑓𝑔)
+𝑐(𝑓−3𝑔)
+Divide both sides by 𝑐 to isolate 𝑏 on the
+LHS
+
+-- 15 of 145 --
+
+Example 4:
+Make 𝑣 the subject of the formula.
+𝑡 =
+(
+𝑠
+√1 − 𝑣2
+𝑐2 )
+Steps taken Explanation
+𝑡2 = 𝑠2
+1 − (𝑣2
+𝑐2 )
+Removing any square root signs in the
+formula by squaring both sides of the
+formula
+𝑡2 (1 − 𝑣2
+𝑐2 ) = 𝑠2 Cross Multiply
+𝑡2 − 𝑡𝑣2
+𝑐2 = 𝑠2 Removal of brackets
+− 𝑡𝑣2
+𝑐2 = 𝑠2 − 𝑡2 Minus “𝑡2” from both sides
+−𝑡𝑣2 = 𝑐2(𝑠2 − 𝑡2) Cross Multiply
+𝑣2 = 𝑐2(𝑠2 − 𝑡2)
+−𝑡
+Divide both sides by −𝑡 to isolate and get
+𝑣2
+𝑣 = ±√𝑐2(𝑠2 − 𝑡2)
+−𝑡
+𝑣 is the subject of the formula, square
+rooting the LHS gives two possible values
+on the RHS, positive and negative.
+
+-- 16 of 145 --
+
+Example 5:
+Given the following formula,
+𝑡 = 𝑛
+√1−2𝐺𝑀
+𝑟𝑐2
+Make 𝑐 the subject of the formula.
+Steps taken Explanation
+𝑡2 = 𝑛2
+1 − 2𝐺𝑚
+𝑟𝑐2
+Remove Square Root
+𝑡2 (1 − 2𝐺𝑚
+𝑟𝑐2 ) = 𝑛2 Cross Multiply
+𝑡2 − 2𝑡2𝐺𝑚
+𝑟𝑐2 = 𝑛2 Remove Brackets
+− 2𝑡2𝐺𝑚
+𝑟𝑐2 = 𝑛2 − 𝑡2 Minus 𝑡2 from both sides
+−2𝑡2𝐺𝑚 = 𝑟𝑐2(𝑛2 − 𝑡2) Cross Multiply
+𝑟𝑐2 = −2𝑡2𝐺𝑚
+(𝑛2 − 𝑡2)
+Divide both sides by (𝑛2 − 𝑡2)
+𝑐2 = −2𝑡2𝐺𝑚
+𝑟(𝑛2 − 𝑡2)
+Divide both sides by 𝑟 to isolate and get
+𝑐2
+𝑐 = ±√ −2𝑡2𝐺𝑚
+𝑟(𝑛2 − 𝑡2)
+Square root the value on both sides, once
+again, square rooting the LHS gives two
+possible value on the RHS.
+
+-- 17 of 145 --

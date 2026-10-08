@@ -1,0 +1,90 @@
+Title Principles of Money Exchange
+Author Liu Hui Ling, Student of Ngee Ann Polytechnic
+Date 29/5/2018
+Before we start introducing this topic, let us talk about why different country has
+different currencies in the first place. There isn’t a short answer for that but these are
+the following reasons:
+• Origins of Money – The origin of money is different for countries, when they
+switch over to notes, their origin is taken into account as well.
+• Politics – As a political leader, you want some control over your country’s
+economic system and thus, would use your own country’s currency.
+As the origin of money is different in different countries, we cannot just say, let the
+world adopt a common currency and call it a day, this whole story is further extended by
+political reasons where leaders want control over their nation’s spending.
+Notation in this topic Examples and Meaning
+Currency Notation Usually a 3 Letter (Sometimes 2 or 4, but rare) joined
+together, that either abbreviates the currency name or
+just the currency prefix.
+USD – United States Dollars
+JPY – Japanese Yen
+EUR – Euros
+Amount of Money in that
+Currency
+Amount in the currency, followed by the 3-Letter-
+Representation of that currency.
+200 EUR – Means 200 Euros
+115 JPY – Means 200 Japanese Yen
+Occasionally symbols are used as well but I rarely see in
+textbooks, in the context of currency exchange. However,
+if you wish to go for overseas trip, do a good research on
+their currency symbols, as I mentioned, the origins of
+money are different in various countries, so could be the
+language and thus they also adopt different symbols for
+their native currency.
+
+-- 130 of 145 --
+
+Just some extra knowledge I think would be useful if you are planning for overseas
+learning trips, these terms may be used frequently in the process of exchanging
+currency with a money changer, or perhaps when you study Principle of Accounting next
+time.
+Extended Terms Meaning
+Appreciation To rise in values in relation to other currency, comparing
+with the past
+Depreciation To decrease in value in relation to other currency,
+comparing with the past.
+Example question (Disclaimer: This is just an example and may not be true.)
+Given the below currency rates, solve the following questions.
+1 USD 0.78 SGD
+1 SGD 0.64 EUR
+Alice wishes to buy a present for her friend as a gift on birthday from an online store.
+According to the site, any items sold on that site have their values all calculated in
+Euros. Given that the present is 19 Euro, and that she needs to also pay an additional
+11 Euro in transportation fees and 7 SGD worth of import charges. How much does
+she as to pay at the end in Singapore Dollars?
+Step 1. Calculate currency rates from table information.
+Since 1 SGD is 0.64 EUR, we calculate what is 1 EUR in SGD.
+1 SGD = 0.64 EUR
+1 𝑆𝐺𝐷
+0.64 = 0.64 𝐸𝑈𝑅
+0.64
+1.5625 SGD = 1 EUR
+(For easy calculation, switch the target currency to the Right-Hand Side)
+1 EUR = 1.5625 SGD
+Present + Transportation Fee (in Euro) =
+19 EUR + 11 EUR = 30 EUR
+Convert to target currency, (in Singapore Dollars)
+30 EUR = 30(1.5625) SGD = 46.875 SGD
+
+-- 131 of 145 --
+
+Add Charges (in Singapore Dollars)
+46.875 SGD + 7 SGD = 53.875 SGD
+Total = 53.875 SGD
+Total (Currency Round off to 2 Decimal Places): 53.88 SGD
+Bob’s manager has a task for Bob. He is asked to travel to the United States to train
+the staff there on using accounting software. His company sponsored 6000 SGD of trip
+fees for his accommodation in United States during his trip.
+Given he spent 1500 USD in the United States, how much money is he left with in SGD
+after the trip ends?
+Convert all values to target currency
+1 SGD = 0.78 USD
+1 USD = 1.28205 SGD (I use 5 decimal places for this calculation, you can use fraction as
+well.) (Money changers, typically, don’t use scientific calculators for calculation and thus
+unable to use fraction values to calculate.)
+Convert Expenses to Target Currency Value
+1500 USD = 1500(1.28205) = 1923.075 SGD
+Money Left (in SGD) = 6000 SGD – 1923.075 SGD = 4076.925 SGD,
+4076.93 SGD (2 Decimal Places)
+
+-- 132 of 145 --

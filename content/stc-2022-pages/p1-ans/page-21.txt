@@ -1,0 +1,35 @@
+21
+24 ABCD isapardlelogram. Gis the mid-point of AC and H is the mid-point of AG.
+Jisapoint on AD such that AD=3JD.
+— — 6p
+AB=6pand AD =9q. A B
+(a) Express, assimply as possible,
+in terms of p and/or q,
+9q
+(i) AC, J
+AC=AB+ BC D Cc
+=6p+9q [B1]
+(ii) BH,
+Bi =8+ A
+1 9 9
+=—6p +—(6p+9q)=-——p+— B1
+p + (6p+9q)=——p+-q [BI]
+i. Answer iii [1]
+(iii) GJ.
+GI=GA+AJ
+1 2 3
+=—(-6p- 9g) + =(9q)= 3p+ = B1
+5 6p — 9a) + =(9q) P*3d [B1]
+Answer... [1]
+(b) What do your answers to (a)(ii) and (a)(iii) tell you about BH and GJ?
+Explain your answers clearly.
+= 9 3 3 3 =
+BH=-—p+—-q==(-3p+=-q) == GJ
+SPF ZA =5ERE A=
+. — = _3 i [B1]
+Since BH = k (GJ), where k = BE BH is parallel to GJ.
+|| =3[GJ]. [B1]
+~~ End of Paper 1 ~~
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

@@ -1,0 +1,3 @@
+User-agent:*
+Disallow:
+Sitemap: https://www.bridging.lol/sitemap.xml

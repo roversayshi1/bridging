@@ -1,0 +1,742 @@
+
+
+===== P2 PAGE 1 =====
+
+Po- oad 2 Index
+. Class Number
+(SF Lhon 3
+Candidate Name
+ST ANDREW’S SECONDARY SCHOOL
+PRELIMINARY EXAMINATION 2022
+#55" SECONDARY 4 EXPRESS/ 5 NORMAL ACADEMIC
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+|
+Paper 2
+WEDNESDAY 17 AUGUST 2022 2 hours 30 minutes
+| Candidates answer on the Question Paper.
+READ THESE INSTRUCTIONS FIRST
+| Write your name, class and index number in the spaces at the top of this page.
+| Write in dark blue or black pen.
+You may use a pencil for any diagrams or graphs.
+Do not use staples, paper clips, glue or correction fluid.
+Answer all questions.
+If working is needed for any question it must be shown with the answer. d
+Omission of essential working will result in loss of marks.
+The use of an approved scientific calculator is expected, where appropriate.
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the answer to
+three significant figures. Give answers in degrees to one decimal place.
+For 7, use either your calculator value or 3.142, unless the question requires the answer in terms of 7.
+| The number of marks is given in brackets [ ] at the end of each question or part question.
+The total of the marks for this paper is 100.
+This question paper consists of 21 printed pages.
+MATHS7015DK
+©5AS 2022
+[Turn over
+
+
+===== P2 PAGE 2 =====
+
+N
+2
+Mathematical Formulae
+| Compound interest
+n
+Total amount = Ai + =)
+| 100
+| Mensuration
+Curved surface area of a cone = mr!
+Surface area of a sphere = 47>
+Volume of a cone = Soh
+4 3
+Volume of a sphere = 3
+Area of triangle ABC = Jab sinC
+Arc length = 76 , where 0 is in radians
+Sector area = 5 , where 6 is in radians
+Trigonometry
+Cie WEL Fal
+sind sinB sinC
+a? =b* +c =2bccos A
+Statistics
+Mean = pi]
+xf
+2 \2
+Standard deviation = (Zk
+If yf
+
+
+===== P2 PAGE 3 =====
+
+3
+RV
+| 1@ S=—
+| (i) Calculate the value of S when R=100 and ¥ =-13.
+S = 100 (- 13)
+3(-13)-1
+= — 1300 32.5
+Zo = 32.5 Answer [RR § | |
+(i) Rearrange the formula fo make ¥ the subject.
+$= RV
+3Vv-l
+iS (3Vv -| )) = RV
+sv-38 = RV
+~$=RV-3SV ©
+Sv (e-39) 3SV-RV = §
+-— = -3
+v(zs- R) = 3
+- 3S
+— VV . NS
+i . SVE —,
+oe 35%
+=
+oo dnswer 7=35TR eB]
+(b) Given that » is an integer and # > 1, decide whether each statement in the table is true or |
+false. = ;
+For each statement write true or false in the table.
+If you write false, give an example to justify your decision.
+ERE
+Ela
+2
+n nn
+Sul n=3,
+(1=D(n+3) False (3-1) (3tB)=12
+is always odd seven, not odd.
+[2]
+[Turn over
+
+
+===== P2 PAGE 4 =====
+
+( : ;
+[ 4 )
+(¢) Solve these simultaneous equations.
+Fxtdy==6 —00
+3y=—4x+3 —0
+You must show your working.
+Few ©, 5x + 12y =-(20 — ®
+Pom (®), Lx t 3y = 3
+3y = Ux
+12y = jz-1bx —®
+Sub ® wo (B),
+cx +12-1bx = —120
+—Il x =-[32
+xX = 2
+3y = 3- 412)
+3y =-4<
+ly zs
+(Ip
+
+
+===== P2 PAGE 5 =====
+
+: 5
+[ 2 A gift shop sells two types of fruit hampers, A and B.
+[ The contents of each type of hamper are given in the table below.
+0
+| HamperB | 4 | 6 [ 5 | 1
+| . Lo . 3420
+The information given is represented by the matrix P= 4651)
+The cost price of an apple, an orange, a pear and a pineapple are $0.50, $0.45, $0.60 and $1.80
+respectively.
+(a) Write down a 4 x 1 matrix Q to represent the cost price of the fruits.
+0.50
+0.4%
+-&0
+Answer Q =... Ray bss [1]
+(b) Calculate PQ. 0.50
+2 © 0.4%
+Pa ( 3 4 ) ‘
+4 ts /[000
+1:8
+4.50 ( 4 =
+( 9.50 Answer PQ = ......\ ds So—— J
+(¢) Describe what is represented by the elements of PQ.
+y de res; ctivel,
+Tine total cost pri of fruits in Howper A and & Tipe
+(d) Given that R=(30 20), calculate RPQ.
+(30 >9) +50) = (325)
+9.59
+(35%)
+Answer RPQ =... liven [1]
+(e) Suggest a meaning for the iplarugtion represented by the matrix RPQ.
+20 Mowe & .
+[Turn over
+
+
+===== P2 PAGE 6 =====
+
+i :
+3 The upper part of a solid wooden right circular cone was cut off leaving the frustum illustrated
+in the diagram.
+The top and the base of the frustum are horizontal circles with radii x cm and 6 cm respectively.
+The slant height AB of the frustum is 7 cm.
+A cylindrical hole of radius 2 cm is drilled centrally through the frustum.
+(*)
+( :
+H IY = [2
+7 cm x \ i»
+: i.
+{oe \ 6
+o_o :
+€-2
+(a) Show that the slant height of the cone which was cut off is pe cm.
+. -x
+Answer Let Hao slant eng Wt of
+tue tone be yu. 9
+By similar figures ,
+Nox 7
+y+1 4
+b y = xy +7 A
+6 y- 1y = Tx
+SLE) = 7X 2)
+(b) The curve surface area of the cone which was cut off is 180 em?.
+B 22; 2
+Taking © === show that 11x” +90x-540=0.
+Answer mr A = 180 :
+a2 TX ew | 0
+—_— bs — =
+7 ) ( 6 =)
+fc
+2
+= = = 180 °7 4
+Be igo (6-2) Isyy = 7560 -1260x
+1
+Sox? = jogo — 1&0 ara 3780 (30x
+225*+4 180 x — 1080 =0 \
+~ 1) x* + 40 © — S40 =0 ( shown |
+[2]
+
+
+===== P2 PAGE 7 =====
+
+3 7
+(¢) Solve the equation 11x” +90x—540 = 0, giving your answers correct to three decimal
+BE 4=\\, b=4q0, ¢=-540
+« = —90 2 |90% = 4 (1) (-s4%0)
+2)
+= ~904 [21860
+A a
+= 4.02244 or -12.720425897
+= 4.022 or -—j2204 (2 dp.)
+Answer x= Er or 2204 [4]
+(d) Hence, calculate the volume of the cylindrical hole.
+fy [
+h ; 7 ob PythagemaliThumren
+rx B® “TUTE (C40)? |
+6.7147
+.ovol. of eqlindsi eal hole
+= Tc* Wh p
+= (2) (6.7147) |
+= gy. 3794
+= 84.4 em? (35.4)
+Answer URL 2 sD cm? [3] :
+[Turn over
+
+
+===== P2 PAGE 8 =====
+
+8
+4 (a) The cumulative frequency curve shows the height of 400 students in school 4.
+| 400
+300
+Cumulative
+frequency
+200
+100
+0
+140 150 160 @ 170Q2%5 180 190
+Height (x cm)
+Find
+(i) the median height,
+Qa = 12 om Answer NLL. em [1]
+(ii) the interquartile range.
+Qa - Q, = 176-1464
+= [O tna Answer RT cm [2]
+(b) The box-and-whisker plot shows the height of 400 students in school B.
+140 150 160 170 180 190
+Height (x cm)
+(i) Write down the median height of the students in school B.
+76
+BR SRR 8  § |
+(ii) Find the interquartile range.
+R~—Q, = 178 — ITM 1
+= 7 em Answer isisesiviesnaniiisssiss.issy om [1]
+
+
+===== P2 PAGE 9 =====
+
+’ 9
+(¢) Olivia commented that the students in school 4 are shorter than the students in school B.
+Do you agree? Give a reason for your answer.
+Yes, | agree, becomse the wadiom Laight of chdacts
+in School A 1S [omer Flan that of 8 ( 172 em < 174 )
+5 Speed in m/s
+15 a
+5 Im) 5658 Time in seconds
+The diagram shows the speed-time graph of a despatch’s journey. Calculate
+(a) the retardation of the car when t= 13,
+= v—-\M
+[28 SSE = retorelation
+= jo=i5 = 0.5 ws
+“io
+= -0-5 wl ¢ Answer SE m/s? [2]
+(b) the speed of the car when # = 13,
+let +e speed be x ms.
+2x =|
+xs 20-5
+13-10
+x —is = 1S
+Sox = 13.5 3.5
+WC 1 XT —————————————— 1 1 |
+(¢) the total distance travelled in the first 20s. \ (
+total distant = + (103015) + 5 (10415)( 10)
+= 75 + 25
+= >00wM
+200
+|X V1 C————————————— {|
+[Turn over
+
+
+===== P2 PAGE 10 =====
+
+10
+. i. 3 — (5
+6 (a) The point 4 has position vector 3) and a=)
+(i) Find the coordinates of point B.
+- = —
+0&4 = 0A + AR
+= 13 -5
+- (5 ) + oh)
+] =)
+3
+Sok is (=, 5). —-) 5
+17 TL GR-pnp—p—— 1 PA |
+(i) Find [4B].
+-
+[7] = Jt-9)+ (»*
+= J cq
+= 3 umts
+— 3 ”
+Answer [4B] = oT units 2]
+(b)
+[28
+[+4
+\
+24a a
+8 ;
+b
+ABCD is a quadrilateral in which BC=a, BA=b and BC=3 4D.
+(i) Express, in terms of a and/or b,
+NE SP
+@ AC, AC = AB TBC
+= —b + a
+a-b
+QL |
+
+
+===== P2 PAGE 11 =====
+
+| d 11
+Jc = —>
+) BD. BD = pA t+ AD
+= b t3a
+b + 3a
+Answer iiassdinssssissisasision [1]
+(ii) The point £ is on AC such that 44E = 3AC. AE =2 AC
+Prove that B, E and D lie in the same straight line.
+- - =
+Answer BE = gh + AE
+- b 2 -
+= kb +Z AC
+=b+3(a-b)
+= 3
+=b+Fa-3b
+2.17 = 3
+BE ~Z BD Fogg bby @
+— 2
+BD = 48E =z (k+3a)
+I, -
+DE = 3B = di 5
+SRE :
+F=-28) =, =
+~ _.. ee // eb, Jn
+Eo 2268 ped since Bis a commen pict, let line
+B,E and D pe inthe some staygitl 3)
+(iii) Find the numerical value of
+area of ACEB = [4 =
+® area of AAED’ & )
+ae
+a |
+al
+Answer CR [1]
+) FaofACEB + XERxh
+area of ACED ~~ < x ED x
+— \
+3 LL
+3
+PL 7 ——————— | |
+[Turn over
+
+
+===== P2 PAGE 12 =====
+
+|
+12 '
+7
+North i
+N
+A North
+41 50 B
+(CRESS
+Poel 147°
+(6 ;
+204 aN,
+5
+339 >)
+/ 300°
+D
+The diagram shows a plot of land with points ABCD on level ground.
+The bearing of 4 from D is 033° and the length of AD is 204 m.
+Bis 50 m due east of A.
+Angle ABC = 142° and the bearing of 4 from C is 300°.
+(a) Find the bearing of C from 4.
+180° — 60° 0°
+= 20° Answer sibs. [1]
+(b) Find angle BAC.
+(20°-90°
+©
+= B 20
+= 30 ARSWEP ovesesimsssissssmsssssons [1] |
+(¢) Show that the distance AC is 221.19 m, correct to two decimal places.
+Answer LBRCA = 180° 142° 30° (£ Sum of s)
+= g&°
+AC _ SD
+Sin 142° em &°
+°
+AC = 5D Sin 142
+en §°
+= 521. l§£T
+= 329.19 ( 2p.)
+[2]
+
+
+===== P2 PAGE 13 =====
+
+| : 13 |
+(d) Find the area of triangle ABC.
+Area of ApBc = + (sp)(221.19) en 30°
+= 57464. 87S
+= 2700 tut (354)
+Answer LIke [2]
+(¢) Find angle DAC.
+Zhe = 33°+ 60° (alt Ls)
+= 20
+; 43°
+Answer sasgsasisnrsssamnsisani, [1]
+(f) Hence, calculate the distance DC.
+0
+pe? = 204% 4 220.19 = 2(204) 221.19) tos 93
+= q9s52(4.10...
+DIG = Jas2e4.0
+= 208.L48&
+= 209 m
+309
+P1117) eR . | ] |
+(© A tree, 15 m tall, stands vertically at A.
+Find the angle of elevation of the top of the tree from D.
+let the angle of elevation be ©.
+= St
+jrenpas 204
+0 = 4.205357
+= 42° Cldp.)
+P 42° |
+FC; 3 TT SRR——————— |
+[Turn over
+
+
+===== P2 PAGE 14 =====
+
+8
+(a) ge . 14
+oC your answer pr y=242 |
+EN ERE CT lied
+RE EIT Se
+® Onth 7 | 0s | 03 | os | 7
+y - ¢ grid, draw the graph 5
+- aphof y=
+. Es
+fb . x 6 for1<x<
+Siac HHH EHH
+TEE §
+{isang EH i dE HIE feed HE
+HE saa
+iii SE FH) oo
+BY - Ha
+HHH Hl fii Ei . gil
+Sa i Ha HEE HA i
+JE . =
+EEE \ Titi fie Hilt =
+dime SHEE
+| HEE
+| EEE
+con a
+A feted
+itis ee +
+T |
+HFEF Sn :
+HH
+
+
+===== P2 PAGE 15 =====
+
+: [A 1
+| VY=T x t12x" —f
+| 15 4 2
+| EEN Ax 12 _ _ :
+¥ "3 * 7 C
+oo, . + 1.43
+(¢) By drawing a tangent, find the gradient of the graph of y=%r=-6 when x= 1.5.
+Xx
+| L1.5,2¢4) , (2,0)
+9 tiewt = 24-0
+5-2
+= 4. —4.
+& Answer Po Ae Phen [2]
+(d) Use your graph to find the solutions of the equation TL intherange <x <7.
+x
+2
+x [Zo
+“tt BT
+2
+pd Zz _ = J7—
+Zo4 AL -t 7-4
+y=
+Answer x= J CT: or E3 [2]
+(¢) (i) On the grid in part (b), draw the line y= for 0sx<7. [2]
+Ruled stright [ne Yon (0,0) to (7, 3.5)
+(ii) The x-coordinates of the points where be Soe intersects the curve are the solutions
+of the equation x* + Ax* + Bx+72=0.
+Find the value of 4 and the value of B.
+x’ 2 _ LE = x
+Pl >
+3 i |
+x> +72 -3bx = 32
+N 2 Y -
+231% 34x 472=0
+EW Eh |
+R=-3b
+-3
+PL XT NR —————
+B= 3b [3]
+[Turn over
+
+
+===== P2 PAGE 16 =====
+
+16 i
+9 The diagram shows a circle ABCDE. T
+The tangent at D meets the chord AB produced at 7.
+Angle TBC = 69°, angle ADB = 24° and angle CED = 21°.
+(a) Find angle CBD, giving a reason for your answer.
+)
+Angle CBD = es RO because
+angles in tor cme togment py)
+(equal)
+(b) Explain why 4D is a diameter of the circle. B ET TN
+Answer \ 27 Bh
+L ABD = 180° — £9°-21°
+= 90° 5
+D Ln a sewacirede A \/
+=> AD is a diam~etor 7
+of the ciredl
+[2]
+(¢) Find, giving reasons for each answer,
+(i) angle BCD,
+L BAD = 180°=4p°-24° ( Lswm of 4) |
+Ee Qes + )
+SL BUS = (80° = 66° (4s in opposite (ggranTs
+= 14°
+o !
+Answer LL 2]
+(ii) angle BTD. ;
+2 ADT = 90° ( tangent € roalivs )
+CL LBTD = 180° 66°-90° ( 4 sum of 2)
+= >4°
+24°
+
+
+===== P2 PAGE 17 =====
+
+| ' 17
+10 In the diagram, O is the centre of a circular poster ACBQ of radius 20 m.
+APB is an arc of a circle centre C and radii AC and BC. C
+COQ is a diameter of the circular poster ACBQ.
+COQ bisects AB at M. alfa
+If angle ACB = 1.4 radians,
+(a) show that AC is approximately 30.594 m, Q
+Answer ( A Ens, B
+= NX 7
+sA0B = 2(1-4) Lat cestraz 2g \%; | 4
+= a8 Lams ot Cirtn frase) 0,77
+Qo
+ZL ADC = TC — (22)
+: chrosaldt Ine)
+= (r-1.4) elias (acy. £9 on a STradg
+ACY = 50% +4 20" — 2(20) (20) tos (T—1.4) or Sire Pula
+= 93s 137 20 BE
+sin 07 gin (m-h4 )
+Soac = Ja3s.9727
+AC = 2081 (m-1.4)
+= 30.5936 sin 07
+= 30.59% m (shown) = 35.592607
+=30.59¢)
+(b) calculate the perimeter of the shaded region,
+Perimeter = orc lagth APB + a lagth ARB |
+= (30.594 x[.4) + (50x 2.8)
+_ 42.331b st,
+= 98.83)
+= 48.8 (3s ? ) Answer gE m [3] !
+(c) calculate the total cost of painting the sector OAQB if the painting cost is $0.50 per square
+metre.
+i 2
+Area of sector 0ARG = = (20) (2-8) f
+= 5L0 mm
+=. Totad cost = $0.50 x 500
+= $290
+Answer $ 280 3]
+[Turn over
+
+
+===== P2 PAGE 18 =====
+
+[
+18
+11 In an effort to raise funds for the needy, your school is organising a charity cafe.
+Your class decides to make sugar cookies to sell at the charity cafe.
+Sugar cookies are packed into clear plastic bags used for food packaging.
+Each plastic bag (or packet) contains 6 cookies.
+Information that your class needs is as follows.
+List of ingredients for Sugar Cookies (makes 48 cookies)
+350 g all-purpose flour
+1 teaspoon baking soda (7 g) Ea
+130 g butter, softened eT
+300 g caster sugar LA
+1egg “
+Cost of relevant items sold at two different local supermarkets
+(exclusive of 7% GST)
+wo Supermarket A | Supermarket B
+H/Family all-purpose flour
+(454 8) $0.95 $0.90
+$1.85 $1.90
+H/Family all-purpose flour
+(I'kg)
+2for$3.50 = | Not on offer
+Kings baking soda
+(150 g) $1.15
+$4.80 $4.80
+TST butter
+(250 2) Bum 7 = $48 |
+2 for $7.00 2 and get $2
+Caster sugar
+Eggs
+(10 per pack) $1.65 $1.50
+Eggs g
+®0 per pack) gt wrgfphle as
+Clear plastic bag for packaging $8.43
+(100 per pack) : ( 3
+
+
+===== P2 PAGE 19 =====
+
+J 19 |
+| Your class estimates that they will be able to sell 480 packets of sugar cookies.
+| (a) How much flour does your class need?
+Give your answer in kilograms.
+Toted nude of cookies = 480 x(,
+= 2880
+2 Total no. of botches of cookies _ 2880 _
+! ge — £0
+Prounct of Flow needed = 60 x 3504
+= 210004
+= 2 kg
+Your class decides to buy the ingredients for making sugar cookies, and the plastic bags, from
+either Supermarket A or B, whichever is cheaper.
+(b) Which supermarket should your class buy the flour from?
+Show your calculations and reason clearly.
+‘ 4 47 x» $0.90
+Answer 0 prs »$ 018 ‘8 =4ys.20
+Spar market Agee Supemotet B
+(asyg, . 19993 4095 =42.09/, 10009 40.90 = $/.9¢/
+pace) 454 J Lug ~ 4 =
+To IPI TT - oy Er
+jr p $1.95 [kg $190 /kg
+> Lor $3.5D * each # [775 / kg No offer
+offer |
+My class should buy Plow SANA Supermortet A
+at > for $3.50, as Har wait pri 2 is the cheapest.
+or
+buy Flows from Spar worl Boas $26.96 isda
+lowest Atak amend (32:50(10) 4 $180 30.05) .
+w 6ST = Ru2a¢
+[Turn over 4
+
+
+===== P2 PAGE 20 =====
+
+20 '
+Your class needs to decide on the selling price for one packet of sugar cookies.
+They must make sure that they charge enough money to cover the costs of the ingredients and
+the plastic bags for 480 packets, and to make at least $1000 to donate to charity.
+(¢) Suggest a sensible amount for your class to charge for a packet of sugar cookies.
+Show working to justify your decision. [71
+Answer
+Total no. of Iudches of baking = to
+lngredients required toa ky Pflowr
+7x40 = 420 q baby soda,
+1304 *b0 = 780029) butter ,
+3009 x60 = |& 0009 easter Sug,
+| xbD = LO egs ,
+and 480 plastic bogs |
+Lost of Plowr fom A = ($3.50 x0 kg) + ($1.85 x1 kg)
+= $30.85 $394245 w 4ST
+Cost of ba¥rg oda froma A= 3 x $0.0
+(222: = ok & Buaits) = $2.40 §2.5%8 w Gs]
+15° 9 (b x» $695
+32
+Cost of butte fw B = Zxdias |
+(alles, = 31% x 230s) = $111.20 $118.984 w G51
+250 9
+lost of caster sugoc fom Fork = 36 “1 |
+o = $59. 40 443.558
+[... 36 warts) —_— as
+£009
+= 2 x42.9% i
+lost of e035 four & -
+(L023 sspacks) = $7.70 48.239 well
+30 pes pack
+Cost of plastic bags foe & = 5x $715
+- é t
+(430 = 4.8 2 spuks) = H3875 fund
+|o0
+
+
+===== P2 PAGE 21 =====
+
+[| ~ 21 |
+(Candidates may continue to answer part (c) on this page.)
+Tetnd amount before 6ST = $253.30
+Total amount afte GIT = 25320 x [07
+= $271.03)
+Minimum amount +o make
+“to olonate do charity = Elooo
+£127.02]
+EA price pe packet = (#1000 +4570.031) =~ 480
+= $2. 44194128
+= $2.65 (necvest wy)
+A Semsible mound to chore
+ys one. packet woulol be $3.

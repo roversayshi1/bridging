@@ -1,0 +1,24 @@
+14
+16 (a) Find the prime factors of 35000, giving your answer in index form.
+35000=2°x 5'x 7 [B1]
+Answer iii [1]
+(b) Two integers P and Q, can be written as products of prime factors.
+P=a’xb'x7 Q=axb"'x7
+The lowest common multiple (LCM) of P and Q is 35000.
+(i) Writedown thevalueof a, band c.
+35000=2°x5x 7
+P=a’xb'x7
+Q=axb"'x7
+a=2 [B1]
+b=5, [B1]
+c+1=4
+&©=8 [B1]
+Answer a=...
+(ii) Find the highest common factor (HCF) of P and Q.
+P=2*x5'x7
+Q=2x5'x7
+2 HCF=2x5'x 7=1750 [B1]
+Answer iii [1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

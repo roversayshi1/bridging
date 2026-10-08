@@ -1,0 +1,271 @@
+Title Mathematics (Solving Quadratic Equations)
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 20/3/2018
+Mathematics Terms
+“Root”, “Solution” and “Answers” means the same thing in this topic. They are a set of
+numbers that can satisfy a specified equation.
+Quadratic Equation – an equation for which the highest power within the equation is
+2.
+LHS – Left-hand Side
+RHS – Right-hand Side
+“Find Solution” and “Solving” mean the same thing in this topic.
+Identifying a quadratic equation
+Based on the above definition of a quadratic equation, a quadratic equation is any
+equation that is, in the following form or can be re-arranged in the following form:
+𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0
+Where 𝑎 ≠ 0
+[If 𝑎 = 0, the equation effectively reduces to 𝑏𝑥 + 𝑐 = 0, which is linear, not quadratic.]
+Three approaches used to solve quadratic equation I am going to teach
+• Factorization/Cross Method (Calculator Tips and Tricks Provided as well)
+• Quadratic Formula
+• Completing the Square Method
+
+-- 58 of 145 --
+
+Factorization/Cross Method
+Algebraic Identity Approach
+Only work when the given equation resembles any 1 of the 3 algebraic identity provided
+as below.
+• 𝑎2 + 2𝑎𝑏 + 𝑏2 = 0
+• 𝑎2 − 2𝑎𝑏 + 𝑏2 = 0
+• 𝑎2 − 𝑏2 = 0
+As all the expression on the LHS (Left-Hand side) of the equation can be factored into
+the following:
+• 𝑎2 + 2𝑎𝑏 + 𝑏2 = (𝑎 + 𝑏)2
+• 𝑎2 − 2𝑎𝑏 + 𝑏2 = (𝑎 − 𝑏)2
+• 𝑎2 − 𝑏2 = (𝑎 + 𝑏)(𝑎 − 𝑏)
+Basic Demonstration
+Example 1
+Solve 𝑥2 + 6𝑥 + 9 = 0
+Noting how the above equation resembles the expression:
+𝑎2 + 2𝑎𝑏 + 𝑏2 = (𝑎 + 𝑏)2
+As 2𝑎𝑏 = 2(𝑥)(3) = 6𝑥
+Factorize the LHS of the equation into
+𝑥2 + 6𝑥 + 9 = (𝑥 + 3)2
+(𝑥 + 3)2 = 0
+(𝑥 + 3)(𝑥 + 3) = 0
+𝑥 + 3 = 0 𝑂𝑅 𝑥 + 3 = 0
+Final Answer: 𝑥 = −3
+
+-- 59 of 145 --
+
+Example 2:
+Solve 𝑥2 − 8𝑥 + 12 = −4
+In this case, the RHS of the equation isn’t zero, so, we have to rearrange the equation in
+the following way:
+𝑥2 − 8𝑥 + 12 + 4 = −4 + 4
+𝑥2 − 8𝑥 + 16 = 0
+We can tell the above expression on the LHS of the equation resembles the following:
+𝑎2 − 2𝑎𝑏 + 𝑏2 = (𝑎 − 𝑏)2
+As (−2𝑎𝑏) = −2(𝑥)(4) = −8𝑥
+Factor the LHS of the equation into the following:
+𝑥2 − 8𝑥 + 16 = (𝑥 − 4)2
+(𝑥 − 4)(𝑥 − 4) = 0
+𝑥 = 4 𝑂𝑅 𝑥 = 4
+Final Answer: 𝑥 = 4
+Example 3:
+Solve 𝑥2 − 64 = 0
+We can tell the above expression on the LHS of the equation resembles the following:
+𝑎2 − 𝑏2 = (𝑎 + 𝑏)(𝑎 − 𝑏)
+𝑎2 = 𝑥2
+−𝑏2 = −64
+Thus, the expression can be factored in the following:
+𝑥2 − 64 = (𝑥 + 8)(𝑥 − 8)
+(𝑥 + 8)(𝑥 − 8) = 0
+𝑥 + 8 = 0 𝑂𝑅 𝑥 − 8 = 0
+Final Answer: 𝑥 = −8 𝑂𝑅 𝑥 = 8
+
+-- 60 of 145 --
+
+Cross Method (Using of Calculator Quadratic Equation Solver Function to Solve
+Quadratic Equations)
+Look out for options that would allow you to solve any quadratic equations by keying in
+the values of 𝑎,𝑏 and 𝑐.
+In the case of FX-97 SG X, press the following button in the following exact order.
+Press [Menu] Button and Press [5] and you should see the following on the screen.
+Once you are prompted, press [2] and the following should appear.
+As a quadratic equation is widely understood to be a polynomial with a degree of 2,
+implying the highest power in the equation is 2, we press [2] to indicate we want to
+solve a polynomial with a degree of 2 and the following just below should appear as
+follows.
+Troubleshooting Tips (Just in case):
+If you get a “Math Error” message, check the following
+• Did you input 𝑎 = 0? [Quadratic Equations in the form of 𝑎𝑥2 + 𝑏𝑥 + 𝑐 cannot
+have 𝑎 as 0 by definition.]
+• Did you accidentally input other items into the above-mentioned fields?
+If you get a “Syntax Error” message, do check the following
+• Did you accidentally keyed non-numbers into the calculator quadratic equation
+solver?
+
+-- 61 of 145 --
+
+Example 4:
+Solve 𝑥2 − 7𝑥 − 330 = 0
+After having keyed in the values of 𝑎, 𝑏 and 𝑐 into the calculator quadratic equation
+solver which is 1, −7 and −330 respectively, I have to demonstrate that the quadratic
+equation above can be solved using cross method factorization technique as drawn on
+right side below.
+You can also see the following as your calculator input as solved by
+the quadratic equation solver.
+After confirmation of the input values, press the [=] key the get the first root of the
+quadratic equation, which is shown as below.
+Press the [=] sign key again to get the second root of the quadratic equation which is
+shown as below.
+𝑥 −22
+𝑥 +15
+𝑥2 −330
+−22𝑥
++15𝑥
+−7𝑥
+
+-- 62 of 145 --
+
+Quadratic Formula Approach
+As the name suggest, quadratic formula is a formula based method used to solve
+quadratic equation, it is (sort of) derived from completing the squares which I will share
+with you in the subsequent pages.
+In any quadratic equation that you are trying to solve, there can be 2 real and distinct
+roots, equal roots or no real roots, this would depend on the discriminant 𝑏2 − 4𝑎𝑐
+(which I will not further discuss here as discriminant related problems appear more in
+Additional Mathematics question papers, as compared to Elementary Mathematics.)
+𝑥 = −𝑏 ± √𝑏2 − 4𝑎𝑐
+2𝑎
+Example 5
+Solve 6𝑥2 + 7𝑥 − 15 = 0
+In this case, you are going to substitute the quadratic formula with coefficient values
+shown in the equation.
+𝑥 = −𝑏 + √𝑏2 − 4𝑎𝑐
+2𝑎 𝑂𝑅 𝑥 = −𝑏 − √𝑏2 − 4𝑎𝑐
+2𝑎
+𝑥 = −7 + √72 − 4(6)(−15)
+2(6) 𝑂𝑅 𝑥 = −7 − √72 − 4(6)(−15)
+2(6)
+𝑥 = −7
+12 + √409
+12 𝑂𝑅 𝑥 = − 7
+12 − √409
+12
+𝑥 = 1.10 𝑂𝑅 𝑥 = −2.27 (3𝑠𝑓)
+
+-- 63 of 145 --
+
+Example 6:
+Solve 𝑥2 + 𝑥 + 1 = 0
+𝑥 = −1 ± √12 − 4(1)(1)
+2(1)
+𝑥 = −1+√12−4(1)(1)
+2(1) OR 𝑥 = −1−√12−4(1)(1)
+2(1)
+Situation Expected Behaviour on FX-97 SG X
+Calculator
+Solving the equation by keying in manually
+one by one without using the quadratic
+equation solver in your FX-97 SG X Calculator.
+(i.e. keying in the quadratic formula into the
+calculator and replacing terms with numbers
+specified by the question.)
+Solving the quadratic equation by using the
+quadratic equation solver provided by the
+calculator.
+(As seen from the above screenshots,
+we get numbers which are in the
+form of 𝑎 + 𝑏𝑖, which implies that
+there are no real roots that can
+satisfy the above quadratic equation.)
+Respond to both situations above by indicating that there are no real roots.
+Final Answer: No real roots.
+
+-- 64 of 145 --
+
+Completing the squares approach
+Example 7
+Solve 𝑥2 + 7𝑥 + 9 = 0
+Rearrange equation into the following format:
+(𝑥 ± ℎ)2 ± 𝑘 = 0
+Which means you have to do the following steps:
+Add (𝑐
+2)2
+between 𝑏𝑥 and 𝑐 and Subtract (𝑐
+2)2
+after 𝑐,
+which can be shown as follows:
+𝑥2 + 7𝑥 + (7
+2)
+2
++ 9 − (7
+2)
+2
+= 0
+(𝑥 + 7
+2)
+2
+− 3.25 = 0
+(𝑥 + 7
+2)
+2
+= 3.25
+(𝑥 + 7
+2) = ±√3.25
+𝑥 + 3.5 = √3.25 𝑂𝑅 𝑥 + 3.5 = −√3.25
+𝑥 = −√3.25 − 3.5 𝑂𝑅 𝑥 = √3.25 − 3.5
+𝑥 = −5.30 𝑂𝑅 𝑥 = −1.70 (3𝑠𝑓)
+
+-- 65 of 145 --
+
+Example 8
+Special case of Completing the Square where 𝑎 > 1 or 𝑎 < −1
+Solve 7𝑥2 − 22𝑥 + 10 = 0
+We need to first, divide LHS of the equation by 𝑎.
+7𝑥2 − 22𝑥 + 10
+7 = 0
+𝑥2 − 22
+7 𝑥 + 10
+7 = 0
+In this case, we have to add ( 𝑐
+2𝑎)2
+between 𝑏
+𝑎 and 𝑐
+𝑎 and subtract ( 𝑐
+2𝑎)2
+after 𝑐
+𝑎.
+𝑥2 − 22
+7 + (
+22
+7
+2 )
+2
++ 10
+7 − (
+22
+7
+2 )
+2
+= 0
+𝑥2 − 22
+7 + (22
+14)
+2
++ 10
+7 − (22
+14)
+2
+= 0
+(𝑥 − 22
+14)
+2
+− 51
+49 = 0
+𝑥 − 22
+14 = ±√51
+49
+𝑥 = √51
+49 + 22
+14 𝑂𝑅 𝑥 = −√51
+49 + 22
+14
+Final Answer:
+𝑥 = 2.59 𝑜𝑟 𝑥 = 0.551 (3𝑠𝑓)
+
+-- 66 of 145 --

@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://emath-marker.local/schemas/mark-request.schema.json",
+  "title": "MarkAnswerRequest",
+  "type": "object",
+  "required": ["studentAnswer", "canonicalAnswer", "questionType"],
+  "properties": {
+    "studentAnswer": { "type": "string" },
+    "canonicalAnswer": { "type": "string" },
+    "questionType": {
+      "type": "string",
+      "enum": [
+        "numeric",
+        "fraction",
+        "decimal",
+        "percentage",
+        "ratio",
+        "algebraic-expression",
+        "equation",
+        "coordinate",
+        "set",
+        "interval",
+        "matrix",
+        "text-exact"
+      ]
+    },
+    "acceptedAnswers": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "answerConstraints": {
+      "$ref": "question.schema.json#/properties/answerConstraints"
+    }
+  },
+  "additionalProperties": false
+}

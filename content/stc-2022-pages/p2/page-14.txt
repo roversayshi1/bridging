@@ -1,0 +1,25 @@
+14
+6 (b)
+B
+f
+/
+i
+/
+;
+i
+/
+i
+i
+i
+%
+A Nem iN
+Na
+A, B and C are points on a circle with centre O and radius 10 cm.
+BA = BC and angle AOC is 2.4 radians.
+[0] Calculate angle COB, in radians, in terms of 7.
+Answer ................. radians [1]
+(ii) Calculate the length of major arc AC.
+Answer .....................cm [2]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

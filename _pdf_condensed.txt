@@ -1,0 +1,2400 @@
+
+##### 01.txt #####
+Title Basic Algebra – Algebraic Manipulation
+Author AprilDolphin – Lim Wang Sheng
+Date 2/2/2026
+Algebra is basically
+• Representing known or unknown quantities and numbers with letters and
+symbols
+• Performing mathematical operations using letters and symbols, together with
+numbers
+Without algebra
+• Textbook would be ridiculously thick and heavy
+• Certain statistical analysis will be virtually impossible to conduct as the person
+conducting the analysis will need to make endless amount of mathematical
+explanation
+• Certain fields of Mathematics, dependent on algebra, cannot exist as well
+Tips to students who are new to basic algebra
+• Please name your unknowns systematically, so that you won’t be confused.
+• Never use letters that can be easily confused for something else as shown in the
+below table (Unless the question specified them as part of the question or insist
+that you must use them):
+Common Letters to try Avoid
+Using
+Reasoning/Explanation
+𝑄
+(Upper Case Only)
+Upper case letter 𝑄 can
+be confused with “𝑂” or
+Zero (0)
+𝑂, 𝑜
+(Lower Case and Upper Case)
+Upper case letter 𝑂 can
+be confused with zero
+(0).
+Lower case letter 𝑜 can
+be confused with zero
+(0).
+𝐽, 𝑗
+(Lower Case and Upper case)
+Upper case letter 𝐽 can
+be confused with 𝐿 and 𝐼
+Lower case letter 𝑗 can
+be confused with 𝑖
+𝑙
+(Lower Case only)
+Lower case letter 𝑙 can
+be confused with 𝑖 or
+one (1)
+𝐼, 𝑖
+(Lower case and upper case)
+Upper case letter 𝐼 can
+be confused with lower
+case letter 𝑙
+Lower case letter 𝑖 is
+typically reserved for a
+specific use at higher
+level Mathematics
+
+-- 2 of 145 --
+
+𝑒
+(Lower Case Only)
+Lower case 𝑒 is typically
+reserved for a specific
+use at higher level
+Mathematics
+𝑆, 𝑠
+(Upper and Lower case)
+Upper case letter 𝑆 can
+be confused with
+number five (5)
+Lower case letter 𝑠 can
+be confused with the
+number five (5)
+Basic Operands in Algebra
+Expression English Meaning
+𝑥 + 4 Add 4 to 𝑥
+𝑥 − 𝑦 Subtract 𝑦 from 𝑥
+6𝑚 Multiply 𝑚 by 6
+𝑚
+𝑛
+Divide 𝑚 by 𝑛
+Basic Operands in Algebra – Index Notation
+Expression English Meaning
+𝑘5 = 𝑘 × 𝑘 × 𝑘 × 𝑘 × 𝑘 Write 𝑘 five times in a row and multiply
+all the written values of 𝑘 together
+𝑚−4 = 1
+𝑚 × 𝑚 × 𝑚 × 𝑚
+1 divided by 𝑚4, where 𝑚4 is 𝑚 written
+four times in a row and multiplied
+together
+
+-- 3 of 145 --
+
+Example 1.
+Evaluate the following expression
+𝑥 + 7 + 3𝑥 + 4
+= 𝑥 + 3𝑥 + 7 + 4
+4𝑥 + 11
+Let’s convert it to models and see how they correlate
+𝑥
+4
+3𝑥
+7
+Sum up all the values
+represented by the
+models and you should
+get the same expression
+How algebra is translated into models in Example 1.
+1. 1.There are four boxes of the unknown 𝑥, which equates to 4𝑥 when
+summed up.
+2. 2.There is one box of 7 and as well as one box of 4, hence adding up
+everything above, we get a total value of 4𝑥 + 11
+
+-- 4 of 145 --
+
+The above also, in a way, demonstrate the concept of “like” and “unlike” terms.
+In any algebraic addition and subtraction, only “like terms” can be added or subtracted
+in this way.
+2𝑥 + 3𝑥 = 5𝑥
+5𝑥 − 4𝑥 = 𝑥
+Arithmetic demonstration of concept:
+2𝑥 + 3𝑥 = 5𝑥
+Since 2𝑥 = 2 × 𝑥,
+We can pretend the value of 𝑥 is 5.
+In this case:
+2𝑥 = 2 × 5 and 3𝑥 = 3 × 5
+10 + 15 = 25
+The other way is true as well and valid:
+2𝑥 + 3𝑥 = 5𝑥 = 5 × 5 = 25
+
+-- 5 of 145 --
+
+##### 02.txt #####
+Title Basic Algebra – Changing Subject of Formula [Final Version]
+Author Lim Wang Sheng, School of Information Technology, Nanyang
+Polytechnic [Part of NYP Mentoring Club]
+Date 13/3/2018
+Realizing in my class, a lot of students have issues with algebra and I anticipate similar
+problems to occur with its slightly trickier counterpart, formula manipulation. I decided
+to write some materials for my own students to use. Due to involvement in public
+projects, I decided to publish this file through various people, hoping it will help other
+students as well.
+Definitions
+Changing Subject of Formula – Making an algebraic symbol in a formula (anything, from
+letters, symbols) appear as a standalone variable on the left-hand side of the formula.
+[Will be described in greater detail and will explain how my definition works]
+Notation used in this document
+Notation Meaning
+RHS Right-Hand Side of a formula
+LHS Left-Hand Side of a formula
+Important things to take note (Or be cautious about)
+1. Squares and Square Roots (Negative and Positive Answers are possible in some
+cases, will be demonstrated in the subsequent pages)
+2. (Rarely) If they specify the subject of formula should be a variable that only has a
+positive value (Example include, distance and speed), be aware that the negative
+value should be rejected in this case as distances and speed cannot have any
+negative signs.
+Explaining Point 1 in Greater Detail Using Arithmetic:
+Supposed we have the number “4” and we want to square root the number.
+√4 = 2 𝑜𝑟 − 2
+Both 2 and (−2) satisfy the requirement of being a square root value of 4,
+22 = 4 AND (−2)2 = 4
+
+-- 12 of 145 --
+
+Example 1:
+Make 𝑐 the subject of the formula.
+𝐸 = 𝑚𝑐2
+When they ask you to make 𝑐 the subject of the formula, they are asking you to
+rearrange the formula in a way that 𝑐 must appear as a single algebraic letter on the
+LHS of the formula.
+Steps Taken Explanation
+𝐸
+𝑚 = 𝑐2 Divide both sides by 𝑚 to isolate 𝑐2
+𝑐2 = 𝐸
+𝑚
+Change 𝑐2 to the LHS of the formula
+𝑐 = ±√𝐸
+𝑚
+Square rooting 𝑐2 on the LHS gives two
+possible values, positive and negative, on
+the right-hand side of the formula.
+
+-- 13 of 145 --
+
+Example 2:
+Make 𝒎 the subject of the formula
+𝐸 = 1
+2 𝑚𝑣2
+Steps Explanation
+2(𝐸) = 𝑚𝑣2 Get rid of fraction by multiplying both
+sides by 2.
+𝑚𝑣2 = 2𝐸 Change sides of the formula
+𝑚 = 2𝐸
+𝑣2
+Divide both sides by 𝑣2 to isolate and get
+𝑚
+
+-- 14 of 145 --
+
+Example 3
+Make the b the subject of the formula (Not taken from physics, self-created)
+3
+𝑓 + 1
+𝑏𝑐 = 1
+𝑔
+Steps Explanation
+1
+𝑏𝑐 = 1
+𝑔 − 3
+𝑓 Isolate 1
+𝑏𝑐 from formula
+1
+𝑏𝑐 = 1(𝑓)−3(𝑔)
+𝑓𝑔
+Create a common denominator for RHS
+1
+𝑏𝑐 = 𝑓−3𝑔
+𝑓𝑔
+𝑏𝑐 = 𝑓𝑔
+𝑓−3𝑔
+When a fraction gets inversed on the LHS,
+the same applies to the RHS.
+Can be explained in the following
+manner:
+( 1
+𝑏𝑐)−1
+= (𝑓−3𝑔
+𝑓𝑔 )−1
+𝑏𝑐 = 𝑓𝑔
+𝑓−3𝑔
+𝑏 = (𝑓𝑔)
+𝑐(𝑓−3𝑔)
+Divide both sides by 𝑐 to isolate 𝑏 on the
+LHS
+
+-- 15 of 145 --
+
+Example 4:
+Make 𝑣 the subject of the formula.
+𝑡 =
+(
+𝑠
+√1 − 𝑣2
+𝑐2 )
+Steps taken Explanation
+𝑡2 = 𝑠2
+1 − (𝑣2
+𝑐2 )
+Removing any square root signs in the
+formula by squaring both sides of the
+formula
+𝑡2 (1 − 𝑣2
+𝑐2 ) = 𝑠2 Cross Multiply
+𝑡2 − 𝑡𝑣2
+𝑐2 = 𝑠2 Removal of brackets
+− 𝑡𝑣2
+𝑐2 = 𝑠2 − 𝑡2 Minus “𝑡2” from both sides
+−𝑡𝑣2 = 𝑐2(𝑠2 − 𝑡2) Cross Multiply
+𝑣2 = 𝑐2(𝑠2 − 𝑡2)
+−𝑡
+Divide both sides by −𝑡 to isolate and get
+𝑣2
+
+##### 03.txt #####
+Title Basic Algebra – Simple Inequalities
+Author AprilDolphin – Lim Wang Sheng
+Date 5/2/2026
+Symbols Meaning of Symbols in English
+> Strictly Greater Than
+< Strictly Less Than
+≥ Greater Than or Equals To
+≤ Less Than or Equals To
+Example of Usage as Follows
+Example Meaning in English
+𝑥 < 8 𝑥 is less than 8
+𝑛 > 3 𝑛 is greater than 3
+𝑔 ≥ 12 𝑔 is greater than or equals to 12
+𝑡 ≤ 7 𝑡 is less than or equals to 7
+If you want to remember how the inequalities signs are being used and interpreted
+correctly, there are several methods on how to do so, I will show you how I remember
+them during lessons.
+Structure of Strict Inequality Symbols Significance and Reasoning
+> As you can see, the left side of the
+inequality has two sides converging to a
+single point, since two sides is greater
+than one point, this is definitely a greater
+than symbol.
+< As you can see, the left side of the
+inequality has a single point that diverge
+to two sides, since a single point is less
+than two sides, this is definitely a less
+than symbol.
+As for symbols that denotes non-strict-inequalities, you just have to remember to add
+another line below the strict inequalities symbol to make It a “greater than or equals to”
+or “less than or equals to” symbol.
+Structure of Non-Strict Inequality
+Symbols
+Significance and Reasoning
+≥ Greater than symbol with a line below
+which signifies “greater than or equals to”
+
+-- 18 of 145 --
+
+≤ Less than symbols with a line below which
+signifies “less than or equals to”
+Alternatively, inequalities signs can also be interpreted by their complements as shown
+below:
+Example Left to Right
+Interpretation
+Right to Left
+Interpretation
+𝑥 > 4 𝑥 is greater than 4 4 is less than 𝑥
+𝑔 < 7 𝑔 is less than 7 7 is greater than 𝑔
+𝑦 ≥ 14 𝑦 is greater than or
+equals to 14
+14 is less than or equals
+to 𝑦
+𝑚 ≤ 6 𝑚 is less than or
+equals to 6
+6 is larger than or equals
+to 𝑚
+As a result, we can also have inequalities that looks like the following as well.
+Example Interpretation
+100 < 𝑥 < 250 𝑥 is strictly greater than 100 and 𝑥 is strictly less than 250
+(𝑥 has to be strictly between 100 and 250)
+7 ≤ 𝑛 < 29 𝑛 is greater than or equals to 7 and 𝑛 is strictly less than 29
+(𝑛 has to be between 7 and 29, with 7 inclusive)
+4 ≤ 𝑔 ≤ 16 𝑔 is greater than or equals to 4 and 𝑔 is less than or equal to 16,
+(𝑔 has to be between 4 and 16, with both 4 and 16 inclusive)
+8 < 𝑞 ≤ 27 𝑞 is greater than 8 and 𝑞 is greater than or equals to 27
+(𝑞 has to be between 8 and 27, with 27 inclusive.)
+10 > 𝑥 > 6 𝑥 is less than 10 and 𝑥 is strictly more than 6
+(𝑥 has to be strictly between 6 and 10)
+
+-- 19 of 145 --
+
+After showing examples of inequalities, I would like to share the rules to be followed
+when solving any inequality as part of any Mathematics questions.
+Rule Number 1:
+If you add, subtract, multiply or divide
+any values on one side of the inequality,
+the same operation will have to be
+applied to the other side of the inequality
+sign as well.
+Rule Number 2: The act of adding and
+subtracting any types of values on both
+sides of the inequality will not change the
+inequality sign
+Rule Number 3: The act of multiplication
+and division of positive values on both
+sides of the inequality will not change the
+inequality sign
+Example 1
+𝑚 + 5 > 10
+𝑚 + 5 − 5 > 10 − 5
+Example 2
+𝑛 − 6 < 12
+𝑛 − 6 + 6 < 12 + 6
+Example 3
+2𝑥 ≥ 15
+2𝑥
+2 ≥ 15
+2
+Example 4
+1
+2 𝑥 > 8
+1
+2 𝑥(2) > 8(2)
+Rule Number 4: The act of multiplication
+and division of negative values on both
+sides of the inequality will change by
+flipping* the inequality sign.
+(*By “flipping”, we meant the inequality
+sign will change according to the
+following rules.)
+Rules of flipping when multiplication and
+division of negative values are concerned:
+" < " gets flipped to " > "
+" > " gets flipped to " < "
+"≥" gets flipped to “≤”
+"≤" gets flipped to "≥"
+Example 5
+−2𝑞 < 10
+After dividing both sides by −2 we get
+𝑞 > 5
+Example 6.
+− 1
+4 𝑥 ≥ 12
+After multiplying both sides by −4 we get
+𝑥 ≤ −48
+
+-- 20 of 145 --
+
+Proof of concept of inequalities applied
+
+##### 05.txt #####
+Title Percentages – Basics and Applications (Secondary 1)
+Editor Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+[This document is created through a joint collaboration with Liu Hui Ling,
+she wrote the original version several years ago, found a copy below her
+desk, sent to me a scanned copy and ask me to improve it if necessary.]
+Date 21/9/2018
+Concepts to Cover Include the Following
+• Percentage Basics
+• Practical Applications – Basic Applications
+• Practical Applications – Percentage Change
+• Practical Application – Reverse Percentages
+I want to start off by explaining what is required for this topic as introduction, the basic
+concepts you need to know are the following:
+• Percentages are numerator values within a fraction, for which the denominator is
+widely understood to have a value of 100.
+75
+100
+Basically, from my above illustration, I showed that percentages are just another form of
+fraction, just that the denominator is 100 and the way to express this fraction is
+replaced by the “%” symbol.
+From this, we will be able to further on understand other concepts and application.
+Numerator	Denominator
+As long as the
+denominator of the
+fraction is 100, you can
+copy the numerator
+value and write the
+fraction in the following
+format:
+75%
+Read as “75 Percent” in
+English.
+
+-- 31 of 145 --
+
+In Example 1, we have the following lesson objectives in mind.
+• Finding value of a percentage rate of a base value
+• Finding total value, of which a certain percentage gets added to the base value
+Basic Applications
+Example 1. [Applying Percentage to Get Final Value]
+Product ID QT-531A
+Name Potato Chips (1 Can)
+Pricing (Before GST) $7.20
+GST Rate 8.5%
+GST Tax (In $) (a)
+Pricing (After GST) (b)
+Fill in the above blanks.
+To do the above question, we need to understand the goal of the question itself, the
+question asks us to do the following
+• Find GST Tax Rate – (Deriving value of a percentage, given base value)
+• Find Pricing After GST – (Deriving final target value, given percentage.)
+(a)
+Formula for deriving value of percentage of a base value goes as follows
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡 𝑅𝑎𝑡𝑒 × 𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒 = 𝑉𝑎𝑙𝑢𝑒 𝑜𝑓 𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒
+In this case, the GST Tax is the “Value of Percentage”, while the percent rate is 8.5%
+Which can be written as the following statement
+GST Tax in $ as follows:
+8.5% × $7.20 = $0.612
+$0.612 = $0.61 (𝑁𝑒𝑎𝑟𝑒𝑠𝑡 𝐶𝑒𝑛𝑡𝑠)
+(b)
+Formula for deriving final value, when certain percentage of a base value gets added in.
+(100% + 𝑃𝑒𝑟𝑐𝑒𝑛𝑡 𝑅𝑎𝑡𝑒)(𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒) = 𝐹𝑖𝑛𝑎𝑙 𝑉𝑎𝑙𝑢𝑒.
+Pricing of Potato Chips after GST as Follows
+(100% + 8.5%) × $7.20 = 108.5% × $7.20 = $7.812
+$7.812 = $7.81 (𝑁𝑒𝑎𝑟𝑒𝑠𝑡 𝐶𝑒𝑛𝑡𝑠)
+
+-- 32 of 145 --
+
+After obtaining the answer, the answers are to be filled in as follows:
+Product ID QT-531A
+Name Potato Chips (2 Bag)
+Pricing (Before GST) $7.20
+GST Rate 8.5%
+GST Tax (In $) $0.61
+Pricing (After GST) $7.81
+In Example 2, the following concepts are to be illustrated
+• Finding value of percentages of base value.
+• Finding final values, of which a certain percentage gets subtracted from the base
+value.
+Example 2.
+A staff member of ABC Company keys in the following information into the inventory
+system, and accidentally left some blanks in the process. You will have to fill in the
+missing information and provide clear workings for your answer.
+Product ID QN-242C
+Name ABC Electronic Dictionary Model QN-242C [Exam
+Approved]
+Original Pricing $25.00
+Discounts Yes
+Discount Rate 20%
+Discount Amount (In $) (a)
+Discounted Price (b)
+(a)
+Formula for deriving value of percentage of a base value goes as follows
+𝑃𝑒𝑟𝑐𝑒𝑛𝑡 𝑅𝑎𝑡𝑒 × 𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒 = 𝑉𝑎𝑙𝑢𝑒 𝑜𝑓 𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒
+In this case, the percent rate refers to the discount rate, while the original value refers
+to the original pricing.
+Discount Amount
+20% × $25.00 = $5.00
+
+-- 33 of 145 --
+
+(b)
+Formula for deriving final value of which a certain percentage gets removed from the
+base value
+(100% − 𝑃𝑒𝑟𝑐𝑒𝑛𝑡 𝑅𝑎𝑡𝑒)(𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒) = 𝐹𝑖𝑛𝑎𝑙 𝑉𝑎𝑙𝑢𝑒
+Pricing of ABC Electronic Dictionary QN-242C after discount applied
+(100% − 20%) × $25 = $20.00
+I filled in the blanks as follows.
+Product ID QN-242C
+Name ABC Electronic Dictionary Model QN-242C [Exam
+Approved]
+Original Pricing $25.00
+Discounts Yes
+Discount Rate 20%
+Discount Amount (In $) $5.00
+Discounted Price $20.00
+In Example 3, it will be different, the goal of Example 3, is to find the target
+percentage, given the value of the target and base value. (Calculator Guide at Last
+Page of This Topic)
+Example 3.
+In a country XYZ election, a group of 200 people is interviewed. Out of the group of
+people interviewed, about 137 people are supportive of candidate A, about 51 people
+are supportive of candidate B, the remaining being unsure.
+(a) Find the percentages of the number of people within the group who are
+supportive of candidate B.
+3(a)
+𝐷𝑒𝑠𝑖𝑟𝑒𝑑 𝑃𝑒𝑟𝑐𝑒𝑛𝑡𝑎𝑔𝑒 = ( 𝑉𝑎𝑙𝑢𝑒
+𝐵𝑎𝑠𝑒 𝑉𝑎𝑙𝑢𝑒) × 100%
+In this case,
+
+##### 06.txt #####
+Title Coordinate Geometry – Basic Overview
+Date 18/1/2019
+Author Lee Jian Lian
+Liu Hui Ling, Ngee Ann Polytechnic
+Coordinate Geometry appears in many ways in our lives, the idea of Coordinate
+Geometry in simple terms is to perform Mathematical calculations and applications of
+calculations on a plane, in this case, we focus on the cartesian coordinate system.
+Basic principle surrounding the idea of cartesian coordinate system.
+You have a horizontal axis called the 𝑥-axis, a vertical axis called the 𝑦-axis. Both axis
+intersect each other at 90° (Also called perpendicular to each other).
+An example will follow:
+I want to remind students to mark out 𝑥-axis and 𝑦-axis during exam or doing
+homework, the computer software used doesn’t do that.
+Point of Origin, the
+point where the
+coordinate is (0,0)
+
+-- 39 of 145 --
+
+In a Cartesian Coordinate system, we can things like points, lines and curves.
+Points
+Points are typically expressed in the following notation as follows
+(𝑥 − 𝑐𝑜𝑜𝑟𝑑𝑖𝑛𝑎𝑡𝑒, 𝑦 − 𝑐𝑜𝑜𝑟𝑑𝑖𝑛𝑎𝑡𝑒)
+(2,2)
+
+-- 40 of 145 --
+
+We can do another example to illustrate this point.
+Showing how to find a coordinate of a point
+Step 1. Mark out the point of the coordinate mentioned in the question or obtained
+from previous parts of the question.
+Step 2. From the X axis, use a ruler or gently use a pencil to trace the shortest path from
+the X-axis to the point. From the Y-Axis, use a ruler or gently use a pencil to trace the
+shortest path from the Y-Axis to the point in question. (I use color to indicate clearly but
+do not use colored pen during your exam, USE A PENCIL.)
+The point we
+mentioned
+earlier.
+
+-- 41 of 145 --
+
+Step 3.
+Deduce the Coordinate Values for X and Y.
+𝑥 −coordinate refers to the value for which the path passes through both the point and
+the 𝑥 − 𝑎𝑥𝑖𝑠, and 𝑦 −coordinate refers to the value for which the path passes through
+both the point and the 𝑦 −axis.
+Scaling
+Each big box, as noted with darker black lines, represents a 5-unit by 5-unit grid space.
+Each small box as noted with lighter black lines, represents a 1-unit by 1-unit grid space.
+Therefore, from the number of units away from the 𝑦 −axis, the point 4 units to the left
+of the point of origin and 7 units above the point of origin. Giving us a coordinate value
+of (−4,7)
+Lines
+Apart from Points, we can also have lines and curves on a Cartesian Coordinate system.
+Lines
+Two things we are particularly interested in
+• Slope (Steepness) of the Line (Also called the gradient)
+• Point where the Line crosses the Y-axis (Also called the Y-Intercept)
+
+-- 42 of 145 --
+
+To find Gradient, follow the following steps
+1. Select a point on the graph, called the coordinate of the point (𝑥1, 𝑦1) and select
+another different point on the graph, calling the coordinate of the point (𝑥2, 𝑦2)
+[Note the graph scaling is different this time, each small box represents a 0.2 unit
+by 0.2-unit grid space and each darker box, represents a 1 unit by 1 unit of grid
+space.)
+(𝑥1, 𝑦1) (−0.85, 0)
+(𝑥2, 𝑦2) (0, 2.5)
+Apply gradient formula
+𝑦2−𝑦1
+𝑥2−𝑥1
+= 0−2.5
+(−0.85)−0 = 2.941
+𝑦 − 𝑖𝑛𝑡𝑒𝑟𝑐𝑒𝑝𝑡 can be approximated by the same methods established earlier and we
+can tell from the graph the 𝑦 −intercept is 2.5 units above the point of origin, therefore
+the 𝑦-intercept is 2.5.
+(When point fall between 2 tiny square, select the mid-point of the tiny square as your
+coordinate value.)
+[I also would like to say, just try your best in obtaining the best approximation possible.]
+
+-- 43 of 145 --
+
+
+##### 07.txt #####
+Title Mathematics Coordinate Geometry (Lower Secondary)
+Editor Lee Jian Lian
+Date 1/4/2018
+Formula List Required
+General Form (or General Equation) of a Straight Line:
+𝑦 = 𝑚𝑥 + 𝑐
+Where 𝑚 is the gradient and 𝑐 is the y-intercept (Or the value of 𝑦 when 𝑥 = 0)
+[If line is vertical, the gradient is undefined.]
+Given Coordinates (𝒙𝟏, 𝒚𝟏) 𝑨𝑵𝑫 (𝒙𝟐, 𝒚𝟐) are coordinates on a straight line.
+Gradient = 𝑦2−𝑦1
+𝑥2−𝑥1
+Length of Line (In Units) = √(𝑦2 − 𝑦1)2 + (𝑥2 − 𝑥1)2
+Basic Steps Briefing
+To find the equation of a line, you need to do the following steps:
+1. Write down the coordinates of points where the line will pass through
+2. Calculate gradient by using the above mentioned gradient formula
+3. Substitute coordinate into the general equation form of a straight line to find out
+the y-intercept.
+4. Collect Gradient Information and Y-Intercept to deduce equation
+5. (If applicable) Make use of deduced equation to solve any remaining questions
+Notes:
+If gradient is undefined but the question insist that you should write an equation for the
+line, you can write the equation of the line in terms of 𝑥. (e.g. 𝑥 = 5)
+
+-- 44 of 145 --
+
+[Questions all Taken from CASCO 4B Assessment Book]
+Example 1
+The coordinates of 𝐴 and 𝐵 are (3, −5) and (−1, −9) respectively.
+Find
+(a) the Length of 𝐴𝐵.
+(b) the equation of Line 𝐴𝐵.
+(c) the value of 𝑝 if the point 𝐶(2𝑝, 6) lies on the line 𝐴𝐵
+(d) the equation of the line 𝑙 which has the same gradient as the line 3𝑥 + 𝑦 = 1 and
+passing through point 𝐶.
+Parts Formula and Reasoning Steps Taken
+(a) Length of Line (In Units) =
+√(𝑦2 − 𝑦1)2 + (𝑥2 − 𝑥1)2
+𝑦2 𝑦1 𝑥2 𝑥1
+−9 −5 −1 3
+Value of 𝑦2 − 𝑦1 = (−9) − (−5) = −4
+Value of 𝑥2 − 𝑥1 = (−1) − 3 = −4
+√(𝑦2 − 𝑦1)2 + (𝑥2 − 𝑥1)2 =
+√(−4)2 + (−4)2 = √32 = 5.6569 =
+5.66 𝑢𝑛𝑖𝑡𝑠 (3𝑠𝑓)
+(b) Gradient = (𝑦2−𝑦1)
+(𝑥2−𝑥1)
+𝑦2 𝑦1 𝑥2 𝑥1
+−9 −5 −1 3
+Value of 𝑦2 − 𝑦1 = (−9) − (−5) = −4
+Value of 𝑥2 − 𝑥1 = (−1) − 3 = −4
+Therefore gradient, 𝑚 = 1
+𝑦 = 𝑚𝑥 + 𝑐
+
+-- 45 of 145 --
+
+Substitute associated
+coordinates into the graph
+equation to find y-
+intercept.
+You can see how it resembles and correspond
+to the coordinates in the form of:
+𝑦2 = 𝑚(𝑥2) + 𝑐
+(−9) = 1(−1) + 𝑐
+(−9) − 1 = 𝑐
+𝑐 = −8
+Thus, equation of the Line 𝐴𝐵 is:
+𝑦 = 𝑥 − 8
+(c) Substitute associated
+coordinate into the
+equation to find the value
+of 𝑥, when 𝑥 = 2𝑝 and
+𝑦 = 6
+The equation is once again, in the form:
+𝑦 = 𝑥 − 8
+6 = 𝑥 − 8
+6 + 8 = 𝑥
+2𝑝 = 𝑥 = 14
+𝑝 = 7
+(d) Line 𝐿 has the same
+gradient as 3𝑥 + 𝑦 = 1
+At point 𝐶(14,6)
+Rearrange in the form of 𝑦 = 𝑚𝑥 + 𝑐
+𝑦 = −3𝑥 + 1
+Gradient of Line 𝐿 = −3
+𝑦 = 𝑚𝑥 + 𝑐
+6 = −3(14) + 𝑐
+𝑐 = 48
+Thus, Equation of Line L is 𝑦 = −3𝑥 + 48
+
+-- 46 of 145 --
+
+
+##### 10.txt #####
+Title Expansion and Factorisation of Algebraic Expressions
+Author AprilDolphin – Lim Wang Sheng
+Date 22/12/2025
+In this topic, we shall be covering the following concepts
+• Expansion of Algebraic Expressions by Simple Multiplication, Algebraic Identity
+and “Rainbow” Method of Expansion
+• Factoring of Algebraic Expressions involving Simple Factoring, Algebraic
+Identities, Grouping and Cross Method
+Expansion is the act of multiplying terms in brackets with other terms in order to
+remove the brackets completely.
+Example 1. [Simple Multiplication]
+Expand and simplify the following:
+−3(𝑥 − 4)
+The above expression can first be expanded as follows by simple multiplication by
+ensuring the term outside is multiplied by every term in the bracket. (Be extremely
+careful when negative signs are involved.)
+−3(𝑥 − 4) = −3(𝑥) − 3(−4) = −3𝑥 + 12
+Example 2. [Algebraic Identities]
+In this example here, we have to take note of whether the algebraic expression we have
+to expand resembles any algebraic identities as follows and if there is resemblance to
+apply the identities as follows:
+(𝑎 + 𝑏)2 = 𝑎2 + 2𝑎𝑏 + 𝑏2
+(𝑎 − 𝑏)2 = 𝑎2 − 2𝑎𝑏 + 𝑏2
+(𝑎 + 𝑏)(𝑎 − 𝑏) = 𝑎2 − 𝑏2
+Expand and simplify the following:
+(a) (3𝑥 + 5)2
+(b) (3𝑥 − 5)2
+(c) (𝑥 + 5)(𝑥 − 5)
+In the case of example 2(a), the question can be solved by applying the algebraic
+identity (𝑎 + 𝑏)2 = 𝑎2 + 2𝑎𝑏 + 𝑏2
+(3𝑥 + 5)2 = 9𝑥2 + 2(3𝑥)(5) + (5)2 = 9𝑥2 + 30𝑥 + 25
+In the case of example 2(b), the question can be solved by applying the algebraic
+identity (𝑎 − 𝑏)2 = 𝑎2 − 2𝑎𝑏 + 𝑏2
+(3𝑥 − 5)2 = 9𝑥2 − 2(3𝑥)(5) + 52 = 9𝑥2 − 30𝑥 + 25
+
+-- 54 of 145 --
+
+In the case of example 2(c), the question can be solved by applying the algebraic
+identity (𝑎 + 𝑏)(𝑎 − 𝑏) = 𝑎2 − 𝑏2
+(𝑥 + 5)(𝑥 − 5) = 𝑥2 − 52 = 𝑥2 − 25
+Example 3. [“Rainbow” Method of Expansion]
+If the algebraic expression given cannot be expanded by simple multiplication or
+algebraic identities applications, we use the 3rd method which is referred to the
+“Rainbow” Method of Expansion in this document.
+Expand and simplify the Following:
+• (2𝑥 + 4)(3𝑥 − 3)
+(2𝑥 + 4)(3𝑥 − 3)
+As you can see, the lines drawn connect the terms that should be multiplied together
+and later to be added or subtracted up accordingly in a row.
+(2𝑥 + 4)(3𝑥 − 3) = 6𝑥2 + 12𝑥 − 6𝑥 − 12
+= 6𝑥2 + 6𝑥 − 12
+Example 4. [Applications of Expansion of Algebraic Expression to Arithmetic Problems]
+4(a) Using the algebraic identity (𝑎 + 𝑏)(𝑎 − 𝑏) = 𝑎2 − 𝑏2, evaluate 28 × 32
+Since 28 can be rewritten as 30 − 2 and 32 can be rewritten as 30 + 2, it now
+resembles the algebraic identity (𝑎 + 𝑏)(𝑎 − 𝑏) and therefore can be evaluated as
+follows:
+(30 − 2)(30 + 2) = 302 − 22 = 900 − 4 = 896
+4(b) Using the algebraic identity (𝑎 + 𝑏)2 = 𝑎2 + 2𝑎𝑏 + 𝑏2, evaluate 152
+Since 15 can be rewritten as 10 + 5 and the question demanding us to evaluate 152, it
+now resembles the algebraic identity (𝑎 + 𝑏)2 and therefore can be evaluated as
+follows:
+(10 + 5)2 = 102 + 2(5)(10) + 52 = 100 + 100 + 25 = 225
+4(c) Using the algebraic identity (𝑎 − 𝑏)2 = 𝑎2 − 2𝑎𝑏 + 𝑏2, evaluate 162
+Since 16 can be rewritten as 20 − 4 and the question demanding us to evaluate 162, it
+now resembles the algebraic identity (𝑎 − 𝑏)2 and therefore can be evaluated as
+follows:
+(20 − 4)2 = 202 − 2(4)(20) + 42 = 400 − 160 + 16 = 256
+
+-- 55 of 145 --
+
+Factorisation (in this case) is the act of extracting common factors from algebraic
+expression to be expressed with multiple brackets multiplied together. It is the absolute
+reverse of expansion.
+Example 5 [Simple Extraction of Common Factors]
+Factorise 2𝑎2 − 8𝑎 completely.
+The above question can be solved by simple extraction of 2𝑎 as common factor as noted
+below:
+2𝑎2 − 8𝑎 = 2𝑎(𝑎 − 4)
+Example 6 [Factoring by Algebraic Identities]
+(a) Factorise 49 − 4𝑥2 completely
+(b) Factorise 9𝑥2 + 30𝑥 + 25 completely
+(c) Factorise 9𝑥2 − 30𝑥 + 25 completely
+Example 6(a) can be solved by applying the identity 𝑎2 − 𝑏2 = (𝑎 + 𝑏)(𝑎 − 𝑏) as tested
+below:
+𝑎 = 7
+𝑏 = 2𝑥
+𝑎2 − 𝑏2 = (7 − 2𝑥)(7 + 2𝑥)
+49 − 4𝑥2 = (7 − 2𝑥)(7 + 2𝑥)
+Example 6(b) can be solved by applying the identity 𝑎2 + 2𝑎𝑏 + 𝑏2 = (𝑎 + 𝑏)2 as
+tested below:
+𝑎 = √9𝑥2 = 3𝑥
+𝑏 = √25 = 5
+2𝑎𝑏 = 2(3𝑥)(5) = 30𝑥
+∴ 9𝑥2 + 30𝑥 + 25 = (3𝑥 + 5)2
+Example 6(c) can be solved by applying the identity of 𝑎2 − 2𝑎𝑏 + 𝑏2 = (𝑎 − 𝑏)2 as
+tested below:
+𝑎 = √9𝑥2 = 3𝑥
+𝑏 = √25 = 5
+−2𝑎𝑏 = 2(3𝑥)(5) = −30𝑥
+∴ 9𝑥2 − 30𝑥 + 25 = (3𝑥 − 5)2
+
+-- 56 of 145 --
+
+Example 7 (Factoring by Grouping Method)
+(a) 9𝑥2 − 36𝑥𝑦 + 4𝑦 − 𝑥
+(b) 12𝑝𝑟𝑠 + 4𝑞 + 3𝑞𝑟𝑠 + 16𝑝
+7(a)
+9𝑥2 − 36𝑥𝑦 + 4𝑦 − 𝑥
+= 9𝑥2 − 𝑥 − 36𝑥𝑦 + 4𝑦 [Rearrange the expression]
+= 𝑥(9𝑥 − 1) − 4𝑦(9𝑥 − 1)
+= (𝑥 − 4𝑦)(9𝑥 − 1)
+7(b)
+12𝑝𝑟𝑠 + 4𝑞 + 3𝑞𝑟𝑠 + 16𝑝
+= 12𝑝𝑟𝑠 + 3𝑞𝑟𝑠 + 4𝑞 + 16𝑝 [Rearrange the expression]
+= 3𝑟𝑠(4𝑝 + 𝑞) + 4(𝑞 + 4𝑝)
+= 3𝑟𝑠(4𝑝 + 𝑞) + 4(4𝑝 + 𝑞)
+= (3𝑟𝑠 + 4)(4𝑝 + 𝑞)
+Example 8 (Factoring by Cross Method – Trial and Error)
+(a) 4𝑥2 + 5𝑥 − 6
+(b) 8 − 7𝑥 − 𝑥2
+Example 8(a)
+4𝑥2 + 5𝑥 − 6
+= (𝑥 + 2)(4𝑥 − 3)
+After some trial and error, we should get
+the results as shown in blue ink on the right side.
+Example 8(b)
+8 − 7𝑥 − 𝑥2
+= (𝑥 + 8)(−𝑥 + 1)
+= (𝑥 + 8)(1 − 𝑥)
+After some trial and error,
+
+##### 11.txt #####
+Title Mathematics (Solving Quadratic Equations)
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 20/3/2018
+Mathematics Terms
+“Root”, “Solution” and “Answers” means the same thing in this topic. They are a set of
+numbers that can satisfy a specified equation.
+Quadratic Equation – an equation for which the highest power within the equation is
+2.
+LHS – Left-hand Side
+RHS – Right-hand Side
+“Find Solution” and “Solving” mean the same thing in this topic.
+Identifying a quadratic equation
+Based on the above definition of a quadratic equation, a quadratic equation is any
+equation that is, in the following form or can be re-arranged in the following form:
+𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0
+Where 𝑎 ≠ 0
+[If 𝑎 = 0, the equation effectively reduces to 𝑏𝑥 + 𝑐 = 0, which is linear, not quadratic.]
+Three approaches used to solve quadratic equation I am going to teach
+• Factorization/Cross Method (Calculator Tips and Tricks Provided as well)
+• Quadratic Formula
+• Completing the Square Method
+
+-- 58 of 145 --
+
+Factorization/Cross Method
+Algebraic Identity Approach
+Only work when the given equation resembles any 1 of the 3 algebraic identity provided
+as below.
+• 𝑎2 + 2𝑎𝑏 + 𝑏2 = 0
+• 𝑎2 − 2𝑎𝑏 + 𝑏2 = 0
+• 𝑎2 − 𝑏2 = 0
+As all the expression on the LHS (Left-Hand side) of the equation can be factored into
+the following:
+• 𝑎2 + 2𝑎𝑏 + 𝑏2 = (𝑎 + 𝑏)2
+• 𝑎2 − 2𝑎𝑏 + 𝑏2 = (𝑎 − 𝑏)2
+• 𝑎2 − 𝑏2 = (𝑎 + 𝑏)(𝑎 − 𝑏)
+Basic Demonstration
+Example 1
+Solve 𝑥2 + 6𝑥 + 9 = 0
+Noting how the above equation resembles the expression:
+𝑎2 + 2𝑎𝑏 + 𝑏2 = (𝑎 + 𝑏)2
+As 2𝑎𝑏 = 2(𝑥)(3) = 6𝑥
+Factorize the LHS of the equation into
+𝑥2 + 6𝑥 + 9 = (𝑥 + 3)2
+(𝑥 + 3)2 = 0
+(𝑥 + 3)(𝑥 + 3) = 0
+𝑥 + 3 = 0 𝑂𝑅 𝑥 + 3 = 0
+Final Answer: 𝑥 = −3
+
+-- 59 of 145 --
+
+Example 2:
+Solve 𝑥2 − 8𝑥 + 12 = −4
+In this case, the RHS of the equation isn’t zero, so, we have to rearrange the equation in
+the following way:
+𝑥2 − 8𝑥 + 12 + 4 = −4 + 4
+𝑥2 − 8𝑥 + 16 = 0
+We can tell the above expression on the LHS of the equation resembles the following:
+𝑎2 − 2𝑎𝑏 + 𝑏2 = (𝑎 − 𝑏)2
+As (−2𝑎𝑏) = −2(𝑥)(4) = −8𝑥
+Factor the LHS of the equation into the following:
+𝑥2 − 8𝑥 + 16 = (𝑥 − 4)2
+(𝑥 − 4)(𝑥 − 4) = 0
+𝑥 = 4 𝑂𝑅 𝑥 = 4
+Final Answer: 𝑥 = 4
+Example 3:
+Solve 𝑥2 − 64 = 0
+We can tell the above expression on the LHS of the equation resembles the following:
+𝑎2 − 𝑏2 = (𝑎 + 𝑏)(𝑎 − 𝑏)
+𝑎2 = 𝑥2
+−𝑏2 = −64
+Thus, the expression can be factored in the following:
+𝑥2 − 64 = (𝑥 + 8)(𝑥 − 8)
+(𝑥 + 8)(𝑥 − 8) = 0
+𝑥 + 8 = 0 𝑂𝑅 𝑥 − 8 = 0
+Final Answer: 𝑥 = −8 𝑂𝑅 𝑥 = 8
+
+-- 60 of 145 --
+
+Cross Method (Using of Calculator Quadratic Equation Solver Function to Solve
+Quadratic Equations)
+Look out for options that would allow you to solve any quadratic equations by keying in
+the values of 𝑎,𝑏 and 𝑐.
+In the case of FX-97 SG X, press the following button in the following exact order.
+Press [Menu] Button and Press [5] and you should see the following on the screen.
+Once you are prompted, press [2] and the following should appear.
+As a quadratic equation is widely understood to be a polynomial with a degree of 2,
+implying the highest power in the equation is 2, we press [2] to indicate we want to
+solve a polynomial with a degree of 2 and the following just below should appear as
+follows.
+Troubleshooting Tips (Just in case):
+If you get a “Math Error” message, check the following
+• Did you input 𝑎 = 0? [Quadratic Equations in the form of 𝑎𝑥2 + 𝑏𝑥 + 𝑐 cannot
+have 𝑎 as 0 by definition.]
+• Did you accidentally input other items into the above-mentioned fields?
+If you get a “Syntax Error” message, do check the following
+• Did you accidentally keyed non-numbers into the calculator quadratic equation
+solver?
+
+-- 61 of 145 --
+
+Example 4:
+Solve 𝑥2 − 7𝑥 − 330 = 0
+After having keyed in the values of 𝑎, 𝑏 and 𝑐 into the calculator quadratic equation
+solver which is 1, −7 and −330 respectively, I have to demonstrate that the quadratic
+equation above can be solved using cross method factorization technique as drawn on
+right side below.
+You can also see the following as your calculator input as solved by
+the quadratic equation solver.
+After confirmation of the input values, press the [=] key the get the first root of the
+quadratic equation, which is shown as below.
+Press the [=] sign key again to get the second root of the quadratic equation which is
+shown as below.
+𝑥 −22
+𝑥 +15
+𝑥2 −330
+−22𝑥
++15𝑥
+−7𝑥
+
+-- 62 of 145 --
+
+Quadratic Formula Approach
+As the name suggest, quadratic formula is a formula based method used to solve
+quadratic equation, it is (sort of) derived from completing the squares which I will share
+with you in the subsequent pages.
+In any quadratic equation that you are trying to solve, there can be 2 real and distinct
+roots, equal roots or no real roots, this would depend on the discriminant 𝑏2 − 4𝑎𝑐
+(which I will not further discuss here as discriminant related problems appear more in
+
+##### 12.txt #####
+Title Coordinate Geometry of Quadratic Graphs
+Author AprilDolphin – Lim Wang Sheng
+Date 23/2/2026
+Several facts to remember about quadratic graphs
+• In context of any quadratic graphs, the line intersecting the point vertically where
+the graph can be folded into half and remain symmetrical is called the line of
+symmetry of graph.
+• In any quadratic functions drawn on a graph paper, the point where the line of
+symmetry intersects the graph is also called the turning point, minimum or
+maximum point of the quadratic function.
+Method of Finding Line of Symmetry
+Case 1: Quadratic Equation roots given as part of question in the form 𝒙 = 𝒑 or
+𝒙 = 𝒒 directly
+Example 1(a): Sketch the graph of 𝑦 = −(𝑥 − 5)(𝑥 + 1). Write down the coordinates
+of turning point and 𝑥 and 𝑦 intercepts.
+(Yellow represents 𝑦 = −(𝑥 − 5)(𝑥 + 1) and Blue represents the line of symmetry)
+• 𝑥 intercepts are simply just the 𝑥-coordinates of roots given for the quadratic
+equation (when 𝑦 = 0)
+Since 𝑥 = 5 OR 𝑥 = −1 when 𝑦 = 0
+The coordinate of the 𝑥-intercepts are (5,0) and (−1,0)
+• 𝑦 intercepts can be derived by removal of brackets through expansion (or
+substituting 𝑥 = 0)
+−(𝑥 − 5)(𝑥 + 1) = −(𝑥2 − 5𝑥 + 𝑥 − 5) = −(𝑥2 − 7𝑥 − 5) = −𝑥2 + 7𝑥 + 5
+Comparing with the general form of a quadratic equation 𝑎𝑥2 + 𝑏𝑥 + 𝑐, the
+value of 𝑐 as highlighted above is 𝑦-coordinate of the 𝑦-intercept.
+The coordinates of the 𝑦-intercept is (0,5).
+• 𝑥-coordinate of turning point can be derived by summing 𝑝 and 𝑞 together and
+dividing by 2.
+𝑥 = (5+(−1))
+2 = 2
+
+-- 67 of 145 --
+
+𝑦-coordinate of turning point can be derived by substituting value of 𝑥 on the
+turning point back into original equation which gives us
+−(2 − 5)(2 + 1) = 9
+The coordinates of the turning point is (2,9).
+Example 1(b): Write down the line of symmetry of 𝑦 = −(𝑥 − 5)(𝑥 + 1)
+• Since the line of symmetry intersects the turning point exactly, we can derive
+the line of symmetry by extracting 𝑥-ccoordinates of the turning point as
+mentioned in the previous question which give us a value of 𝑥 = 2
+Example 1(c): Write down the coordinates of the maximum point.
+• Since in any quadratic function, the maximum or minimum point coincides with
+the turning point, we can derive the coordinates of the maximum point of the
+quadratic equation from the coordinate values of turning point as obtained in
+1(a)
+Therefore, coordinate of maximum point is (2,9).
+Case 2: Quadratic equation has no real roots or given/rewritten in the form of
+𝒚 = (𝒙 − 𝒉)𝟐 + 𝒌 where (𝒉, 𝒌) represents the coordinate of the minimum or
+maximum point.
+Example 2(a): Express 𝑥2 − 4𝑥 + 5 in the form (𝑥 − ℎ)2 + 𝑘 where ℎ and 𝑘 are
+constants.
+Using completing the squares, we can rewrite the quadratic above in the form of
+(𝑥 − ℎ)2 + 𝑘.
+𝑥2 − 4𝑥 + (4
+2)
+2
++ 5 − (4
+2)
+2
+(𝑥 − 2)2 + 1
+Details obtained shows that
+Coordinates where graph crosses the 𝑦-axis or 𝑦-intercept: (0,5)
+Minimum point (Since 𝑎 > 0): (2,1)
+
+-- 68 of 145 --
+
+Example 2(b) Hence, sketch the graph for 𝑥2 − 4𝑥 + 5.
+Example 3(a): Express −2𝑥2 − 8𝑥 + 4 in the form 𝑎(𝑥 + ℎ)2 + 𝑘
+Step 1: Factor out 𝑎 from the given quadratic, in this case, we are given 𝑎 = −2 which
+could be factored out to give us −2(𝑥2 + 4𝑥 − 2)
+Step 2: Use completing the square to deal with the quadratic inside the bracket.
+−2(𝑥2 + 4𝑥 − 2)
+= −2[𝑥2 + 4𝑥 + (4
+2)
+2
+− 2 − (4
+2)
+2
+]
+= −2[(𝑥 + 2)2 − 6]
+= −2(𝑥 + 2)2 + 12
+Example 3(b)
+Details inferred from quadratic
+• 𝑎 < 0 (Hence having maximum point)
+• Maximum point coordinates (−2,12)
+• 𝑦-intercept coordinates (0,4)
+
+-- 69 of 145 --
+
+
+##### 13.txt #####
+Title Simultaneous Equations (Secondary 2)
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 25/12/2018
+The purpose of this article is to provide an overview to simultaneous equation and to
+teach the methods required to solve such system of equations.
+The purpose of a simultaneous equation is to find the point of intersection (also called
+the coordinate of the intersection) of 2 different lines.
+Graphical Illustration as follows
+The below graph, created with the help of an App named “Desmos”, illustrates the
+following simultaneous equation
+𝑥 + 𝑦 = 5
+2𝑥 − 𝑦 = 1
+Setting aside the graphical method, where students are asked to convert simultaneous
+equations to 𝑦 = 𝑚𝑥 + 𝑐 form, graph them literally on a graphing paper or graphing
+grid space to find the coordinate(s) of intersection point(s), which most of the time
+provides a reasonably good approximation, there are ways to obtain exact solutions
+using algebraic methods, namely
+• Elimination Approach
+• Substitution Approach
+I will be providing students with some idea how to judge which method is better in
+certain situation if the question does not require a specific method to be used.
+If the question requires you to use a specific method, you must use that method, or
+marks may be lost.
+The coordinates of Intersection
+Point (The 𝑥 and 𝑦 coordinate)
+are the so-called “solutions” of
+a simultaneous equation.
+
+-- 70 of 145 --
+
+Elimination Approach
+Question 1
+Solve the simultaneous equations:
+2𝑥 − 5𝑦 = −1 Equation 1
+6𝑥 − 4𝑦 = 30 Equation 2
+Why I think elimination method is more suitable for this question.
+• Done in fewer steps (Just multiply by their common factors)
+• The question creates a situation that is more favorable to using elimination
+method.
+From Equation 1 to Equation 1A
+3(2𝑥 − 5𝑦) = 3(−1)
+6𝑥 − 15𝑦 = −3
+Equation 2 - Equation 1A
+(6𝑥 − 4𝑦) − (6𝑥 − 15𝑦) = 30 − (−3)
+6𝑥 − 4𝑦 − 6𝑥 + 15𝑦 = 33
+−4𝑦 + 15𝑦 = 33
+11𝑦 = 33
+Equation 3
+𝑦 = 3
+Substitute Equation 3 into Equation 1
+2𝑥 − 5(3) = −1
+2𝑥 = −1 + 15
+2𝑥 = 14
+𝑥 = 7
+Answer: 𝑦 = 3, 𝑥 = 7
+
+-- 71 of 145 --
+
+Substitution Approach
+Question 2
+Solve the following simultaneous equations.
+𝑦 = 2𝑥 − 5 Equation 1
+7𝑥 − 4𝑦 − 12 = 0 Equation 2
+Why I think substitution method is more suitable in this case
+• It takes less effort to substitute the values as you just need to substitute equation
+1 into equation 2.
+Substitute Equation 1 into Equation 2.
+7𝑥 − 4(2𝑥 − 5) − 12 = 0
+7𝑥 − 8𝑥 + 20 − 12 = 0
+−𝑥 + 8 = 0
+−𝑥 = −8
+Equation 3
+𝑥 = 8
+Substitute Equation 3 into Equation 1.
+𝑦 = 2(8) − 5
+𝑦 = 16 − 5 = 11
+𝑦 = 11
+𝑥 = 8, 𝑦 = 11
+
+-- 72 of 145 --
+
+Calculator Guide for Solving Simultaneous Equations (Casio FX-97 SG X)
+Step 1: Rearrange the simultaneous equation as the following order
+𝑎𝑥 + 𝑏𝑦 = 𝑐
+𝑑𝑥 + 𝑓𝑦 = 𝑔
+Example as illustrated below:
+2𝑥 + 𝑦 = 5
+𝑥 − 𝑦 = 6
+Step 2. Press the buttons and do so in correct order.
+Press [Menu], [5], [1] and you should get to the following screen.
+Step 3. Once prompted to select the number of unknowns, press [2] and press [=] and
+the following should appear on the screen.
+Step 4. Under the first row of the table displayed above, you key in each of the following
+values. Pressing [=] key after each value is entered, replacing the letters 𝑎, 𝑏 and 𝑐 with
+the value you obtained in step 1.
+
+-- 73 of 145 --
+
+Step 5. After the cursor jumped to the 2nd row, you key in each of the following values.
+Pressing [=] key after each value is entered, replacing the letters 𝑑, 𝑓, 𝑔 with the values
+obtained in step 1. You should see the following output:
+Step 6. After filling up both rows with input values. Press [=] button and you should get
+the following value in the below screenshot obtained.
+Step 7. For obtaining the value of 𝑦, press [=] button again and you should see the
+following on the calculator.
+Disclaimer: The presence of the simultaneous equation solver does NOT exempt you
+from writing down workings in your answering sheet or test paper. This functionality is
+only used to check if your answers are correct after you finish solving the simultaneous
+equation on paper.
+
+-- 74 of 145 --
+
+
+##### 14.txt #####
+Title Basic Statistics – Mean, Median, Mode and Standard Deviation Application
+on Ungrouped Data
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 13/9/2018
+For Ungrouped Data
+Mean Meaning: The value of the total of all observations divided by
+the number of observations.
+𝑋̅ = Σ𝑥
+𝑁
+𝑋̅ refers to the mean value of the observation in question
+Σ𝑥 refers to the total of all observations
+𝑁 refers to the number of observations
+[I assume you all understand how to calculate mean, but if
+you still need help in understanding, proceed to the next few
+pages, I have condensed the example for standard deviation
+and mean together since calculating mean is necessary to
+calculate standard deviation.]
+Mode Meaning: The most frequently occurring value in the
+observation.
+Example: 2,6,0,5,5,5
+The mode in the above example is 5, since “5” appear most
+frequently.
+
+-- 75 of 145 --
+
+Median Meaning: The middle value of observation.
+Example 2 (If the number of observation is odd.)
+Given 9,5,3,1,2 [There are only 5 observations in the data
+given, the number of observation is odd]
+Rearrange in ascending order (if the values are indeed not in
+ascending order)
+1,2,3,5,9
+Median Position Number = [𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑂𝑏𝑠𝑒𝑟𝑣𝑎𝑡𝑖𝑜𝑛𝑠+1
+2 ]
+Median Value = The value represented by the median position
+number.
+In this case the median position number is calculated by
+(5+1
+2 ) = 3
+The third value in ascending order is the median value, in this
+case, the value is 3.
+Example 3 (If the number of observation is even)
+Given 2,4,8,10,12,15 (Already in ascending order, so we do
+not need to rearrange)
+Median to be calculated as follows
+Position number of 2 median numbers to be computed as
+follows
+𝐹𝑖𝑟𝑠𝑡 𝑀𝑖𝑑𝑑𝑙𝑒 𝑃𝑜𝑠𝑖𝑡𝑖𝑜𝑛 𝑁𝑢𝑚𝑏𝑒𝑟
+= (𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑂𝑏𝑠𝑒𝑟𝑣𝑎𝑡𝑖𝑜𝑛𝑠
+2 )
+𝑆𝑒𝑐𝑜𝑛𝑑 𝑀𝑖𝑑𝑑𝑙𝑒 𝑃𝑜𝑠𝑖𝑡𝑖𝑜𝑛 𝑁𝑢𝑚𝑏𝑒𝑟
+= [(𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑂𝑏𝑠𝑒𝑟𝑣𝑎𝑡𝑖𝑜𝑛)
+2 + 1]
+In this case, the 2 middle-position number are represented by
+the following:
+
+-- 76 of 145 --
+
+First Middle Position Number
+6
+2 = 3 and the 3rd value in ascending order is 8
+Second Middle Position Number
+6
+2 + 1 = 4 and the 4th value in ascending order is 10
+Add up the 2 middle-position-number and divide by 2
+Median = 8+10
+2 = 9
+Standard Deviation Refers to how spread out is the data. (At the present level,
+that’s is all you need to know, at higher level, there are other
+ways to measure how spread out the data is which will not be
+covered here.)
+𝑆𝑡𝑎𝑛𝑑𝑎𝑟𝑑 𝐷𝑒𝑖𝑣𝑎𝑡𝑖𝑜𝑛 = √Σ(𝑥 − 𝑋̅ )2
+𝑁
+Example 4
+Compute the standard deviation of the following given data.
+5,0,9,7,2
+The mean of the data (𝑋̅ ) in this case is
+5+0+9+7+2
+5 = 23
+5 = 4.6
+Standard Deviation to be computed as follows.
+Σ(𝑥 − 𝑋̅ )2 = (5 − 4.6)2 + (0 − 4.6)2 + (9 − 4.6)2
++(7 − 4.6)2 + (2 − 4.6)2 = 53.2
+𝑁 = 5
+√Σ(𝑥−𝑋̅ )2
+𝑁 = √53.2
+5 = 3.26 (3𝑠𝑓)
+
+-- 77 of 145 --
+
+Using Casio FX 97 SGX calculator to find mean and standard deviation of ungrouped
+dataset.
+(Advice: Fully reset your calculator before using this functionality, the FX 97 SGX
+calculator for instance can be reset using the following key combinations.
+Pressing [Shift], [9], afterwards press [3] and then press [=] button)
+After fully resetting the calculator to default, press the following button to access the
+functionality that allows you to calculate mean and standard deviation of ungrouped
+dataset.
+Step 1.
+Press [Menu], [3] and [1] and you should see the following:
+Step 2.
+(For demonstration purposes, we shall use the dataset as follows below.)
+Height of males obtained from students within a
+tuition class (in centi-metres)
+168 163 155 190 172 188
+Key in 168 into row 1, pressing [=] button and your cursor should jump to the next row
+as follows and shown.
+Step 3. Key in 163 and your cursor should jump to the third row and repeat the process
+for the remaining data and the following should be seen once you are fully done with
+keying in all six data from the dataset.
+
+-- 78 of 145 --
+
+Step 4.
+Once fully completed, check all your entries by going through every keyed in data by
+pressing the up and down arrow button and press [AC] button and the following should
+show up
+Step 5.
+Press [OPTN] key located as follows
+
+-- 79 of 145 --
+
+Step 6.
+Press [2] and the following should show up.
+Step 7.
+The mean is obtained from the calculator screen as 𝑋̅ = 172.6666667
+The standard deviation is obtained from the calculator screen as 𝜎𝑥 = 12.67105187
+
+-- 80 of 145 --
+
+##### 15.txt #####
+Title Statistics – Mean and Standard Deviation of Grouped Data
+Author Lim Wang Sheng, School of Information Technology, Nanyang
+Polytechnic
+[CCA: NYP Mentoring Club]
+Date 25/12/2018
+In the previous article, I demonstrated how to deal with ungrouped data, this article
+extends the idea towards dealing with finding grouped data.
+Firstly, I need to explain and illustrate the differences between grouped and ungrouped
+data.
+• Ungrouped Data – Refers to data that has not been processed or divided into
+different groups.
+• Grouped Data – Refers to data that has been processed and divided into groups.
+The group typically refers to intervals of values corresponding to a specific
+number of subjects (also called the frequency).
+An illustration will be provided below demonstrating the differences and how one can
+convert an ungrouped data into grouped.
+Example (Ungrouped Data)
+Height of Students in Class 721 of XYZ Tuition Center (in Centimeters)
+91.4, 131.0, 102.0, 132.0, 140.0, 97.2, 142.7, 100.0, 143.0, 129.0, 155.0, 137.0, 98.4,
+If presented in a grouped data form, it looks like this
+Height Class Intervals Frequency
+90 < 𝑥 ≤ 100 4
+100 < 𝑥 ≤ 110 1
+120 < 𝑥 ≤ 130 1
+130 < 𝑥 ≤ 140 3
+140 < 𝑥 ≤ 150 3
+150 < 𝑥 ≤ 160 1
+
+-- 81 of 145 --
+
+When you are being asked to convert ungrouped data to grouped data, be extremely
+careful with the inequality sign as misreading the inequality sign can result in inaccurate
+or incorrect answers as well as misinterpretation of the table.
+(Note the difference between >, < and ≥, ≤ )
+The formula for mean of grouped data as follows
+𝑋̅ = Σ𝑓(𝑥)
+Σ𝑓
+𝑋 ̅ The mean value Σ𝑓(𝑥)
+Σ𝑓
+Σ𝑓(𝑥) Literally implies the following:
+You literally multiply the mid-point of the
+class interval by its corresponding
+frequency value. Repeat the process for
+every row and add the results obtained
+from performing the operation on every
+row to get Σ𝑓(𝑥)
+Σ𝑓 Literally implies the following
+You obtain the frequency value from
+every row and sum them up to get Σ𝑓.
+The formula for standard deviation of grouped data as follows:
+Standard Deviation = √Σ𝑓(𝑥2)
+Σ𝑓 − (Σ𝑓𝑥
+Σ𝑓 )2
+**Write Standard Deviation in Full. Do not use symbols like 𝜎, 𝑠 𝑎𝑛𝑑 𝑒𝑡𝑐.
+
+-- 82 of 145 --
+
+Σ𝑓(𝑥2)
+Σ𝑓
+Literally means, you square the mid-point
+of the class interval and multiply the
+result with the frequency, repeat the
+process for every row and add those up
+together to get Σ𝑓(𝑥2)
+Then you divide Σ𝑓(𝑥2) by the sum of
+frequency from all rows to get
+Σ𝑓(𝑥2)
+Σ𝑓
+(Σ𝑓𝑥
+Σ𝑓 )
+2 I have already introduced you all how to
+find the mean value, this literally means,
+you square the mean value to get
+(Σ𝑓𝑥
+Σ𝑓 )
+2
+Sometimes you may hear.
+“Mean of Squares – Square of Mean”, then square root the result to get the standard
+deviation. This is a good way to remember.
+Example 1.
+Find the mean and standard deviation of the following data, the following data is part of
+a research on how well students in a tuition class score in their test.
+Marks Number of Students
+50 < 𝑥 ≤ 60 15
+60 < 𝑥 ≤ 70 28
+70 < 𝑥 ≤ 80 18
+80 < 𝑥 ≤ 90 13
+90 < 𝑥 ≤ 100 8
+For me, I prefer writing the mid-point value of each class interval beside the table. But if
+you want to completely guarantee you won’t get confused, you can either use a pen
+different color from the question paper or simply draw out the table.
+
+-- 83 of 145 --
+
+Marks (Mid-Point Value in Parentheses) Number of Students
+50 < 𝑥 ≤ 60 (55) 15
+60 < 𝑥 ≤ 70 (65) 28
+70 < 𝑥 ≤ 80 (75) 18
+80 < 𝑥 ≤ 90(85) 13
+90 < 𝑥 ≤ 100(95) 8
+𝑀𝑒𝑎𝑛 = Σ𝑓(𝑥)
+Σ𝑓 = 15(55) + 28(65) + 18(75) + 13(85) + 8(95)
+15 + 28 + 18 + 13 + 8 = 71 19
+41
+𝑆𝑞𝑢𝑎𝑟𝑒 𝑜𝑓 𝑀𝑒𝑎𝑛 = (Σ𝑓𝑥
+Σ𝑓 )
+2
+= (71 19
+41)
+2
+= 5107 33
+1681
+𝑀𝑒𝑎𝑛 𝑜𝑓 𝑆𝑞𝑢𝑎𝑟𝑒 = Σ𝑓(𝑥2)
+Σ𝑓 = 15(55)2 + 28(65)2 + 18(75)2 + 13(85)2 + 8(95)2
+15 + 28 + 18 + 13 + 8
+= 5256 29
+41
+Standard Deviation = √Σ𝑓(𝑥2)
+Σ𝑓 − (Σ𝑓𝑥
+Σ𝑓 )2
+= √5256 29
+41 − 5107 33
+1681 = 12.2 (3𝑠𝑓)
+
+-- 84 of 145 --
+
+Using FX-97 SGX Calculator to find mean and standard deviation of grouped data-set
+(Before using this functionality, reset your calculator fully to prevent confusion. The
+reset command can be accessed by pressing [SHIFT], [9], [3] and [=] on Casio FX-97 SGX.)
+Step 1.
+
+##### 16.txt #####
+Title Shapes of Graphs of Commonly Seen Power Function
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 4/10/2018
+This topic requires a bit of memory work. I am showing you all the generic shapes of
+graphs of power function.
+(Note: In exam, please specify your X-axis and Y-axis and write down the equation of
+graph beside the line you drew, or marks will be deducted. The computer software I
+used to generate these graphs doesn’t do that for me, as it is widely understood in the
+computer software manuals that horizontal-axis are called X-axis while vertical-axis are
+as defined Y-axis.)
+Equation 𝑦 = 𝑚𝑥 + 𝑐 (for 𝑚 > 0)
+Name Linear Function
+
+-- 89 of 145 --
+
+Equation 𝑦 = 𝑚𝑥 + 𝑐 (for 𝑚 < 0)
+Name Negative Linear Function
+
+-- 90 of 145 --
+
+Equation 𝑦 = 𝑎𝑥2 + 𝑏𝑥 + 𝑐 (for 𝑎 > 0)
+Name Quadratic Function
+
+-- 91 of 145 --
+
+Equation 𝑦 = 𝑎𝑥2 + 𝑏𝑥 + 𝑐 (for 𝑎 < 0)
+Name Negative Quadratic Function
+
+-- 92 of 145 --
+
+Equation 𝑦 = 𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥 + 𝑑 (for 𝑎 > 0)
+Name Cubic Function
+
+-- 93 of 145 --
+
+Equation 𝑦 = 𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥 + 𝑑 (for 𝑎 < 0)
+Name Negative Cubic Function
+
+-- 94 of 145 --
+
+Equation 𝑦 = 𝑎
+𝑥 𝑂𝑟 𝑦 = 𝑎𝑥−1 (For 𝑎 > 0)
+Name Linear Reciprocal Function
+***Take note that the graph will not have any
+contact with the Y-axis or X-axis.
+
+-- 95 of 145 --
+
+Equation 𝑦 = 𝑎
+𝑥 𝑂𝑅 𝑦 = 𝑎𝑥−1 (for 𝑎 < 0)
+Name Negative Linear Reciprocal Function
+***Take note that the graph will not have any contact with
+the Y-axis or X-axis.
+
+-- 96 of 145 --
+
+Equation 𝑦 = 𝑎
+𝑥2 𝑂𝑅 𝑦 = 𝑎𝑥−2(for 𝑎 > 0)
+Name Quadratic Reciprocal Function
+***Take note that the graph will not have any contact with the Y-
+axis or X-axis.
+
+-- 97 of 145 --
+
+Equation 𝑦 = 𝑎
+𝑥2 𝑂𝑅 𝑦 = 𝑎𝑥−2(for 𝑎 < 0)
+Name Negative Quadratic Reciprocal
+***Take note that the graph will not have any contact with the Y-axis
+or X-axis.
+
+-- 98 of 145 --
+
+Equation 𝑦 = 𝑎𝑥
+(𝒂 > 𝟏)
+Name Exponential Function
+**Note the graph doesn’t have any contact with the X-axis
+
+-- 99 of 145 --
+
+
+##### 17.txt #####
+Title Application of Quadratic Equations
+Author AprilDolphin – Lim Wang Sheng
+Date 11/2/2026
+Typical steps for solving problems that involves uses of quadratic equations
+Step 1 Form expressions according to question
+Step 2 Form equation as derived from expressions in step 1 according to question
+Step 3 Reduce the equation to quadratic form as specified by question
+Step 4 Find the solution to the quadratic equation as derived from step 3
+Step 5 Reject solutions that are not applicable in context of the question (Negative
+Distance Values, Negative Speed Value, Division by Zero and etc.)
+Step 6 Answering any remaining questions
+Note: Questions in exam condition may sometimes require you to reorder the steps and
+think with flexibility, do not feel surprised if the question need you to
+• Omit some steps mentioned above
+• Repeat certain steps mentioned above
+• Add in steps that may seem unrelated to the six steps I mentioned
+Example 1 (Taken from Year 2018 GCE ‘O’ Level Examination Paper)
+An empty water tank has a capacity of 3500 litres.
+Pump A can fill the tank at a rate of 𝑥 litres per minute.
+Pump B can fill the tank at a rate of (𝑥 − 10) litres per minute.
+a) Write down an expression for the number of minutes it takes to fill the tank using
+pump A.
+b) Write down an expression for the number of minutes it takes to fill the tank using
+pump B.
+c) It takes 21 minutes longer to fill the tank using pump B than it does using pump
+A, write down an equation to represent this information and shows that it
+reduces to 3𝑥2 − 30𝑥 − 5000 = 0
+d) Solve the equation 3𝑥2 − 30𝑥 − 5000 = 0, giving your solutions correct to 2
+decimal places.
+e) Calculate how long it would take to fill the tank from empty using pump A and
+pump B together. Give your answers in minute and seconds, corrected to the
+nearest 10 seconds
+
+-- 100 of 145 --
+
+Q1a) Since Volume
+Rate = Time, we can create an expression for question 1(a) by dividing
+the total capacity by the pump rate of pump A to get 3500
+𝑥 minutes
+Q1b) Using the same logic above, we can create an expression for question 1(b) by
+dividing the total capacity by the pump rate of pump B to get 3500
+𝑥−10 minutes
+Q1c) The question mentioned it takes 21 minutes longer to fill the tank for pump B
+compared to pump A. We can form an equation as follows.
+3500
+𝑥 − 10 − 3500
+𝑥 = 21
+The left-hand side of the equation will need some minor manipulation to
+ensure the denominator is the lowest common multiple of both expression,
+which give us the following:
+3500(𝑥)
+(𝑥 − 10)𝑥 − 3500(𝑥 − 10)
+𝑥(𝑥 − 10) = 21
+3500𝑥 − 3500𝑥 + 35000
+𝑥2 − 10𝑥 = 21
+35000
+𝑥2 − 10𝑥 = 21
+35000 = 21(𝑥2 − 10𝑥)
+35000 = 21𝑥2 − 210𝑥
+Bringing the value of 35000 from left-hand-side to right-hand side and we get
+0 = 21𝑥2 − 210𝑥 − 35000
+Which can also be rewritten as 21𝑥2 − 210𝑥 − 35000 = 0
+Dividing the whole equation by 7 on both sides would later reduce the
+equation into: 3𝑥2 − 30𝑥 − 5000 = 0
+*Be extremely careful when dealing with negative signs.
+Q1d) Using quadratic formula, 𝑥 = −𝑏±√𝑏2−4𝑎𝑐
+2𝑎
+𝑥 = −(−30) ± √(−30)2 − 4(3)(−5000)
+2(3)
+
+-- 101 of 145 --
+
+𝑥 = 46.1298756 or 𝑥 = −36.1298756
+𝑥 = 46.13 or 𝑥 = −36.13 (Rejected, as the Water Flow Rate cannot take on
+negative values)
+Q1e) 3500
+𝑥 + 𝑥 − 10
+= 3500
+46.1298756 + 46.1298756 − 10
+= 42.54814717 minutes = 42 minutes and 30 seconds (Round off to nearest
+10 seconds)
+Extension: (Calculator Guide for Converting Time in Number of Minutes in
+Decimal Representation to Hours, Minutes and Seconds on Casio FX-97SGX
+Calculator)
+After obtaining the number of minutes as 42.54814717 minutes, we follow the
+following steps as follows
+Step 1. Divide the time in number of minutes by 60
+Step 2. Press the [° ′ "] button to get the timing in hours, minutes and seconds,
+which in this case we get 0 hours 42 minutes, 32.89 Seconds as represented on
+calculator as 0° 42′ 32.89′′
+Notes and Additional Tip: The above calculator instruction guides on converting number
+of minutes in decimal to hours, minutes and seconds. If you are being given a different
+unit of measurement, i.e. number of seconds as another example and you have to
+convert to hours, minutes and seconds format, follow the following steps instead:
+1. Divide the number of seconds in decimal, by 3600 on your calculator.
+2. Press the [° ′ "] button to get the timing in hours, minutes and seconds.
+For example, let’s say we are given a value of 1374 seconds and we want to know the
+value in hours, minutes and seconds, we simply divide the value 1374 by 3600 and
+press the [° ′ "] button to get 0 hours, 22 minutes and 54 seconds as represented on
+calculator as 0° 22′ 54"
+
+-- 102 of 145 --
+
+
+##### 19.txt #####
+Title Venn Diagrams and Set Language
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 21/7/2018
+Knowing a lot of students are having problems with this topic, I will also be explaining
+the tricks I’ve used (derived from my secondary school teacher’s approach) to do
+questions pertaining to this topic. Before we began, let’s talk about why this topic is
+important.
+It serves as a basic concept to be applied to various other concepts in the following
+fields
+• Electronics (Logic Gate and Computer System Programming)
+• Software Development (Creating Computer Software and Understanding
+Software Logic)
+• Mathematical Proofs and Logic Demonstration
+
+-- 107 of 145 --
+
+Notation Alternative Notation Meaning of the Notation
+𝜀 𝕌
+(Not used in ‘O’ Levels,
+appears in other
+textbooks)
+Universal Set: A set containing all the
+possible element, in which all are
+subsets.
+∩
+(E.g. 𝐴 ∩ 𝐵)
+𝐴𝑁𝐷
+(Not used in ‘O’ Levels,
+appears in programmer
+guide and electrical
+theory books)
+Intersection: To take the intersection
+between multiple sets.
+Further explanation: When you say to
+take the intersection between multiple
+sets, you are taking any elements
+common between the sets.
+Example Below Meant: To take the
+intersection or common elements
+between A and B.
+∪
+(E.g. 𝐴 ∪ 𝐵)
+𝑂𝑅
+(Not used in ‘O’ Levels,
+appears in programmer
+guide and electrical
+theory books)
+Union: To take element that appear in
+either set, along with the intersection
+between the sets.
+Further explanation: When you say to
+take the union between multiple sets,
+you are taking every possible element in
+both sets, along with the intersection.
+Example Below Meant: To take the
+elements that appear in either Set A or
+Set B, along with the intersection
+between A and B.
+∈ Element of: To explain that something is
+an element of a set.
+𝑛(𝐴) Number of Element in a specific set: In
+this case, we are talking number of
+elements in set A.
+𝐴′ 𝐴𝑐
+(Not used in ‘O’ Levels,
+appears in other
+textbooks)
+Complement of a specific set:
+In this case, we are talking about the
+complement of set A, or simply,
+whatever element not found in set A.
+
+-- 108 of 145 --
+
+⊆
+E.g. (𝐴 ⊆ 𝐵)
+To be a subset of:
+In the example below the notation, we
+are saying that whatever element found
+in set A is found in set B as well.
+⊂
+E.g. (𝐴 ⊂ 𝐵)
+To be a proper subset of:
+In the example below the notation, we
+are implying that whatever element
+found in set A is found in set B. However,
+set B must contain at least one element
+not found in set A.
+{}
+E.g. 𝐴 = {1,2,3}
+To contain the following elements as
+mentioned.
+In the example, we meant set A is to
+contain elements 1,2,3.
+∅
+E.g. 𝐴 ∩ 𝐵 = ∅
+To describe a null set, or a set that
+doesn’t exist.
+In the example, it implies the
+intersection between set A and set B
+does not exist.
+Example 1. Drawing Venn Diagram for a Given Question. (Elements of sets not given,
+just ask you to draw Venn Diagram)
+A universal set is given by 𝜀 and its subsets are given by 𝐴 and 𝐵.
+Draw separate Venn Diagrams, for the following situations.
+(a) 𝐴 ∩ 𝐵
+(b) 𝐴 ∪ 𝐵
+(c) 𝐴′ ∪ 𝐵
+(d)(𝐴 ∩ 𝐵′)′
+(e) 𝐴 ∩ 𝐵 = ∅
+To facilitate understanding of the question, I would assign “dummy elements” to set A,
+set B and 𝜀. The dummy element will not be used for answering of question. In an exam
+situation, I will either ask for extra paper and write the dummy elements down and do
+workings with the help of the dummy element or, I will do workings with a pencil with
+the dummy elements and erase them later.
+
+-- 109 of 145 --
+
+Dummy Elements
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+Example 1(a)
+Step 1: Understand the
+question using the dummy
+elements you produce.
+𝐴 = {2,3,4,5}
+𝐵 = {4,5,6,7,8,9}
+𝜀 = {1,2,3,4,5,6,7,8,9,10}
+
+##### 20.txt #####
+Title Basic Trigonometry and Geometry of Congruent & Similar Triangles
+Notes This article assumes that you have already studied and understand the basic
+rules of geometry as it will include basic level guides to proving congruence
+and similarity of triangles.
+Pythagoras’ Theorem
+Given that 𝑐 refers to the hypotenuse (the longest side) of a right-angled triangle,
+a 𝑎𝑛𝑑 𝑏 represent the other 2 sides of a right-angled triangle, the Pythagoras’
+theorem implies the following
+𝑎2 + 𝑏2 = 𝑐2
+Which can also be rewritten as √𝑎2 + 𝑏2 = 𝑐
+Basic Trigonometric Ratios of Right-angled Triangle
+sin 𝜃 = 𝑂𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑆𝑖𝑑𝑒
+𝐻𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒 𝑆𝑖𝑑𝑒
+cos 𝜃 = 𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑆𝑖𝑑𝑒
+𝐻𝑦𝑝𝑜𝑡𝑒𝑛𝑢𝑠𝑒 𝑆𝑖𝑑𝑒
+tan 𝜃 = 𝑂𝑝𝑝𝑜𝑠𝑖𝑡𝑒 𝑆𝑖𝑑𝑒
+𝐴𝑑𝑗𝑎𝑐𝑒𝑛𝑡 𝑆𝑖𝑑𝑒
+In the above right-angled triangle, we can see that the hypotenuse side is the longest
+in any right-angled triangle. The adjacent side refers to the side of the triangle that is
+closest to the angle in question. Finally, the opposite side refers to the side of the
+triangle that is opposite of the given angle 𝜃 in question.
+Uses of Basic Inverse Trigonometric Functions on Calculator
+𝜃 = sin−1(sin 𝜃)
+𝜃 = cos−1(cos 𝜃)
+𝜃 = tan−1(tan 𝜃)
+Opposite Side
+Adjacent side
+Hypotenuse side
+Angle
+𝜃
+
+-- 117 of 145 --
+
+Given any triangle, such as the
+triangle on the right of this row as an
+example.
+Sine Rule states the following:
+sin 𝐴
+𝑎 = sin 𝐵
+𝑏 = sin 𝐶
+𝑐
+Where ∠𝐴 is opposite of side 𝑎
+∠𝐵 is opposite of side 𝑏
+∠𝐶 is opposite of side 𝑐
+Or in the case of the triangle we have
+on the right side of the row
+sin ∠𝐵𝐴𝐶
+𝑎 = 𝑠𝑖𝑛∠𝐴𝐵𝐶
+𝑏 = sin ∠𝐵𝐶𝐴
+𝑐
+Cosine Rule states the following:
+𝑎2 = 𝑏2 + 𝑐2 − 2𝑏𝑐 cos 𝐴
+𝑏2 = 𝑎2 + 𝑐2 − 2𝑎𝑐 cos 𝐵
+𝑐2 = 𝑎2 + 𝑏2 − 2𝑎𝑏 cos 𝐶
+Where ∠𝐴 is opposite of side 𝑎
+∠𝐵 is opposite of side 𝑏
+∠𝐶 is opposite of side 𝑐
+Because of the formula, it is also
+possible to find ∠𝐴, ∠𝐵 and ∠𝐶 by
+working with the formula of cosine
+rule via the following as derived from
+the above formulae.
+cos 𝐴 = 𝑎2−𝑏2−𝑐2
+−2𝑏𝑐
+
+-- 118 of 145 --
+
+cos 𝐵 = 𝑏2−𝑎2−𝑐2
+−2𝑎𝑐
+cos 𝐶 = 𝑐2−𝑎2−𝑏2
+−2𝑎𝑏
+∠𝐴 = cos−1(cos 𝐴)
+∠𝐵 = cos−1(cos 𝐵)
+∠𝐶 = cos−1(cos 𝐶)
+Given a triangle, with 2 known sides
+length and 1 known angle that lies
+between the 2 known sides, the
+formula for area of such triangle is
+given as below:
+1
+2 𝑎𝑏 sin 𝐶
+Concepts involving Angle of
+Elavation and Angle of Depression
+Angle of Elavation
+𝜃
+(Representing
+the angle of
+elevation)
+Observer
+(Observed object)
+
+-- 119 of 145 --
+
+Angle of Depression
+Concepts of Congruence of Triangles:
+Triangles are said to be congruent to
+each other when they are exactly
+the same shape, size and
+dimensions.
+Notation: We use the symbol
+”≡” to mean “is congurent to” and
+use the following rules to justify why
+two triangles are congruent.
+Example
+△ 𝑨𝑩𝑪 ≡△ 𝑿𝒀𝒁 (By SAS Triangle
+Congruence Rule)
+Implies triangle ABC is congruent to triangle
+XYZ as both triangle share similar length on 2
+sides and share the same included angle.
+SSS (Side-Side-Side) Congruence Rule
+Explanation – Two triangles are said
+to be congruent if all three
+corresponding sides are equal.
+Illustration of Concepts
+Observer
+(Observed
+object)	Angle of
+Depression as
+represented
+using 𝜃
+
+-- 120 of 145 --
+
+SAS (Side-Angle-Side) Congruence
+Rule
+Explanation – Two triangle are said to
+be congurent if two corresponding
+side are equal and they have an equal
+including angle
+AAS (Angle Angle Side) Congruence
+
+##### 21.txt #####
+Title Matrices – Rules, Operations and Applications
+Notes and
+Credits
+Some examples here are taken directly from CASCO Mathematics Tutor
+4B for demonstration purposes
+Date
+Before we proceed, I will be providing explanation on various vocabulary that surrounds
+how any matrices would be described, added, subtracted and multiplied, it is very
+important to understand these terms as any correct matrix operation relies heavily on
+correct understanding of core concepts.
+Typical structure of a matrix as an example
+(3 6
+0 4) As seen from the matrix on the left side of
+this table row, we see a typical matrix
+which consist of a large bracket with a set
+of numbers (also referred to as elements)
+in a rectangle array format.
+The term rows and columns
+Rows Refers to an arrangement of matrix
+elements made horizontally
+Columns Refers to an arrangement of matrix
+elements made vertically
+Let’s see a few real examples that would clear confusion instantly
+For the following matrices, state the number of rows and column
+(4 3 1
+0 8 4)
+Referring to our definitions of rows and columns, we get the following idea on the
+above example
+The matrix above has 2 elements each in horizontal format for every 3 elements
+arranged vertically, therefore the matrix above has 2 rows and 3 columns.
+Example
+(
+7
+2
+4
+)
+Referring to our above example, we get the following idea
+
+-- 124 of 145 --
+
+The matrix just right above has 3 elements in horizontal arrangement for every 1 and
+only element arranged vertically, therefore the matrix has 3 rows and 1 column.
+Order of any matrices is described by the number of rows multiplied by the number of
+columns
+Example:
+State the order of the matrix below.
+(82 5 2
+0 61 18)
+In this case, the matrix order is said to be 2 × 3, as it has 2 horizontal elements for every
+3 vertical elements.
+Square Matrices
+In the case where the matrix has same number of rows and columns, the matrix is
+called a square matrix.
+Example:
+(5) is a square matrix, as it has order 1 × 1
+(1 1
+2 0) is a square matrix, as it has order 2 × 2
+(
+3 3 5
+0 4 1
+2 5 0
+) is also a square matrix, as it has a 3 × 3 order and so on….
+Identity matrices are square matrices, specifically, in which all the elements in the
+leading diagonal are equal to 1 and the rest of the elements are equal to 0, typically
+denoted by the capital letter I.
+Examples
+(𝟏 𝟎
+𝟎 𝟏)
+(
+𝟏 𝟎 𝟎
+𝟎 𝟏 𝟎
+𝟎 𝟎 𝟏
+)
+Null Matrices – matrices for which all the elements inside are zero, typically denoted
+by 0.
+Examples
+(0 0)
+
+-- 125 of 145 --
+
+(0
+0)
+(
+0 0
+0 0
+0 0
+)
+Addition and Subtraction Operation on Matrices
+Both operation of addition and subtraction of matrices can only happen if both matrices
+are of the exact same order.
+Example as given below
+( 7 3
+−4 −6) + (−9 1
+6 7) will produce valid results as the order are the same
+(2 −2
+1 4 ) + ( 8
+12) will not produce valid results of any kind due to differences in order of
+both matrices
+(5 −6) − (5 7) will produce valid results as the order are the same
+(8 0 9
+5 −3 7) − (0 −5
+2 −1) will not produce valid results of any kind due to differences in
+order of both matrices.
+Things to note about matrices addition and subtraction
+Matrices addition is commutative in nature which means, if 𝐴 and 𝐵 represents two
+matrices of the same order, then
+𝐴 + 𝐵 = 𝐵 + 𝐴
+Matrices addition is also associative in nature, which means if 𝐴, 𝐵 and C represents
+three matrices of the same order, then
+(𝐴 + 𝐵) + 𝐶 = 𝐴 + (𝐵 + 𝐶)
+However, matrices subtraction is neither commutative nor associative in nature, as with
+regular subtraction, which means generally speaking,
+𝐴 − 𝐵 ≠ 𝐵 − 𝐴
+(𝐴 + 𝐵) − 𝐶 ≠ 𝐴 − (𝐵 + 𝐶)
+
+-- 126 of 145 --
+
+Multiplication Operation involving Scalar and a Matrix
+Multiplication Operation can involve regular numbers (also called a scalar) being
+multiplied to a matrix
+Given a matrix, 𝐴 and a regular number, 𝑛 the product of the two is 𝑛 × 𝐴
+Multiplication Operation involving Multiple Matrices
+Both matrices can only be multiplied together provided, the number of columns in the
+first matrix matches the number of rows in the second matrix, in mathematical terms,
+this implies, given two matrices, 𝐴 and 𝐵
+Matrix 𝐴 has order of 𝑚 × 𝑛, Matrix 𝐵 has order of 𝑝 × 𝑞, multiplication can only occur
+if 𝑛 = 𝑝
+The resultant matrix 𝐴𝐵 after multiplying 𝐴 and 𝐵 shall have an order of 𝑚 × 𝑞
+Demonstration of how to perform addition and subtraction of matrices, along with
+scalar multiplication
+
+##### 22.txt #####
+Title Principles of Money Exchange
+Author Liu Hui Ling, Student of Ngee Ann Polytechnic
+Date 29/5/2018
+Before we start introducing this topic, let us talk about why different country has
+different currencies in the first place. There isn’t a short answer for that but these are
+the following reasons:
+• Origins of Money – The origin of money is different for countries, when they
+switch over to notes, their origin is taken into account as well.
+• Politics – As a political leader, you want some control over your country’s
+economic system and thus, would use your own country’s currency.
+As the origin of money is different in different countries, we cannot just say, let the
+world adopt a common currency and call it a day, this whole story is further extended by
+political reasons where leaders want control over their nation’s spending.
+Notation in this topic Examples and Meaning
+Currency Notation Usually a 3 Letter (Sometimes 2 or 4, but rare) joined
+together, that either abbreviates the currency name or
+just the currency prefix.
+USD – United States Dollars
+JPY – Japanese Yen
+EUR – Euros
+Amount of Money in that
+Currency
+Amount in the currency, followed by the 3-Letter-
+Representation of that currency.
+200 EUR – Means 200 Euros
+115 JPY – Means 200 Japanese Yen
+Occasionally symbols are used as well but I rarely see in
+textbooks, in the context of currency exchange. However,
+if you wish to go for overseas trip, do a good research on
+their currency symbols, as I mentioned, the origins of
+money are different in various countries, so could be the
+language and thus they also adopt different symbols for
+their native currency.
+
+-- 130 of 145 --
+
+Just some extra knowledge I think would be useful if you are planning for overseas
+learning trips, these terms may be used frequently in the process of exchanging
+currency with a money changer, or perhaps when you study Principle of Accounting next
+time.
+Extended Terms Meaning
+Appreciation To rise in values in relation to other currency, comparing
+with the past
+Depreciation To decrease in value in relation to other currency,
+comparing with the past.
+Example question (Disclaimer: This is just an example and may not be true.)
+Given the below currency rates, solve the following questions.
+1 USD 0.78 SGD
+1 SGD 0.64 EUR
+Alice wishes to buy a present for her friend as a gift on birthday from an online store.
+According to the site, any items sold on that site have their values all calculated in
+Euros. Given that the present is 19 Euro, and that she needs to also pay an additional
+11 Euro in transportation fees and 7 SGD worth of import charges. How much does
+she as to pay at the end in Singapore Dollars?
+Step 1. Calculate currency rates from table information.
+Since 1 SGD is 0.64 EUR, we calculate what is 1 EUR in SGD.
+1 SGD = 0.64 EUR
+1 𝑆𝐺𝐷
+0.64 = 0.64 𝐸𝑈𝑅
+0.64
+1.5625 SGD = 1 EUR
+(For easy calculation, switch the target currency to the Right-Hand Side)
+1 EUR = 1.5625 SGD
+Present + Transportation Fee (in Euro) =
+19 EUR + 11 EUR = 30 EUR
+Convert to target currency, (in Singapore Dollars)
+30 EUR = 30(1.5625) SGD = 46.875 SGD
+
+-- 131 of 145 --
+
+Add Charges (in Singapore Dollars)
+46.875 SGD + 7 SGD = 53.875 SGD
+Total = 53.875 SGD
+Total (Currency Round off to 2 Decimal Places): 53.88 SGD
+Bob’s manager has a task for Bob. He is asked to travel to the United States to train
+the staff there on using accounting software. His company sponsored 6000 SGD of trip
+fees for his accommodation in United States during his trip.
+Given he spent 1500 USD in the United States, how much money is he left with in SGD
+after the trip ends?
+Convert all values to target currency
+1 SGD = 0.78 USD
+1 USD = 1.28205 SGD (I use 5 decimal places for this calculation, you can use fraction as
+well.) (Money changers, typically, don’t use scientific calculators for calculation and thus
+unable to use fraction values to calculate.)
+Convert Expenses to Target Currency Value
+1500 USD = 1500(1.28205) = 1923.075 SGD
+Money Left (in SGD) = 6000 SGD – 1923.075 SGD = 4076.925 SGD,
+4076.93 SGD (2 Decimal Places)
+
+-- 132 of 145 --
+
+
+##### 23.txt #####
+Title Mathematics in Practical Situations – Simple and Compound Interest –
+Basic Explanation and Examples
+Author Liu Hui Ling, Ngee Ann Polytechnic
+Date 19/7/2018
+Objectives of this lesson is to allow students to
+• Understand the idea of simple and compound interest
+• Understand the formula for simple and compound interest
+I am studying business related modules and know what students will face, particularly
+those not so mathematically inclined students. I am here to help explain the concepts in
+an easy-to-understand manner.
+Simple Interest Properties
+➢ Amount of Interest Obtained per time interval is constant
+➢ Amount of Interest Obtained per time interval is calculated by multiplying the
+interest rate by the original amount put in to a system or given (Can be bank
+loan, or bank deposit)
+Simple Interest (Mathematical Details)
+For interest value calculation
+𝐼 = 𝑃𝑅𝑇
+𝐼 refers to the interest amount obtained
+𝑃 stands for principle amount, refers to the amount of money put into the system or
+loaned
+𝑅 refers to the interest rate in %
+𝑇 number of time intervals passed after the money is put into a system
+For amount of money in the system or to be returned after 𝑇 number of time intervals is
+𝐴 = 𝑃(1 + 𝑅𝑇)
+𝐴 refers to the total amount after 𝑇 number of time intervals.
+
+-- 133 of 145 --
+
+Explanation of the Simple Interest Formula as Given Below
+Imagine you are a customer for a bank and you put in $2300 in your bank account.
+Based on the agreement, the bank was to offer you an interest rate of 3% per year.
+Number of
+Years Passed
+𝑇
+Interest Amount
+𝐼
+Final Amount
+𝐴
+1 $2300 × 3% × 1 2300 + (2300 × 3% × 1)
+2 $2300 × 3% × 2 2300 + (2300 × 3% × 2)
+3 $2300 × 3% × 3 2300 + (2300 × 3% × 3)
+The final amount as you can see from the pattern can be expressed as the following
+formula
+𝐴 = 𝑃 + (𝑃𝑅𝑇)
+𝐴 = 1(𝑃) + 𝑅𝑇(𝑃)
+Right Hand Side to be factorized as follows.
+𝐴 = 𝑃(1 + 𝑅𝑇)
+Compound Interest Properties
+➢ Interest Amount keep increasing with Each Passing Time Interval
+➢ Interest Rate is constant however, the interest amount is calculated from the
+amount from the previous time interval. (I will explain in detail below)
+Imagine you went into a bank and deposited $12000 into a new bank account. The bank
+is to allow you to earn 4% of interest to be compounded yearly.
+Number of
+Years Passed
+𝑇
+Interest Amount
+𝐼
+Final Amount After 𝑇 number of years
+passed
+𝐴
+1 12000(4%) = 12000(4%) + 12000 = 480 + 12000
+= $12480
+Or
+12000 × 104% = $12480
+2 12000(4%) + 12480(4%) =
+480+499.2 = $979.20
+12000× 104% × 104% = $12979.20
+
+-- 134 of 145 --
+
+3 12000(4%) + 12480(4%) +
+12979.20(4%) =
+480+499.2+519.168 =
+$1498.368
+12000 × 104% × 104% × 104% =
+13498.368
+As you can see from the above, a pattern emerges.
+𝑨 is the final amount obtained after 𝑻 number of time intervals.
+𝒓 is the amount of percentage interest given, 𝒓
+𝟏𝟎𝟎 refers to the percentage interest
+itself.
+We derived the following formula for amount of money obtained, after 𝑻 number of
+time intervals and 𝒓% of compound interest.
+𝑨 = 𝑷 (𝟏 + 𝒓
+𝟏𝟎𝟎)
+𝑻
+(Some textbooks may use different letters. Just change the letters accordingly and you
+should get the idea.)
+
+-- 135 of 145 --
+
+
+##### 24.txt #####
+Title Financial Arithmetic – Hire Purchase
+Author Liu Hui Ling, Ngee Ann Polytechnic
+Date 7/1/2019
+Hire purchase, otherwise known more familiar as “pay by installments” appears quite
+often in our lives. That may include purchasing a vehicle or any assets for which paying
+at one go isn’t always a feasible idea, therefore there will be a need to divide the
+payment into equal segments or “installments” and often it will take many years before
+you finally clear the installments.
+Terminology used in Hire Purchase plans
+• Deposit/Initial Payment – The amount of money being paid upfront at the point
+of purchase.
+• Installments – The number of “intervals” for which the payment is divided into
+equal segments.
+Structure of a Hire Purchase Plan Which Are Important To Note
+Initial payment amount Example: A car cost $50 000 and the buyer pay an
+initial amount of 40%, implying the initial amount is
+$50 000(40%) = $20 000
+Number of Installments Example: The car dealer allows you to pay the
+remaining amount in 24 months, each payment to be
+done every month, which works out to 24
+installments in total.
+Interest Rate (Typically simple
+interest)
+The car dealer also requires you to pay an additional
+2.5% interest on top of your total installment
+amount.
+Total Interest payable Example: The total interest can be computed as
+follows:
+Total Interest payable =
+Remaining Amount× Interest Rate
+In the car example, the remaining amount is
+$50 000 − $20 000 = $30 000
+Total interest payable is
+$30 000 × 2.5% = $750
+
+-- 136 of 145 --
+
+Amount Paid per Installment Amount Paid per Installment =
+𝑅𝑒𝑚𝑎𝑖𝑛𝑔 𝐴𝑚𝑜𝑢𝑛𝑡+𝑇𝑜𝑡𝑎𝑙 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑃𝑎𝑦𝑎𝑏𝑙𝑒
+𝑁𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝐼𝑛𝑠𝑡𝑎𝑙𝑙𝑚𝑒𝑛𝑡
+Using the car example, we can calculate the
+Amount paid per installment as
+$30 000 + $750
+24 = $1281.25
+Total Amount Payable Total Amount Payable is computed as follows
+𝑇𝑜𝑡𝑎𝑙 𝐴𝑚𝑜𝑢𝑛𝑡 𝑃𝑎𝑦𝑎𝑏𝑙𝑒 =
+(𝐼𝑛𝑖𝑡𝑖𝑎𝑙 𝑃𝑎𝑦𝑚𝑒𝑛𝑡 𝐴𝑚𝑜𝑢𝑛𝑡 + 𝑅𝑒𝑚𝑎𝑖𝑛𝑖𝑛𝑔 𝐴𝑚𝑜𝑢𝑛𝑡 +
+𝑇𝑜𝑡𝑎𝑙 𝐼𝑛𝑡𝑒𝑟𝑒𝑠𝑡 𝑃𝑎𝑦𝑎𝑏𝑙𝑒)
+Which works out to be
+$20 000 + $30 000 + $750 = $50 750
+
+-- 137 of 145 --
+
+
+##### 25.txt #####
+Title Vectors in two dimensions
+Date 6/7/2024
+Notice Diagrams created with help from various free web applications.
+This topic assumes a sufficiently good understanding of coordinate geometry
+topic as taught in secondary one.
+Understanding the concept of scalars and vectors.
+Scalars are quantities that only possess magnitude, while vectors are quantities that
+possess both magnitude and direction.
+Notation for vectors that needs understanding here:
+(Since we are only dealing with 2D plane here, we will only go through notations used in
+basic 2D vector geometry)
+Any vectors in a 2D plane can be described by the following example notation, given two
+points, 𝐴 and 𝐵 and the purpose of the vector is to describe the movement from point 𝐴
+and point 𝐵.
+𝐴𝐵	⃗⃗⃗⃗⃗	 , where 𝐴 represents the starting point of the vector and 𝐵 represents the ending (or
+destination) point of the vector.
+Visual Illustration as shown below:
+Vectors can also be represented using lower case alphabets in the following manner,
+given vector 𝒂 = 𝐴𝐵	⃗⃗⃗⃗⃗
+
+-- 138 of 145 --
+
+The most important rules of vector operations (as it serves a strong basis for other
+rules below):
+Triangle Law of Addition
+𝐴𝐵	⃗⃗⃗⃗⃗	 + 𝐵𝐶	⃗⃗⃗⃗⃗	 = 𝐴𝐶	⃗⃗⃗⃗⃗
+In the case of the diagram representation below, 𝑎 + 𝑏 = 𝑐
+Parallelogram Law of Addition
+𝑨𝑩	⃗⃗⃗⃗⃗⃗	 + 𝑨𝑪	⃗⃗⃗⃗⃗	 = 𝑨𝑫	⃗⃗⃗⃗⃗⃗
+Basic Law of Subtracting a vector from another vector.
+𝑎 − 𝑏 = 𝑎 + (−𝑏) = 𝑐 or 𝐴𝐶	⃗⃗⃗⃗⃗	 − 𝐴𝐵	⃗⃗⃗⃗⃗	 = 𝐵𝐶	⃗⃗⃗⃗⃗
+
+-- 139 of 145 --
+
+Rules of Addition, Subtraction and Scalar Multiplication of Column Vectors
+(𝒂
+𝒃) + (𝒄
+𝒅) = (𝒂 + 𝒄
+𝒃 + 𝒅)
+(𝒂
+𝒃) − (𝒄
+𝒅) = (𝒂 − 𝒄
+𝒃 − 𝒅)
+𝒌 (𝒄
+𝒅) = (𝒌𝒄
+𝒌𝒅)
+Vectors as represented under a 2D Cartesian coordinate system
+Notation and Formula:
+(𝒎
+𝒏 ) + (𝒙
+𝒚) = (𝒂
+𝒃)
+As a result of the above formula, it is also apparently possible to find the vector’s
+displacement after being given two points (origin and destination) by the following
+method.
+Given two points from 𝑨(𝒄, 𝒅) to 𝑩(𝒇, 𝒈)
+The vector displacement across the plane can be found by first expressing the
+coordinates in column vector format and letting the destination point minus the origin
+point
+(𝑓
+𝑔) − (𝑐
+𝑑) = 𝐴𝐵	⃗⃗⃗⃗⃗
+Starting
+point of
+vector
+(Also
+called
+the
+origin)
+Displacement
+of vector
+itself, the
+number of
+units moved
+on the x and
+y coordinate
+End point of the
+vector (Also called
+the destination)
+
+-- 140 of 145 --
+
+Formula for analysis of vectors
+Given a vector 𝑶𝑨	⃗⃗⃗⃗⃗⃗	 = (𝒂
+𝒃) , the absolute length of the vector is |𝑶𝑨	⃗⃗⃗⃗⃗⃗	 | = √𝒂𝟐 + 𝒃𝟐
+Conditions for 2 vectors to be parallel
+Given vector 𝑎 = 𝑂𝐴	⃗⃗⃗⃗⃗	 and vector 𝑏 = 𝑃𝐵	⃗⃗⃗⃗⃗
+Vector 𝑎 can only be parallel to vector 𝑏 if 𝑎 = 𝑘𝑏
+Conditions for 2 vectors to be collinear
+Given vector 𝑃𝑄	⃗⃗⃗⃗⃗	 = 𝑘𝑃𝑅	⃗⃗⃗⃗⃗	 , then 𝑃𝑄 is parallel to 𝑃𝑅,
+𝑃𝑄 = 𝑘𝑃𝑅
+The points 𝑃, 𝑄 and 𝑅 are collinear.
+Example 1. (Taken from CASCO Mathematics Tutor 4B)
+Given that A is the point (−9, 2), 𝐵𝐴	⃗⃗⃗⃗⃗	 = ( 8
+−6) and 𝐶𝐷	⃗⃗⃗⃗⃗	 = ( 𝑚
+−3).
+Find
+(a) |𝐵𝐴	⃗⃗⃗⃗⃗	 |
+(b) the coordinates of 𝐵.
+(c) the value of 𝑚 is 𝐶𝐷	⃗⃗⃗⃗⃗	 is parallel to 𝐵𝐴	⃗⃗⃗⃗⃗
+1(a)
+|𝐵𝐴	⃗⃗⃗⃗⃗	 | = √82 + (−6)2 = 10 units
+1(b)
+Given that Point B is the origin of the vector and Point A is the destination of the vector.
+(−𝟗
+𝟐 ) − ( 𝟖
+−𝟔) = (−𝟏𝟕
+𝟖 )
+Point B = (−𝟏𝟕, 𝟖)
+1(c)
+𝐶𝐷	⃗⃗⃗⃗⃗	 = 𝑘𝐵𝐴	⃗⃗⃗⃗⃗
+( 𝑚
+−3) = 𝑘 ( 8
+−6)
+To determine the value of 𝑘 we perform the following operation:
+𝑘 = −3
+−6 = 1
+2
+
+-- 141 of 145 --
+
+∴ 𝑚 = 1
+2 (8) = 4
+Example 2. (Taken from CASCO Mathematics Tutor 4B)
+The position vectors of the points 𝐴, 𝐵 and 𝐶 , relative to the origin, 𝑂 are (−6
+5 ) , ( 0
+𝑚)
+and ( 10
+−3) respectively.
+(a) Express 𝐴𝐵	⃗⃗⃗⃗⃗	 and 𝐴𝐶	⃗⃗⃗⃗⃗	 as column vectors

@@ -1,0 +1,32 @@
+: 5
+[ 2 A gift shop sells two types of fruit hampers, A and B.
+[ The contents of each type of hamper are given in the table below.
+0
+| HamperB | 4 | 6 [ 5 | 1
+| . Lo . 3420
+The information given is represented by the matrix P= 4651)
+The cost price of an apple, an orange, a pear and a pineapple are $0.50, $0.45, $0.60 and $1.80
+respectively.
+(a) Write down a 4 x 1 matrix Q to represent the cost price of the fruits.
+0.50
+0.4%
+-&0
+Answer Q =... Ray bss [1]
+(b) Calculate PQ. 0.50
+2 © 0.4%
+Pa ( 3 4 ) ‘
+4 ts /[000
+1:8
+4.50 ( 4 =
+( 9.50 Answer PQ = ......\ ds So—— J
+(¢) Describe what is represented by the elements of PQ.
+y de res; ctivel,
+Tine total cost pri of fruits in Howper A and & Tipe
+(d) Given that R=(30 20), calculate RPQ.
+(30 >9) +50) = (325)
+9.59
+(35%)
+Answer RPQ =... liven [1]
+(e) Suggest a meaning for the iplarugtion represented by the matrix RPQ.
+20 Mowe & .
+[Turn over

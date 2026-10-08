@@ -1,0 +1,20 @@
+3
+Answer all the questions.
+1 Simplify 2(5a+30)-3(a-2b).
+2(5a+3b)-3(a—2b)
+=10a+6b—3a+6b [M1 — correct expansion]
+=7a+12b [A1]
+Answer... [2]
+2 Factorise completely
+(a) 2x¢+5x-3,
+2x% +5x-3
+=(2x-1)(x+3) [B1]
+Answer... [1]
+(b) 3ax+Gay—x-2y.
+3ax+ Bay — x—2y
+=3a(x+2y)—(x+2y) [M1]
+=(x+2y)(3a-1) [A]
+Answer... [2]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

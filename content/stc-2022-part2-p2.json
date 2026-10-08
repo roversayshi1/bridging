@@ -1,0 +1,246 @@
+{
+  "questions": [
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Indices",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q1a",
+      "prompt": "Simplify (32a^10 / b^15)^(-2/5).",
+      "model_answer": "b^6 / (4a^4)",
+      "explanation": "(32a^10/b^15)^(-2/5) = (b^15/32a^10)^(2/5) = b^6 / (4a^4)."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Algebraic fractions",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q1b",
+      "prompt": "Express y/(3y - 5)^2 + 2/(5 - 3y) as a single fraction in its simplest form.",
+      "model_answer": "(10 - 5y) / (3y - 5)^2",
+      "explanation": "2/(5 - 3y) = -2/(3y - 5).\ny/(3y - 5)^2 - 2/(3y - 5) = [y - 2(3y - 5)] / (3y - 5)^2 = (10 - 5y) / (3y - 5)^2."
+    },
+    {
+      "topic_code": "t04",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Algebraic fractions",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q1c",
+      "prompt": "Simplify (3x^2 - 108) / (2x^2 + 5x - 42).",
+      "model_answer": "3(x - 6) / (2x - 7)",
+      "explanation": "3x^2 - 108 = 3(x^2 - 36) = 3(x + 6)(x - 6).\n2x^2 + 5x - 42 = (x + 6)(2x - 7).\nResult = 3(x - 6) / (2x - 7)."
+    },
+    {
+      "topic_code": "t06",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Linear inequalities",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q1d",
+      "prompt": "Solve the inequality\n\n(3x - 2)/4 <= (4 + 5x)/3.",
+      "model_answer": "x >= -2",
+      "explanation": "3(3x - 2) <= 4(4 + 5x).\n9x - 6 <= 16 + 20x.\n-11x <= 22.\nx >= -2."
+    },
+    {
+      "topic_code": "t06",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Simultaneous equations",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q1e",
+      "prompt": "Solve the simultaneous equations:\n\n4x - 3y = 5\n6x + 5y = -2",
+      "model_answer": "x = 1/2, y = -1",
+      "explanation": "From elimination: -19y = 19, y = -1.\n4x - 3(-1) = 5 => 4x = 2 => x = 1/2."
+    },
+    {
+      "topic_code": "t17",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Probability without replacement",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q2a",
+      "prompt": "A bag contains 10 red balls and 8 green balls. Anna takes two balls at random without replacement. She claims P(one red and one green) = 2/9.\n\nExplain why she is wrong and find the correct probability.",
+      "model_answer": "80/153",
+      "explanation": "P(RG or GR) = 2(10/18)(8/17) = 80/153, not 2/9."
+    },
+    {
+      "topic_code": "t17",
+      "difficulty": "Hard",
+      "diagram_required": false,
+      "subtopic": "Probability forming equations",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q2b",
+      "prompt": "A bag has 10 red and 8 green balls. n red balls are removed. Two balls are then drawn without replacement. P(both green) = 4/13.\n\nShow that n^2 - 35n + 124 = 0.",
+      "model_answer": "n^2 - 35n + 124 = 0",
+      "explanation": "P(both green) = [8/(18-n)] x [7/(17-n)] = 4/13.\nCross-multiply and expand to get n^2 - 35n + 124 = 0."
+    },
+    {
+      "topic_code": "t06",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Quadratic equations",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q2c",
+      "prompt": "Solve n^2 - 35n + 124 = 0.",
+      "model_answer": "n = 4 or n = 31",
+      "explanation": "(n - 4)(n - 31) = 0.\nn = 4 or n = 31."
+    },
+    {
+      "topic_code": "t17",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Probability context",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q2d",
+      "prompt": "When solving n^2 - 35n + 124 = 0 for the number of red balls removed from a bag that originally had only 10 red balls, explain why one solution must be rejected.",
+      "model_answer": "n = 31 is impossible because there are only 10 red balls.",
+      "explanation": "n=31 would remove more red balls than exist; accept n=4 only."
+    },
+    {
+      "topic_code": "t14",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Distance between points",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q4a",
+      "prompt": "A is the point (-1, 3) and B is the point (7, 9). Find the length of AB.",
+      "model_answer": "10 units",
+      "explanation": "AB = sqrt((7 - (-1))^2 + (9 - 3)^2) = sqrt(64 + 36) = sqrt(100) = 10."
+    },
+    {
+      "topic_code": "t14",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Equation of a line",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q4b",
+      "prompt": "ABCD is a trapezium with AB parallel to CD. A(-1, 3), B(7, 9) and AD = (1, -7).\n\nFind the equation of the line CD.",
+      "model_answer": "y = (3/4)x - 4",
+      "explanation": "Gradient of AB = (9 - 3)/(7 - (-1)) = 6/8 = 3/4.\nD = A + AD = (0, -4).\nLine CD: y - (-4) = (3/4)(x - 0), so y = (3/4)x - 4."
+    },
+    {
+      "topic_code": "t14",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Ratio of lengths",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q4ci",
+      "prompt": "A(-1, 3), B(7, 9). Point X lies on AB such that area(triangle AXD) : area(triangle BXD) = 1 : 3.\n\nFind AX.",
+      "model_answer": "2.5 units",
+      "explanation": "Equal heights from D to AB, so AX : XB = 1 : 3.\nAX = 1/4 x AB = 1/4 x 10 = 2.5 units."
+    },
+    {
+      "topic_code": "t15",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Position vectors",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q4cii",
+      "prompt": "O is the origin. A(-1, 3), B(7, 9) and X divides AB in the ratio AX : XB = 1 : 3.\n\nFind the position vector of X.",
+      "model_answer": "(1, 4.5)",
+      "explanation": "AB = (8, 6). AX = 1/4 AB = (2, 1.5).\nOX = OA + AX = (-1 + 2, 3 + 1.5) = (1, 4.5)."
+    },
+    {
+      "topic_code": "t08",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Matrix representation",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q7a",
+      "prompt": "Cafe X prices ($): A 5.20, L 6.60, M 7.30. Cafe Y: A 5.50, L 6.40, M 7.40. Belinda buys 2A, 4L, 3M; Carol buys 5L, 4M. Write purchases as 3x2 matrix Q (rows A,L,M; cols Belinda, Carol).",
+      "model_answer": "Q = [[2, 0], [4, 5], [3, 4]]",
+      "explanation": "Rows are drink types; columns are Belinda and Carol."
+    },
+    {
+      "topic_code": "t08",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Matrix multiplication",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q7b",
+      "prompt": "P = [[5.20, 6.60, 7.30], [5.50, 6.40, 7.40]] (rows: Cafe X, Cafe Y; cols: A, L, M).\nQ = [[2, 0], [4, 5], [3, 4]].\n\nEvaluate R = PQ.",
+      "model_answer": "R = [[58.70, 62.20], [58.80, 61.60]]",
+      "explanation": "Row 1 (Cafe X): [2(5.20)+4(6.60)+3(7.30), 0+5(6.60)+4(7.30)] = [58.70, 62.20].\nRow 2 (Cafe Y): [58.80, 61.60]."
+    },
+    {
+      "topic_code": "t08",
+      "difficulty": "Easy",
+      "diagram_required": false,
+      "subtopic": "Matrix interpretation",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q7c",
+      "prompt": "R = PQ where row 1 is Cafe X and row 2 is Cafe Y, and columns are Belinda and Carol.\n\nState what each element of R represents.",
+      "model_answer": "Each element is the total cost of the drinks ordered by Belinda or Carol at that cafe.",
+      "explanation": "Each entry is total bill for that person at that cafe."
+    },
+    {
+      "topic_code": "t03",
+      "difficulty": "Hard",
+      "diagram_required": false,
+      "subtopic": "Percentage change",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q7d",
+      "prompt": "Belinda and Carol each buy from the cheaper cafe in February (Belinda: 2A, 4L, 3M; Carol: 5L, 4M). In July they buy the same from the same cafes. Prices change: Americano +10%, Latte +15%, Mocha -5% (both cafes).\n\nCalculate the percentage change in the combined total spent (February + July vs February alone doubled).",
+      "model_answer": "6.01%",
+      "explanation": "Feb total $120.30; July total ≈ $127.53. % change on 2×Feb ≈ 6.01%."
+    },
+    {
+      "topic_code": "t16",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Grouped data",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q8a",
+      "prompt": "40 students: time on social media (hours) — <10: p, 10-20: 11, 20-30: 10, 30-40: q, 40-50: 3. Upper quartile = 30 hours.\n\nShow that p = 9 and find q.",
+      "model_answer": "p = 9, q = 7",
+      "explanation": "75% of 40 = 30 students at most 30 hours.\np + 11 + 10 = 30, so p = 9.\nq = 40 - 30 - 3 = 7."
+    },
+    {
+      "topic_code": "t16",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Estimated mean",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q8b",
+      "prompt": "Grouped data (midpoints 5, 15, 25, 35, 45) with frequencies 9, 11, 10, 7, 3.\n\nEstimate the mean number of hours spent on social media.",
+      "model_answer": "21 hours",
+      "explanation": "Sum fx = 9(5) + 11(15) + 10(25) + 7(35) + 3(45) = 840.\nMean = 840/40 = 21."
+    },
+    {
+      "topic_code": "t16",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Standard deviation",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q8c",
+      "prompt": "For the grouped data with frequencies 9, 11, 10, 7, 3 and midpoints 5, 15, 25, 35, 45, estimate the standard deviation.",
+      "model_answer": "12.2 (3 s.f.)",
+      "explanation": "Use calculator statistics on grouped data: SD ≈ 12.2 hours (3 s.f.)."
+    },
+    {
+      "topic_code": "t03",
+      "difficulty": "Medium",
+      "diagram_required": false,
+      "subtopic": "Currency exchange",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q10a",
+      "prompt": "Exchange rates (SGD to KRW): lowest 1 SGD = 908.724 KRW, highest 1 SGD = 939.752 KRW.\n\nA family of 4 needs PCR tests in South Korea at 70 000 won each. Find the difference between the greatest and least possible cost in Singapore dollars, correct to the nearest ten cents.",
+      "model_answer": "S$10.20",
+      "explanation": "Max S$ = 280000/908.724; min S$ = 280000/939.752. Diff ≈ 10.20."
+    },
+    {
+      "topic_code": "t03",
+      "difficulty": "Hard",
+      "diagram_required": false,
+      "subtopic": "Financial planning",
+      "question_type": "open",
+      "tags": "stc-2022-p2,q10b",
+      "prompt": "Mr Tan plans a 5-day Jeju trip for 2 adults and 2 children.\n\nCosts: pre-departure ART test S$25/person; PCR in Korea 70 000 won/person (use 1 SGD = 811.551 KRW); travel insurance Singlife Travel Plus S$159.65 with 30% POGIS discount (covers COVID, meets $300k medical); flights S$467.13/person (Scoot); hotel family suite S$2903; food/shopping S$400/day x 5; car rental S$464. Add 10% buffer to total.\n\nEstimate the total cost in SGD. Justify your choices.",
+      "model_answer": "About S$8329",
+      "explanation": "ART 100 + PCR 345 + insurance 112 + flights 1869 + hotel/food/car 5367 = 7792; +10% ≈ 8329."
+    }
+  ]
+}

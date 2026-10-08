@@ -1,0 +1,92 @@
+Title Mathematics in Practical Situations – Simple and Compound Interest –
+Basic Explanation and Examples
+Author Liu Hui Ling, Ngee Ann Polytechnic
+Date 19/7/2018
+Objectives of this lesson is to allow students to
+• Understand the idea of simple and compound interest
+• Understand the formula for simple and compound interest
+I am studying business related modules and know what students will face, particularly
+those not so mathematically inclined students. I am here to help explain the concepts in
+an easy-to-understand manner.
+Simple Interest Properties
+➢ Amount of Interest Obtained per time interval is constant
+➢ Amount of Interest Obtained per time interval is calculated by multiplying the
+interest rate by the original amount put in to a system or given (Can be bank
+loan, or bank deposit)
+Simple Interest (Mathematical Details)
+For interest value calculation
+𝐼 = 𝑃𝑅𝑇
+𝐼 refers to the interest amount obtained
+𝑃 stands for principle amount, refers to the amount of money put into the system or
+loaned
+𝑅 refers to the interest rate in %
+𝑇 number of time intervals passed after the money is put into a system
+For amount of money in the system or to be returned after 𝑇 number of time intervals is
+𝐴 = 𝑃(1 + 𝑅𝑇)
+𝐴 refers to the total amount after 𝑇 number of time intervals.
+
+-- 133 of 145 --
+
+Explanation of the Simple Interest Formula as Given Below
+Imagine you are a customer for a bank and you put in $2300 in your bank account.
+Based on the agreement, the bank was to offer you an interest rate of 3% per year.
+Number of
+Years Passed
+𝑇
+Interest Amount
+𝐼
+Final Amount
+𝐴
+1 $2300 × 3% × 1 2300 + (2300 × 3% × 1)
+2 $2300 × 3% × 2 2300 + (2300 × 3% × 2)
+3 $2300 × 3% × 3 2300 + (2300 × 3% × 3)
+The final amount as you can see from the pattern can be expressed as the following
+formula
+𝐴 = 𝑃 + (𝑃𝑅𝑇)
+𝐴 = 1(𝑃) + 𝑅𝑇(𝑃)
+Right Hand Side to be factorized as follows.
+𝐴 = 𝑃(1 + 𝑅𝑇)
+Compound Interest Properties
+➢ Interest Amount keep increasing with Each Passing Time Interval
+➢ Interest Rate is constant however, the interest amount is calculated from the
+amount from the previous time interval. (I will explain in detail below)
+Imagine you went into a bank and deposited $12000 into a new bank account. The bank
+is to allow you to earn 4% of interest to be compounded yearly.
+Number of
+Years Passed
+𝑇
+Interest Amount
+𝐼
+Final Amount After 𝑇 number of years
+passed
+𝐴
+1 12000(4%) = 12000(4%) + 12000 = 480 + 12000
+= $12480
+Or
+12000 × 104% = $12480
+2 12000(4%) + 12480(4%) =
+480+499.2 = $979.20
+12000× 104% × 104% = $12979.20
+
+-- 134 of 145 --
+
+3 12000(4%) + 12480(4%) +
+12979.20(4%) =
+480+499.2+519.168 =
+$1498.368
+12000 × 104% × 104% × 104% =
+13498.368
+As you can see from the above, a pattern emerges.
+𝑨 is the final amount obtained after 𝑻 number of time intervals.
+𝒓 is the amount of percentage interest given, 𝒓
+𝟏𝟎𝟎 refers to the percentage interest
+itself.
+We derived the following formula for amount of money obtained, after 𝑻 number of
+time intervals and 𝒓% of compound interest.
+𝑨 = 𝑷 (𝟏 + 𝒓
+𝟏𝟎𝟎)
+𝑻
+(Some textbooks may use different letters. Just change the letters accordingly and you
+should get the idea.)
+
+-- 135 of 145 --

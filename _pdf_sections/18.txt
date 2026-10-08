@@ -1,0 +1,161 @@
+Title Laws of Indices – Evaluation of Algebraic Expressions Containing Powers and
+Simplification of Expressions)
+Author Lim Wang Sheng, School of Information Technology, Nanyang Polytechnic
+[CCA: NYP Mentoring Club]
+Date 25/12/2018
+Objective of document
+• Explanation of Various Laws of Indices (That some school teachers miss out)
+• Demonstration on questions which involves complicated expression involving
+powers, fraction inside fraction, negative powers and multiple brackets in a single
+expression.
+Basic Laws of Indices Demonstration of Concept Using Numbers
+𝑎𝑚(𝑎𝑛) = 𝑎𝑚+𝑚 22 × 23 = (2 × 2) × (2 × 2 × 2) = 25
+𝑎𝑚
+𝑎𝑛 = 𝑎𝑚−𝑛 23
+21 = 2 × 2 × 2
+2 = 23−1 = 22
+(𝑎𝑚)𝑛 = (𝑎)𝑚𝑛 (22)3 = (2 × 2)3
+= (2 × 2) × (2 × 2) × (2 × 2) = 22(3) = 26
+𝑎−𝑛 = 1
+𝑎𝑛
+(Note: denominator must not equal
+zero as division by zero is undefined)
+Using the previously mentioned law of indices,
+we can write an expression: 22
+24
+22
+24 = 2×2
+2×2×2×2 = 22−4 = 2−2 = 1
+22
+𝑎0 = 1
+(Note 𝑎 ≠ 0, as 00 is undefined)
+Using the previously mentioned law of indices,
+we can write an expression
+23
+23 = 2 × 2 × 2
+2 × 2 × 2 = 23−3 = 20 = 1
+(𝑎
+𝑏)𝑚
+= 𝑎𝑚
+𝑏𝑚
+(Note 𝑏 ≠ 0, as division by zero is
+undefined)
+(2
+3)
+3
+= 2
+3 × 2
+3 × 2
+3 = 23
+33
+𝑎𝑚
+𝑛 = √𝑎𝑚	𝑛 Using the previously mentioned law of indices,
+we can write the following:
+24 = 2 × 2 × 2 × 2
+24
+2 = √2 × 2 × 2 × 2 = √24 = 24
+2 = 22
+(𝑎𝑏)𝑛 = 𝑎𝑛(𝑏𝑛)
+
+-- 103 of 145 --
+
+Derived Law of Indices Simplest Proof of Concept
+(𝑎𝑚
+𝑎𝑛 )−1
+= 𝑎𝑛
+𝑎𝑚 (1
+5)−1
+= 1
+(1
+5) = 5
+1 = 5
+(𝑎𝑚
+𝑎𝑛 )
+−𝑥
+= (𝑎𝑛
+𝑎𝑚)
+𝑥
+Tips to do complicated indices question (with nested fractions, powers and negative
+powers all in the same question.)
+Read question (Examine the details closely)
+Take note of any “out of the ordinary” situation (Example can include zero
+powers, that makes solving a seamlessly complicated question easier)
+Take note of any negative powers.
+Take note of any roots.
+Write the expression in fully index notation
+Solve the question from inner brackets to outer bracket
+Check your answers
+I will demonstrate some questions and explain how the tips can be applied.
+(Questions all taken from CASCO Mathematics Assessment Book 4B)
+Example 1:
+Simplify (4𝑥2)3
+2
+(4𝑥2)3
+2 (Things to take note highlighted)
+= 43
+2𝑥2(3
+2) Apply the following laws of indices
+𝑎𝑚
+𝑛 = √𝑎𝑚	𝑛
+(𝑎𝑏)𝑛 = 𝑎𝑛𝑏𝑛
+= 8𝑥3 (Final Answers)
+
+-- 104 of 145 --
+
+Example 2:
+Evaluate (1
+2)−4
+× 80
+(1
+2)
+−4
+× 80 Things to take note (Zero Power and
+Negative Powers)
+= (2
+1)4
+× 1 Apply the following law of indices
+𝑎0 =1
+(𝑎
+𝑏)𝑚
+= 𝑎𝑚
+𝑏𝑚
+= 16
+Example 3:
+Given that (𝑥2)3 × √𝑥
+√𝑥	
+3 = 𝑥𝑛. Calculate the value of 𝑛.
+(𝑥2)3 × 𝑥1
+2
+𝑥1
+3
+= 𝑥𝑛
+Convert values all to index notation
+(𝑥6 × 𝑥1
+2)
+𝑥1
+3
+= 𝑥𝑛
+𝑥6+1
+2
+𝑥1
+3
+= 𝑥𝑛
+Apply the following law of indices
+(𝑎𝑚)𝑛 = 𝑎𝑚𝑛
+(𝑎
+𝑏)𝑚
+= 𝑎𝑚
+𝑏𝑚
+𝑥61
+2−1
+3 = 𝑥61
+6 = 𝑥𝑛 Apply the following law of indices
+𝑎𝑚
+𝑎𝑛 = 𝑎𝑚−𝑛
+
+-- 105 of 145 --
+
+𝑛 = 6 1
+6
+
+-- 106 of 145 --

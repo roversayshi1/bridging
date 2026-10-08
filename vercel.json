@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "buildCommand": "npm run build",
+  "installCommand": "npm install",
+  "framework": null,
+  "outputDirectory": "static",
+  "rewrites": [
+    { "source": "/api/health", "destination": "/api/health" },
+    { "source": "/api/practice/mark", "destination": "/api/practice/mark" },
+    { "source": "/api/practice/daily", "destination": "/api/practice/daily" },
+    { "source": "/api/ww/table-views/:id", "destination": "/api/bridge?kind=view&id=:id" },
+    { "source": "/api/ww/workflows/:id", "destination": "/api/bridge?kind=workflow&id=:id" },
+    { "source": "/api/account/:action", "destination": "/api/bridge?kind=account&action=:action" },
+    { "source": "/api/practice/mock-tests", "destination": "/api/bridge?kind=mock" },
+    { "source": "/api/analytics/events", "destination": "/api/bridge?kind=analytics" },
+    { "source": "/api/admin/:action", "destination": "/api/bridge?kind=admin&action=:action" },
+    { "source": "/api/questions/diagrams/batch", "destination": "/api/bridge?kind=diagrams" },
+    { "source": "/api/questions/:action", "destination": "/api/bridge?kind=questions&action=:action" },
+    { "source": "/api/auth/(.*)", "destination": "/api/auth/[...path]" },
+    { "source": "/today", "destination": "/today/index.html" },
+    { "source": "/elijah-chew", "destination": "/elijah-chew/index.html" },
+    { "source": "/elijah-chew/", "destination": "/elijah-chew/index.html" },
+    { "source": "/((?!api/|today|elijah-chew).*)", "destination": "/index.html" }
+  ],
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Methods", "value": "GET, POST, PUT, DELETE, OPTIONS" },
+        { "key": "Access-Control-Allow-Headers", "value": "Content-Type, Authorization" },
+        { "key": "Access-Control-Allow-Credentials", "value": "true" }
+      ]
+    }
+  ]
+}

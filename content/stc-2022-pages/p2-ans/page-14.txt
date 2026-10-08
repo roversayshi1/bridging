@@ -1,0 +1,24 @@
+14
+6 b)
+(b) B
+7 D
+er
+A \ Lr N
+Nn
+A, Band C are points on a circle with centre O and radius 10 cm.
+BA =BC and angle AOC is 2.4 radians.
+(i) Calculate angle COB, in radians, in terms of =.
+£COB 22 (£AOB=~£COBasBA=BC)
+7-12 radians [BA] [Accept SE
+Answer ................. radians [1]
+(ii) Calculate the length of major arc AC.
+Reflex ZAOC Alt. Method:
+=27-2.4~ 3.883185307 ~ 3.8832 Length of major arc AC
+Length of major arc AC = circumference — minor arc AC
+=rg =2r(10)- 1024) [M1]
+=10(2n—2.4) M1] ~ 38.831853071
+~ 38.831853071 =388cm(3sf) [AT]
+=38.8cm(3sf.) [A1]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

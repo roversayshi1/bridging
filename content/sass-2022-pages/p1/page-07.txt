@@ -1,0 +1,26 @@
+| ’
+8 A map is drawn to a scale of 1 : 50 000.
+| (a) An airport runway is represented by a line of length 4.6 cm on the map.
+Calculate the actual length of the runway, giving your answer in kilometres.
+| : 50 000
+lem: 50 000 evr
+lem: 0.5 kw
+Lom © O05 X4(
+= 2.3 kw
+Answer Di km [1]
+(b) The actual area of the airport is 3.5 km?
+Calculate the area on the map which represents the airport, giving your answer in
+square centimetres.
+| ew t 0.5 km
+2
+2 ;
+(1 Guay. (os Ewa)
+5 = a
+l om” © 0.235 bm
+. 3.5
+«o LALA On vw = —_— »
+“r 0.25
++
+= l4om
+Answer A cm? [2]
+[Turn over

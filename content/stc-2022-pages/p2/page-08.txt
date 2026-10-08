@@ -1,0 +1,13 @@
+8
+(b) Calculate the bearing of B from C.
+Answer... [3]
+(©) John is a Grab delivery partner. He cycles at an average speed of 12 km/h.
+He starts at point C, cycles along path CB to collect food at point B then path BA to
+collect food at point 4, and delivers the food collected to point D.
+He spends 5 minutes to collect the food at each collection point.
+Calculate the time it takes him to complete the food delivery.
+Give your answer in minutes and seconds.
+Answer ............ minutes ............ seconds [3]
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

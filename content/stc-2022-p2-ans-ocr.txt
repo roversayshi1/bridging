@@ -1,0 +1,848 @@
+
+
+===== P2-ANS PAGE 1 =====
+
+J Marking Scheme
+
+ ja#rae © CHIJ ST. THERESA'S CONVENT
+
+#0 t% PRELIMINARY EXAMINATION 2022
+
+PN. ~~ SECONDARY 4 EXPRESS / 5 NORMAL (ACADEMIC)
+
+RSE ye
+CANDIDATE
+NAME
+INDEX
+MATHEMATICS 4048/2
+Paper 2 23 August 2022
+2 hours 30 minutes
+Candidates answer on the Question Paper.
+READ THESE INSTRUCTIONS FIRST
+Write your name, class and index number in the spaces at the top of this page.
+Write in dark blue or black pen.
+You may use an HB pencil for any diagrams or graphs.
+Do not use paper clips, highlighters, glue or correction fluid.
+Answer all questions.
+If working is needed for any question it must be shown with the answer.
+Omission of essential working will result in loss of marks.
+Calculators should be used where appropriate.
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the
+answer to three significant figures. Give answers in degrees to one decimal place.
+For nt, use either your calculator value or 3.142, unless the question requires the answers in terms
+of m.
+The number of marks is given in brackets [ ] at the end of each question or part question.
+The total of the marks is 100.
+This document consists of 25 printed pages.
+
+
+===== P2-ANS PAGE 2 =====
+
+2
+Mathematical Formulae
+Compound interest
+Total amount = P(1 + )
+100
+Mensuration
+Curved surface area of a cone = irl
+Surface area of a sphere = 4ar?
+Volume of a cone = Tm *h
+_4 5
+Volume of a sphere = 3
+Areaof triangle ABC = Tabsinc
+Arclength=r6, where 6 isin radians
+Sector area = Jr , Where @ isinradians
+Trigonometry
+a _b __c
+snA sinB sinC
+a?=b? +? - 2bccosA
+Statistics
+> fx
+Mean = &—
+>t
+N Z
+Standard deviation = PI Pad
+XioXf
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 3 =====
+
+3
+Answer all the questions.
+10 #
+1 (@ Simplify (2)
+15 é
+b
+(Fe) wo
+be
+Tw
+Answer i [2]
+(b) Express A asasingle fraction in its simplest form.
+(y-9° 5-3y
+2
+(y-95° 5-3y
+= Yy=28y-9) M1]
+(3y-5)*
+= 10-5 S2-y) [A1]
+(3y-5° (3y-5)*
+Answer i [2]
+Wn 3x*-108
+Simplify ——————.
+©@ Smelly ex-42
+3x*-108
+2x% + 5x42
+_  3(x*-36)
+(x+6)(2x—7) [IEF
+_ 3(x+6)(x-6)
+(x+6)(2x—7) [ESF
+_ 3(x-6)
+2x-7 [AT
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 4 =====
+
+4
+(d Solvetheinequality Fez dx
+x=2_ 4+5x
+4 3
+3(3x—2) < 4(4+5x) M1]
+9x—6<16+20x
+-11x<22
+x=-2 [A1]
+Answer oo [2]
+(e) Solve the simultaneous equations.
+4x-3y=5
+6x+5y=-2
+4x-3y=5 -—(1)
+6x+5y=-2 —(2)
+(1)x3 = (2)x2
+12x-9y=15 ~~ -—-(3) [M1 Elimination/Substitution Method]
+12x+10y=-4 -—-(4)
+(3) - (4)
+-19y=19
+y=-1 [A1]
+Sub y=-1 into (1)
+4x-3(-1)=5
+1
+X=7 [A1]
+so x=7,y=-1
+Answer x=...........
+Y= orien [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 5 =====
+
+5
+2 A bag contains 10 red balls and 8 green balls.
+Anna takes two balls from the bag, at random, without replacement.
+(@)  Annasays that the probability that she takes one red ball and one green ball is 29 R
+Explain why Anna is wrong and provide the correct solution.
+«+++ She does not take into consideration that the balls are taken without foenennns
+replacement hence [B1]
+-..:/ (RG or GR) eeesens
+_10,8 8 10 is 10.8 8 10
+T1818 18 18 and correct answer is 187771817 —
+- 40 oy:
+wd 81 153 [B1] heeerene
+(b)  Annaputs back the two balls into the bag.
+n red balls are removed from the bag.
+The probability that she takes two green ballsis 4 R
+Write down an equation to represent this information and show that it simplifies to
+n?—36n+124=0. [3
+Answer
+_ 4
+P(two green balls) = 3
+8 7 4
+8—n"18-n—1_ 13 1
+4(18—n)(17-n)=13(8)(7) [M1]
+4(306-35n+n?) = 728
+4n® -140n+496=0
+n?-35n+124=0 [AGT]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 6 =====
+
+6
+(© Solvetheequation  n®-35n+124=0.
+Use factorisation or quadratic formula
+2
+(n-4)(n-31)=0 [M1] OR n= =(35) £435) ~4(1)(124) Tr Ane M1]
+n=4 or n=31  [A1A1] n=322_4 or 31 [A1, AT]
+Answer n= ..........or.......... [3]
+(d) Explain why one of the solutions in part (c) must be rejected.
+When n = 31, number of red balls=18 —-n=18-31= — 13 <0 hence
+“‘ needtorgectn=31. [B1] [oe
+OR 0
+“| Since thereare only 10 red balls hence it is impossible to remove 31 [oe
+red balls from the bag. [B1]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 7 =====
+
+7
+3 A, B, C and D are four points on horizontal ground.
+The points are connected by straight paths AB, BC, BD, AD and DC.
+Cisdueeast of D.
+AB = 350 m, AD = 500 m and BC = 1060 m.
+Angle BAD = 85° and angle BDC = 103°.
+North
+B
+350m
+&) 1060
+A m
+500 m
+D [¢
+(a) Show that BD = 585 m, correct to 3 significant figures. [3]
+Answer
+Using Cosine Rule,
+BD? = 500? + 350% — 2(500)(350) c0s85° [M2]
+BD ~ 584.80=585m (3 sf.) [A1]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 8 =====
+
+8
+(b) Calculate the bearing of B from C.
+Using Sine Rule,
+sinZBCD _sin10%° M1]
+584.80 1060
+BCD sin (SeeBbemor )
+1060
+~ 32.518 or 32.530° [A1]
+Bearing of B from C
+=270° + 32.519
+=3025° (1dp.) [A1]
+Answer .......ccceeeeeee 0 [3]
+(co) John is a Grab delivery partner. He cycles at an average speed of 12 km/h.
+He starts at point C, cycles dong path CB to collect food at point B then path BA to
+collect food at point A, and delivers the food collected to point D.
+He spends 5 minutes to collect the food at each collection point.
+Calculate the time it takes him to complete the food delivery.
+Give your answer in minutes and seconds.
+Total distance travelled
+= (1060 +350+500)/1000 = 1.91 km [B1]
+Total time taken
+= 19, 60410 M1]
+12
+=19.55 min
+=19 min 33 sec [A1]
+Answer ............minutes............. seconds [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 9 =====
+
+9
+4 ABCD is a trapezium with AB parallel to CD.
+Aisthe point (-1, 3) and Bis the point (7, 9).
+. 1
+5-3)
+(a) Find the length of the line AB.
+Length of AB
+= 1-77 + (3-9) [M1]
+= io
+= 10 units [A1]
+Answer i [2]
+(b) Find the equation of the line CD.
+Gradient of CD = gradient of AB
+_ 9-3
+7-(-1)
+=3 oro75 MA]
+4
+Since w-( { )
+-7
+o0-oi-(5
+OD -O0A=
+7
+(1) (1
+on H ) [B1— coord. of D]
+3 7
+. 1 —1 0
+{7} (HE)
+Sub m= 2 x=0andy=-4intoy=mx+c
+~4=30)+c M1]
+c=-4
+Equation of CD isy = 3x 4 [A]
+Answer i [4]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 10 =====
+
+10
+(co) Xis the point on AB such that aeaof triangle AXD _ 1.
+areaof traingleBXD 3
+(i) Find AX.
+xeaofitienol cTav(To NE HN S| [B81]
+aeaof traingleBXD 3 XB 3
+SE
+AX =-AB
+4
+AX = S(O)
+— (7) (-1)]_1(8\ (2
+AX =— — =| |= B1
+HERE)
+Answer AX = ( ) 2
+(ii) Find the position vector of X.
+OX = OA+ AX
+ox=[ | 2
+& 1.5
+— (1
+OX = 45 [B1]
+Answer OX = [11
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 11 =====
+
+1
+5 The variables x and y are connected by the equation y=3x+ 2-11,
+X
+Some corresponding values of x and y, correct to 1 decimal place, are given in the table below.
+(x [os] 1 [5] 2 [25] sas [6]
+[es 0 [tz] 1 [0a] or | 5 [se] p |
+(a) Cdculatethe value of p.
+p=83(1dp) [B1]
+Answer p= oii [1]
+(b) Onthegrid, draw thegraphof y= 3+ 811 for0.5<x<6. [3
+X
+ep eee had ch Be
+fp [B1)- Smooth curve EEE eee SER Eat
+Err 10 gm (po) HEH
+boo [| B2fordl ptsplotted correctly EE EmemErEarERTARIRIATY
+Eh | BYfor7-8pointsplotted correctly EEE
+EE » re re re EE
+Chu a i
+Lobb et Drawy-t1=x |
+EH eee
+Ee eT ER
+Ns ares Ba Eee mney Ce men nmap AEE
+SHE
+Eee EE EE
+EE oftobt NAA SIEh aH sii sie
+rece ee
+Err EE EE ee EE Ee HH He
+(¢) Use your graph to find the solutions to the equation ~ 3x+ 8 =13 in the range
+X
+05<x<6.
+8 Read the point where the graph intersects/cuts the y = 2.
+F ==2=C x=07-08 or 35-37 [B1]
+3+ 8_11=2 ANSWEr X=. [2]
+x
+Drawy=2 [B1]
+CHIJ ST. THERES room
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 12 =====
+
+12
+(d) (i) On the same axes, draw the graph of 2y—1=x for 0< x<6. [2]
+Draw 2y—1=x [B1]
+[x [0 TT 38 [| 6 |
+Lv [os [ 2 [| 35 |
+(ii) Write down the x-coordinates of the points where this line intersects the curve.
+Read the point where the graph intersects/cuts the line.
+x=08-09 or 37-38 [B1,B1]
+Answer X= .......... OF ...ceeeeen. [2]
+(iii) These values of x give the solutions of the equation 5x* + Ax+B=0.
+Find the value of A and the value of B.
+Sub 2y—-1=x= y= into y = 3+ 1
+x
+axe Son=XH1 M1]
+X 2
+5x2 —23x+16=0
+Hence, A=-23andB=16. [A1,A1]
+Answer A=............
+B=............ [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 13 =====
+
+13
+6 (a)
+B
+Nt
+P Q A R
+A, B and C are points on the circle with centre O.
+AOB is astraight line.
+PCSand PAR are tangents to the circle.
+Qison PARand QC is parallel to AB.
+(i) Show that triangle AQC is similar to triangle BCA.
+Give a reason for each statement you make.
+In AAQC and ABCA, Alt. Method:
+ZBAP= ZBAR = 9(* (radius L tangent) ZCAQ = ZABC (£sin alt. segment)
+ZCQA = 90 (corr. /int. Zs, QC // AB) ZQCA=~/CAB (alt. Zs, QC // AB)
+ZACB =90° (£ in semicircle)
+~. ZCQA=ZACB [B2,1,0]
+ZQCA=~CAB (alt. Zs, QC// AB)
+By AA similarity test,
+triangle AQC is similar to triangle BCA.
+(ii) AngleCOB=x.
+Find angle APC in terms of x.
+_180°-x° . Alt. Method:
+ACET==—= (base angles, isosceles A) In OAPC, ZAOC = 180° — x
+180° — x° CL ZOCP = Z0AP = 90° (radius L tangent)
+AeNe= === (corr. angles in similar As) [B1] ZAPC + ZAOC + 90° + 90° = 360° [B1]
+PA = PC (tangents from external point P are equal) (sum of angles in quadrilateral)
+180° — 3° ZAPC = 180° — (180° — x°)
+ZAPC = tao BX). (£sumof A) [B1] =x [B1]
+Answer .........cccceeee... 0 [2]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 14 =====
+
+14
+6 b)
+(b) B
+7 D
+er
+A \ Lr N
+Nn
+A, Band C are points on a circle with centre O and radius 10 cm.
+BA =BC and angle AOC is 2.4 radians.
+(i) Calculate angle COB, in radians, in terms of =.
+£COB 22 (£AOB=~£COBasBA=BC)
+7-12 radians [BA] [Accept SE
+Answer ................. radians [1]
+(ii) Calculate the length of major arc AC.
+Reflex ZAOC Alt. Method:
+=27-2.4~ 3.883185307 ~ 3.8832 Length of major arc AC
+Length of major arc AC = circumference — minor arc AC
+=rg =2r(10)- 1024) [M1]
+=10(2n—2.4) M1] ~ 38.831853071
+~ 38.831853071 =388cm(3sf) [AT]
+=38.8cm(3sf.) [A1]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 15 =====
+
+15
+Answer ..........ccccce. cm [2]
+(iii) Calculate the total area of the shaded regions.
+Area of triangle OAC
+= Tx10Pxsin24
+~ 33.773 cm? [M1]
+Area of segment BCD = Area of sector OBC — Area of triangle OBC
+= Txt (z-12)- Dx t0Pxsin(a-12)
+= 97.079632679— 46.601954298
+~ 50.478 cm? [M1]
+Area of shaded region
+= Area of triangle OAC + Area of segment BCD
+~ 33.773 + 50.478
+~ 84.251
+=84.3cm?(3sf) [A1]
+ANSWEr .....cooeonvinnnn.. cm? [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 16 =====
+
+16
+7 In Café X, an Americano (A) costs $5.20, a Latte (L) costs $6.60 and aMocha (M) costs $7.30.
+In Café Y, an Americano costs $0.30 more, a Latte costs $0.20 less and a Mocha costs $0.10
+more than Café X.
+The matrix P shows the price of a cup of coffee in each café.
+AL M
+po 52 66 73)X
+“\55 64 74)Y
+(a) Belinda and Carol are project group leadersin a company.
+They want to give atreat to their group members to welcome them for the first
+meeting in February.
+Belindaintends to buy 2 cups of Americano, 4 cups of Latte and 3 cups of Mocha.
+Carol intends to buy 5 cups of Latte and 4 cups of Mocha.
+Represent their intended purchases using a 3 x 2 matrix Q.
+B C
+2 0) A
+Q= 14 5|L [B1] Answer Q = 1
+3 4)M
+(b)  Evauatethe matrixR = PQ.
+20
+52 66 73
+R=PQ = ( ) 4 5
+55 64 74
+(52x2+6.6x4+7.3x3 52x0+6.6x5+7.3x4 M1
+“(55x 2+64x4+74x3 55x 0+6.4x5+7.4x4 [M1]
+58.7 622
+(57 oe) (AT)
+Answer R= [2]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 17 =====
+
+17
+(co) State what each element of matrix R represents.
+
+The two elements in row 1 of R represent total amount spent on the drinks by Belinda
+
+and Carol respectively if they bought them at Café X. -
+
+The two elements in row 2 of R represent total amount spent on the drinks by Belinda
+
+and Carol respectively if they bought them at Café Y. 1]
+
+OR
+
+Amount Belinda would have spent is $58.70 in Café X and $58.80 in Café Y.
+
+Amount Carol would have spent is $62.20 in Café X and $61.60 in Café Y. [B1]
+
+(d)  Belindaand Carol each bought their drinks from the café that provided a better offer.
+For the latest meeting in July, Belinda and Carol gave their members another treat to
+celebrate the completion of the project. Each of them bought the same set of drinks
+from the same café they patronised in February. However, the prices of the drinks have
+changed by the following percentages in both cafés.
+
+The price of acup of Americano has increased by 10%.
+The price of acup of Latte has increased by 15%.
+The price of acup of Mocha has decreased by 5%.
+Calculate the percentage change in the combined total spent in February and July.
+Total amount for latest meeting in July
+=§(5.2x1.1x 2+ 6.6x1.15x 4+ 7.3x 0.95x 3) + (6.4x1.15x 5+ 7.4x 0.95x 4)
+= $(62.605 + 64.92)
+=$127.525 [B1]
+Percentage change
+_ (127.525 58.70 61.60) «100% [M1]
+(58.70+ 61.60)
+~ 6.005818786%
+=6.01% (3sf.) [A1]
+Alt. Method:
+52 66 7.3 10 0 5.72 7.59 6.935
+New price= ee 64 a) 0 115 0 (oo 736 703 )
+BE ’ 0 0 09% ’ ’ ’
+Total cost of drinks latest meeting in July in Cafe X and Y:
+20
+_(572 759 6.935 45 62.605 65.69 M1]
+6.05 7.36 7.03 34 “6263 64.92
+Percentage change
+(62.605-+ 64.92) - (58.70+ 61.60)
+= ——————x100% [M1
+(58.70+ 61.60) SEES [LK]
+~ 6.005818786%
+=6.01% (3sf.) [A1]
+Answer .......cccoeeeiii. % [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 18 =====
+
+18
+8 A class of 40 Secondary Four students were asked how much time they have spent on social
+media in the last week.
+The results are shown in the table.
+fame spent 10<x<20 | 20<x<30 | 30<x<40 | 40<x<50
+[Fraweny | p [ 1 [ 10 | a | 3 |
+The upper quartile of the time spent on social mediawas 30 hours.
+(a) Show that p = 9 and hence state the value of q.
+Answer
+Upper quartile = 30 hours
+= 75% of 40 students or 30 students spent 30 hours or less on social media,
+=p+11+10=30 [M1]
+p=9 [A1]
+q=40-30-3=7 [BI]
+Answer q=..........ceeeennn. [3]
+(b) Estimate the mean number of hours spent by the students.
+Mean number of hours
+_ (9x5) + (11x15) + (10x 25) + (7x 35) + (3x 45)
+40
+_ 840 [M1]
+40
+=21 [A1]
+Answer... [2]
+(co) Estimate the standard deviation.
+Using the calculator, SD = 12.2 (3sf) [B1]
+OR
+= [202 ~12.206555615-12.2 (3 51.)
+Answer ooo [1]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 19 =====
+
+19
+(d) A class of 40 Secondary Three students were asked how much time they have spent
+on social mediain the last week.
+The results are summarised in the table.
+Standard Deviation
+Make two comparisons between the number of hours spent on social media by the
+Secondary Three students and by the Secondary Four students.
+1 ..| Secondary Four students spent more time on social media than .
+Secondary Three students as its mean (21) is higher than the mean (15.8)
+.....| of Secondary Three students. [B1] LL
+The time spent on social media by Secondary Four students was less
+consistent or had a wider spread than Secondary Three students asits
+....| standard deviation (12.2) is higher than the standard deviation (12.2) of |
+Secondary Three students. [B1]
+on [2]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 20 =====
+
+20
+9 The diagram shows a metal trophy which is made up of a hemisphere and a pyramid.
+The radius of the hemisphere with centre E is 4 cm.
+The base ABCD of the pyramid is a square of side 12 cm.
+Eis vertically above the centre of the square base.
+The vertical height of the pyramid is 18 cm.
+A+
+18
+[9
+12
+A 12 B
+(a) Show that AE = 19.9 cm, correct to three significant figures. [3]
+Answer
+
+Let X be the centre of the square base.
+
+Since vertical height of pyramid is 18 cm, EX = 18 cm. E
+
+AX = Z4C= AX = Siz +12 ) =\72=84853 cm (5s£) [Bl]
+
+18
+
+By Pythagoras’ Theorem,
+
+AE =+/18> +8.4853* or 18 +72 M1] A N
+=19.899756684 or 396 8.4853
+=19.9 cm (3 sf.)(Shown) [AG1]
+
+(b) Calculate angle BAE.
+Let M be the midpoint of AB. AM =12+2=6cm [B1]
+Since EA = EB, AEB is an isosceles triangle hence angle EMA = 90°.
+6 6 E
+ZBAE =——— —_—
+cos 19.900 or 396
+ZBAE =cos™ (ros) or cos”! (7%) [M1] 19.9
+~72452=72.5°(1dp.) [A1]
+Alt. Method: AS wm 8
+2 2
+2 2_ppr (V/396) +127 —(V/396
+cos Z/BAE Apap —pp? (396) +12'-(¥396) M2]
+2(4E)(4B) 2(+/3%) (12)
+CHIJST. THER
+SPE /BAE = cos” ( l ) 72.4520 =72.5°(1 dp) [AT]
+=cos” | = |~ 72.452° =72.5°
+Jit P
+
+
+===== P2-ANS PAGE 21 =====
+
+21
+(9 Calculate the total surface area of the trophy.
+Total surface area of hemisphere
+= curved surface area hemisphere + base area
+=27r2 + ar? = 27 (4) + (4%) = 327 +167 = 487 om? [B1]
+Total surface area of pyramid
+= (4x area of lateral face) + base area
+= 4d absinC)+ (1?)
+=40 12x19.900x sin72.452) + (12%) = 455.37 + 144 = 599.37 cm? [B2]
+Total surface area of the trophy
+~150.80+ 599.37
+~ 750.17
+=750 cm? (3sf.) [B1]
+ANSWEr .....cooeeninnnn.. cm? [4]
+(d) The whole trophy is melted to make paper weights each in the shape of a cube of side
+5cm.
+What is the maximum number of paper weights that can be made from the metal
+trophy?
+Volume of trophy
+= Volume of hemisphere + Volume of pyramid
+Za. base area x height
+8] &
+_2 ye dros
+8] &
+12 soa- 00.04 cm’ [B1]
+Maximum number of paper weights
+998.04
+== [M1]
+~7.98432=7 [A1]
+Answer... [3]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 22 =====
+
+22
+10 Mr Tan plans to bring his wife and two children for a free-and-easy 5-day holiday in Jeju,
+South Korea during the school holidays in September 2022.
+The tables below give information that they can use to work out their travelling costs.
+Cost of Pre-departure PCR/ART Test (per person) in Cost of PCR Test (per person) in
+Singapore South Korea
+Swabstation 70,000 won through the Korean National
+PCR Test Tuberaulosis Association (KNTA).
+ART Test
+Estimated expenditure in South Korea Cost of return air tickets from
+SINGAPORE to JEJU for 2 adults
+Hotel (Family Suite) $2903 and 2 children
+Food, Shopping & $ 400 per day
+Sight-seeing
+Car rental for 5 days Adult/ | $467.13 $697.49
+Child per person | per person
+Summary of Travel Insurance Plans (Family plan for 2 adults and 2 children)
+Travel Insurance Company Singlife by Aviva* FWD#
+Travel Travel Plus: Travel Premium: Business: First:
+Coverage/Type of Plan Lite: Prestige:
+$8110.66 $$159.65 $$222.63 $59.54 $893.89 $$119.08
+Overseas medical expenses
+(per adult below 70 years $$250,000 | $$2,000,000 | Unlimited | S$200,000 | S$500,000 | S$1,000,000
+old
+Travel delay (S$100 for
+every six hours of delay
+overseas and S$100 after six $$500 $81000 $$2000 $$300 $8500 $$1000
+hours of delay in Singapore]
+Trip cancelled before you
+leave Singapore for Family $810,000 $$20,000 $$30,000 $$7,500 $810,000 $$15,000
+Plans
+Emergency Modi cdl Cover Jind #Extra Coverage for COVID-19 with an
+epatriation Due To COVID- dditional cost of $93.28
+19 (Free extension) $850,000 | S$100,000 | S$200000 | Accitiona - )
+(1) Overseas Medical «Upto S$5,000 for trip cancellation
+Expenses due to COVID-19 xd 0s of deposit 0555.00
+2) Emergency Medica oo Trip disruption: Up to S85,
+Emme GOVID-t9_| SS250000 | $52000000 + Overseas hospital cash: $100 per
+(3) Repatriation due to COVID- day up to 14 days
+19 830000 | 8500000 | Unlimited | | 6 ercong quarantine allowance: S850
+$51,000 $52,000 per day up to 14 days
+ii. Overseas Quarantine Not (S850 for (S8100for | «Emergency medical evacuation &
+Allowance Due To COVID-19 covered every 24 every 24 repatriation: up to $$200,000
+_ hours) hours) o Hospital cash while in Singapore:
+iii. Trip Cancellation/ $$100 per day up to 14 days
+Potponament Due To COVID- S$500 $$1500 882000 | 4 Medical expenses: Up to $8200,000
+iv. Trip Interruption Due To * Extended policy cover in some
+Covibae S$1500 $52000 situations: Up to 21 days
+*30% discount off your travel quote if you or your immediate family member(s) has an active MINDEF &
+MHA Group Term Life / Group Personal Accident policy or POGIS Group Term Life policy with Singlife.
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS! FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 23 =====
+
+23
+(@)  Theexchange rate between South Korean wons (KRW) and Singapore dollars (SGD)
+changes each day.
+The graph shows the daily exchange rate for the period 4 June — 4 July 2022.
+Lowest rate on 5 June 2022 1SGD = 908.724 KRW
+Highest rate on 23 June 2022 18GD = 939.752 KRW
+fa
+I
+I
+pa 024.724
+feces nt 908.724
+(Source: https://www.xe.com/currencycharts/?from= SGD& to= KRW& view= 1M)
+All travellers are required to take a PCR test within three days of arriving in South Korea.
+Use the information to work out the difference between the greatest and least possible cost,
+in Singapore dollars, for Mr Tan’s family to book their appointments to take PCR tests in
+South Korea.
+Give your answer correct to the nearest ten cents.
+Difference between the greatest and | east possible cost
+_ 70000x 4  70000x 4 M1]
+908.724 939.752
+~ 308.12 - 297.95
+~ 10.17
+= S$10.20 (nearest ten cents) [A1]
+Answer S$ .........cooeeeeennn [2]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 24 =====
+
+24
+(b) Mr Tan intends to buy travel insurance with some coverage for COVID-19 for the
+whole family. The plan should have coverage of at least $300,000 per person for
+overseas medical expenses. Mr Tan has an active POGIS Group Term Life policy with
+Singlife. He wants to spend not more than $150 on the travel insurance.
+The family will need to take a pre-departure PCR or ART test in Singapore before
+their trip.
+Mr Tan adds an extra 10% to the estimated total cost of the trip to cover any extra
+costs.
+Mr Tan finds this information about exchange rates over the past two years.
+Lowest rate in Dec 2020 1SGD = 811.551 KRW
+Highest rateon Jun 2022 | 1 SGD = 939.752 KRW
+Estimate the total cost, in Singapore dollars, for the 5-day trip for Mr Tan and his
+family.
+Justify any decisions you make and show your calculations clearly. [8]
+Answer
+Total cost of pre-departure ART tests = $(4x25) = $100
+[ART is cheaper than PCR and $25 is cheapest]
+Estimated total cost of PCR tests in South Korea in Sep
+70000 x 4
+= ————=159$345.02 (5sf.)
+811.551
+[Use lowest exchangerate in 2 yrs] [M4 totd
+st.
+Cost of Travel Plus Plan by Singlife= 0.7 x $159.65 = S$111.755 N any 2
+[Mr Tan qualifies for 30% discount hence cost is less than $150 and valid
+overseas coverage expenses is $52,000,000] justifications]
+Total cost of air tickets = S$ (4 x 467.13) = S$1868.52
+[Cheaper to travel by Scoot]
+Total estimated expenditure in South Korea
+= S$ [2903 + (400x5) + 464] = S$5367
+Estimated total cost for the 5-day trip
+=S$ [100 + 345.02 + 111.755 + 1868.52 + 5367] x 1.1 [M1]
+= S$ (7792.295 x 1.1) =~ S$8328.995 = S$8329.00 (nearest cents) [A1]
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2
+
+
+===== P2-ANS PAGE 25 =====
+
+25
+Additional space for working
+(b)
+~~ End of Paper 2 ~~
+CHIJST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS/ FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 2

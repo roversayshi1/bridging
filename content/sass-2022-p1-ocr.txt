@@ -1,0 +1,660 @@
+
+
+===== P1 PAGE 1 =====
+
+: Index
+Class Number
+Paper | Lolmtons
+Candidate Name
+y
+ST ANDREW'S SECONDARY SCHOOL
+5 5 PRELIMINARY EXAMINATION 2022
+“19° SECONDARY 4 EXPRESS/ 5 NORMAL ACADEMIC
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL ST ANDREW'S SCHOOL
+Paper 1
+MONDAY 15 AUGUST 2022 2 hours
+Candidates answer on the Question Paper.
+READ THESE INSTRUCTIONS FIRST
+Write your name, class and index number in the spaces at the top of this page.
+Write in dark blue or black pen.
+You may use a pencil for any diagrams or graphs.
+Do not use staples, paper clips, glue or correction fluid.
+Answer all questions.
+If working is needed for any question it must be shown with the answer.
+Omission of essential working will result in loss of marks.
+The use of an approved scientific calculator is expected, where appropriate.
+If the degree of accuracy is not specified in the question, and if the answer is not exact, give the answer to
+three significant figures. Give answers in degrees to one decimal place.
+For m, use either your calculator value or 3.142, unless the question requires the answer in terms of =.
+The number of marks is given in brackets [ ] at the end of each question or part question.
+The total of the marks for this paper is 80.
+|
+|
+This question paper consists of 21 printed pages.
+MATHS7015DK
+© SAS 2022 [Turn over
+
+
+===== P1 PAGE 2 =====
+
+2 H
+Mathematical Formulae
+Compound interest
+Total amount = P| 1+——
+100
+Mensuration
+Curved surface area of a cone = 7r/
+| Surface area of a sphere = 4m?
+| Volume of a cone = wth
+4 3
+Volume of a sphere = 3™
+|
+Area of triangle ABC = JabsinC
+Arc length = r@ , where 6 is in radians
+Sector area = 50 , where 6 is in radians
+Trigonometry
+a DENCE
+sind sinB sinC
+a’ =b* +c? ~2bccos 4
+Statistics
+Mean = 2%
+pa
+sa? (si)
+Standard deviation = [2 — | Z%
+sr zr
+
+
+===== P1 PAGE 3 =====
+
+: 3
+1 Mrs Ram bought a washing machine for $390 during a sale.
+The shop was having a 35% discount on all appliances.
+Find the usual selling price of the washing machine before the sale.
+65% — $390
+100°, —_ 3% oo or 100
+— x3
+3 x5 Fo
+=¢ too
+0
+Answer $ E00 [2]
+|
+2
+| A B
+| md
+—/
+D c
+In the diagram, ABCD is a parallelogram.
+Given that angle BAE = 36°, angle ABE = 73° and angle EDC = 27°.
+Find the value of
+@ x
+x =180-3¢ -73
+= 7)
+TI
+P17 A RR s———— |
+(®) y.
+y= 27 +3¢(
+= 63
+Answer y= BX [1]
+[Turn over
+
+
+===== P1 PAGE 4 =====
+
+| 4 i
+3 (a) A light on a computer comes on for 26 700 microseconds.
+One microsecond is 10° seconds.
+Work out the length of time, in seconds, that the light is on in standard form.
+24700 microseconds
+-b
+= 20700 XID © seconds
+= -2
+2.67 xp geconds
+—-2
+Answer 2:61 X10 s[1]
+(b) Explain why </3 is irrational.
+{3 tannot be expressed as a Fecction . If]
+4 The length of a road is 385 m.
+Maria runs along this road at an average speed of 3.9 m/s.
+This speed is correct to 1 decimal place.
+Calculate the greatest possible time taken by Maria.
+3885 m
+© 3.85 ws
+= 100 seconds
+100
+BR ROR -3 1 |
+
+
+===== P1 PAGE 5 =====
+
+| 5
+5 The diagram shows a quadrant of a circle, centre O and radius 28 cm.
+M is the midpoint of OB and a semi-circle is drawn with MB as diameter.
+The other semicircle in the quadrant has diameter OA.
+Find the perimeter of the shaded region. 7
+Give your answer in the form a+bm.
+Are leagth AB =F am (28) +7 ()
+= 4n TH y
+Are 28 EEE
+lewgth 0A = L xom (14) 3 29) EAH
+= l41 a i Li
+(aly
+RRL IP. A
+= In [2 Iv MY B
+Pecimeter of shaded region
+= 40 + 4m +70 + 14
+=(14 + 357) ew 14 +357
+Answer sissies. om [2]
+6 (a) Solve the inequality 2(5-x) <3x<37-5x.
+25-2) £3 awd 3x <37-5x
+10 — 2% £ 3x 8x < 37 :
+<
+10 < Sx «+ < 45 37
+2 gx T
+RN s
+S22 ££ X<« t= 37
+&
+2 <Lox & ENSY'y
+22x <4 =
+Answer LoSxsTE [2]
+(b) Write down the largest integer x which satisfies the inequality
+2(5-x) <3x<37-5x.
+Answer sissies [1]
+[Turn over
+
+
+===== P1 PAGE 6 =====
+
+|
+7 (a) pis proportional to ¢*.
+It is known that p = 24 for a particular value of g.
+Find the value of p when this value of ¢ is halved.
+a
+3
+24 = <q
+R . 24
+Lk EA
+3
+new p = k(L)
+3
+= Kk 9
+3
+= 24 x3
+9 3
+= 3 Answer pall ay ow) [1]
+(b) yis inversely proportional to x*.
+y=4whenx=3.
+Find y when x = 10.
+_k hare Kis a constant
+Y = 1 B
+k
+4===
+~k=3%6
+_ 3b
+35
+- 3k
+EC
+[8]
+= 0.%b (or ) 1
+0.36
+
+
+===== P1 PAGE 7 =====
+
+| ’
+8 A map is drawn to a scale of 1 : 50 000.
+| (a) An airport runway is represented by a line of length 4.6 cm on the map.
+Calculate the actual length of the runway, giving your answer in kilometres.
+| : 50 000
+lem: 50 000 evr
+lem: 0.5 kw
+Lom © O05 X4(
+= 2.3 kw
+Answer Di km [1]
+(b) The actual area of the airport is 3.5 km?
+Calculate the area on the map which represents the airport, giving your answer in
+square centimetres.
+| ew t 0.5 km
+2
+2 ;
+(1 Guay. (os Ewa)
+5 = a
+l om” © 0.235 bm
+. 3.5
+«o LALA On vw = —_— »
+“r 0.25
++
+= l4om
+Answer A cm? [2]
+[Turn over
+
+
+===== P1 PAGE 8 =====
+
+8
+9 ‘Which one of the following could be the graph of
+y Pd y
+~ x + x ~< x
+Figure 1 Figure 2 Figure 3
+| 4 y y
+4 x ~ x <- x
+Figure 4 Figure 5 Figure 6
+@ y=27,
+Answer Figure eS [1
+3
+® y=,
+x
+Answer Figure he JT [1]
+(© x+y=1?
+Answer FIgUIe So [1]
+
+
+===== P1 PAGE 9 =====
+
+| |
+10 Express as a single fraction in its simplest form
+2x 5
+*-4 2-x
+B pr _ 5
+To (x=) (et) x —2
+- 2x - 5 (2+?)
+(3-2) (+2)
+= 2x -§&x —10
+(%-2) (+2)
+- —3x-I0
+(x2) (>)
+or 32110
+(2-3) (247)
+or — (3x t10) |
+(= -2)(xt7)
+— 3x -10
+or 3x 110 |
+(2-2) x42)
+[Turn over
+
+
+===== P1 PAGE 10 =====
+
+10
+| 11 (a) Express 60 as the product of its prime factors.
+2 | bo
+2130 N
+2X5
+3g Answer 60 = i DEAD rin [1]
+SLE
+(b) A school buys packs of pens and packs of rulers.
+There are 60 pens in each pack of pens.
+There are 42 rulers in each pack of rulers.
+The school wants to buy exactly the same number of pens and rulers.
+‘Work out the smallest number of each pack the school should buy.
+42= 0x3 x7T i] 420 rwlers
+60 pens 42. cwALrs
+Lem of 42 amd 60 = 7 packs =10 packs
+= 3*x3xs XT
+= 420 J
+ANSWEr .....oovuvenererennriennnnne.. Packs of pens
+10
+sabusisosbosseusiss packs of rulers [2]
+12 Inthe diagram, angle ABC = 90°, AB = 15 cm, Q
+AC =17 cm and PACQ is a straight line. o
+(a) Calculate the length of BC.
+By Pythagoras "Theorem, 17
+8C = [197 15 * 4
+_ FP 15 2
+= Jey
+=¢& Answer BCom BoE 1]
+(b) Write down, as a fraction, the value of
+© tnCiB, —C
+Answer tan CAB= oo S oo [1]
+(ii) sin PAB, _£
+Answer sin PAB= JL m
+(iii) cos QCB. -
+Answer cosQCB= LL [1]
+
+
+===== P1 PAGE 11 =====
+
+: 11 |
+13 Factorise completely
+(a) 3ab-6ac+4ed -2bd,
+= 3a (b- 2¢) + 2d(2c -b)
+= 2a (b-2¢)—2d (b-2¢)
+= (b-20) ( Ra-2d)
+oe Brf2eY(2a2d)
+(b) y—6xy+5x.
+y- 5x —-52Y
+y-* |=
+9 +5ut | — bay
+(y-52)(y-2) |
+5x — :
+[Turn over
+
+
+===== P1 PAGE 12 =====
+
+| 12
+14 (a) (i) Show that the point (~1, 0.5) lies on the line 2y =3x+4.
+Answer
+Sub x = =| )
+2y = 3(-) t4
+2y = |
+Se 9 = 0.5
+5 Ns \ +
+S(t, 0.5) lies on Fhe ling 29=3ats
+(ii) Find the coordinates of the y-intercept of the line 2y =3x+4.
+29 23x t 4
+> Y =|.Sxt2
+) “ictescept is (0,2)
+Answer ( TL 3 x )[1]
+(b) Ais the point (2, 4) and B is the point (m, n), where m and n are both positive integers
+less than 10.
+“The gradient of the line Bis 2. ©" ¢ 1M 9
+3 change nt
+Find the coordinates of one of the possible positions for B.
+(ose (ase
+® n-4 _ 2 Ge N44
+ma 3 mab
+n= oaths nos ate =d
+m= 3425 Mo= 612 =8
+8 is (5, ¢) Ris (88)
+4
+Qn” Ean Answer ComnZ, ” 6b. [2]
+Ln TOW : or ( 8, 8)
+
+
+===== P1 PAGE 13 =====
+
+| ° 13
+15 Container 4 and container B are geometrically similar.
+| The surface area of container 4 is = of the surface area of container B.
+(a) Container B has a diameter of 24 cm.
+Calculate the diameter of container 4.
+dn _ [9
+po [7
+do = 3
+Sy 4
+ty = 18 am
+l
+Answer I cm [2]
+(b) Each container has chocolates in it.
+Container A costs $10.80.
+Calculate the cost of container B.
+Ce _ Vs
+Cha Va
+Cost of B ~ 443
+$0.80  ~ ( 2
+; b4
+be tost of BR = 7 x °o%
+= $25.40
+25.60
+P21 XG FOO —n—— 1
+[Turn over
+
+
+===== P1 PAGE 14 =====
+
+14
+16 (a) vents 5 tnd
+so
+xk = xT
+L
+=x
+- 9
+k= = 9
+Answer k= | [11
+(b) Simplify, expressing your answer in positive index,
+27x32
+NT aE
+@ 5] P= ETT
+27] 3
+8
+= 2x
+9
+18
+i 5
+(ii) 7 / 3 E
+21. 3 |
+= B p=
+2
+“21 xp
+7 3
+2
+= 9p
+7
+q KS
+Pr
+Answer I F— 2]
+
+
+===== P1 PAGE 15 =====
+
+: 15
+|
+17 The stem-and-leaf diagram shows the distribution of the lengths of fish caught by a fisherman.
+The numbers x and y are non-negative digits.
+The mode and range of the data are 24 cm and 22 cm respectively.
+Stem | Leaf
+1 x 4 5 7 8
+2 0 1 2 y 4 4 5 8
+3 0 0 3
+Key: 20 means 20 cm.
+(a) Find the value of x and the value of y.
+ravge = max ~win woe = 24
+22 = 3% —min SP, SC
+Sian = LN
+|
+- ANSWEY X= cooererererenirensnssssesssnsene
+le =) i 4
+(b) Iftwo of the fishes caught are selected at random, find the probability that at least one
+of them is longer than or equal to 25 cm.
+fl. Ls Pp ( <25¢ , £25 0m)
+) i
+= \ 10 2x +) + ( 5 x =)
+= | - (4% x55) (+ I< Ar ig
+FR;
+24 3
+>
+Answer re  r— [2]
+18 (a) &= {x:xisa positive integer, x<12}
+X= {x:xisaprime number} x= 92,3, 5, 7, ng
+Y={x:x<6
+br x56) efi 2,3 45,67
+@) Find XAY.
+2: IS
+ANSWEr { cover evemeenn Leese } [1]
+(ii) A number, k, is chosen at random from &
+Find the probability that kg (XUY). ~~ X VY = § 1,2,3,4,5,6,7, ul
+. Lo P
+Give your answer as a fraction in the lowest terms. (x ¥) v) - $ 8,4, lo, nf
+4 _ 1
+12 3 [
+Answer en [1
+[Turn over
+
+
+===== P1 PAGE 16 =====
+
+16 .
+(b) (i) On the Venn diagram, shade the region which represents 4'U B.
+&
+%
+[77 /l n
+(i) Use set notation to describe the shaded region.
+&
+|
+nf
+P /
+PUR
+
+
+===== P1 PAGE 17 =====
+
+| 17
+| 19 The scale drawing in the answer space below shows the positions of three shops 4, B and C.
+A is due North of B.
+| (a) Find the bearing of C from B. ,
+ng
+ANSWEF ..ovvvveericieireeissesssinissssessessennes [1]
+(b) A new shop D is to be built equidistant from 4B and BC, and equidistant from B and C.
+By constructing bisectors, find and label the position of the new shop D. [2]
+(¢) Given that BC = 1600 m, calculate the actual distance from 4 to the new shop D.
+Answer 1340 m [1]
+(Accept 1320 un +o [360m
+N
+4
+b& tm
+Ar ——7D
+B /
+/ Fou
+/ (of
+A
+/
+fem t 1600 mm
+| twa! 200 wa
+AD bem = 6-8 x200
+= 1340 m
+[Turn over
+
+
+===== P1 PAGE 18 =====
+
+| B J
+| 20
+pre BY
+Bi p
+\ \D
+| i vy
+y i Jol
+3 »
+case" TTR
+The figure ABCDEF shows part of an n-sided regular polygon.
+It is given that Za + £b=90° and that each interior angle is x°.
+(a) Find the value of x.
+Total ictedor angle of BCDEF
+= (5-2) x 180°
+= 540°
+° °
+x= s40 —0
+=
+- ° S ( )
+= 180 Answer x= I A [2]
+(b) Hence, find the number of sides of the regular polygon. |
+260
+No. of soles n = 260.
+( 180°-150°)
+= SRL
+Answer n= i [1]
+(¢) Find the value of y.
+°
+. 180°- ISD
+J?
+= 15°
+Answer y= LI [1]
+
+
+===== P1 PAGE 19 =====
+
+: 19
+21 Khalid has savings of $15 000 which he would like to deposit in a bank for 5 years.
+
+He is deciding between the schemes offered by two banks.
+Bank A: Simple interest of 1.2% per annum.
+Bank B: Compound interest compounded monthly at 0.85% per annum.
+Which bank should he leave his money with? Explain briefly.
+Answer
+
+Bak A: [nterest = 15000 x12 x5
+
+I°0
+= $900
+085 £0
+Ramk B : Totod amount = ISDOO [1+ or
+100
+= §15451 00527
+Interest = 545100037 ~ 15000
+=4 651. cosy
+=& bs1 (35.4)
+Khalid showdol leane is money with Rank A ,
+6s he would eam weone interest g900 >$ 6s) ) .
+[5]
+[Turn over
+
+
+===== P1 PAGE 20 =====
+
+| 20 }
+|
+22 (a) Theexpression x’ —10x+17 can be written in the form (x—5)" +n.
+(i) Find the value of n.
+z «5
+LZ 10x AUT = (x-5) +17- (5)
+= (x=-9)*-¢
+Son=-8
+Answer n= afmae= et [1]
+¢ 5) Gili 0 FERRY hen x = 5, the expression x” ~10x+17 has its minimum value.
+
+x Huon
+
+. = Bi .
+
+Sia te fer) 7% Ag (2-5) is never negative, thou (2-5) >0.
+nn: (2-5ITIS My = N . _c
+(2-8 is awn. Doaloiox VT has its min. value whew x25)
+
+(b) The diagram shows the graph of y= (1-x)(x+4).
+The curve passes through the x-axis at point 4 and point B.
+y
+xX
+74 0 B\
+(i) Find the coordinates of 4 and of B.
+* —axs 2 Yy=0
+Ci-0(z+4>=0 —4 Io)
+Answer A (....cssssesissin yussssssssisiseses ) [1]
+Xz] or X=-% | Io)
+B (essisiisirinsisisipmmsens ) [1]
+(ii) Write down the equation of the line of symmetry of the graph y = (1-x)(x+4).
+© = 1+(-%)
+2
+- = x =-.5
+A= =L5 Answer sissies [1]
+
+
+===== P1 PAGE 21 =====
+
+h 21
+23
+A
+|
+I |
+|
+| or
+| ~~
+| F,
+A, Band C are points on a circle, centre O, with radius 5 cm.
+AC is a diameter of the circle and point D lies on AC.
+EF is a tangent to the circle at C.
+DE=10 cm.
+(a) Show that triangle ABC is congruent to triangle DCE.
+Give a geometrical reason for cach statement you make.
+wae» 0" ££ 4 seeivinde)
+0) ZDeE = 20cE=90° ( tomgeat pL cool ius)
+- = £»CE =90° ; lef Ln
+© LABEL “ E L or ody. 2s ona csi 1
+6S Ack = qo’ 380-5 (Ament L eeclive)
+] LAR = 4pEC = 52°
+must beseea(® $ pc = DE = 10 om Lgives) -
+5 anke = ance (AAS)
+(b) Calculate AD.
+- pC
+sin 53° = To
+°
+pC = 10 sin 52° = 71-8801
+“ab = (o — (10 sa 52°)
+= NPS
+= 2.11989 Answer AD = ao cm [3]
+= 2.12 ew (3s. )

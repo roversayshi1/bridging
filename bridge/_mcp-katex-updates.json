@@ -1,0 +1,147 @@
+{
+  "fnWorkflow": {
+    "projectId": "bcf230cd-e5b1-4fde-814b-0ddd71a314f0",
+    "id": "e7b8c9d0-4a1b-4c2d-9e3f-567890abcdef",
+    "scope": "function",
+    "name": "Render KaTeX Math",
+    "description": "Reusable KaTeX burst render for question prompts. Loads KaTeX from CDN when head scripts are missing (editor preview).",
+    "firstAction": "RENDER_MATH",
+    "parameters": [],
+    "actions": {
+      "RENDER_MATH": {
+        "id": "RENDER_MATH",
+        "type": "custom-js",
+        "name": "Burst render KaTeX",
+        "__wwdescription": "Load KaTeX if needed (editor preview) and typeset LaTeX in question text.",
+        "code": "// Workflow helper: burst-render KaTeX in question prompts only (uses head-script helpers).\r\n\r\nvar win = typeof wwLib !== 'undefined' && wwLib.getFrontWindow ? wwLib.getFrontWindow() : window;\r\n\r\nif (typeof win.bridgingRenderMathBurst === 'function') {\r\n  win.bridgingRenderMathBurst(4500, 300);\r\n  return true;\r\n}\r\n\r\nif (typeof win.bridgingRenderMath === 'function') {\r\n  win.bridgingRenderMath();\r\n  return true;\r\n}\r\n\r\nreturn false;\r\n",
+        "next": null
+      }
+    }
+  },
+  "topicsUpdate": {
+    "projectId": "bcf230cd-e5b1-4fde-814b-0ddd71a314f0",
+    "id": "f8c7ac62-5db4-4a3e-8913-91fc497f4e40",
+    "scope": "page",
+    "pageId": "74ea9589-7db5-49bc-a4a4-f3ec2b663b96",
+    "trigger": "onload",
+    "name": "Load Topics Data",
+    "description": "On Topics page load, wait for nested question repeaters then burst-render KaTeX (loads CDN in editor preview).",
+    "firstAction": "NOOP",
+    "actions": {
+      "NOOP": {
+        "id": "NOOP",
+        "type": "custom-js",
+        "name": "Use app-loaded data",
+        "__wwdescription": "Topics data already loaded by app-level Load Student Data.",
+        "code": "return null;",
+        "next": "WAIT_FOR_REPEATERS"
+      },
+      "WAIT_FOR_REPEATERS": {
+        "id": "WAIT_FOR_REPEATERS",
+        "type": "wait",
+        "name": "Wait for repeater data",
+        "__wwdescription": "Give nested topic question repeaters time to render before KaTeX runs.",
+        "value": 1000,
+        "next": "RENDER_MATH"
+      },
+      "RENDER_MATH": {
+        "id": "RENDER_MATH",
+        "type": "custom-js",
+        "name": "Render KaTeX in question prompts",
+        "__wwdescription": "Load KaTeX if needed (editor preview) and typeset LaTeX in question text.",
+        "code": "// Workflow helper: burst-render KaTeX in question prompts only (uses head-script helpers).\r\n\r\nvar win = typeof wwLib !== 'undefined' && wwLib.getFrontWindow ? wwLib.getFrontWindow() : window;\r\n\r\nif (typeof win.bridgingRenderMathBurst === 'function') {\r\n  win.bridgingRenderMathBurst(4500, 300);\r\n  return true;\r\n}\r\n\r\nif (typeof win.bridgingRenderMath === 'function') {\r\n  win.bridgingRenderMath();\r\n  return true;\r\n}\r\n\r\nreturn false;\r\n",
+        "next": null
+      }
+    }
+  },
+  "practiceUpdate": {
+    "projectId": "bcf230cd-e5b1-4fde-814b-0ddd71a314f0",
+    "id": "b6cf647a-ec28-4e70-94c0-d24c78ce64bc",
+    "scope": "page",
+    "pageId": "24b87e3d-6298-463b-9b2d-6dfdf5824a36",
+    "trigger": "onload",
+    "name": "Render Practice KaTeX",
+    "description": "On Practice page load, burst-render KaTeX for question prompt, model answer, and worked solution.",
+    "firstAction": "WAIT_FOR_UI",
+    "actions": {
+      "WAIT_FOR_UI": {
+        "id": "WAIT_FOR_UI",
+        "type": "wait",
+        "name": "Wait for question card",
+        "__wwdescription": "Give the practice question card time to render before KaTeX runs.",
+        "value": 800,
+        "next": "RENDER_MATH"
+      },
+      "RENDER_MATH": {
+        "id": "RENDER_MATH",
+        "type": "custom-js",
+        "name": "Render KaTeX in practice prompts",
+        "__wwdescription": "Typeset LaTeX in practice question, model answer, and solution fields.",
+        "code": "// Workflow helper: burst-render KaTeX in question prompts only (uses head-script helpers).\r\n\r\nvar win = typeof wwLib !== 'undefined' && wwLib.getFrontWindow ? wwLib.getFrontWindow() : window;\r\n\r\nif (typeof win.bridgingRenderMathBurst === 'function') {\r\n  win.bridgingRenderMathBurst(4500, 300);\r\n  return true;\r\n}\r\n\r\nif (typeof win.bridgingRenderMath === 'function') {\r\n  win.bridgingRenderMath();\r\n  return true;\r\n}\r\n\r\nreturn false;\r\n",
+        "next": null
+      }
+    }
+  },
+  "toggleUpdate": {
+    "projectId": "bcf230cd-e5b1-4fde-814b-0ddd71a314f0",
+    "id": "c8e4a2f1-7b9d-4e6a-a1c3-5d8f0b2e9a74",
+    "scope": "element",
+    "elementUid": "a0431f91-b948-47ff-b0c6-6f78dc3cc26c",
+    "pageId": "74ea9589-7db5-49bc-a4a4-f3ec2b663b96",
+    "trigger": "click",
+    "name": "Toggle Topic Questions Expand",
+    "description": "Toggle whether the current topic card shows all questions or only the first 3. After expanding, wait for new rows then render KaTeX.",
+    "firstAction": "TOGGLE_EXPAND",
+    "actions": {
+      "TOGGLE_EXPAND": {
+        "id": "TOGGLE_EXPAND",
+        "type": "update-variable",
+        "name": "Toggle expanded topic questions",
+        "__wwdescription": "Expand this topic's full question list, or collapse back to 3 if already expanded.",
+        "varId": "04094611-4a24-47c8-9ba4-22bac48e4091",
+        "varValue": {
+          "__wwtype": "js",
+          "code": "const topicId = String(context.item.data?.id || '');\nconst expandedId = String(variables['04094611-4a24-47c8-9ba4-22bac48e4091'] || '');\nif (expandedId === topicId) return '';\nreturn topicId;"
+        },
+        "next": "IF_EXPANDED"
+      },
+      "IF_EXPANDED": {
+        "id": "IF_EXPANDED",
+        "type": "if",
+        "name": "Did we expand?",
+        "__wwdescription": "Only re-render KaTeX when showing more questions, not when collapsing.",
+        "value": {
+          "__wwtype": "js",
+          "code": "return !!variables['04094611-4a24-47c8-9ba4-22bac48e4091'];"
+        },
+        "branches": [
+          {
+            "id": "WAIT_EXPAND",
+            "value": true
+          },
+          {
+            "id": null,
+            "value": false
+          }
+        ],
+        "next": null
+      },
+      "WAIT_EXPAND": {
+        "id": "WAIT_EXPAND",
+        "type": "wait",
+        "name": "Wait for expanded questions",
+        "__wwdescription": "Give the repeater time to render newly visible question rows.",
+        "value": 300,
+        "next": "RENDER_MATH"
+      },
+      "RENDER_MATH": {
+        "id": "RENDER_MATH",
+        "type": "custom-js",
+        "name": "Render KaTeX after expand",
+        "__wwdescription": "Typeset LaTeX in newly visible question prompts.",
+        "code": "// Workflow helper: burst-render KaTeX in question prompts only (uses head-script helpers).\r\n\r\nvar win = typeof wwLib !== 'undefined' && wwLib.getFrontWindow ? wwLib.getFrontWindow() : window;\r\n\r\nif (typeof win.bridgingRenderMathBurst === 'function') {\r\n  win.bridgingRenderMathBurst(4500, 300);\r\n  return true;\r\n}\r\n\r\nif (typeof win.bridgingRenderMath === 'function') {\r\n  win.bridgingRenderMath();\r\n  return true;\r\n}\r\n\r\nreturn false;\r\n",
+        "next": null
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+| 17
+| 19 The scale drawing in the answer space below shows the positions of three shops 4, B and C.
+A is due North of B.
+| (a) Find the bearing of C from B. ,
+ng
+ANSWEF ..ovvvveericieireeissesssinissssessessennes [1]
+(b) A new shop D is to be built equidistant from 4B and BC, and equidistant from B and C.
+By constructing bisectors, find and label the position of the new shop D. [2]
+(¢) Given that BC = 1600 m, calculate the actual distance from 4 to the new shop D.
+Answer 1340 m [1]
+(Accept 1320 un +o [360m
+N
+4
+b& tm
+Ar ——7D
+B /
+/ Fou
+/ (of
+A
+/
+fem t 1600 mm
+| twa! 200 wa
+AD bem = 6-8 x200
+= 1340 m
+[Turn over

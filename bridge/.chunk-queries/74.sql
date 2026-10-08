@@ -1,0 +1,1 @@
+TRUNCATE bridging._seed_b64;

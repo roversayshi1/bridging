@@ -1,0 +1,12 @@
+16
+19 In a sequence, the same number is subtracted each time to obtain the next term.
+The first five terms of the sequence are
+17 p qg r 7
+(a) Find the value of r.
+Answer... [1]
+(b) Find an expression, in terms of n, for the n™ term of the sequence.
+Answer... [1]
+(¢) Explain why —345 is not a term of this sequence.
+CHIJ ST. THERESA’S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL(ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

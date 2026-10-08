@@ -1,0 +1,237 @@
+:root {
+  --bg: #0b1220;
+  --surface: #121a2b;
+  --surface-2: #1a2438;
+  --text: #e8eef7;
+  --muted: #94a3b8;
+  --accent: #7dd3fc;
+  --accent-2: #a78bfa;
+  --border: rgba(148, 163, 184, 0.2);
+  --danger: #f87171;
+  --success: #4ade80;
+  --font: 'DM Sans', system-ui, sans-serif;
+  --font-display: 'Instrument Serif', Georgia, serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font);
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  min-height: 100vh;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+.main {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+.loading-screen {
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  color: var(--muted);
+}
+
+h1,
+h2 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  line-height: 1.15;
+}
+
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem;
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.65rem 1.25rem;
+  border-radius: 8px;
+  border: none;
+  background: var(--accent);
+  color: #0b1220;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 1rem;
+}
+.btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+.btn-ghost {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text);
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-bottom: 1rem;
+}
+.field label {
+  font-size: 0.85rem;
+  color: var(--muted);
+}
+.field input,
+.field textarea,
+.field select {
+  padding: 0.65rem 0.75rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.error {
+  color: var(--danger);
+  font-size: 0.9rem;
+}
+.success {
+  color: var(--success);
+  font-size: 0.9rem;
+}
+
+.grid-topics {
+  display: grid;
+  gap: 0.75rem;
+}
+.topic-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.85rem 1rem;
+  background: var(--surface-2);
+  border-radius: 8px;
+  text-decoration: none;
+  color: inherit;
+  border: 1px solid transparent;
+  transition: border-color 0.15s;
+}
+.topic-row:hover {
+  border-color: var(--accent);
+}
+
+.hero {
+  padding: 3rem 0 2rem;
+  text-align: center;
+}
+.hero h1 {
+  font-size: clamp(2.2rem, 5vw, 3.5rem);
+  margin: 0 0 1rem;
+  background: linear-gradient(120deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.hero p {
+  color: var(--muted);
+  max-width: 36rem;
+  margin: 0 auto 1.5rem;
+}
+
+.note-toggle {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  cursor: pointer;
+  padding: 0;
+  text-align: left;
+}
+.note-body {
+  margin-top: 1rem;
+  border-top: 1px solid var(--border);
+  padding-top: 1rem;
+}
+.note-body pre {
+  white-space: pre-wrap;
+  font-size: 0.85rem;
+  color: var(--muted);
+  background: var(--bg);
+  padding: 0.75rem;
+  border-radius: 8px;
+  overflow-x: auto;
+}
+.note-summary {
+  line-height: 1.6;
+}
+
+.pill {
+  display: inline-block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  background: var(--surface-2);
+  color: var(--muted);
+  margin-bottom: 0.75rem;
+}
+.prompt {
+  font-size: 1.05rem;
+  line-height: 1.55;
+  white-space: pre-wrap;
+}
+.mark-result {
+  margin-top: 1.25rem;
+  padding: 1rem;
+  border-radius: 8px;
+}
+.mark-result.ok {
+  background: rgba(74, 222, 128, 0.12);
+  border: 1px solid rgba(74, 222, 128, 0.35);
+}
+.mark-result.bad {
+  background: rgba(248, 113, 113, 0.12);
+  border: 1px solid rgba(248, 113, 113, 0.35);
+}
+.linkish {
+  background: none;
+  border: none;
+  color: var(--accent);
+  cursor: pointer;
+  font: inherit;
+  text-decoration: underline;
+  padding: 0;
+}
+
+.admin-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+.admin-table th,
+.admin-table td {
+  text-align: left;
+  padding: 0.6rem 0.75rem;
+  border-bottom: 1px solid var(--border);
+}
+.admin-table th {
+  color: var(--muted);
+  font-weight: 500;
+}

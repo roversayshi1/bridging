@@ -1,0 +1,22 @@
+12
+14  Thegraph of y=(x+a)(2-x), wherea isa constant, cuts the x-axis at P and Q
+and it cuts the y-axis at R(0,14). y
+R(0,14)
+X
+P [0] Q
+(a) Findthevalueof a.
+When x=0, y=14, we have,
+14=(0+a)(2-0)
+14=2a
+na=7 [B1]
+Answer a= .......cooeeeiiiiiiniieenn [1]
+(b) State the equation of the line of symmetry for y=(x+a)(2-x).
+P(-7,0) and Q(2,0)
+.~. equation of the line of symmetry isx- "2
+x=-2 [B1— Accept aso
+x=-25 or sm]
+2
+Answer iii [1]
+CHIJST. THERESA'S CONVENT
+SECONDARY FOUR EXPRESS / FIVE NORMAL (ACADEMIC)
+2022 PRELIMINARY EXAMINATION MATHEMATICS PAPER 1

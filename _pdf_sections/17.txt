@@ -1,0 +1,102 @@
+Title Application of Quadratic Equations
+Author AprilDolphin – Lim Wang Sheng
+Date 11/2/2026
+Typical steps for solving problems that involves uses of quadratic equations
+Step 1 Form expressions according to question
+Step 2 Form equation as derived from expressions in step 1 according to question
+Step 3 Reduce the equation to quadratic form as specified by question
+Step 4 Find the solution to the quadratic equation as derived from step 3
+Step 5 Reject solutions that are not applicable in context of the question (Negative
+Distance Values, Negative Speed Value, Division by Zero and etc.)
+Step 6 Answering any remaining questions
+Note: Questions in exam condition may sometimes require you to reorder the steps and
+think with flexibility, do not feel surprised if the question need you to
+• Omit some steps mentioned above
+• Repeat certain steps mentioned above
+• Add in steps that may seem unrelated to the six steps I mentioned
+Example 1 (Taken from Year 2018 GCE ‘O’ Level Examination Paper)
+An empty water tank has a capacity of 3500 litres.
+Pump A can fill the tank at a rate of 𝑥 litres per minute.
+Pump B can fill the tank at a rate of (𝑥 − 10) litres per minute.
+a) Write down an expression for the number of minutes it takes to fill the tank using
+pump A.
+b) Write down an expression for the number of minutes it takes to fill the tank using
+pump B.
+c) It takes 21 minutes longer to fill the tank using pump B than it does using pump
+A, write down an equation to represent this information and shows that it
+reduces to 3𝑥2 − 30𝑥 − 5000 = 0
+d) Solve the equation 3𝑥2 − 30𝑥 − 5000 = 0, giving your solutions correct to 2
+decimal places.
+e) Calculate how long it would take to fill the tank from empty using pump A and
+pump B together. Give your answers in minute and seconds, corrected to the
+nearest 10 seconds
+
+-- 100 of 145 --
+
+Q1a) Since Volume
+Rate = Time, we can create an expression for question 1(a) by dividing
+the total capacity by the pump rate of pump A to get 3500
+𝑥 minutes
+Q1b) Using the same logic above, we can create an expression for question 1(b) by
+dividing the total capacity by the pump rate of pump B to get 3500
+𝑥−10 minutes
+Q1c) The question mentioned it takes 21 minutes longer to fill the tank for pump B
+compared to pump A. We can form an equation as follows.
+3500
+𝑥 − 10 − 3500
+𝑥 = 21
+The left-hand side of the equation will need some minor manipulation to
+ensure the denominator is the lowest common multiple of both expression,
+which give us the following:
+3500(𝑥)
+(𝑥 − 10)𝑥 − 3500(𝑥 − 10)
+𝑥(𝑥 − 10) = 21
+3500𝑥 − 3500𝑥 + 35000
+𝑥2 − 10𝑥 = 21
+35000
+𝑥2 − 10𝑥 = 21
+35000 = 21(𝑥2 − 10𝑥)
+35000 = 21𝑥2 − 210𝑥
+Bringing the value of 35000 from left-hand-side to right-hand side and we get
+0 = 21𝑥2 − 210𝑥 − 35000
+Which can also be rewritten as 21𝑥2 − 210𝑥 − 35000 = 0
+Dividing the whole equation by 7 on both sides would later reduce the
+equation into: 3𝑥2 − 30𝑥 − 5000 = 0
+*Be extremely careful when dealing with negative signs.
+Q1d) Using quadratic formula, 𝑥 = −𝑏±√𝑏2−4𝑎𝑐
+2𝑎
+𝑥 = −(−30) ± √(−30)2 − 4(3)(−5000)
+2(3)
+
+-- 101 of 145 --
+
+𝑥 = 46.1298756 or 𝑥 = −36.1298756
+𝑥 = 46.13 or 𝑥 = −36.13 (Rejected, as the Water Flow Rate cannot take on
+negative values)
+Q1e) 3500
+𝑥 + 𝑥 − 10
+= 3500
+46.1298756 + 46.1298756 − 10
+= 42.54814717 minutes = 42 minutes and 30 seconds (Round off to nearest
+10 seconds)
+Extension: (Calculator Guide for Converting Time in Number of Minutes in
+Decimal Representation to Hours, Minutes and Seconds on Casio FX-97SGX
+Calculator)
+After obtaining the number of minutes as 42.54814717 minutes, we follow the
+following steps as follows
+Step 1. Divide the time in number of minutes by 60
+Step 2. Press the [° ′ "] button to get the timing in hours, minutes and seconds,
+which in this case we get 0 hours 42 minutes, 32.89 Seconds as represented on
+calculator as 0° 42′ 32.89′′
+Notes and Additional Tip: The above calculator instruction guides on converting number
+of minutes in decimal to hours, minutes and seconds. If you are being given a different
+unit of measurement, i.e. number of seconds as another example and you have to
+convert to hours, minutes and seconds format, follow the following steps instead:
+1. Divide the number of seconds in decimal, by 3600 on your calculator.
+2. Press the [° ′ "] button to get the timing in hours, minutes and seconds.
+For example, let’s say we are given a value of 1374 seconds and we want to know the
+value in hours, minutes and seconds, we simply divide the value 1374 by 3600 and
+press the [° ′ "] button to get 0 hours, 22 minutes and 54 seconds as represented on
+calculator as 0° 22′ 54"
+
+-- 102 of 145 --
